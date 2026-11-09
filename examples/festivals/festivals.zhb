@@ -1,0 +1,197 @@
+# Test text for zhbook: an original short article on three Chinese festivals.
+# Written by Claude (Anthropic). Target: mostly HSK 3.0 level 4 or below,
+# with festival vocabulary marked J (jargon), names N, set phrases I.
+
+@meta {"title_zh": "中国的三个传统节日", "subtitle_zh": "春节·端午节·中秋节", "title_en": "Three Traditional Chinese Festivals", "subtitle_en": "Spring Festival · Dragon Boat Festival · Mid-Autumn Festival", "author": "Text and translation by Claude (Anthropic) — a test text for zhbook"}
+
+@p intro
+中国|Zhōngguó 有|yǒu 很多|hěnduō 传统|chuántǒng 节日|jiérì 。
+> China has many traditional festivals.
+在|zài 这些|zhèxiē 节日|jiérì 里|lǐ ， 人们|rénmen 会|huì 和|hé 家人|jiārén 在|zài 一起|yīqǐ ， 吃|chī 特别|tèbié 的|de 食物|shíwù ， 做|zuò 有意思|yǒuyìsi 的|de 事情|shìqing 。
+> During these festivals, people spend time with their families, eat special food and do interesting things.
+其中|qízhōng ， 春节|Chūnjié|Spring_Festival|J 、 端午节|Duānwǔjié|Dragon_Boat_Festival|J 和|hé 中秋节|Zhōngqiūjié|Mid-Autumn_Festival|J 是|shì 最|zuì 重要|zhòngyào 的|de 三|sān 个|gè 节日|jiérì 。
+> Among them, the Spring Festival, the Dragon Boat Festival and the Mid-Autumn Festival are the three most important.
+它们|tāmen 的|de 日期|rìqī 都|dōu 按照|ànzhào 农历|nónglì|lunar_calendar|J 来|lái 计算|jìsuàn ， 所以|suǒyǐ 每年|měinián 在|zài 公历|gōnglì|Gregorian_calendar|J 上|shàng 的|de 日子|rìzi 都|dōu 不|bù 一样|yīyàng 。
+> Their dates are all reckoned by the lunar calendar, so each year they fall on a different day of the Western calendar.
+下面|xiàmiàn 我们|wǒmen 就|jiù 来|lái 简单|jiǎndān 介绍|jièshào 一下|yīxià 这|zhè 三|sān 个|gè 节日|jiérì 。
+> Below we give a short introduction to these three festivals.
+
+@h2 h-chunjie
+春节|Chūnjié
+> The Spring Festival
+
+@p chunjie-1
+春节|Chūnjié 就|jiù 是|shì 中国|Zhōngguó 的|de 新年|xīnnián ， 是|shì 一|yī 年|nián 中|zhōng 最|zuì 重要|zhòngyào 的|de 节日|jiérì 。
+> The Spring Festival is the Chinese New Year, the most important festival of the year.
+春节|Chūnjié 在|zài 农历|nónglì 正月|zhēngyuè|first_lunar_month|J 初一|chūyī|first_day_of_a_lunar_month|J ， 一般|yībān 在|zài 公历|gōnglì 一月|yīyuè 底|dǐ|end_(of_a_month) 或者|huòzhě 二月|èryuè 。
+> It falls on the first day of the first lunar month, usually at the end of January or in February.
+春节|Chūnjié 以前|yǐqián ， 很多|hěnduō 在|zài 外地|wàidì|another_part_of_the_country 工作|gōngzuò 的|de 人|rén 都|dōu 要|yào 回|huí 老家|lǎojiā|hometown 跟|gēn 父母|fùmǔ 一起|yīqǐ 过年|guònián|to_celebrate_the_New_Year|J 。
+> Before the festival, many people who work far from home go back to their hometowns to celebrate the New Year with their parents.
+每年|měinián 这个|zhège 时候|shíhou ， 火车站|huǒchēzhàn 和|hé 机场|jīchǎng 里|lǐ 到处|dàochù 都|dōu 是|shì 人|rén ， 这种|zhèzhǒng 现象|xiànxiàng|phenomenon 叫做|jiàozuò “ 春运|chūnyùn|Spring_Festival_travel_rush|J ” 。
+> At this time every year, train stations and airports are packed with people; this is called “chunyun”, the Spring Festival travel rush.
+
+@p chunjie-2
+过年|guònián 以前|yǐqián ， 人们|rénmen 要|yào 打扫|dǎsǎo 房子|fángzi ， 因为|yīnwèi 大家|dàjiā 相信|xiāngxìn ， 这样|zhèyàng 可以|kěyǐ 把|bǎ 旧|jiù 的|de 一|yī 年|nián 里|lǐ 不|bù 好|hǎo 的|de 东西|dōngxi 都|dōu 扫|sǎo|to_sweep 出去|chūqù 。
+> Before the New Year, people clean their homes, because they believe this sweeps out everything bad from the old year.
+然后|ránhòu ， 人们|rénmen 在|zài 门|mén 上|shàng 贴|tiē|to_stick,_to_paste 春联|chūnlián|Spring_Festival_couplets|J 和|hé “ 福|fú|good_fortune ” 字|zì 。
+> Then they paste Spring Festival couplets and the character 福 (“good fortune”) on their doors.
+有的|yǒude 人|rén 会|huì 把|bǎ “ 福|fú ” 字|zì 倒|dào|upside_down 着|zhe 贴|tiē ， 因为|yīnwèi “ 倒|dào ” 和|hé “ 到|dào ” 的|de 发音|fāyīn|pronunciation 一样|yīyàng ， “ 福|fú 倒|dào 了|le ” 听起来|tīngqǐlai|to_sound_like 就|jiù 像|xiàng “ 福|fú 到|dào 了|le ” 。
+> Some people hang the 福 upside down, because 倒 (“upside down”) sounds just like 到 (“to arrive”): “the fortune is upside down” sounds like “good fortune has arrived”.
+
+@p chunjie-3
+除夕|chúxī|New_Year's_Eve|J 是|shì 春节|Chūnjié 前|qián 的|de 最后|zuìhòu 一|yī 个|gè 晚上|wǎnshang 。
+> Chuxi, New Year's Eve, is the last evening before the Spring Festival.
+这|zhè 天|tiān 晚上|wǎnshang ， 全家|quánjiā|the_whole_family 人|rén 坐|zuò 在|zài 一起|yīqǐ 吃|chī 年夜饭|niányèfàn|New_Year's_Eve_dinner|J 。
+> That night the whole family sits down together for the New Year's Eve dinner.
+在|zài 中国|Zhōngguó 北方|běifāng ， 很多|hěnduō 家庭|jiātíng 会|huì 一起|yīqǐ 包|bāo|to_wrap 饺子|jiǎozi|dumplings ； 在|zài 南方|nánfāng ， 人们|rénmen 更|gèng 喜欢|xǐhuan 吃|chī 年糕|niángāo|New_Year_rice_cake|J ， 因为|yīnwèi “ 年糕|niángāo ” 听起来|tīngqǐlai 像|xiàng “ 年|nián 高|gāo ” ， 意思|yìsi 是|shì 生活|shēnghuó 一|yī 年|nián 比|bǐ 一|yī 年|nián 好|hǎo 。
+> In the north of China many families make dumplings together; in the south people prefer niangao, New Year rice cake, because niangao sounds like “higher every year”, meaning that life gets better year after year.
+吃|chī 完|wán 饭|fàn 以后|yǐhòu ， 很多|hěnduō 人|rén 会|huì 看|kàn 电视|diànshì 上|shàng 的|de 春节联欢晚会|Chūnjié_Liánhuān_Wǎnhuì|Spring_Festival_Gala_(on_TV)|J ， 一直|yīzhí 等到|děngdào 十二|shí'èr 点|diǎn 。
+> After dinner many people watch the Spring Festival Gala on television and stay up until midnight.
+
+@p chunjie-4
+新年|xīnnián 的|de 第一|dìyī 天|tiān ， 孩子们|háizimen 最|zuì 高兴|gāoxìng ， 因为|yīnwèi 他们|tāmen 可以|kěyǐ 从|cóng 长辈|zhǎngbèi|elders 那里|nàli 收到|shōudào 红包|hóngbāo|red_envelope_(of_money)|J 。
+> On the first day of the new year the children are the happiest of all, because they receive red envelopes from their elders.
+红包|hóngbāo 里面|lǐmiàn 装|zhuāng 着|zhe 压岁钱|yāsuìqián|New_Year_money_for_children|J ， 红色|hóngsè 在|zài 中国|Zhōngguó 文化|wénhuà 里|lǐ 代表|dàibiǎo 好运|hǎoyùn|good_luck 。
+> Inside the envelopes is “lucky money”, and in Chinese culture red stands for good luck.
+现在|xiànzài ， 很多|hěnduō 人|rén 也|yě 会|huì 在|zài 手机|shǒujī 上|shàng 发|fā 红包|hóngbāo 。
+> Nowadays many people also send red envelopes on their phones.
+春节|Chūnjié 期间|qījiān ， 人们|rénmen 还|hái 会|huì 去|qù 亲戚|qīnqi|relatives 朋友|péngyou 家|jiā 拜年|bàinián|to_pay_a_New_Year_visit|J ， 见面|jiànmiàn 的|de 时候|shíhou 常常|chángcháng 说|shuō “ 新年|xīnnián 快乐|kuàilè ” 或者|huòzhě “ 恭喜发财|gōngxǐ_fācái|“May_you_prosper!”|I ” 。
+> During the festival people also visit relatives and friends to wish them a happy New Year, greeting them with “Happy New Year!” or “May you prosper!”
+
+@p chunjie-5
+关于|guānyú 春节|Chūnjié ， 有|yǒu 一|yī 个|gè 很|hěn 有名|yǒumíng 的|de 传说|chuánshuō|legend 。
+> There is a famous legend about the Spring Festival.
+很|hěn 久|jiǔ 以前|yǐqián ， 有|yǒu 一|yī 个|gè 叫|jiào “ 年|Nián|Nian,_a_monster_of_legend|N ” 的|de 怪兽|guàishòu|monster ， 每|měi 到|dào 冬天|dōngtiān 的|de 最后|zuìhòu 一|yī 个|gè 晚上|wǎnshang 就|jiù 出来|chūlai 伤害|shānghài 人|rén 。
+> Long ago there was a monster called Nian that came out to attack people on the last night of every winter.
+后来|hòulái 人们|rénmen 发现|fāxiàn ， 年|Nián 怕|pà 红色|hóngsè ， 也|yě 怕|pà 很|hěn 大|dà 的|de 声音|shēngyīn 。
+> Later people discovered that Nian was afraid of the colour red and of loud noises.
+所以|suǒyǐ ， 人们|rénmen 就|jiù 在|zài 门|mén 上|shàng 贴|tiē 红|hóng 纸|zhǐ ， 晚上|wǎnshang 放|fàng 鞭炮|biānpào|firecrackers|J 。
+> So people pasted red paper on their doors and set off firecrackers at night.
+这|zhè 就|jiù 是|shì 过年|guònián 习惯|xíguàn 的|de 来源|láiyuán|origin 之一|zhīyī|one_of 。
+> This is one of the origins of the New Year customs.
+春节|Chūnjié 一直|yīzhí 到|dào 正月|zhēngyuè 十五|shíwǔ 的|de 元宵节|Yuánxiāojié|Lantern_Festival|J 才|cái 结束|jiéshù 。
+> The festival season lasts until the Lantern Festival on the fifteenth day of the first month.
+那|nà 天|tiān 晚上|wǎnshang ， 人们|rénmen 吃|chī 汤圆|tāngyuán|sweet_rice_dumplings|J 、 看|kàn 花灯|huādēng|festive_lanterns|J ， 热热闹闹|rèrènàonào|lively,_bustling 地|de 结束|jiéshù 新年|xīnnián 。
+> That evening people eat tangyuan, sweet rice dumplings, and go to see the lanterns, ending the New Year in lively style.
+
+@h2 h-duanwu
+端午节|Duānwǔjié
+> The Dragon Boat Festival
+
+@p duanwu-1
+端午节|Duānwǔjié 在|zài 农历|nónglì 五月|wǔyuè 初五|chūwǔ|fifth_day_of_a_lunar_month|J ， 一般|yībān 在|zài 公历|gōnglì 六月|liùyuè 。
+> The Dragon Boat Festival falls on the fifth day of the fifth lunar month, usually in June.
+这个|zhège 节日|jiérì 已经|yǐjīng 有|yǒu 两千|liǎngqiān 多|duō 年|nián 的|de 历史|lìshǐ 了|le 。
+> The festival has a history of more than two thousand years.
+关于|guānyú 端午节|Duānwǔjié 的|de 来源|láiyuán ， 最|zuì 有名|yǒumíng 的|de 说法|shuōfǎ|version,_account 和|hé 古代|gǔdài 诗人|shīrén|poet 屈原|Qū_Yuán|Qu_Yuan_(c._340–278_BC),_poet_and_minister_of_Chu|N 有关|yǒuguān|to_be_related_to 。
+> The best-known account of its origin is connected with the ancient poet Qu Yuan.
+
+@p duanwu-2
+屈原|Qū_Yuán 生活|shēnghuó 在|zài 两千|liǎngqiān 多|duō 年|nián 前|qián 的|de 楚国|Chǔguó|the_State_of_Chu|N 。
+> Qu Yuan lived more than two thousand years ago in the State of Chu.
+他|tā 很|hěn 爱|ài 自己|zìjǐ 的|de 国家|guójiā ， 也|yě 给|gěi 国王|guówáng|king 提|tí 了|le 很多|hěnduō 好|hǎo 的|de 建议|jiànyì ， 可是|kěshì 国王|guówáng 不|bù 相信|xiāngxìn 他|tā ， 还|hái 让|ràng 他|tā 离开|líkāi 了|le 首都|shǒudū|capital 。
+> He loved his country and gave the king a great deal of good advice, but the king did not trust him and even sent him away from the capital.
+后来|hòulái ， 楚国|Chǔguó 被|bèi 别的|biéde 国家|guójiā 打败|dǎbài|to_defeat 了|le 。
+> Later, Chu was defeated by another state.
+屈原|Qū_Yuán 非常|fēicháng 难过|nánguò ， 就|jiù 在|zài 五月|wǔyuè 初五|chūwǔ 这|zhè 一|yī 天|tiān 跳|tiào 进|jìn 了|le 汨罗江|Mìluó_Jiāng|Miluo_River_(in_Hunan)|N 。
+> Heartbroken, Qu Yuan threw himself into the Miluo River on the fifth day of the fifth month.
+
+@p duanwu-3
+当地|dāngdì|local 的|de 人们|rénmen 很|hěn 尊敬|zūnjìng|to_respect 屈原|Qū_Yuán ， 听到|tīngdào 这个|zhège 消息|xiāoxi 以后|yǐhòu ， 马上|mǎshàng 划|huá|to_row,_to_paddle 着|zhe 船|chuán|boat 去|qù 江|jiāng|river 上|shàng 找|zhǎo 他|tā 。
+> The local people deeply respected Qu Yuan. When they heard the news, they immediately rowed out onto the river to look for him.
+为了|wèile 不|bù 让|ràng 鱼|yú 吃|chī 屈原|Qū_Yuán 的|de 身体|shēntǐ ， 人们|rénmen 把|bǎ 米饭|mǐfàn 扔|rēng|to_throw 进|jìn 江|jiāng 里|lǐ 给|gěi 鱼|yú 吃|chī 。
+> To stop the fish from eating Qu Yuan's body, they threw rice into the river for the fish to eat instead.
+后来|hòulái ， 划|huá 船|chuán 慢慢|mànmàn 变成|biànchéng 了|le 赛龙舟|sài_lóngzhōu|dragon_boat_racing|J ， 把|bǎ 米饭|mǐfàn 扔|rēng 进|jìn 江|jiāng 里|lǐ 也|yě 变成|biànchéng 了|le 吃|chī 粽子|zòngzi|zongzi,_sticky_rice_wrapped_in_leaves|J 的|de 习惯|xíguàn 。
+> Over time the rowing turned into dragon boat racing, and throwing rice into the river became the custom of eating zongzi.
+
+@p duanwu-4
+今天|jīntiān ， 赛龙舟|sài_lóngzhōu 是|shì 端午节|Duānwǔjié 最|zuì 热闹|rènao|lively 的|de 活动|huódòng 。
+> Today, dragon boat racing is the liveliest event of the festival.
+一|yī 条|tiáo 龙舟|lóngzhōu|dragon_boat|J 上|shàng 有|yǒu 十几|shíjǐ 个|gè 或者|huòzhě 二十几|èrshíjǐ 个|gè 人|rén ， 船头|chuántóu|bow_(of_a_boat) 还|hái 有|yǒu 一|yī 个|gè 人|rén 打|dǎ 鼓|gǔ|drum 。
+> A dragon boat carries a crew of a dozen or twenty-odd people, with a drummer sitting at the bow.
+大家|dàjiā 跟|gēn 着|zhe 鼓声|gǔshēng|drumbeat 一起|yīqǐ 努力|nǔlì 划|huá ， 看|kàn 哪|nǎ 条|tiáo 船|chuán 最|zuì 快|kuài 。
+> Everyone paddles hard together to the beat of the drum, to see which boat is the fastest.
+现在|xiànzài ， 赛龙舟|sài_lóngzhōu 不只|bùzhǐ|not_only 在|zài 中国|Zhōngguó 有|yǒu ， 在|zài 世界|shìjiè 上|shàng 很多|hěnduō 国家|guójiā 也|yě 能|néng 看到|kàndào 。
+> Nowadays dragon boat races are held not only in China but in many countries around the world.
+
+@p duanwu-5
+粽子|zòngzi 是|shì 用|yòng 竹叶|zhúyè|bamboo_leaves 把|bǎ 糯米|nuòmǐ|glutinous_rice|J 包|bāo 起来|qǐlai ， 然后|ránhòu 煮|zhǔ|to_boil 熟|shú|cooked 的|de 。
+> Zongzi are made by wrapping glutinous rice in bamboo leaves and then boiling it until cooked.
+北方|běifāng 人|rén 常常|chángcháng 吃|chī 甜|tián 的|de 粽子|zòngzi ， 里面|lǐmiàn 放|fàng 红枣|hóngzǎo|red_dates,_jujubes 或者|huòzhě 豆沙|dòushā|sweet_bean_paste ； 南方|nánfāng 人|rén 更|gèng 喜欢|xǐhuan 咸|xián|salty 的|de 粽子|zòngzi ， 里面|lǐmiàn 有|yǒu 肉|ròu 或者|huòzhě 咸蛋黄|xiándànhuáng|salted_egg_yolk|J 。
+> Northerners usually eat sweet zongzi filled with red dates or bean paste; southerners prefer savoury ones with meat or salted egg yolk.
+每年|měinián 端午节|Duānwǔjié ， 网上|wǎngshàng 都|dōu 会|huì 讨论|tǎolùn 哪|nǎ 一|yī 种|zhǒng 粽子|zòngzi 更|gèng 好吃|hǎochī ， 大家|dàjiā 的|de 意见|yìjiàn 总是|zǒngshì 不|bù 一样|yīyàng 。
+> Every year at the festival people argue online about which kind tastes better, and they never agree.
+另外|lìngwài ， 有些|yǒuxiē 地方|dìfang 的|de 人|rén 还|hái 会|huì 在|zài 门|mén 上|shàng 挂|guà 艾草|àicǎo|mugwort|J ， 人们|rénmen 认为|rènwéi 这样|zhèyàng 可以|kěyǐ 保护|bǎohù 家人|jiārén 的|de 健康|jiànkāng 。
+> In some places people also hang mugwort on their doors, believing that it protects the family's health.
+
+@h2 h-zhongqiu
+中秋节|Zhōngqiūjié
+> The Mid-Autumn Festival
+
+@p zhongqiu-1
+中秋节|Zhōngqiūjié 在|zài 农历|nónglì 八月|bāyuè 十五|shíwǔ ， 一般|yībān 在|zài 公历|gōnglì 九月|jiǔyuè 或者|huòzhě 十月|shíyuè 。
+> The Mid-Autumn Festival falls on the fifteenth day of the eighth lunar month, usually in September or October.
+这|zhè 一|yī 天|tiān 正好|zhènghǎo 是|shì 秋天|qiūtiān 的|de 中间|zhōngjiān ， 所以|suǒyǐ 叫|jiào “ 中秋|zhōngqiū|mid-autumn|J ” 。
+> The day falls right in the middle of autumn, hence the name “Mid-Autumn”.
+中国|Zhōngguó 人|rén 认为|rènwéi ， 中秋节|Zhōngqiūjié 晚上|wǎnshang 的|de 月亮|yuèliang 是|shì 一|yī 年|nián 中|zhōng 最|zuì 圆|yuán|round 、 最|zuì 亮|liàng 的|de 。
+> Chinese people believe that the moon on the night of the festival is the roundest and brightest of the year.
+圆圆|yuányuán|round 的|de 月亮|yuèliang 代表|dàibiǎo 团圆|tuányuán|family_reunion|J ， 所以|suǒyǐ 中秋节|Zhōngqiūjié 也|yě 是|shì 一|yī 个|gè 家人|jiārén 团聚|tuánjù|to_gather,_to_reunite 的|de 节日|jiérì 。
+> The full, round moon stands for reunion, so the Mid-Autumn Festival is also a time for families to come together.
+
+@p zhongqiu-2
+中秋节|Zhōngqiūjié 最|zuì 有名|yǒumíng 的|de 传说|chuánshuō 是|shì 嫦娥奔月|Cháng'é_bēn_yuè|“Chang'e_Flies_to_the_Moon”|I 的|de 故事|gùshi 。
+> The festival's most famous legend is the story of Chang'e flying to the moon.
+很|hěn 久|jiǔ 很|hěn 久|jiǔ 以前|yǐqián ， 天|tiān 上|shàng 有|yǒu 十|shí 个|gè 太阳|tàiyáng ， 地|dì 上|shàng 非常|fēicháng 热|rè ， 植物|zhíwù|plants 都|dōu 死|sǐ 了|le ， 人们|rénmen 的|de 生活|shēnghuó 很|hěn 困难|kùnnan 。
+> Long, long ago there were ten suns in the sky. The earth was scorching, the plants all died, and life was very hard.
+一|yī 个|gè 叫|jiào 后羿|Hòu_Yì|Hou_Yi,_legendary_archer|N 的|de 英雄|yīngxióng|hero 用|yòng 弓箭|gōngjiàn|bow_and_arrow|J 射|shè|to_shoot 下|xià 了|le 九|jiǔ 个|gè 太阳|tàiyáng ， 救|jiù|to_save 了|le 大家|dàjiā 。
+> A hero named Hou Yi shot down nine of the suns with his bow and arrows and saved everyone.
+王母娘娘|Wángmǔ_Niángniang|the_Queen_Mother_of_the_West|N 送|sòng 给|gěi 他|tā 一|yī 种|zhǒng 药|yào ， 吃|chī 了|le 就|jiù 能|néng 长生不老|chángshēng_bùlǎo|to_live_forever|I ， 还|hái 能|néng 飞|fēi 到|dào 天|tiān 上|shàng 去|qù 。
+> The Queen Mother of the West gave him an elixir: whoever took it would live forever and could fly up to heaven.
+
+@p zhongqiu-3
+后羿|Hòu_Yì 不|bù 想|xiǎng 离开|líkāi 妻子|qīzi 嫦娥|Cháng'é|Chang'e,_goddess_of_the_moon|N ， 就|jiù 把|bǎ 药|yào 交|jiāo 给|gěi 了|le 她|tā 。
+> Hou Yi did not want to leave his wife Chang'e, so he gave the elixir to her.
+有|yǒu 一|yī 天|tiān ， 一|yī 个|gè 坏人|huàirén|villain 想|xiǎng 抢|qiǎng|to_snatch,_to_rob 这|zhè 种|zhǒng 药|yào 。
+> One day a wicked man tried to steal it.
+嫦娥|Cháng'é 没有|méiyǒu 办法|bànfǎ ， 只好|zhǐhǎo 自己|zìjǐ 把|bǎ 药|yào 吃|chī 了|le 下去|xiàqu 。
+> With no other way out, Chang'e swallowed the elixir herself.
+她|tā 的|de 身体|shēntǐ 慢慢|mànmàn 变|biàn 轻|qīng ， 飞|fēi 出|chū 了|le 窗户|chuānghu ， 一直|yīzhí 飞|fēi 到|dào 了|le 月亮|yuèliang 上|shàng 。
+> Her body slowly grew lighter; she floated out of the window and flew all the way up to the moon.
+从|cóng 那|nà 以后|yǐhòu ， 后羿|Hòu_Yì 每年|měinián 八月|bāyuè 十五|shíwǔ 都|dōu 会|huì 在|zài 院子|yuànzi|courtyard 里|lǐ 放|fàng 上|shàng 嫦娥|Cháng'é 喜欢|xǐhuan 吃|chī 的|de 水果|shuǐguǒ 和|hé 点心|diǎnxin|pastries,_snacks ， 看|kàn 着|zhe 月亮|yuèliang 想念|xiǎngniàn|to_miss_(someone) 她|tā 。
+> From then on, every year on the fifteenth of the eighth month, Hou Yi set out the fruit and cakes Chang'e loved in the courtyard and gazed at the moon, missing her.
+据说|jùshuō|it_is_said ， 这|zhè 就|jiù 是|shì 中秋节|Zhōngqiūjié 拜月|bàiyuè|to_worship_the_moon|J 习俗|xísú|custom 的|de 来源|láiyuán 。
+> This is said to be the origin of the Mid-Autumn custom of honouring the moon.
+
+@p zhongqiu-4
+中秋节|Zhōngqiūjié 最|zuì 重要|zhòngyào 的|de 食物|shíwù 是|shì 月饼|yuèbǐng|mooncake|J 。
+> The most important food of the festival is the mooncake.
+月饼|yuèbǐng 是|shì 圆|yuán 的|de ， 和|hé 满月|mǎnyuè|full_moon 一样|yīyàng ， 也|yě 代表|dàibiǎo 团圆|tuányuán 。
+> Mooncakes are round like the full moon, and they too stand for reunion.
+传统|chuántǒng 的|de 月饼|yuèbǐng 里面|lǐmiàn 有|yǒu 莲蓉|liánróng|lotus_seed_paste|J 、 豆沙|dòushā 或者|huòzhě 五仁|wǔrén|“five_kernels”_(mixed_nut_filling)|J ， 有的|yǒude 还|hái 有|yǒu 咸蛋黄|xiándànhuáng 。
+> Traditional mooncakes are filled with lotus seed paste, bean paste or “five kernels”, and some also contain a salted egg yolk.
+现在|xiànzài ， 商店|shāngdiàn 里|lǐ 还|hái 能|néng 买到|mǎidào 冰淇淋|bīngqílín|ice_cream 月饼|yuèbǐng 、 巧克力|qiǎokèlì|chocolate 月饼|yuèbǐng ， 口味|kǒuwèi|flavour 越来越|yuèláiyuè 多|duō 。
+> Now the shops also sell ice-cream mooncakes and chocolate mooncakes, and there are more flavours every year.
+中秋节|Zhōngqiūjié 前|qián ， 人们|rénmen 常常|chángcháng 买|mǎi 月饼|yuèbǐng 送|sòng 给|gěi 亲戚|qīnqi 、 朋友|péngyou 和|hé 同事|tóngshì 。
+> Before the festival, people often buy mooncakes as gifts for relatives, friends and colleagues.
+
+@p zhongqiu-5
+中秋节|Zhōngqiūjié 晚上|wǎnshang ， 家人|jiārén 常常|chángcháng 坐|zuò 在|zài 院子|yuànzi 里|lǐ 或者|huòzhě 阳台|yángtái|balcony 上|shàng ， 一边|yībiān 吃|chī 月饼|yuèbǐng 、 喝|hē 茶|chá ， 一边|yībiān 赏月|shǎngyuè|to_admire_the_moon|J 、 聊天|liáotiān 。
+> On the night of the festival, families often sit in the courtyard or on the balcony, eating mooncakes and drinking tea while they admire the moon and chat.
+有的|yǒude 地方|dìfang 还|hái 有|yǒu 提|tí|to_carry_(by_a_handle) 灯笼|dēnglong|lantern|J 、 猜|cāi|to_guess 灯谜|dēngmí|lantern_riddles|J 的|de 活动|huódòng 。
+> In some places people also carry lanterns and solve lantern riddles.
+如果|rúguǒ 家人|jiārén 不|bù 在|zài 身边|shēnbiān ， 人们|rénmen 也|yě 会|huì 抬头|táitóu|to_raise_one's_head 看|kàn 着|zhe 同|tóng|same 一|yī 个|gè 月亮|yuèliang ， 想念|xiǎngniàn 远方|yuǎnfāng|far_away 的|de 亲人|qīnrén|loved_ones 。
+> When family members are far away, people look up at the same moon and think of their loved ones in distant places.
+中国|Zhōngguó 古代|gǔdài 的|de 诗人|shīrén 写|xiě 过|guo 很多|hěnduō 关于|guānyú 中秋|zhōngqiū 月亮|yuèliang 的|de 诗|shī|poem ， 其中|qízhōng 苏轼|Sū_Shì|Su_Shi_(1037–1101),_Song-dynasty_poet|N 的|de 一|yī 句|jù “ 但愿|dànyuàn|if_only,_may 人|rén 长久|chángjiǔ|for_a_long_time ， 千里|qiānlǐ|a_thousand_li,_far_apart 共|gòng|to_share 婵娟|chánjuān|the_moon_(poetic)|J ” 到|dào 今天|jīntiān 还|hái 常常|chángcháng 被|bèi 人们|rénmen 引用|yǐnyòng|to_quote 。
+> Ancient Chinese poets wrote many poems about the Mid-Autumn moon. One line by Su Shi, “May we all live long, and share this lovely moon though a thousand miles apart”, is still often quoted today.
+
+@h2 h-end
+结语|jiéyǔ|concluding_remarks
+> In Closing
+
+@p end
+春节|Chūnjié 、 端午节|Duānwǔjié 和|hé 中秋节|Zhōngqiūjié 虽然|suīrán 有|yǒu 不同|bùtóng 的|de 故事|gùshi 和|hé 习惯|xíguàn ， 但是|dànshì 它们|tāmen 都|dōu 有|yǒu 一|yī 个|gè 共同点|gòngtóngdiǎn|common_feature ： 家人|jiārén 团聚|tuánjù 。
+> The Spring Festival, the Dragon Boat Festival and the Mid-Autumn Festival each have their own stories and customs, but they all share one thing: family reunion.
+不管|bùguǎn 人们|rénmen 在|zài 哪里|nǎli ， 不管|bùguǎn 工作|gōngzuò 多|duō 忙|máng ， 到|dào 了|le 这些|zhèxiē 节日|jiérì ， 大家|dàjiā 都|dōu 希望|xīwàng 能|néng 回|huí 家|jiā ， 和|hé 家人|jiārén 一起|yīqǐ 吃|chī 一|yī 顿|dùn 饭|fàn 。
+> Wherever people are and however busy they may be, when these festivals come round everyone hopes to go home and share a meal with their family.
+这|zhè 也许|yěxǔ 就|jiù 是|shì 传统|chuántǒng 节日|jiérì 到|dào 今天|jīntiān 还|hái 这么|zhème 重要|zhòngyào 的|de 原因|yuányīn 。
+> Perhaps this is why the traditional festivals still matter so much today.

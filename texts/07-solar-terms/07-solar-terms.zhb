@@ -1,0 +1,247 @@
+# 07 – The 24 solar terms. Original text and translation by Claude (Anthropic).
+# Target: mostly HSK 3.0 level 4 or below; terms J, names N, set phrases I.
+
+@meta {"title_zh": "二十四节气", "subtitle_zh": "太阳写下的日历", "title_en": "The 24 Solar Terms", "subtitle_en": "A Calendar Written by the Sun", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+如果|rúguǒ 你|nǐ 在|zài 中国|Zhōngguó 生活|shēnghuó 过|guo 一|yī 段|duàn 时间|shíjiān ， 可能|kěnéng 会|huì 发现|fāxiàn ， 中国|Zhōngguó 人|rén 常常|chángcháng 说|shuō “ 今天|jīntiān 立秋|lìqiū|Beginning_of_Autumn_(solar_term)|J 了|le ” 或者|huòzhě “ 明天|míngtiān 就|jiù 是|shì 冬至|dōngzhì|Winter_Solstice_(solar_term)|J ” 。
+> If you have lived in China for a while, you may have noticed that people often say things like “Autumn begins today” or “Tomorrow is the Winter Solstice”.
+这些|zhèxiē 词|cí 既|jì 不|bù 是|shì 节日|jiérì 的|de 名字|míngzi ， 也|yě 不|bù 是|shì 月份|yuèfèn 的|de 名字|míngzi ， 而|ér 是|shì “ 节气|jiéqì|solar_term|J ” 。
+> These words are neither the names of festivals nor the names of months: they are “solar terms”.
+一|yī 年|nián 有|yǒu 二十四|èrshísì 个|gè 节气|jiéqì ， 它们|tāmen 像|xiàng 一|yī 张|zhāng 时间表|shíjiānbiǎo|timetable ， 告诉|gàosu 人们|rénmen 天气|tiānqì 会|huì 怎么|zěnme 变化|biànhuà ， 什么|shénme 时候|shíhou 应该|yīnggāi 做|zuò 什么|shénme 事情|shìqing 。
+> There are twenty-four of them in a year. They work like a timetable, telling people how the weather is going to change and what they should be doing when.
+这|zhè 套|tào 时间表|shíjiānbiǎo 已经|yǐjīng 用|yòng 了|le 两千|liǎngqiān 多|duō 年|nián ， 到|dào 今天|jīntiān 还|hái 和|hé 人们|rénmen 的|de 生活|shēnghuó 有|yǒu 很多|hěnduō 关系|guānxì 。
+> This timetable has been in use for more than two thousand years, and it is still closely tied to people's lives today.
+
+@h2 h-what
+什么|shénme 是|shì 节气|jiéqì
+> What Are the Solar Terms?
+
+@p what-1
+很多|hěnduō 人|rén 以为|yǐwéi ， 中国|Zhōngguó 的|de 传统|chuántǒng 历法|lìfǎ|calendar_system|J 只|zhǐ 看|kàn 月亮|yuèliang 。
+> Many people think that the traditional Chinese calendar is based on the moon alone.
+其实|qíshí ， 中国|Zhōngguó 的|de 农历|nónglì|traditional_(lunar)_calendar|J 是|shì 一|yī 种|zhǒng “ 阴阳历|yīnyánglì|lunisolar_calendar|J ” ： 月份|yuèfèn 是|shì 按照|ànzhào 月亮|yuèliang 的|de 变化|biànhuà 来|lái 定|dìng 的|de ， 而|ér 节气|jiéqì 是|shì 按照|ànzhào 太阳|tàiyáng 来|lái 定|dìng 的|de 。
+> In fact, the Chinese traditional calendar is a “lunisolar” calendar: the months follow the phases of the moon, while the solar terms follow the sun.
+地球|dìqiú 一|yī 年|nián 绕|rào|to_go_around 太阳|tàiyáng 转|zhuàn 一|yī 圈|quān 。
+> The earth goes once around the sun every year.
+从|cóng 地球|dìqiú 上|shàng 看|kàn ， 太阳|tàiyáng 在|zài 天空|tiānkōng 中|zhōng 的|de 位置|wèizhi 每天|měitiān 都|dōu 会|huì 慢慢|mànmàn 改变|gǎibiàn ， 一|yī 年|nián 正好|zhènghǎo 走|zǒu 完|wán 三百六十|sānbǎiliùshí 度|dù 。
+> Seen from the earth, the sun's position in the sky shifts a little every day, and in one year it travels exactly 360 degrees.
+古人|gǔrén|the_ancients 把|bǎ 这|zhè 三百六十|sānbǎiliùshí 度|dù 分成|fēnchéng|to_divide_into 二十四|èrshísì 份|fèn ， 每|měi 份|fèn 十五|shíwǔ 度|dù 。
+> The ancient Chinese divided these 360 degrees into twenty-four parts of fifteen degrees each.
+太阳|tàiyáng 每|měi 走|zǒu 过|guò 十五|shíwǔ 度|dù ， 就|jiù 是|shì 一|yī 个|gè 新|xīn 的|de 节气|jiéqì ， 大约|dàyuē 十五|shíwǔ 天|tiān 一|yī 次|cì 。
+> Every time the sun moves on by fifteen degrees, a new solar term begins – roughly once every fifteen days.
+
+@p what-2
+因为|yīnwèi 节气|jiéqì 是|shì 按照|ànzhào 太阳|tàiyáng 来|lái 算|suàn 的|de ， 所以|suǒyǐ 它们|tāmen 在|zài 公历|gōnglì|Gregorian_calendar|J 上|shàng 的|de 日期|rìqī 几乎|jīhū 不|bù 变|biàn 。
+> Because the solar terms are calculated from the sun, their dates in the Western calendar hardly change.
+比如|bǐrú ， 冬至|dōngzhì 总是|zǒngshì 在|zài 十二月|shí'èryuè 二十一|èrshíyī 日|rì 或者|huòzhě 二十二|èrshí'èr 日|rì ， 清明|qīngmíng|Pure_Brightness_(solar_term)|J 总是|zǒngshì 在|zài 四月|sìyuè 四|sì 日|rì 或者|huòzhě 五|wǔ 日|rì 左右|zuǒyòu 。
+> The Winter Solstice, for example, always falls on 21 or 22 December, and Pure Brightness always comes around 4 or 5 April.
+相反|xiāngfǎn ， 春节|Chūnjié|Spring_Festival|J 和|hé 中秋节|Zhōngqiūjié|Mid-Autumn_Festival|J 这些|zhèxiē 按照|ànzhào 月亮|yuèliang 来|lái 算|suàn 的|de 节日|jiérì ， 每年|měinián 的|de 公历|gōnglì 日期|rìqī 都|dōu 不|bù 一样|yīyàng 。
+> By contrast, festivals reckoned by the moon, such as the Spring Festival and the Mid-Autumn Festival, fall on a different Western date every year.
+
+@p what-3
+为什么|wèishénme 古人|gǔrén 需要|xūyào 节气|jiéqì 呢|ne ？
+> Why did people in ancient times need the solar terms?
+原因|yuányīn 很|hěn 简单|jiǎndān ： 种地|zhòngdì|to_farm 。
+> The reason is simple: farming.
+农历|nónglì 的|de 一|yī 个|gè 月|yuè 是|shì 按照|ànzhào 月亮|yuèliang 计算|jìsuàn 的|de ， 大约|dàyuē 二十九|èrshíjiǔ 天|tiān 半|bàn ， 十二|shí'èr 个|gè 月|yuè 加|jiā 起来|qǐlai 只有|zhǐyǒu 三百五十四|sānbǎiwǔshísì 天|tiān 左右|zuǒyòu ， 比|bǐ 一|yī 年|nián 少|shǎo 了|le 十一|shíyī 天|tiān 。
+> A lunar month lasts about twenty-nine and a half days, so twelve months add up to only about 354 days – eleven days short of a full year.
+如果|rúguǒ 只|zhǐ 看|kàn 月份|yuèfèn ， 几|jǐ 年|nián 以后|yǐhòu ， “ 三月|sānyuè ” 可能|kěnéng 就|jiù 跑|pǎo 到|dào 冬天|dōngtiān 去|qù 了|le 。
+> If you went by the months alone, after a few years the “third month” might have wandered into winter.
+农民|nóngmín 需要|xūyào 知道|zhīdào 真正|zhēnzhèng 的|de 季节|jìjié ， 才|cái 能|néng 决定|juédìng 什么|shénme 时候|shíhou 种地|zhòngdì ， 什么|shénme 时候|shíhou 收|shōu 庄稼|zhuāngjia|crops 。
+> Farmers needed to know the real season in order to decide when to sow and when to bring in the harvest.
+节气|jiéqì 正好|zhènghǎo 解决|jiějué 了|le 这个|zhège 问题|wèntí 。
+> The solar terms solved exactly this problem.
+
+@p what-4
+二十四|èrshísì 节气|jiéqì 最早|zuìzǎo 出现|chūxiàn 在|zài 黄河|Huáng_Hé|Yellow_River|N 流域|liúyù|river_basin ， 那里|nàli 的|de 人们|rénmen 观察|guānchá 太阳|tàiyáng 、 天气|tiānqì 和|hé 植物|zhíwù|plants ， 慢慢|mànmàn 总结|zǒngjié 出|chū 了|le 这些|zhèxiē 规律|guīlǜ|regular_pattern 。
+> The twenty-four solar terms first appeared in the Yellow River basin, where people watched the sun, the weather and the plants and gradually worked out these patterns.
+到|dào 了|le 两千|liǎngqiān 多|duō 年|nián 前|qián 的|de 汉代|Hàndài|Han_dynasty_(206_BC–AD_220)|N ， 二十四|èrshísì 个|gè 节气|jiéqì 已经|yǐjīng 全部|quánbù 确定|quèdìng 下来|xiàlai 了|le 。
+> By the Han dynasty, more than two thousand years ago, all twenty-four terms had been fixed.
+2016 年|nián ， 联合国教科文组织|Liánhéguó_Jiàokēwén_Zǔzhī|UNESCO|N 把|bǎ 二十四|èrshísì 节气|jiéqì 列入|lièrù|to_include_in 了|le 人类|rénlèi 非物质文化遗产|fēiwùzhì_wénhuà_yíchǎn|intangible_cultural_heritage|J 名录|mínglù|list,_register 。
+> In 2016, UNESCO added the twenty-four solar terms to its list of the Intangible Cultural Heritage of Humanity.
+
+@p what-5
+二十四|èrshísì 节气|jiéqì 的|de 名字|míngzi 都|dōu 很|hěn 有意思|yǒuyìsi 。
+有的|yǒude 名字|míngzi 告诉|gàosu 我们|wǒmen 季节|jìjié 开始|kāishǐ 了|le ， 比如|bǐrú 立春|lìchūn|Beginning_of_Spring|J 、 立夏|lìxià|Beginning_of_Summer|J 、 立秋|lìqiū 、 立冬|lìdōng|Beginning_of_Winter|J ， “ 立|lì|to_stand;_to_begin ” 就|jiù 是|shì “ 开始|kāishǐ ” 的|de 意思|yìsi ；
+> The names of the twenty-four solar terms are all interesting. Some tell us that a season has begun, such as the Beginning of Spring, of Summer, of Autumn and of Winter – here 立 means “to begin”;
+有的|yǒude 名字|míngzi 说|shuō 的|de 是|shì 天气|tiānqì 冷|lěng 热|rè ， 比如|bǐrú 小暑|xiǎoshǔ|Minor_Heat|J 、 大暑|dàshǔ|Major_Heat|J 、 小寒|xiǎohán|Minor_Cold|J 、 大寒|dàhán|Major_Cold|J ；
+> some describe heat and cold, such as Minor Heat, Major Heat, Minor Cold and Major Cold;
+有的|yǒude 说|shuō 的|de 是|shì 雨|yǔ 和|hé 雪|xuě ， 比如|bǐrú 雨水|yǔshuǐ|Rain_Water_(solar_term)|J 、 谷雨|gǔyǔ|Grain_Rain|J 、 小雪|xiǎoxuě|Minor_Snow|J 、 大雪|dàxuě|Major_Snow|J ；
+> some are about rain and snow, such as Rain Water, Grain Rain, Minor Snow and Major Snow;
+还有|háiyǒu 的|de 跟|gēn 农业|nóngyè 有关|yǒuguān|to_be_related_to ， 比如|bǐrú 芒种|mángzhòng|Grain_in_Ear|J 。
+> and others are related to farming, such as Grain in Ear.
+只|zhǐ 看|kàn 名字|míngzi ， 人们|rénmen 就|jiù 能|néng 大概|dàgài 知道|zhīdào 那个|nàge 时候|shíhou 的|de 天气|tiānqì 是|shì 什么|shénme 样子|yàngzi 。
+> From the name alone, people can get a rough idea of what the weather is like at that time.
+
+@h2 h-spring
+春天|chūntiān 的|de 节气|jiéqì
+> The Solar Terms of Spring
+
+@p lichun
+立春|lìchūn 是|shì 二十四|èrshísì 节气|jiéqì 中|zhōng 的|de 第一|dìyī 个|gè ， 一般|yībān 在|zài 二月|èryuè 四|sì 日|rì 前后|qiánhòu ， 离|lí 春节|Chūnjié 很|hěn 近|jìn 。
+> The Beginning of Spring is the first of the twenty-four solar terms. It usually falls around 4 February, close to the Spring Festival.
+虽然|suīrán 这个|zhège 时候|shíhou 北方|běifāng 还|hái 很|hěn 冷|lěng ， 但是|dànshì 白天|báitiān 已经|yǐjīng 越来越|yuèláiyuè 长|cháng ， 人们|rénmen 知道|zhīdào 春天|chūntiān 就要|jiùyào 来|lái 了|le 。
+> Although the north is still cold at this time, the days are already getting longer, and people know that spring is on its way.
+在|zài 一些|yīxiē 地方|dìfang ， 人们|rénmen 立春|lìchūn 这|zhè 天|tiān 要|yào 吃|chī 春饼|chūnbǐng|spring_pancakes|J ， 把|bǎ 各种|gèzhǒng 蔬菜|shūcài|vegetables 卷|juǎn|to_roll_up 在|zài 薄饼|báobǐng|thin_pancake|J 里|lǐ ， 叫做|jiàozuò “ 咬春|yǎochūn|“biting_into_spring”|J ” 。
+> In some places people eat spring pancakes on this day, rolling all kinds of vegetables up in thin pancakes – a custom called “biting into spring”.
+
+@p jingzhe
+三月|sānyuè 初|chū 是|shì 惊蛰|jīngzhé|Awakening_of_Insects|J 。
+> Early March brings the Awakening of Insects.
+“ 蛰|zhé|to_hibernate|J ” 指|zhǐ 的|de 是|shì 冬天|dōngtiān 藏|cáng|to_hide 在|zài 地下|dìxià 睡觉|shuìjiào 的|de 小|xiǎo 动物|dòngwù 和|hé 虫子|chóngzi|insects,_bugs 。
+> The character 蛰 refers to the small animals and insects that spend the winter asleep underground.
+古人|gǔrén 认为|rènwéi ， 到|dào 了|le 这个|zhège 时候|shíhou ， 天|tiān 上|shàng 开始|kāishǐ 打雷|dǎléi|to_thunder ， 雷声|léishēng|thunder 把|bǎ 这些|zhèxiē 虫子|chóngzi 惊醒|jīngxǐng|to_wake_with_a_start 了|le ， 所以|suǒyǐ 叫|jiào “ 惊蛰|jīngzhé ” 。
+> People in ancient times believed that at this point thunder began to roll across the sky and startled these insects awake – hence the name.
+其实|qíshí ， 虫子|chóngzi 醒|xǐng 来|lái 主要|zhǔyào 是|shì 因为|yīnwèi 天气|tiānqì 变|biàn 暖|nuǎn|warm 了|le ， 但是|dànshì 这个|zhège 名字|míngzi 非常|fēicháng 形象|xíngxiàng|vivid 。
+> In reality the insects wake up mainly because the weather has turned warmer, but the name paints a vivid picture.
+惊蛰|jīngzhé 以后|yǐhòu ， 很多|hěnduō 地方|dìfang 的|de 农民|nóngmín 开始|kāishǐ 忙|máng 着|zhe 春耕|chūngēng|spring_ploughing|J 。
+> After the Awakening of Insects, farmers in many places get busy with the spring ploughing.
+
+@p qingming
+清明|qīngmíng 在|zài 四月|sìyuè 四|sì 日|rì 或者|huòzhě 五|wǔ 日|rì 左右|zuǒyòu ， 它|tā 既|jì 是|shì 一|yī 个|gè 节气|jiéqì ， 也|yě 是|shì 一|yī 个|gè 重要|zhòngyào 的|de 节日|jiérì 。
+> Pure Brightness comes around 4 or 5 April. It is both a solar term and an important festival.
+这个|zhège 时候|shíhou 天气|tiānqì 变|biàn 得|de 清爽|qīngshuǎng|fresh_and_clear 明亮|míngliàng|bright ， 所以|suǒyǐ 叫|jiào “ 清明|qīngmíng ” 。
+> At this time of year the weather turns fresh and bright, and that is where the name comes from.
+清明节|Qīngmíngjié|Qingming_(Tomb-Sweeping)_Festival|J 最|zuì 重要|zhòngyào 的|de 活动|huódòng 是|shì 扫墓|sǎomù|to_sweep_the_graves|J ， 人们|rénmen 回到|huídào 家乡|jiāxiāng ， 打扫|dǎsǎo 亲人|qīnrén|loved_ones 的|de 墓|mù|grave ， 送|sòng 上|shàng 鲜花|xiānhuā|fresh_flowers ， 表达|biǎodá 对|duì 祖先|zǔxiān|ancestors 的|de 思念|sīniàn|longing,_remembrance 。
+> The most important custom of the Qingming Festival is sweeping the graves: people return to their home towns, tidy the graves of their relatives, lay fresh flowers and remember their ancestors.
+同时|tóngshí ， 春天|chūntiān 的|de 风景|fēngjǐng 也|yě 很|hěn 美|měi ， 很多|hěnduō 人|rén 会|huì 去|qù 郊外|jiāowài|the_countryside_outside_town 踏青|tàqīng|to_go_on_a_spring_outing|J 、 放|fàng 风筝|fēngzheng|kite 。
+> At the same time the spring scenery is lovely, and many people go out into the countryside for a spring walk or to fly kites.
+在|zài 江南|Jiāngnán|Jiangnan,_the_region_south_of_the_lower_Yangtze|N 地区|dìqū ， 人们|rénmen 还|hái 喜欢|xǐhuan 吃|chī 一|yī 种|zhǒng 绿色|lǜsè 的|de 点心|diǎnxin|pastry,_snack ， 叫|jiào 青团|qīngtuán|green_rice_ball|J 。
+> In the Jiangnan region, people also like to eat a green sweet called qingtuan.
+
+@h2 h-summer
+夏天|xiàtiān 和|hé 秋天|qiūtiān 的|de 节气|jiéqì
+> The Solar Terms of Summer and Autumn
+
+@p xiaoman
+五月|wǔyuè 下旬|xiàxún|last_ten_days_of_a_month 有|yǒu 一|yī 个|gè 节气|jiéqì 叫|jiào 小满|xiǎomǎn|Grain_Buds_(“Small_Fullness”)|J 。
+> In late May there is a solar term called Small Fullness.
+这|zhè 时候|shíhou ， 小麦|xiǎomài|wheat 等|děng 粮食|liángshi|grain 已经|yǐjīng 开始|kāishǐ 变|biàn 得|de 饱满|bǎomǎn|plump,_full ， 但是|dànshì 还|hái 没有|méiyǒu 完全|wánquán 成熟|chéngshú|ripe ， 所以|suǒyǐ 叫|jiào “ 小满|xiǎomǎn ” 。
+> At this time wheat and other grains are starting to fill out but are not yet fully ripe – hence “small fullness”.
+有意思|yǒuyìsi 的|de 是|shì ， 二十四|èrshísì 节气|jiéqì 里|lǐ 有|yǒu 小暑|xiǎoshǔ 也|yě 有|yǒu 大暑|dàshǔ ， 有|yǒu 小雪|xiǎoxuě 也|yě 有|yǒu 大雪|dàxuě ， 却|què 只有|zhǐyǒu 小满|xiǎomǎn ， 没有|méiyǒu “ 大满|dàmǎn|“great_fullness”_(not_a_solar_term)|J ” 。
+> Interestingly, among the twenty-four terms there is a Minor Heat and a Major Heat, a Minor Snow and a Major Snow, but only a Small Fullness and no “Great Fullness”.
+很多|hěnduō 人|rén 认为|rènwéi ， 这|zhè 反映|fǎnyìng|to_reflect 了|le 中国|Zhōngguó 人|rén 的|de 一|yī 种|zhǒng 想法|xiǎngfǎ ： 事情|shìqing 不要|bùyào 做|zuò 得|de 太|tài 满|mǎn ， 留|liú 一点儿|yīdiǎnr 空间|kōngjiān ， 才|cái 是|shì 最|zuì 好|hǎo 的|de 状态|zhuàngtài 。
+> Many people see this as a reflection of a Chinese way of thinking: don't push things to the very limit – leaving a little room is the best state to be in.
+
+@p mangzhong
+小满|xiǎomǎn 后面|hòumiàn 就|jiù 是|shì 芒种|mángzhòng ， 一般|yībān 在|zài 六月|liùyuè 初|chū 。
+> After Small Fullness comes Grain in Ear, usually in early June.
+“ 芒|máng|awn_(bristle_on_an_ear_of_grain)|J ” 指|zhǐ 的|de 是|shì 麦子|màizi|wheat 上|shàng 细细|xìxì|very_thin 的|de 尖|jiān|pointed 毛|máo 。
+> 芒 refers to the fine, pointed bristles on ears of wheat.
+这个|zhège 时候|shíhou ， 北方|běifāng 要|yào 收|shōu 麦子|màizi ， 南方|nánfāng 要|yào 种|zhòng 水稻|shuǐdào|paddy_rice ， 是|shì 农民|nóngmín 一|yī 年|nián 中|zhōng 最|zuì 忙|máng 的|de 时候|shíhou 之一|zhīyī|one_of 。
+> At this time the north is harvesting wheat and the south is planting rice, so it is one of the busiest times of the year for farmers.
+
+@p xiazhi
+六月|liùyuè 二十一|èrshíyī 日|rì 前后|qiánhòu 是|shì 夏至|xiàzhì|Summer_Solstice|J 。
+> Around 21 June comes the Summer Solstice.
+在|zài 北半球|běibànqiú|Northern_Hemisphere ， 这|zhè 一|yī 天|tiān 白天|báitiān 最|zuì 长|cháng ， 夜晚|yèwǎn|night 最|zuì 短|duǎn 。
+> In the Northern Hemisphere this is the longest day and the shortest night of the year.
+过|guò 了|le 夏至|xiàzhì ， 天气|tiānqì 会|huì 越来越|yuèláiyuè 热|rè ， 真正|zhēnzhèng 的|de 夏天|xiàtiān 开始|kāishǐ 了|le 。
+> After the solstice the weather keeps getting hotter: real summer has begun.
+北方|běifāng 有|yǒu “ 冬至|dōngzhì 饺子|jiǎozi|dumplings 夏至|xiàzhì 面|miàn ” 的|de 说法|shuōfǎ|saying ， 所以|suǒyǐ 很多|hěnduō 人|rén 夏至|xiàzhì 这|zhè 天|tiān 会|huì 吃|chī 一|yī 碗|wǎn 凉面|liángmiàn|cold_noodles|J 。
+> In the north there is a saying, “dumplings at the Winter Solstice, noodles at the Summer Solstice”, so many people eat a bowl of cold noodles on this day.
+
+@p liqiu
+八月|bāyuè 七|qī 日|rì 或者|huòzhě 八|bā 日|rì 前后|qiánhòu 是|shì 立秋|lìqiū 。
+> The Beginning of Autumn falls around 7 or 8 August.
+按照|ànzhào 节气|jiéqì ， 秋天|qiūtiān 从|cóng 这|zhè 一|yī 天|tiān 开始|kāishǐ 了|le ， 可是|kěshì 实际上|shíjìshang ， 很多|hěnduō 地方|dìfang 还|hái 非常|fēicháng 热|rè ， 人们|rénmen 把|bǎ 立秋|lìqiū 以后|yǐhòu 的|de 热|rè 天|tiān 叫做|jiàozuò “ 秋老虎|qiūlǎohǔ|“autumn_tiger”,_late-summer_heat|J ” 。
+> According to the solar terms autumn starts on this day, but in reality many places are still extremely hot. People call the hot days after the Beginning of Autumn the “autumn tiger”.
+立秋|lìqiū 还|hái 有|yǒu 一|yī 个|gè 有意思|yǒuyìsi 的|de 习惯|xíguàn 叫|jiào “ 贴秋膘|tiē_qiūbiāo|“putting_on_autumn_fat”|J ” ：
+> There is another interesting custom at the Beginning of Autumn, called “putting on autumn fat”:
+夏天|xiàtiān 太|tài 热|rè ， 很多|hěnduō 人|rén 吃|chī 得|de 少|shǎo ， 人|rén 也|yě 瘦|shòu|thin 了|le ， 所以|suǒyǐ 到|dào 了|le 立秋|lìqiū ， 大家|dàjiā 要|yào 多|duō 吃|chī 一点儿|yīdiǎnr 肉|ròu ， 把|bǎ 夏天|xiàtiān 瘦|shòu 掉|diào 的|de 补|bǔ|to_make_up_for 回来|huílai 。
+> summer is so hot that many people eat little and lose weight, so when autumn begins everyone eats a bit more meat to make up for what they lost over the summer.
+
+@p qiufen
+九月|jiǔyuè 二十三|èrshísān 日|rì 前后|qiánhòu 是|shì 秋分|qiūfēn|Autumn_Equinox|J 。
+> The Autumn Equinox comes around 23 September.
+和|hé 春分|chūnfēn|Spring_Equinox|J 一样|yīyàng ， 这|zhè 一|yī 天|tiān 白天|báitiān 和|hé 夜晚|yèwǎn 差不多|chàbuduō 一样|yīyàng 长|cháng 。
+> As at the Spring Equinox, day and night are about the same length.
+秋分|qiūfēn 的|de 时候|shíhou ， 很多|hěnduō 庄稼|zhuāngjia 已经|yǐjīng 成熟|chéngshú ， 农民|nóngmín 忙|máng 着|zhe 收获|shōuhuò|to_harvest 。
+> By the equinox many crops are ripe, and farmers are busy bringing in the harvest.
+从|cóng 2018 年|nián 开始|kāishǐ ， 中国|Zhōngguó 把|bǎ 每年|měinián 的|de 秋分|qiūfēn 定|dìng 为|wéi “ 中国农民丰收节|Zhōngguó_Nóngmín_Fēngshōujié|Chinese_Farmers'_Harvest_Festival|N ” ， 在|zài 这|zhè 一|yī 天|tiān ， 各地|gèdì 都|dōu 会|huì 举行|jǔxíng 庆祝|qìngzhù 活动|huódòng 。
+> Since 2018, China has made the Autumn Equinox the “Chinese Farmers' Harvest Festival”, and celebrations are held all over the country on that day.
+
+@h2 h-winter
+冬天|dōngtiān 的|de 节气|jiéqì
+> The Solar Terms of Winter
+
+@p dongzhi
+冬至|dōngzhì 在|zài 十二月|shí'èryuè 二十一|èrshíyī 日|rì 或者|huòzhě 二十二|èrshí'èr 日|rì ， 是|shì 北半球|běibànqiú 白天|báitiān 最|zuì 短|duǎn 、 夜晚|yèwǎn 最|zuì 长|cháng 的|de 一|yī 天|tiān 。
+> The Winter Solstice falls on 21 or 22 December. In the Northern Hemisphere it is the day with the shortest daylight and the longest night.
+在|zài 古代|gǔdài ， 冬至|dōngzhì 是|shì 一|yī 个|gè 非常|fēicháng 重要|zhòngyào 的|de 日子|rìzi ， 有|yǒu “ 冬至大如年|dōngzhì_dà_rú_nián|“the_Winter_Solstice_is_as_big_as_New_Year”|I ” 的|de 说法|shuōfǎ ， 意思|yìsi 是|shì 冬至|dōngzhì 和|hé 过年|guònián 差不多|chàbuduō 一样|yīyàng 重要|zhòngyào 。
+> In ancient times the Winter Solstice was a very important day. A saying goes that “the Winter Solstice is as big as New Year”, meaning it mattered almost as much as the New Year itself.
+今天|jīntiān ， 北方|běifāng 人|rén 冬至|dōngzhì 常常|chángcháng 吃|chī 饺子|jiǎozi ， 南方|nánfāng 很多|hěnduō 地方|dìfang 吃|chī 汤圆|tāngyuán|sweet_rice_dumplings|J 。
+> Today, northerners usually eat dumplings at the Winter Solstice, while in many places in the south people eat tangyuan.
+还|hái 有|yǒu 一|yī 个|gè 流传|liúchuán|to_spread,_to_circulate 很|hěn 广|guǎng|wide,_widely 的|de 说法|shuōfǎ ： 冬至|dōngzhì 不|bù 吃|chī 饺子|jiǎozi ， 耳朵|ěrduo|ears 会|huì 冻|dòng|to_freeze 掉|diào 。
+> There is also a widespread saying that if you don't eat dumplings at the Winter Solstice, your ears will freeze off.
+这|zhè 当然|dāngrán 只是|zhǐshì 一|yī 句|jù 玩笑|wánxiào ， 但是|dànshì 很多|hěnduō 人|rén 每年|měinián 冬至|dōngzhì 还是|háishi 会|huì 认真|rènzhēn 地|de 吃|chī 一|yī 顿|dùn 饺子|jiǎozi 。
+> It is only a joke, of course, but every year at the solstice many people still make a point of sitting down to a meal of dumplings.
+
+@p shujiu
+从|cóng 冬至|dōngzhì 开始|kāishǐ ， 人们|rénmen 还|hái 会|huì “ 数九|shǔjiǔ|to_count_the_nines_(of_winter)|J ” ：
+> Starting from the Winter Solstice, people also “count the nines”:
+每|měi 九|jiǔ 天|tiān 是|shì 一|yī 个|gè “ 九|jiǔ ” ， 一共|yīgòng 九|jiǔ 个|gè “ 九|jiǔ ” ， 八十一|bāshíyī 天|tiān 。
+> every nine days make one “nine”, and there are nine “nines” in all – eighty-one days.
+数|shǔ 完|wán 了|le 这|zhè 八十一|bāshíyī 天|tiān ， 冬天|dōngtiān 就|jiù 过去|guòqu 了|le ， 天气|tiānqì 也|yě 暖和|nuǎnhuo 了|le 。
+> When these eighty-one days have been counted, winter is over and the weather has turned warm.
+以前|yǐqián ， 有的|yǒude 人|rén 会|huì 在|zài 冬至|dōngzhì 那|nà 天|tiān 画|huà 一|yī 枝|zhī|(measure_word_for_branches) 梅花|méihuā|plum_blossom ， 上面|shàngmiàn 有|yǒu 八十一|bāshíyī 个|gè 花瓣|huābàn|petal ， 每天|měitiān 给|gěi 一|yī 个|gè 花瓣|huābàn 涂|tú|to_paint,_to_colour 上|shàng 颜色|yánsè ， 等|děng 所有|suǒyǒu 的|de 花瓣|huābàn 都|dōu 涂|tú 完|wán 了|le ， 春天|chūntiān 也|yě 就|jiù 来|lái 了|le 。
+> In the past, some people would draw a branch of plum blossom with eighty-one petals on the day of the solstice and colour in one petal each day. By the time every petal was coloured, spring had arrived.
+
+@p xiaohan
+冬至|dōngzhì 以后|yǐhòu 是|shì 小寒|xiǎohán 和|hé 大寒|dàhán ， 这|zhè 是|shì 一|yī 年|nián 中|zhōng 最|zuì 冷|lěng 的|de 时候|shíhou 。
+> After the Winter Solstice come Minor Cold and Major Cold, the coldest time of the year.
+大寒|dàhán 之后|zhīhòu ， 下|xià 一|yī 个|gè 节气|jiéqì 又|yòu 是|shì 立春|lìchūn ， 二十四|èrshísì 节气|jiéqì 就|jiù 这样|zhèyàng 一|yī 年|nián 一|yī 年|nián 地|de 循环|xúnhuán|to_go_round_in_a_cycle 下去|xiàqu 。
+> After Major Cold the next term is once again the Beginning of Spring, and so the twenty-four solar terms go round and round, year after year.
+
+@h2 h-today
+今天|jīntiān 的|de 节气|jiéqì
+> The Solar Terms Today
+
+@p today-1
+现在|xiànzài 的|de 农民|nóngmín 有|yǒu 天气|tiānqì 预报|yùbào ， 也|yě 有|yǒu 各种|gèzhǒng 现代|xiàndài 技术|jìshù ， 不再|bùzài|no_longer 完全|wánquán 依靠|yīkào|to_rely_on 节气|jiéqì 来|lái 安排|ānpái 农活|nónghuó|farm_work 。
+> Farmers today have weather forecasts and all kinds of modern technology, and no longer rely entirely on the solar terms to plan their work.
+但是|dànshì ， 节气|jiéqì 并|bìng 没有|méiyǒu 离开|líkāi 人们|rénmen 的|de 生活|shēnghuó 。
+> But the solar terms have not disappeared from people's lives.
+电视|diànshì 上|shàng 的|de 天气|tiānqì 预报|yùbào 常常|chángcháng 会|huì 提到|tídào 节气|jiéqì ， 比如|bǐrú “ 今天|jīntiān 是|shì 大雪|dàxuě ， 北方|běifāng 将|jiāng|will,_is_going_to 迎来|yínglái|to_welcome,_to_usher_in 降温|jiàngwēn|drop_in_temperature ” 。
+> Weather forecasts on television often mention them – “Today is Major Snow, and temperatures in the north are set to drop.”
+手机|shǒujī 里|lǐ 的|de 日历|rìlì 也|yě 会|huì 标|biāo|to_mark 出|chū 每|měi 一|yī 个|gè 节气|jiéqì 。
+> The calendars on people's phones mark every solar term as well.
+
+@p today-2
+需要|xūyào 注意|zhùyì 的|de 是|shì ， 二十四|èrshísì 节气|jiéqì 是|shì 根据|gēnjù 黄河|Huáng_Hé 流域|liúyù 的|de 气候|qìhòu 总结|zǒngjié 出来|chūlai 的|de 。
+> It is worth remembering that the twenty-four solar terms were worked out from the climate of the Yellow River basin.
+中国|Zhōngguó 很|hěn 大|dà ， 南方|nánfāng 和|hé 北方|běifāng 的|de 天气|tiānqì 差别|chābié|difference 很|hěn 大|dà ， 所以|suǒyǐ 在|zài 广州|Guǎngzhōu|Guangzhou_(Canton)|N 或者|huòzhě 哈尔滨|Hā'ěrbīn|Harbin|N ， 节气|jiéqì 和|hé 真实|zhēnshí 的|de 天气|tiānqì 不|bù 一定|yīdìng 完全|wánquán 一样|yīyàng 。
+> China is huge and the weather in the south and the north differs greatly, so in Guangzhou or Harbin the solar terms do not always match the real weather.
+大雪|dàxuě 那|nà 天|tiān ， 广州|Guǎngzhōu 的|de 人|rén 可能|kěnéng 还|hái 穿|chuān 着|zhe 短袖|duǎnxiù|short_sleeves 。
+> On the day of Major Snow, people in Guangzhou may still be wearing short sleeves.
+
+@p today-3
+很多|hěnduō 中国|Zhōngguó 人|rén 也|yě 按照|ànzhào 节气|jiéqì 来|lái 照顾|zhàogù 自己|zìjǐ 的|de 身体|shēntǐ 。
+> Many Chinese people also look after their health according to the solar terms.
+中医|zhōngyī|traditional_Chinese_medicine|J 认为|rènwéi ， 人|rén 应该|yīnggāi 跟|gēn 着|zhe 季节|jìjié 的|de 变化|biànhuà 生活|shēnghuó ：
+> Traditional Chinese medicine holds that people should live in step with the changing seasons:
+春天|chūntiān 要|yào 早|zǎo 起|qǐ ， 多|duō 到|dào 外面|wàimiàn 活动|huódòng ； 夏天|xiàtiān 要|yào 注意|zhùyì 别|bié 太|tài 热|rè ； 秋天|qiūtiān 天气|tiānqì 干燥|gānzào|dry ， 可以|kěyǐ 多|duō 吃|chī 梨|lí|pear ； 冬天|dōngtiān 要|yào 注意|zhùyì 保暖|bǎonuǎn|to_keep_warm ， 多|duō 吃|chī 一些|yīxiē 温暖|wēnnuǎn 的|de 食物|shíwù 。
+> get up early in spring and spend more time outdoors; take care not to overheat in summer; in dry autumn weather, eat plenty of pears; and in winter, stay warm and eat warming food.
+不管|bùguǎn 这些|zhèxiē 说法|shuōfǎ 有|yǒu 没有|méiyǒu 科学|kēxué 根据|gēnjù ， 很多|hěnduō 家庭|jiātíng 都|dōu 把|bǎ 它们|tāmen 当作|dàngzuò|to_treat_as 生活|shēnghuó 习惯|xíguàn 。
+> Whether or not these ideas have any scientific basis, many families treat them as part of everyday life.
+
+@p today-4
+在|zài 网上|wǎngshàng ， 每|měi 到|dào 一|yī 个|gè 新|xīn 的|de 节气|jiéqì ， 很多|hěnduō 公司|gōngsī 、 博物馆|bówùguǎn|museum 和|hé 普通|pǔtōng 人|rén 都|dōu 会|huì 发|fā 一|yī 张|zhāng 漂亮|piàoliang 的|de 图片|túpiàn ， 配|pèi|to_add,_to_go_with 上|shàng 节气|jiéqì 的|de 名字|míngzi 。
+> Online, whenever a new solar term arrives, companies, museums and ordinary people post a beautiful picture with the name of the term.
+2022 年|nián 北京|Běijīng 冬奥会|Dōng'àohuì|Winter_Olympics|N 的|de 开幕式|kāimùshì|opening_ceremony 上|shàng ， 倒计时|dàojìshí|countdown 也|yě 用|yòng 了|le 二十四|èrshísì 节气|jiéqì ， 最后|zuìhòu 一|yī 个|gè 是|shì 立春|lìchūn —— 开幕式|kāimùshì 那|nà 天|tiān 正好|zhènghǎo 就|jiù 是|shì 立春|lìchūn 。
+> At the opening ceremony of the 2022 Beijing Winter Olympics, the countdown used the twenty-four solar terms, ending with the Beginning of Spring – which was exactly the day of the ceremony.
+全|quán 世界|shìjiè 的|de 观众|guānzhòng 通过|tōngguò 电视|diànshì 看到|kàndào 了|le 这|zhè 套|tào 古老|gǔlǎo|ancient 的|de 时间|shíjiān 系统|xìtǒng 。
+> Viewers all over the world saw this ancient system of time on their televisions.
+
+@h2 h-end
+结语|jiéyǔ|concluding_remarks
+> In Closing
+
+@p end
+二十四|èrshísì 节气|jiéqì 是|shì 古人|gǔrén 观察|guānchá 太阳|tàiyáng 和|hé 自然|zìrán 的|de 结果|jiéguǒ ， 也|yě 是|shì 他们|tāmen 留|liú 给|gěi 后人|hòurén|later_generations 的|de 一|yī 份|fèn 礼物|lǐwù 。
+> The twenty-four solar terms are the fruit of ancient people's observation of the sun and of nature, and a gift they left to those who came after them.
+它|tā 提醒|tíxǐng 我们|wǒmen ， 人|rén 的|de 生活|shēnghuó 和|hé 季节|jìjié 、 土地|tǔdì 、 天气|tiānqì 紧密|jǐnmì|closely 地|de 联系|liánxì 在|zài 一起|yīqǐ 。
+> They remind us that human life is closely bound up with the seasons, the land and the weather.
+即使|jíshǐ|even_if 住|zhù 在|zài 城市|chéngshì 里|lǐ ， 我们|wǒmen 也|yě 可以|kěyǐ 停|tíng 下来|xiàlai ， 看看|kànkan 窗外|chuāngwài 的|de 天空|tiānkōng 和|hé 树木|shùmù|trees ， 感受|gǎnshòu 一下|yīxià ： 今天|jīntiān 是|shì 什么|shénme 节气|jiéqì ？
+> Even if we live in a city, we can stop for a moment, look at the sky and the trees outside the window, and ask ourselves: which solar term is it today?

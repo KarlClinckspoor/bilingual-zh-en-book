@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX intermediates (the finished PDFs are kept)
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.xdv
+
+# Working folders from prepare.py / annotate_api.py
+work/
+
+# Release bundles are built locally and uploaded, not committed
+dist/
+
+# Secrets and OS clutter
+.env
+Thumbs.db
+desktop.ini
+.DS_Store

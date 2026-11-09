@@ -1,0 +1,252 @@
+# Tea in China — original text and translation by Claude (Anthropic) for zhbook.
+# Target: mostly HSK 3.0 level 4 or below; tea vocabulary marked J, names N, set phrases I.
+
+@meta {"title_zh": "中国茶", "subtitle_zh": "种类·泡法·茶馆·茶马古道", "title_en": "Tea in China", "subtitle_en": "Kinds of Tea · Brewing · Teahouses · The Tea Horse Road", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+茶|chá 是|shì 中国|Zhōngguó 人|rén 生活|shēnghuó 中|zhōng 很|hěn 重要|zhòngyào 的|de 一|yī 部分|bùfen 。
+> Tea is a very important part of Chinese people's lives.
+不管|bùguǎn 是|shì 在|zài 家里|jiālǐ 、 办公室|bàngōngshì 还是|háishi 饭馆|fànguǎn ， 你|nǐ 都|dōu 常常|chángcháng 能|néng 看到|kàndào 一|yī 杯|bēi 热|rè 茶|chá 。
+> Whether at home, in the office or in a restaurant, you will often see a cup of hot tea.
+很多|hěnduō 人|rén 早上|zǎoshang 起床|qǐchuáng 以后|yǐhòu 的|de 第一|dìyī 件|jiàn 事|shì 就|jiù 是|shì 泡|pào|to_steep,_to_brew 一|yī 杯|bēi 茶|chá 。
+> For many people, the first thing they do after getting up in the morning is to make a cup of tea.
+中国|Zhōngguó 是|shì 世界|shìjiè 上|shàng 最|zuì 早|zǎo 种|zhòng 茶|chá 和|hé 喝|hē 茶|chá 的|de 国家|guójiā ， 今天|jīntiān 世界|shìjiè 上|shàng 很多|hěnduō 语言|yǔyán 里|lǐ 表示|biǎoshì “ 茶|chá ” 的|de 词|cí ， 都|dōu 是|shì 从|cóng 汉语|Hànyǔ 来|lái 的|de 。
+> China was the first country in the world to grow and drink tea, and in many of the world's languages today the word for “tea” comes from Chinese.
+下面|xiàmiàn 我们|wǒmen 来|lái 介绍|jièshào 一下|yīxià 中国|Zhōngguó 的|de 茶|chá ： 茶|chá 的|de 历史|lìshǐ 、 种类|zhǒnglèi 、 泡|pào 茶|chá 的|de 方法|fāngfǎ 、 茶馆|cháguǎn|teahouse|J 文化|wénhuà ， 还有|háiyǒu 一|yī 条|tiáo 有名|yǒumíng 的|de 古代|gǔdài “ 茶|chá 路|lù ” 。
+> Below we introduce Chinese tea: its history, its kinds, how to brew it, teahouse culture, and a famous ancient “tea road”.
+
+@h2 h-history
+茶|chá 的|de 历史|lìshǐ
+> A Short History of Tea
+
+@p history-1
+关于|guānyú 茶|chá 的|de 来源|láiyuán|origin ， 有|yǒu 一|yī 个|gè 古老|gǔlǎo|ancient,_old 的|de 传说|chuánshuō|legend 。
+> There is an old legend about the origin of tea.
+传说|chuánshuō 几|jǐ 千|qiān 年|nián 前|qián ， 有|yǒu 一|yī 位|wèi 叫|jiào 神农|Shénnóng|Shennong,_legendary_ruler_and_herbalist|N 的|de 人|rén ， 他|tā 尝|cháng|to_taste 了|le 很多|hěnduō 种|zhǒng 植物|zhíwù|plant ， 想|xiǎng 知道|zhīdào 哪些|nǎxiē 可以|kěyǐ 吃|chī ， 哪些|nǎxiē 可以|kěyǐ 做|zuò 药|yào 。
+> It is said that thousands of years ago a man called Shennong tasted many kinds of plants to find out which could be eaten and which could be used as medicine.
+有|yǒu 一|yī 天|tiān ， 几|jǐ 片|piàn 树叶|shùyè 掉|diào 进|jìn 了|le 他|tā 的|de 热水|rèshuǐ|hot_water 里|lǐ ， 水|shuǐ 的|de 颜色|yánsè 变|biàn 了|le ， 喝|hē 起来|qǐlai 又|yòu 香|xiāng 又|yòu 苦|kǔ ， 喝|hē 完|wán 以后|yǐhòu 他|tā 觉得|juéde 很|hěn 舒服|shūfu 。
+> One day a few leaves fell into his hot water. The water changed colour and tasted both fragrant and bitter, and after drinking it he felt very well.
+这|zhè 就|jiù 是|shì 人们|rénmen 说|shuō 的|de 第一|dìyī 杯|bēi 茶|chá 。
+> That, people say, was the first cup of tea.
+当然|dāngrán ， 这|zhè 只|zhǐ 是|shì 一|yī 个|gè 传说|chuánshuō ， 但是|dànshì 它|tā 说明|shuōmíng 茶|chá 在|zài 中国|Zhōngguó 的|de 历史|lìshǐ 非常|fēicháng 长|cháng 。
+> Of course, this is only a legend, but it shows how long tea's history in China is.
+
+@p history-2
+一开始|yīkāishǐ ， 人们|rénmen 主要|zhǔyào 把|bǎ 茶|chá 当作|dàngzuò|to_treat_as 药|yào 。
+> At first, people mainly used tea as a medicine.
+后来|hòulái ， 喝|hē 茶|chá 慢慢|mànmàn 变成|biànchéng 了|le 一|yī 种|zhǒng 日常|rìcháng 习惯|xíguàn 。
+> Later, tea drinking gradually became an everyday habit.
+到|dào 了|le 唐朝|Tángcháo|the_Tang_dynasty_(618–907)|N ， 喝|hē 茶|chá 在|zài 全国|quánguó 都|dōu 非常|fēicháng 流行|liúxíng 。
+> By the Tang dynasty, tea drinking was very popular all over the country.
+唐朝|Tángcháo 有|yǒu 一|yī 个|gè 叫|jiào 陆羽|Lù_Yǔ|Lu_Yu_(733–804),_tea_scholar|N 的|de 人|rén ， 他|tā 一生|yīshēng|whole_life 都|dōu 在|zài 研究|yánjiū 茶|chá 。
+> In the Tang dynasty there lived a man named Lu Yu, who spent his whole life studying tea.
+他|tā 去|qù 过|guo 很多|hěnduō 地方|dìfang ， 了解|liǎojiě 不同|bùtóng 地方|dìfang 的|de 茶树|cháshù|tea_plant|J 、 做|zuò 茶|chá 的|de 方法|fāngfǎ 和|hé 喝|hē 茶|chá 的|de 习惯|xíguàn ， 最后|zuìhòu 写|xiě 成|chéng 了|le 一|yī 本|běn 书|shū ， 叫|jiào 《 茶经|Chájīng|The_Classic_of_Tea|N 》 。
+> He travelled to many places to learn about their tea plants, their ways of making tea and their tea-drinking customs, and finally wrote a book called The Classic of Tea.
+这|zhè 是|shì 世界|shìjiè 上|shàng 第一|dìyī 本|běn 专门|zhuānmén 介绍|jièshào 茶|chá 的|de 书|shū ， 所以|suǒyǐ 后来|hòulái 人们|rénmen 叫|jiào 他|tā “ 茶圣|Chá_Shèng|the_Sage_of_Tea|N ” 。
+> It was the world's first book devoted entirely to tea, and so people later called him the “Sage of Tea”.
+
+@p history-3
+宋朝|Sòngcháo|the_Song_dynasty_(960–1279)|N 的|de 时候|shíhou ， 人们|rénmen 喜欢|xǐhuan 把|bǎ 茶叶|cháyè 磨|mó|to_grind 成|chéng 粉|fěn|powder ， 再|zài 用|yòng 热水|rèshuǐ 打|dǎ 出|chū 很多|hěnduō 白色|báisè 的|de 泡沫|pàomò|foam,_froth ， 有时候|yǒushíhou 还|hái 会|huì 比赛|bǐsài ， 看|kàn 谁|shéi 的|de 茶|chá 最|zuì 好|hǎo 。
+> In the Song dynasty people liked to grind tea leaves into powder and then whisk it with hot water into a white froth. Sometimes they even held contests to see whose tea was best.
+这种|zhèzhǒng 喝|hē 茶|chá 的|de 方法|fāngfǎ 后来|hòulái 传|chuán 到|dào 了|le 日本|Rìběn ， 对|duì 日本|Rìběn 的|de 茶道|chádào|the_way_of_tea,_tea_ceremony|J 有|yǒu 很|hěn 大|dà 的|de 影响|yǐngxiǎng 。
+> This way of drinking tea later spread to Japan, where it had a great influence on the Japanese tea ceremony.
+到|dào 了|le 明朝|Míngcháo|the_Ming_dynasty_(1368–1644)|N ， 人们|rénmen 才|cái 开始|kāishǐ 像|xiàng 今天|jīntiān 一样|yīyàng ， 直接|zhíjiē 用|yòng 热水|rèshuǐ 泡|pào 茶叶|cháyè 。
+> Only in the Ming dynasty did people begin, as they do today, to steep the leaves directly in hot water.
+
+@h2 h-kinds
+茶|chá 的|de 种类|zhǒnglèi
+> Kinds of Tea
+
+@p kinds-1
+中国|Zhōngguó 的|de 茶|chá 有|yǒu 很多|hěnduō 种|zhǒng 。
+> China has many kinds of tea.
+最|zuì 常见|chángjiàn 的|de 分法|fēnfǎ|way_of_classifying 是|shì 按照|ànzhào 做|zuò 茶|chá 的|de 方法|fāngfǎ ， 把|bǎ 茶|chá 分成|fēnchéng|to_divide_into 六|liù 大|dà 类|lèi ： 绿茶|lǜchá|green_tea|J 、 白茶|báichá|white_tea|J 、 黄茶|huángchá|yellow_tea|J 、 青茶|qīngchá|oolong_tea|J 、 红茶|hóngchá|black_tea|J 和|hé 黑茶|hēichá|dark_(post-fermented)_tea|J 。
+> The most common way to classify them is by how the tea is made, which gives six large groups: green, white, yellow, oolong, black and dark tea.
+这些|zhèxiē 茶|chá 都|dōu 来自|láizì 同|tóng|same 一|yī 种|zhǒng 茶树|cháshù ， 不同|bùtóng 的|de 是|shì 做法|zuòfǎ 。
+> All of them come from the same tea plant; what differs is how they are made.
+茶叶|cháyè 摘|zhāi|to_pick 下来|xiàlai 以后|yǐhòu ， 会|huì 跟|gēn 空气|kōngqì 发生|fāshēng 变化|biànhuà ， 这个|zhège 过程|guòchéng 叫|jiào “ 发酵|fājiào|fermentation_(here:_oxidation)|J ” 。
+> After the leaves are picked, they react with the air; this process is called “fermentation” (strictly speaking, oxidation).
+发酵|fājiào 得|de 越|yuè 多|duō ， 茶|chá 的|de 颜色|yánsè 一般|yībān 就|jiù 越|yuè 深|shēn ， 味道|wèidao 也|yě 越|yuè 浓|nóng|strong_(of_flavour) 。
+> The more a tea is oxidised, the darker its colour usually is, and the stronger its flavour.
+
+@p kinds-2
+绿茶|lǜchá 是|shì 中国|Zhōngguó 人|rén 喝|hē 得|de 最|zuì 多|duō 的|de 茶|chá 。
+> Green tea is the tea Chinese people drink most.
+它|tā 几乎|jīhū 没有|méiyǒu 发酵|fājiào ， 所以|suǒyǐ 茶水|cháshuǐ 是|shì 浅|qiǎn 绿色|lǜsè 的|de ， 味道|wèidao 清新|qīngxīn|fresh,_light 。
+> It is hardly oxidised at all, so the tea is pale green and tastes fresh and light.
+杭州|Hángzhōu|Hangzhou|N 的|de 龙井|Lóngjǐng|Longjing_(Dragon_Well)_green_tea|J 和|hé 江苏|Jiāngsū|Jiangsu_(province)|N 的|de 碧螺春|Bìluóchūn|Biluochun_green_tea|J 都|dōu 是|shì 很|hěn 有名|yǒumíng 的|de 绿茶|lǜchá 。
+> Longjing (Dragon Well) from Hangzhou and Biluochun from Jiangsu are both famous green teas.
+泡|pào 绿茶|lǜchá 的|de 时候|shíhou ， 水|shuǐ 不要|bùyào 太|tài 热|rè ， 八十|bāshí 度|dù 左右|zuǒyòu 就|jiù 可以|kěyǐ 了|le ， 不然|bùrán 茶叶|cháyè 会|huì 被|bèi 烫|tàng|to_scald 坏|huài ， 喝|hē 起来|qǐlai 会|huì 有点儿|yǒudiǎnr 苦|kǔ 。
+> When brewing green tea, the water should not be too hot; about eighty degrees is enough. Otherwise the leaves get scalded and the tea tastes a little bitter.
+
+@p kinds-3
+青茶|qīngchá 也|yě 叫|jiào 乌龙茶|wūlóngchá|oolong_tea|J ， 它|tā 的|de 发酵|fājiào 程度|chéngdù 在|zài 绿茶|lǜchá 和|hé 红茶|hóngchá 之间|zhījiān 。
+> Qingcha is also called oolong; its degree of oxidation lies between that of green and black tea.
+福建|Fújiàn 和|hé 台湾|Táiwān|Taiwan|N 都|dōu 出产|chūchǎn|to_produce 很|hěn 好|hǎo 的|de 乌龙茶|wūlóngchá ， 福建|Fújiàn 的|de 铁观音|Tiěguānyīn|Tieguanyin_oolong_tea|J 和|hé 大红袍|Dàhóngpáo|Da_Hong_Pao_(“Big_Red_Robe”)_oolong|J 都|dōu 非常|fēicháng 有名|yǒumíng 。
+> Fujian and Taiwan both produce excellent oolong; Tieguanyin and Da Hong Pao from Fujian are both very famous.
+乌龙茶|wūlóngchá 的|de 香味|xiāngwèi|fragrance 很|hěn 特别|tèbié ， 有的|yǒude 像|xiàng 花|huā ， 有的|yǒude 像|xiàng 水果|shuǐguǒ ， 而且|érqiě 可以|kěyǐ 泡|pào 很多|hěnduō 次|cì 。
+> Oolong has a very special fragrance – some smell like flowers, some like fruit – and the same leaves can be steeped many times.
+
+@p kinds-4
+红茶|hóngchá 在|zài 英语|Yīngyǔ 里|lǐ 不|bù 叫|jiào “ red_tea ” ， 而|ér 叫|jiào “ black_tea ” ， 这|zhè 是|shì 因为|yīnwèi 外国人|wàiguórén 看|kàn 的|de 是|shì 茶叶|cháyè 的|de 颜色|yánsè ， 而|ér 中国|Zhōngguó 人|rén 看|kàn 的|de 是|shì 茶水|cháshuǐ 的|de 颜色|yánsè 。
+> In English, hongcha is not called “red tea” but “black tea”, because foreigners named it after the colour of the leaves, while Chinese people name it after the colour of the tea in the cup.
+红茶|hóngchá 是|shì 全|quán 发酵|fājiào 的|de 茶|chá ， 味道|wèidao 比较|bǐjiào 浓|nóng ， 可以|kěyǐ 加|jiā 牛奶|niúnǎi 和|hé 糖|táng 。
+> Black tea is fully oxidised and has a fairly strong flavour, so milk and sugar can be added.
+中国|Zhōngguó 最|zuì 有名|yǒumíng 的|de 红茶|hóngchá 之一|zhīyī 是|shì 安徽|Ānhuī|Anhui_(province)|N 的|de 祁门|Qímén|Qimen_(Keemun)|N 红茶|hóngchá 。
+> One of China's most famous black teas is Keemun, from Qimen in Anhui.
+
+@p kinds-5
+黑茶|hēichá 里|lǐ 最|zuì 有名|yǒumíng 的|de 是|shì 云南|Yúnnán 的|de 普洱茶|Pǔ'ěrchá|Pu'er_tea|J 。
+> The best-known dark tea is Pu'er from Yunnan.
+普洱茶|Pǔ'ěrchá 常常|chángcháng 被|bèi 压|yā 成|chéng 圆圆|yuányuán|round 的|de 茶饼|chábǐng|tea_cake_(pressed_tea)|J ， 可以|kěyǐ 放|fàng 很多|hěnduō 年|nián 。
+> Pu'er is often pressed into round tea cakes, which can be kept for many years.
+有的|yǒude 人|rén 认为|rènwéi ， 好|hǎo 的|de 普洱茶|Pǔ'ěrchá 就|jiù 像|xiàng 好|hǎo 酒|jiǔ 一样|yīyàng ， 放|fàng 的|de 时间|shíjiān 越|yuè 长|cháng ， 味道|wèidao 越|yuè 好|hǎo ， 所以|suǒyǐ 老|lǎo 的|de 普洱茶|Pǔ'ěrchá 有时候|yǒushíhou 非常|fēicháng 贵|guì 。
+> Some people believe that good Pu'er is like good wine: the longer it is kept, the better it tastes, which is why old Pu'er can be very expensive.
+
+@p kinds-6
+白茶|báichá 和|hé 黄茶|huángchá 比较|bǐjiào 少见|shǎojiàn|rare 。
+> White and yellow teas are less common.
+白茶|báichá 几乎|jīhū 不|bù 加工|jiāgōng|to_process ， 摘|zhāi 下来|xiàlai 以后|yǐhòu 只|zhǐ 是|shì 放|fàng 着|zhe ， 让|ràng 它|tā 慢慢|mànmàn 变|biàn 干|gān ， 所以|suǒyǐ 味道|wèidao 很|hěn 淡|dàn|light,_mild 。
+> White tea is hardly processed at all: after picking, the leaves are simply left to dry slowly, so its taste is very delicate.
+另外|lìngwài ， 中国|Zhōngguó 人|rén 也|yě 喜欢|xǐhuan 喝|hē 花茶|huāchá|flower-scented_tea|J ， 最|zuì 常见|chángjiàn 的|de 是|shì 茉莉花茶|mòlìhuāchá|jasmine_tea|J ， 就是|jiùshì 把|bǎ 茶叶|cháyè 和|hé 茉莉花|mòlìhuā|jasmine_flowers|J 放|fàng 在|zài 一起|yīqǐ ， 让|ràng 茶叶|cháyè 吸收|xīshōu 花|huā 的|de 香味|xiāngwèi 。
+> Chinese people also like scented teas. The most common is jasmine tea, made by putting tea leaves together with jasmine flowers so that the leaves absorb their fragrance.
+在|zài 北方|běifāng ， 特别|tèbié 是|shì 在|zài 北京|Běijīng ， 茉莉花茶|mòlìhuāchá 非常|fēicháng 受欢迎|shòuhuānyíng 。
+> In the north, and especially in Beijing, jasmine tea is very popular.
+
+@h2 h-brewing
+怎么|zěnme 泡|pào 茶|chá
+> How to Brew Tea
+
+@p brew-1
+在|zài 中国|Zhōngguó ， 泡|pào 茶|chá 的|de 方法|fāngfǎ 很|hěn 多|duō ， 最|zuì 简单|jiǎndān 的|de 是|shì 用|yòng 杯子|bēizi 泡|pào ： 在|zài 杯子|bēizi 里|lǐ 放|fàng 一些|yīxiē 茶叶|cháyè ， 然后|ránhòu 倒|dào 进|jìn 热水|rèshuǐ ， 等|děng 两|liǎng 三|sān 分钟|fēnzhōng 就|jiù 可以|kěyǐ 喝|hē 了|le 。
+> There are many ways to brew tea in China. The simplest is to brew it in a glass: put in some leaves, pour in hot water, wait two or three minutes, and it is ready to drink.
+很多|hěnduō 上班|shàngbān 的|de 人|rén 每天|měitiān 早上|zǎoshang 都|dōu 会|huì 这样|zhèyàng 泡|pào 一|yī 大|dà 杯|bēi 茶|chá ， 一直|yīzhí 喝|hē 到|dào 下午|xiàwǔ ， 水|shuǐ 少|shǎo 了|le 就|jiù 再|zài 加|jiā 热水|rèshuǐ 。
+> Many office workers make a big glass of tea like this every morning and keep drinking it until the afternoon, topping it up with hot water whenever it runs low.
+
+@p brew-2
+如果|rúguǒ 想|xiǎng 好好|hǎohǎo 品|pǐn|to_savour 茶|chá ， 人们|rénmen 会|huì 用|yòng 一|yī 种|zhǒng 更|gèng 讲究|jiǎngjiu|elaborate,_particular 的|de 方法|fāngfǎ ， 叫|jiào “ 功夫茶|gōngfuchá|gongfu_tea|J ” 。
+> If people want to really savour their tea, they use a more elaborate method called “gongfu tea”.
+功夫茶|gōngfuchá 来自|láizì 中国|Zhōngguó 南方|nánfāng 的|de 福建|Fújiàn 和|hé 广东|Guǎngdōng ， 特别|tèbié 是|shì 潮汕|Cháoshàn|Chaoshan_(region_in_eastern_Guangdong)|N 地区|dìqū 。
+> Gongfu tea comes from Fujian and Guangdong in southern China, especially the Chaoshan region.
+泡|pào 功夫茶|gōngfuchá 需要|xūyào 一|yī 套|tào 小小|xiǎoxiǎo 的|de 茶具|chájù|tea_set,_tea_ware|J ： 一|yī 个|gè 小|xiǎo 茶壶|cháhú|teapot|J 或者|huòzhě 盖碗|gàiwǎn|lidded_bowl_(gaiwan)|J ， 几|jǐ 个|gè 只|zhǐ 能|néng 装|zhuāng 一|yī 两|liǎng 口|kǒu 茶|chá 的|de 小|xiǎo 杯子|bēizi ， 还有|háiyǒu 一|yī 个|gè 茶盘|chápán|tea_tray|J 。
+> Brewing gongfu tea needs a small set of tea ware: a little teapot or a gaiwan (a lidded bowl), a few tiny cups that hold only a sip or two, and a tea tray.
+
+@p brew-3
+泡|pào 功夫茶|gōngfuchá 的|de 时候|shíhou ， 先|xiān 用|yòng 热水|rèshuǐ 把|bǎ 茶壶|cháhú 和|hé 杯子|bēizi 烫|tàng 一|yī 遍|biàn ， 让|ràng 它们|tāmen 变|biàn 热|rè 。
+> To brew gongfu tea, you first rinse the teapot and cups with hot water to warm them up.
+然后|ránhòu 放|fàng 进|jìn 茶叶|cháyè ， 倒|dào 进|jìn 热水|rèshuǐ ， 很|hěn 快|kuài 就|jiù 把|bǎ 第一|dìyī 次|cì 的|de 水|shuǐ 倒|dào 掉|diào ， 这|zhè 叫|jiào “ 洗茶|xǐchá|rinsing_the_tea|J ” ， 可以|kěyǐ 让|ràng 茶叶|cháyè 慢慢|mànmàn 打开|dǎkāi 。
+> Then you put in the leaves, pour in hot water and quickly pour this first water away. This is called “rinsing the tea”, and it lets the leaves begin to open.
+接下来|jiēxiàlái 再|zài 倒|dào 进|jìn 热水|rèshuǐ ， 等|děng 几|jǐ 秒钟|miǎozhōng|second_(of_time) 到|dào 半|bàn 分钟|fēnzhōng ， 就|jiù 把|bǎ 茶|chá 倒|dào 进|jìn 杯子|bēizi 里|lǐ ， 请|qǐng 客人|kèrén 喝|hē 。
+> Next you pour in hot water again, wait from a few seconds to half a minute, then pour the tea into the cups for the guests.
+同样|tóngyàng 的|de 茶叶|cháyè 可以|kěyǐ 泡|pào 很多|hěnduō 次|cì ， 每|měi 一|yī 次|cì 的|de 味道|wèidao 都|dōu 有|yǒu 一点儿|yīdiǎnr 不同|bùtóng 。
+> The same leaves can be steeped many times, and each round tastes a little different.
+
+@p brew-4
+喝|hē 功夫茶|gōngfuchá 的|de 时候|shíhou ， 人们|rénmen 不是|bùshì 大|dà 口|kǒu 大|dà 口|kǒu 地|de 喝|hē ， 而是|érshì 一|yī 小|xiǎo 口|kǒu 一|yī 小|xiǎo 口|kǒu 地|de 慢慢|mànmàn 品|pǐn 。
+> People don't gulp gongfu tea; they savour it slowly, one small sip at a time.
+先|xiān 看|kàn 茶|chá 的|de 颜色|yánsè ， 再|zài 闻|wén 茶|chá 的|de 香味|xiāngwèi ， 最后|zuìhòu 才|cái 喝|hē 。
+> First they look at its colour, then smell its aroma, and only then drink.
+很多|hěnduō 人|rén 说|shuō ， 功夫茶|gōngfuchá 的|de “ 功夫|gōngfu ” 不|bù 只|zhǐ 是|shì 指|zhǐ 泡|pào 茶|chá 的|de 技术|jìshù ， 也|yě 是|shì 指|zhǐ 愿意|yuànyì 花|huā 时间|shíjiān 、 慢|màn 下来|xiàlai 的|de 心情|xīnqíng 。
+> Many say that the “gongfu” in gongfu tea refers not only to the skill of brewing, but also to a willingness to take time and slow down.
+
+@h2 h-teahouse
+茶馆|cháguǎn 和|hé 待客|dàikè|to_receive_guests
+> Teahouses and Hospitality
+
+@p house-1
+在|zài 中国|Zhōngguó ， 茶馆|cháguǎn 是|shì 一|yī 个|gè 很|hěn 重要|zhòngyào 的|de 地方|dìfang 。
+> In China, the teahouse is a very important place.
+以前|yǐqián ， 茶馆|cháguǎn 就|jiù 像|xiàng 今天|jīntiān 的|de 咖啡馆|kāfēiguǎn 一样|yīyàng ， 人们|rénmen 在|zài 那里|nàli 喝|hē 茶|chá 、 聊天|liáotiān 、 谈|tán 生意|shēngyi ， 也|yě 听|tīng 人|rén 讲|jiǎng 故事|gùshi 、 唱|chàng 戏|xì|(Chinese)_opera 。
+> In the past, teahouses were like today's cafés: people went there to drink tea, chat and do business, and also to listen to storytellers and opera singers.
+在|zài 成都|Chéngdū|Chengdu|N ， 很多|hěnduō 老人|lǎorén 每天|měitiān 早上|zǎoshang 都|dōu 去|qù 茶馆|cháguǎn ， 坐|zuò 在|zài 竹|zhú|bamboo 椅子|yǐzi 上|shàng ， 一边|yībiān 喝|hē 茶|chá ， 一边|yībiān 和|hé 朋友|péngyou 聊天|liáotiān ， 一|yī 坐|zuò 就|jiù 是|shì 一|yī 个|gè 上午|shàngwǔ 。
+> In Chengdu many old people go to the teahouse every morning, sit on bamboo chairs drinking tea and chatting with friends, and stay the whole morning.
+在|zài 广州|Guǎngzhōu|Guangzhou|N ， 人们|rénmen 喜欢|xǐhuan 去|qù 茶楼|chálóu|teahouse_restaurant|J “ 饮茶|yǐnchá|“drinking_tea”:_a_Cantonese_dim_sum_meal|J ” ， 除了|chúle 茶|chá 以外|yǐwài ， 还|hái 会|huì 吃|chī 很多|hěnduō 小|xiǎo 点心|diǎnxin|dim_sum,_snacks ， 比如|bǐrú 虾饺|xiājiǎo|shrimp_dumplings|J 和|hé 叉烧包|chāshāobāo|barbecued_pork_buns|J 。
+> In Guangzhou people like to go to teahouse restaurants for yum cha, “drinking tea” – which besides tea means eating lots of small dim sum dishes, such as shrimp dumplings and barbecued pork buns.
+
+@p house-2
+茶|chá 也|yě 是|shì 中国|Zhōngguó 人|rén 待客|dàikè 的|de 重要|zhòngyào 方式|fāngshì 。
+> Tea is also an important part of Chinese hospitality.
+客人|kèrén 来|lái 到|dào 家里|jiālǐ ， 主人|zhǔrén 做|zuò 的|de 第一|dìyī 件|jiàn 事|shì 常常|chángcháng 就|jiù 是|shì 给|gěi 客人|kèrén 倒|dào 一|yī 杯|bēi 茶|chá 。
+> When guests arrive at someone's home, the first thing the host does is often to pour them a cup of tea.
+倒|dào 茶|chá 的|de 时候|shíhou ， 一般|yībān 不要|bùyào 倒|dào 得|de 太|tài 满|mǎn ， 因为|yīnwèi 太|tài 满|mǎn 的|de 茶杯|chábēi 很|hěn 烫|tàng ， 客人|kèrén 不|bù 好|hǎo 拿|ná ， 所以|suǒyǐ 人们|rénmen 常|cháng 说|shuō “ 茶满欺人|chá_mǎn_qī_rén|“a_full_cup_of_tea_slights_the_guest”|I ” 。
+> When pouring tea, you shouldn't fill the cup too full, because a brimming cup is too hot for the guest to hold. That's why people say, “A full cup of tea slights the guest.”
+人们|rénmen 一般|yībān 只|zhǐ 倒|dào 七八|qībā 分|fēn 满|mǎn 。
+> Usually people fill it only seventy or eighty percent.
+
+@p house-3
+在|zài 广东|Guǎngdōng 和|hé 福建|Fújiàn ， 还有|háiyǒu 一|yī 个|gè 有意思|yǒuyìsi 的|de 习惯|xíguàn 。
+> In Guangdong and Fujian there is another interesting custom.
+别人|biérén 给|gěi 你|nǐ 倒|dào 茶|chá 的|de 时候|shíhou ， 你|nǐ 可以|kěyǐ 用|yòng 两|liǎng 三|sān 个|gè 手指|shǒuzhǐ 在|zài 桌子|zhuōzi 上|shàng 轻轻|qīngqīng 敲|qiāo|to_tap,_to_knock 几|jǐ 下|xià ， 表示|biǎoshì “ 谢谢|xièxie ” 。
+> When someone pours tea for you, you can tap the table lightly a few times with two or three fingers to say “thank you”.
+据说|jùshuō|it_is_said 这个|zhège 习惯|xíguàn 和|hé 清朝|Qīngcháo|the_Qing_dynasty_(1644–1912)|N 的|de 乾隆|Qiánlóng|the_Qianlong_Emperor_(r._1735–1796)|N 皇帝|huángdì|emperor 有关|yǒuguān|to_be_related_to 。
+> This custom is said to go back to the Qianlong Emperor of the Qing dynasty.
+传说|chuánshuō 乾隆|Qiánlóng 有|yǒu 一|yī 次|cì 穿|chuān 着|zhe 普通|pǔtōng 人|rén 的|de 衣服|yīfu 去|qù 南方|nánfāng 旅行|lǚxíng ， 在|zài 茶馆|cháguǎn 里|lǐ 亲自|qīnzì|personally 给|gěi 身边|shēnbiān 的|de 人|rén 倒|dào 茶|chá 。
+> Legend has it that Qianlong once travelled in the south dressed as an ordinary man, and in a teahouse he poured tea for his companions himself.
+身边|shēnbiān 的|de 人|rén 不|bù 能|néng 跪|guì|to_kneel 下来|xiàlai 感谢|gǎnxiè 皇帝|huángdì ， 因为|yīnwèi 怕|pà 别人|biérén 发现|fāxiàn 皇帝|huángdì 的|de 身份|shēnfèn|identity ， 就|jiù 用|yòng 手指|shǒuzhǐ 在|zài 桌子|zhuōzi 上|shàng 敲|qiāo 了|le 几|jǐ 下|xià ， 代替|dàitì 跪|guì 下|xià 。
+> His companions could not kneel to thank the emperor, for fear that others would discover who he was, so they tapped their fingers on the table a few times instead of kneeling.
+
+@p house-4
+茶|chá 还|hái 有|yǒu 很多|hěnduō 别的|biéde 用处|yòngchu|use 。
+> Tea has many other uses too.
+在|zài 传统|chuántǒng 的|de 婚礼|hūnlǐ|wedding 上|shàng ， 新娘|xīnniáng|bride 和|hé 新郎|xīnláng|groom 要|yào 给|gěi 父母|fùmǔ 敬茶|jìngchá|to_serve_tea_(as_a_mark_of_respect)|J ， 表示|biǎoshì 尊敬|zūnjìng|to_respect 和|hé 感谢|gǎnxiè 。
+> At a traditional wedding, the bride and groom serve tea to their parents to show respect and gratitude.
+年轻人|niánqīngrén 做|zuò 错|cuò 了|le 事情|shìqing ， 有时候|yǒushíhou 也|yě 会|huì 给|gěi 长辈|zhǎngbèi|elders 倒|dào 一|yī 杯|bēi 茶|chá ， 表示|biǎoshì 道歉|dàoqiàn|to_apologise 。
+> When young people have done something wrong, they sometimes pour a cup of tea for their elders as an apology.
+所以|suǒyǐ ， 一|yī 杯|bēi 茶|chá 里|lǐ ， 常常|chángcháng 有|yǒu 很多|hěnduō 说|shuō 不|bù 出来|chūlai 的|de 意思|yìsi 。
+> So a single cup of tea often carries many meanings that go unspoken.
+
+@h2 h-road
+茶马古道|Chá-Mǎ_Gǔdào|the_Tea_Horse_Road|N
+> The Tea Horse Road
+
+@p road-1
+在|zài 中国|Zhōngguó 西南|xīnán 部|bù ， 有|yǒu 一|yī 条|tiáo 很|hěn 有名|yǒumíng 的|de 古代|gǔdài 商路|shānglù|trade_route ， 叫|jiào “ 茶马古道|Chá-Mǎ_Gǔdào ” 。
+> In southwest China there is a famous ancient trade route called the “Tea Horse Road”.
+它|tā 从|cóng 四川|Sìchuān|Sichuan_(province)|N 和|hé 云南|Yúnnán 出发|chūfā ， 经过|jīngguò 很|hěn 高|gāo 很|hěn 险|xiǎn|dangerous,_steep 的|de 山|shān ， 一直|yīzhí 通|tōng 到|dào 西藏|Xīzàng|Tibet|N ， 有的|yǒude 路|lù 还|hái 通|tōng 到|dào 了|le 尼泊尔|Níbó'ěr|Nepal|N 和|hé 印度|Yìndù 。
+> It set out from Sichuan and Yunnan, crossed very high and dangerous mountains and led all the way to Tibet; some routes went on as far as Nepal and India.
+这|zhè 条|tiáo 路|lù 已经|yǐjīng 有|yǒu 一千|yīqiān 多|duō 年|nián 的|de 历史|lìshǐ 了|le 。
+> The road has a history of more than a thousand years.
+
+@p road-2
+为什么|wèishénme 叫|jiào “ 茶马古道|Chá-Mǎ_Gǔdào ” 呢|ne ？
+> Why is it called the “Tea Horse Road”?
+因为|yīnwèi 在|zài 这|zhè 条|tiáo 路|lù 上|shàng ， 人们|rénmen 主要|zhǔyào 用|yòng 茶|chá 来|lái 换|huàn 马|mǎ 。
+> Because along this road, people mainly traded tea for horses.
+西藏|Xīzàng 的|de 人们|rénmen 住|zhù 在|zài 很|hěn 高|gāo 的|de 地方|dìfang ， 天气|tiānqì 很|hěn 冷|lěng ， 平时|píngshí 吃|chī 很多|hěnduō 肉|ròu 和|hé 奶|nǎi ， 很|hěn 少|shǎo 吃|chī 蔬菜|shūcài|vegetables ， 所以|suǒyǐ 他们|tāmen 需要|xūyào 喝|hē 茶|chá 来|lái 帮助|bāngzhù 消化|xiāohuà|digestion 。
+> The people of Tibet live at high altitude in a cold climate. They usually eat a lot of meat and dairy and few vegetables, so they need tea to help their digestion.
+而|ér 中原|Zhōngyuán|the_Central_Plains_(heartland_of_China)|N 地区|dìqū 需要|xūyào 好|hǎo 马|mǎ ， 特别|tèbié 是|shì 在|zài 打仗|dǎzhàng|to_go_to_war 的|de 时候|shíhou 。
+> China's heartland, meanwhile, needed good horses, especially in times of war.
+所以|suǒyǐ ， 两|liǎng 边|biān 的|de 人|rén 就|jiù 用|yòng 茶|chá 换|huàn 马|mǎ ， 这种|zhèzhǒng 交易|jiāoyì|trade,_exchange 叫|jiào “ 茶马互市|chá-mǎ_hùshì|the_tea-for-horses_trade|J ” 。
+> So the two sides exchanged tea for horses, a trade known as the “tea-horse market”.
+
+@p road-3
+在|zài 这|zhè 条|tiáo 路|lù 上|shàng 运|yùn|to_carry,_to_transport 茶|chá 非常|fēicháng 辛苦|xīnkǔ|hard,_toilsome 。
+> Carrying tea along this road was extremely hard work.
+很多|hěnduō 路|lù 又|yòu 窄|zhǎi|narrow 又|yòu 陡|dǒu|steep ， 只|zhǐ 能|néng 走|zǒu 人|rén 和|hé 马|mǎ ， 人们|rénmen 用|yòng 马|mǎ 或者|huòzhě 自己|zìjǐ 的|de 背|bèi|back_(of_the_body) 把|bǎ 一|yī 包|bāo 一|yī 包|bāo 的|de 茶|chá 运|yùn 过去|guòqu 。
+> Many paths were narrow and steep, passable only by people and horses, so the tea was carried across bundle by bundle, on horseback or on people's own backs.
+为了|wèile 方便|fāngbiàn 运输|yùnshū|transport ， 茶叶|cháyè 常常|chángcháng 被|bèi 压|yā 成|chéng 很|hěn 硬|yìng|hard 的|de 砖|zhuān|brick ， 叫|jiào “ 砖茶|zhuānchá|brick_tea|J ” 。
+> To make transport easier, the leaves were often pressed into hard bricks known as “brick tea”.
+一|yī 次|cì 旅行|lǚxíng 常常|chángcháng 要|yào 走|zǒu 好|hǎo 几|jǐ 个|gè 月|yuè ， 路|lù 上|shàng 要|yào 经过|jīngguò 高山|gāoshān|high_mountain 、 大|dà 河|hé 和|hé 雪|xuě 地|dì ， 非常|fēicháng 危险|wēixiǎn 。
+> A single journey often took several months, crossing high mountains, big rivers and snowfields, and it was very dangerous.
+今天|jīntiān ， 这|zhè 条|tiáo 路|lù 的|de 很多|hěnduō 地方|dìfang 已经|yǐjīng 修|xiū 了|le 公路|gōnglù ， 但是|dànshì 还有|háiyǒu 一些|yīxiē 老|lǎo 路|lù 和|hé 古镇|gǔzhèn|old_town 留|liú 了|le 下来|xiàlai ， 吸引|xīyǐn 了|le 很多|hěnduō 游客|yóukè 。
+> Today roads have been built along much of the route, but some old paths and ancient towns survive and attract many visitors.
+
+@p road-4
+今天|jīntiān ， 西藏|Xīzàng 人|rén 还是|háishi 很|hěn 喜欢|xǐhuan 喝|hē 酥油茶|sūyóuchá|butter_tea|J 。
+> Tibetans today still love to drink butter tea.
+酥油茶|sūyóuchá 是|shì 用|yòng 砖茶|zhuānchá 、 酥油|sūyóu|yak_butter|J 和|hé 盐|yán 做|zuò 的|de ， 喝|hē 起来|qǐlai 有点儿|yǒudiǎnr 咸|xián|salty ， 可以|kěyǐ 让|ràng 身体|shēntǐ 变|biàn 暖|nuǎn|warm ， 还|hái 能|néng 补充|bǔchōng 能量|néngliàng|energy 。
+> Butter tea is made from brick tea, yak butter and salt. It tastes a little salty, warms the body and gives you energy.
+从|cóng 一|yī 杯|bēi 酥油茶|sūyóuchá 里|lǐ ， 我们|wǒmen 还|hái 能|néng 看到|kàndào 那|nà 条|tiáo 古老|gǔlǎo 商路|shānglù 留|liú 下|xià 的|de 影子|yǐngzi|shadow,_trace 。
+> In a cup of butter tea, we can still see a trace of that ancient trade route.
+
+@h2 h-end
+结语|jiéyǔ|concluding_remarks
+> In Closing
+
+@p end
+从|cóng 古代|gǔdài 的|de 药|yào ， 到|dào 今天|jīntiān 的|de 日常|rìcháng 饮料|yǐnliào|drink,_beverage ； 从|cóng 皇帝|huángdì 的|de 宫殿|gōngdiàn|palace ， 到|dào 普通|pǔtōng 人|rén 的|de 小|xiǎo 茶馆|cháguǎn ， 茶|chá 已经|yǐjīng 陪伴|péibàn|to_accompany 了|le 中国|Zhōngguó 人|rén 几|jǐ 千|qiān 年|nián 。
+> From an ancient medicine to an everyday drink, from emperors' palaces to ordinary people's little teahouses, tea has kept the Chinese company for thousands of years.
+今天|jīntiān ， 中国|Zhōngguó 的|de 年轻人|niánqīngrén 也|yě 喝|hē 奶茶|nǎichá|milk_tea|J 、 喝|hē 咖啡|kāfēi ， 可是|kěshì 在|zài 很多|hěnduō 家庭|jiātíng 里|lǐ ， 一|yī 壶|hú|pot_(measure_word) 热|rè 茶|chá 还是|háishi 最|zuì 常见|chángjiàn 的|de 东西|dōngxi 。
+> Young Chinese people today also drink milk tea and coffee, but in many homes a pot of hot tea is still the most familiar thing of all.
+下次|xiàcì 你|nǐ 喝|hē 茶|chá 的|de 时候|shíhou ， 可以|kěyǐ 慢|màn 一点儿|yīdiǎnr ， 闻|wén 一|yī 闻|wén ， 品|pǐn 一|yī 品|pǐn ， 也许|yěxǔ 你|nǐ 会|huì 发现|fāxiàn ， 一|yī 杯|bēi 简单|jiǎndān 的|de 茶|chá 里|lǐ 有|yǒu 很多|hěnduō 故事|gùshi 。
+> Next time you drink tea, slow down a little, smell it and savour it. Perhaps you will discover that a simple cup of tea holds many stories.

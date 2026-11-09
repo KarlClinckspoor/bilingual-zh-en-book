@@ -1,0 +1,239 @@
+# Chinese food by region – original text for zhbook.
+# Written by Claude (Anthropic). Target: mostly HSK 3.0 level 4 or below;
+# words above level 4 glossed; J = food/cooking terms, N = names, I = set phrases.
+
+@meta {"title_zh": "中国各地的饮食", "subtitle_zh": "从北方的面到南方的早茶", "title_en": "Food Across China", "subtitle_en": "From Northern Noodles to Southern Morning Tea", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+中国|Zhōngguó 很|hěn 大|dà ， 各个|gègè 地方|dìfang 的|de 气候|qìhòu 、 环境|huánjìng 和|hé 历史|lìshǐ 都|dōu 不|bù 一样|yīyàng ， 所以|suǒyǐ 人们|rénmen 吃|chī 的|de 东西|dōngxi 也|yě 很|hěn 不|bù 一样|yīyàng 。
+> China is a huge country. Its regions differ in climate, landscape and history, so people in different places eat very different things.
+有|yǒu 人|rén 说|shuō ， 在|zài 中国|Zhōngguó ， 每|měi 走|zǒu 几|jǐ 百|bǎi 公里|gōnglǐ ， 饭菜|fàncài 的|de 味道|wèidao 就|jiù 会|huì 变|biàn 。
+> Some say that in China the taste of the food changes every few hundred kilometres.
+中国|Zhōngguó 人|rén 常|cháng 说|shuō “ 八大菜系|bā_dà_càixì|the_Eight_Great_Cuisines|J ” ， 意思|yìsi 是|shì 八|bā 个|gè 有名|yǒumíng 的|de 地方|dìfang 菜|cài ： 鲁菜|Lǔcài|Shandong_cuisine|J 、 川菜|Chuāncài|Sichuan_cuisine|J 、 粤菜|Yuècài|Cantonese_cuisine|J 、 苏菜|Sūcài|Jiangsu_cuisine|J 、 闽菜|Mǐncài|Fujian_cuisine|J 、 浙菜|Zhècài|Zhejiang_cuisine|J 、 湘菜|Xiāngcài|Hunan_cuisine|J 和|hé 徽菜|Huīcài|Anhui_cuisine|J 。
+> Chinese people often speak of the “Eight Great Cuisines”, eight famous regional styles: Shandong, Sichuan, Cantonese, Jiangsu, Fujian, Zhejiang, Hunan and Anhui cooking.
+当然|dāngrán ， 中国|Zhōngguó 的|de 地方|dìfang 菜|cài 远远|yuǎnyuǎn|far_(more) 不止|bùzhǐ|more_than 八|bā 种|zhǒng 。
+> Of course, China has far more than eight regional cuisines.
+这|zhè 篇|piān 文章|wénzhāng 就|jiù 带|dài 你|nǐ 去|qù 看看|kànkan 中国|Zhōngguó 各地|gèdì 的|de 饮食|yǐnshí|food_and_drink,_diet 有|yǒu 什么|shénme 特点|tèdiǎn 。
+> This article takes you on a tour to see what makes the food of each part of China special.
+
+@h2 h-north-south
+北方|běifāng 的|de 面|miàn ， 南方|nánfāng 的|de 米|mǐ
+> Noodles in the North, Rice in the South
+
+@p ns-1
+中国|Zhōngguó 北方|běifāng 和|hé 南方|nánfāng 最|zuì 大|dà 的|de 区别|qūbié 之一|zhīyī|one_of ， 是|shì 主食|zhǔshí|staple_food 不同|bùtóng 。
+> One of the biggest differences between northern and southern China is the staple food.
+北方|běifāng 冬天|dōngtiān 冷|lěng ， 雨水|yǔshuǐ|rainfall 比较|bǐjiào 少|shǎo ， 适合|shìhé 种|zhòng 小麦|xiǎomài|wheat ， 所以|suǒyǐ 北方|běifāng 人|rén 主要|zhǔyào 吃|chī 面食|miànshí|wheat-based_foods|J ， 比如|bǐrú 面条|miàntiáo 、 饺子|jiǎozi|dumplings 、 包子|bāozi|steamed_stuffed_buns 和|hé 馒头|mántou|plain_steamed_buns|J 。
+> Northern winters are cold and there is less rain, which suits wheat, so northerners mainly eat wheat-based foods such as noodles, dumplings, stuffed buns and plain steamed buns.
+南方|nánfāng 天气|tiānqì 暖和|nuǎnhuo ， 雨水|yǔshuǐ 多|duō ， 适合|shìhé 种|zhòng 水稻|shuǐdào|rice_(the_crop) ， 所以|suǒyǐ 南方|nánfāng 人|rén 每天|měitiān 都|dōu 离不开|líbukāi|can't_do_without 米饭|mǐfàn 。
+> The south is warm and rainy, ideal for growing rice, so southerners can hardly go a day without it.
+
+@p ns-2
+在|zài 北方|běifāng ， 面食|miànshí 的|de 种类|zhǒnglèi 非常|fēicháng 多|duō 。
+> In the north there is a huge variety of wheat-based dishes.
+山西|Shānxī|Shanxi_(province)|N 人|rén 特别|tèbié 会|huì 做|zuò 面|miàn ， 据说|jùshuō|it_is_said 山西|Shānxī 的|de 面食|miànshí 有|yǒu 几|jǐ 百|bǎi 种|zhǒng 。
+> People in Shanxi are especially good at making noodles; it is said the province has several hundred kinds of wheat dishes.
+其中|qízhōng 最|zuì 有名|yǒumíng 的|de 是|shì 刀削面|dāoxiāomiàn|knife-shaved_noodles|J ： 厨师|chúshī|chef,_cook 一|yī 手|shǒu 拿|ná 着|zhe 一|yī 大|dà 块|kuài 面|miàn ， 一|yī 手|shǒu 拿|ná 着|zhe 刀|dāo ， 很|hěn 快|kuài 地|de 把|bǎ 面|miàn 一|yī 片|piàn 一|yī 片|piàn 削|xiāo|to_shave,_to_pare 到|dào 开水|kāishuǐ 里|lǐ 。
+> The best known is knife-shaved noodles: the cook holds a big lump of dough in one hand and a knife in the other, and quickly shaves the dough strip by strip straight into boiling water.
+兰州|Lánzhōu|Lanzhou|N 牛肉面|niúròumiàn|beef_noodle_soup|J 也|yě 很|hěn 有名|yǒumíng ， 当地|dāngdì|local 人|rén 说|shuō ， 一|yī 碗|wǎn 好|hǎo 的|de 牛肉面|niúròumiàn ， 汤|tāng 要|yào 清|qīng|clear ， 萝卜|luóbo|radish 要|yào 白|bái ， 辣椒油|làjiāoyóu|chili_oil|J 要|yào 红|hóng ， 香菜|xiāngcài|coriander 要|yào 绿|lǜ ， 面|miàn 要|yào 黄|huáng 。
+> Lanzhou beef noodle soup is famous too. Locals say that in a good bowl the broth is clear, the radish white, the chili oil red, the coriander green and the noodles yellow.
+
+@p ns-3
+南方|nánfāng 人|rén 不但|bùdàn 吃|chī 米饭|mǐfàn ， 还|hái 用|yòng 大米|dàmǐ|rice_(grain) 做|zuò 出|chū 很多|hěnduō 别的|biéde 食物|shíwù ， 比如|bǐrú 米粉|mǐfěn|rice_noodles|J 、 年糕|niángāo|rice_cake|J 和|hé 粽子|zòngzi|zongzi,_sticky_rice_wrapped_in_leaves|J 。
+> Southerners don't just eat plain rice; they turn it into many other foods, such as rice noodles, rice cakes and zongzi.
+在|zài 广西|Guǎngxī|Guangxi|N 和|hé 湖南|Húnán|Hunan|N ， 很多|hěnduō 人|rén 早上|zǎoshang 最|zuì 喜欢|xǐhuan 吃|chī 一|yī 碗|wǎn 热|rè 米粉|mǐfěn 。
+> In Guangxi and Hunan, many people's favourite breakfast is a hot bowl of rice noodles.
+当然|dāngrán ， 现在|xiànzài 交通|jiāotōng 方便|fāngbiàn 了|le ， 北方|běifāng 人|rén 也|yě 常|cháng 吃|chī 米饭|mǐfàn ， 南方|nánfāng 人|rén 也|yě 爱|ài 吃|chī 面条|miàntiáo ， 这种|zhèzhǒng 区别|qūbié 已经|yǐjīng 不|bù 像|xiàng 以前|yǐqián 那么|nàme 大|dà 了|le 。
+> Of course, now that travel is easy, northerners often eat rice and southerners love noodles too, so the difference is not as big as it once was.
+
+@h2 h-sichuan
+川菜|Chuāncài ： 又|yòu 麻|má|numbing_(spicy) 又|yòu 辣|là
+> Sichuan Cuisine: Numbing and Hot
+
+@p sc-1
+说到|shuōdào 辣|là ， 很多|hěnduō 人|rén 第一|dìyī 个|gè 想到|xiǎngdào 的|de 就|jiù 是|shì 四川|Sìchuān|Sichuan|N 菜|cài ， 也|yě 叫|jiào 川菜|Chuāncài 。
+> Speaking of spicy food, the first thing many people think of is Sichuan cooking, known as chuancai.
+川菜|Chuāncài 最|zuì 大|dà 的|de 特点|tèdiǎn 是|shì “ 麻|má ” 和|hé “ 辣|là ” 。
+> Its two great features are “ma”, numbing, and “la”, hot.
+“ 辣|là ” 来自|láizì 辣椒|làjiāo|chili_pepper ， “ 麻|má ” 来自|láizì 花椒|huājiāo|Sichuan_pepper|J 。
+> The heat comes from chili peppers, the numbing from Sichuan pepper.
+花椒|huājiāo 吃|chī 到|dào 嘴|zuǐ 里|lǐ ， 舌头|shétou|tongue 会|huì 有|yǒu 一|yī 种|zhǒng 麻麻|mámá|tingling 的|de 感觉|gǎnjué ， 好像|hǎoxiàng 有|yǒu 电|diàn 一样|yīyàng 。
+> When you bite on Sichuan pepper your tongue tingles, almost as if there were electricity in it.
+很多|hěnduō 外国|wàiguó 朋友|péngyou 第一|dìyī 次|cì 吃|chī 花椒|huājiāo ， 都|dōu 觉得|juéde 很|hěn 奇怪|qíguài ， 可是|kěshì 吃|chī 多|duō 了|le 以后|yǐhòu ， 就|jiù 会|huì 慢慢|mànmàn 喜欢|xǐhuan 上|shàng 这种|zhèzhǒng 味道|wèidao 。
+> Many foreigners find it very strange the first time, but after a while they slowly come to love the taste.
+
+@p sc-2
+有名|yǒumíng 的|de 川菜|Chuāncài 有|yǒu 麻婆豆腐|mápó_dòufu|mapo_tofu|J 、 宫保鸡丁|gōngbǎo_jīdīng|kung_pao_chicken|J 、 水煮鱼|shuǐzhǔyú|fish_boiled_in_chili_oil|J 和|hé 回锅肉|huíguōròu|twice-cooked_pork|J 。
+> Famous Sichuan dishes include mapo tofu, kung pao chicken, fish boiled in chili oil and twice-cooked pork.
+成都|Chéngdū|Chengdu|N 和|hé 重庆|Chóngqìng|Chongqing|N 的|de 火锅|huǒguō|hotpot|J 更|gèng 是|shì 有名|yǒumíng 。
+> Even more famous is the hotpot of Chengdu and Chongqing.
+一|yī 大|dà 锅|guō|pot 红红|hónghóng|bright_red 的|de 汤|tāng ， 里面|lǐmiàn 放|fàng 满|mǎn 了|le 辣椒|làjiāo 和|hé 花椒|huājiāo ， 大家|dàjiā 围|wéi 着|zhe 锅|guō 坐|zuò ， 把|bǎ 肉|ròu 和|hé 菜|cài 放|fàng 进去|jìnqu 煮|zhǔ|to_boil ， 一边|yībiān 吃|chī 一边|yībiān 聊|liáo|to_chat ， 非常|fēicháng 热闹|rènao|lively 。
+> A big pot of bright red broth full of chilies and Sichuan pepper sits in the middle; everyone sits around it, cooking meat and vegetables in it, eating and chatting in a lively crowd.
+
+@p sc-3
+有意思|yǒuyìsi 的|de 是|shì ， 辣椒|làjiāo 并|bìng 不|bù 是|shì 中国|Zhōngguó 本来|běnlái 就|jiù 有|yǒu 的|de 。
+> Interestingly, the chili pepper is not native to China.
+辣椒|làjiāo 来自|láizì 美洲|Měizhōu|the_Americas|N ， 大概|dàgài 在|zài 明朝|Míngcháo|the_Ming_dynasty_(1368–1644)|N 后期|hòuqī|later_period 才|cái 传|chuán 到|dào 中国|Zhōngguó 。
+> It came from the Americas and only reached China in the later part of the Ming dynasty.
+也|yě 就|jiù 是|shì 说|shuō ， 川菜|Chuāncài 变|biàn 得|de 这么|zhème 辣|là ， 其实|qíshí 只有|zhǐyǒu 几|jǐ 百|bǎi 年|nián 的|de 历史|lìshǐ 。
+> In other words, Sichuan food has only been this hot for a few hundred years.
+除了|chúle 四川|Sìchuān 人|rén ， 湖南|Húnán 人|rén 也|yě 特别|tèbié 能|néng 吃|chī 辣|là 。
+> Besides the Sichuanese, people from Hunan are also famous for handling chili.
+不过|bùguò ， 湘菜|Xiāngcài 的|de 辣|là 和|hé 川菜|Chuāncài 不|bù 太|tài 一样|yīyàng ， 它|tā 常常|chángcháng 是|shì 又|yòu 香|xiāng 又|yòu 辣|là ， 还|hái 带|dài 一点儿|yīdiǎnr 酸|suān ， 但是|dànshì 不|bù 太|tài 麻|má 。
+> But Hunan heat is different: it is fragrant and hot, often a little sour, without much of the numbing tingle.
+
+@h2 h-cantonese
+粤菜|Yuècài 和|hé 早茶|zǎochá|morning_tea_(a_dim_sum_meal)|J
+> Cantonese Food and Morning Tea
+
+@p yue-1
+粤菜|Yuècài 就|jiù 是|shì 广东|Guǎngdōng|Guangdong|N 菜|cài ， 在|zài 世界|shìjiè 上|shàng 可能|kěnéng 是|shì 最|zuì 有名|yǒumíng 的|de 中国|Zhōngguó 菜|cài 。
+> Yuecai is Cantonese food, probably the best-known Chinese cooking in the world.
+这|zhè 是|shì 因为|yīnwèi 很|hěn 早|zǎo 以前|yǐqián ， 就|jiù 有|yǒu 很多|hěnduō 广东|Guǎngdōng 人|rén 到|dào 国外|guówài 生活|shēnghuó ， 他们|tāmen 把|bǎ 家乡|jiāxiāng 菜|cài 带|dài 到|dào 了|le 世界|shìjiè 各地|gèdì 。
+> That is because many Cantonese people moved abroad long ago and took their home cooking all over the world.
+粤菜|Yuècài 的|de 特点|tèdiǎn 和|hé 川菜|Chuāncài 差不多|chàbuduō 相反|xiāngfǎn ： 它|tā 不|bù 太|tài 辣|là ， 味道|wèidao 比较|bǐjiào 清淡|qīngdàn|light,_mild ， 非常|fēicháng 重视|zhòngshì 食材|shícái|ingredients 是否|shìfǒu 新鲜|xīnxiān 。
+> Cantonese cooking is almost the opposite of Sichuan: it is not very hot, its flavours are light, and it cares a great deal about fresh ingredients.
+广东|Guǎngdōng 人|rén 认为|rènwéi ， 好|hǎo 的|de 食材|shícái 不|bù 需要|xūyào 太|tài 多|duō 调料|tiáoliào|seasonings ， 简单|jiǎndān 地|de 蒸|zhēng|to_steam 一下|yīxià ， 就|jiù 能|néng 吃|chī 出|chū 它|tā 本来|běnlái 的|de 味道|wèidao 。
+> The Cantonese believe good ingredients need little seasoning: steam them simply and you taste what they really are.
+
+@p yue-2
+在|zài 广州|Guǎngzhōu|Guangzhou|N 和|hé 香港|Xiānggǎng|Hong_Kong|N ， 很多|hěnduō 人|rén 有|yǒu “ 喝|hē 早茶|zǎochá ” 的|de 习惯|xíguàn 。
+> In Guangzhou and Hong Kong many people have the habit of “drinking morning tea”.
+早上|zǎoshang 或者|huòzhě 中午|zhōngwǔ ， 家人|jiārén 和|hé 朋友|péngyou 一起|yīqǐ 去|qù 茶楼|chálóu|teahouse|J ， 点|diǎn 一|yī 壶|hú|pot_(measure_word) 茶|chá ， 再|zài 点|diǎn 几|jǐ 笼|lóng|steamer_basket_(measure_word) 点心|diǎnxin|dim_sum,_snacks|J ， 慢慢|mànmàn 吃|chī ， 慢慢|mànmàn 聊|liáo ， 有时候|yǒushíhou 一|yī 坐|zuò 就|jiù 是|shì 两三|liǎngsān 个|gè 小时|xiǎoshí 。
+> In the morning or at noon, family and friends go to a teahouse together, order a pot of tea and a few baskets of dim sum, and eat and talk at leisure, sometimes for two or three hours.
+点心|diǎnxin 的|de 种类|zhǒnglèi 很|hěn 多|duō ， 比如|bǐrú 虾饺|xiājiǎo|shrimp_dumplings|J 、 烧卖|shāomai|shaomai_dumplings|J 、 叉烧包|chāshāobāo|barbecue_pork_bun|J 和|hé 肠粉|chángfěn|rice_noodle_rolls|J 。
+> There are many kinds of dim sum, such as shrimp dumplings, shaomai, barbecue pork buns and rice noodle rolls.
+每|měi 样|yàng|kind_(measure_word) 点心|diǎnxin 都|dōu 很|hěn 小|xiǎo ， 放|fàng 在|zài 小小|xiǎoxiǎo 的|de 竹|zhú|bamboo 笼|lóng 里|lǐ ， 所以|suǒyǐ 大家|dàjiā 可以|kěyǐ 多|duō 点|diǎn 几|jǐ 样|yàng ， 一起|yīqǐ 分|fēn 着|zhe 吃|chī 。
+> Each portion is small and comes in a little bamboo steamer, so everyone can order several kinds and share them.
+
+@p yue-3
+广东|Guǎngdōng 人|rén 吃|chī 的|de 东西|dōngxi 种类|zhǒnglèi 特别|tèbié 多|duō ， 有|yǒu 人|rén 开玩笑|kāiwánxiào 说|shuō ， 天上|tiānshàng 飞|fēi 的|de 、 地上|dìshang 走|zǒu 的|de 、 水|shuǐ 里|lǐ 游|yóu 的|de ， 广东|Guǎngdōng 人|rén 都|dōu 敢|gǎn 吃|chī 。
+> The Cantonese eat an especially wide range of things; people joke that whatever flies in the sky, walks on land or swims in water, the Cantonese will dare to eat it.
+这|zhè 句|jù 话|huà 虽然|suīrán 有点儿|yǒudiǎnr 夸张|kuāzhāng|exaggerated ， 但是|dànshì 也|yě 说明|shuōmíng 了|le 粤菜|Yuècài 的|de 食材|shícái 非常|fēicháng 丰富|fēngfù 。
+> That is an exaggeration, but it shows how rich the range of Cantonese ingredients is.
+另外|lìngwài ， 广东|Guǎngdōng 人|rén 很|hěn 喜欢|xǐhuan 煲汤|bāotāng|to_slow-cook_soup|J ， 很多|hěnduō 家庭|jiātíng 会|huì 花|huā 好几|hǎojǐ 个|gè 小时|xiǎoshí 慢慢|mànmàn 煮|zhǔ 一|yī 锅|guō 汤|tāng ， 他们|tāmen 相信|xiāngxìn 这样|zhèyàng 的|de 汤|tāng 对|duì 身体|shēntǐ 很|hěn 好|hǎo 。
+> The Cantonese also love slow-cooked soups: many families spend hours simmering a pot of soup, believing it is very good for the body.
+
+@h2 h-sweet-salty
+南甜北咸|nán_tián_běi_xián|“sweet_south,_salty_north”|I
+> Sweet South, Salty North
+
+@p ss-1
+中国|Zhōngguó 人|rén 常|cháng 用|yòng “ 南甜北咸|nán_tián_běi_xián ” 这|zhè 四|sì 个|gè 字|zì 来|lái 说|shuō 南北|nánběi|north_and_south 口味|kǒuwèi|taste,_flavour 的|de 不同|bùtóng 。
+> Chinese people often sum up the difference in taste between north and south in four characters: nan tian bei xian, “sweet south, salty north”.
+这|zhè 句|jù 话|huà 当然|dāngrán 不|bù 完全|wánquán 准确|zhǔnquè ， 但是|dànshì 说|shuō 出|chū 了|le 一|yī 个|gè 大概|dàgài 的|de 情况|qíngkuàng 。
+> The saying is not entirely accurate, of course, but it captures the general picture.
+
+@p ss-2
+上海|Shànghǎi|Shanghai|N 、 苏州|Sūzhōu|Suzhou|N 和|hé 无锡|Wúxī|Wuxi|N 一带|yīdài|area,_region 的|de 菜|cài ， 常常|chángcháng 比较|bǐjiào 甜|tián 。
+> The food of Shanghai, Suzhou and Wuxi is often rather sweet.
+比如|bǐrú 上海|Shànghǎi 的|de 红烧肉|hóngshāoròu|red-braised_pork|J ， 要|yào 放|fàng 不少|bùshǎo 糖|táng ， 颜色|yánsè 红|hóng 亮|liàng ， 吃|chī 起来|qǐlai 又|yòu 甜|tián 又|yòu 香|xiāng 。
+> Shanghai's red-braised pork, for example, takes quite a lot of sugar; it is a glossy red and tastes sweet and rich.
+无锡|Wúxī 的|de 排骨|páigǔ|spare_ribs 也|yě 很|hěn 甜|tián 。
+> Wuxi's spare ribs are sweet too.
+很多|hěnduō 北方|běifāng 人|rén 第一|dìyī 次|cì 去|qù 上海|Shànghǎi 吃|chī 饭|fàn ， 都|dōu 会|huì 奇怪|qíguài ： “ 怎么|zěnme 每|měi 个|gè 菜|cài 都|dōu 放|fàng 糖|táng ？ ”
+> Many northerners eating in Shanghai for the first time wonder, “Why is there sugar in every dish?”
+
+@p ss-3
+北方|běifāng 菜|cài 呢|ne ， 常常|chángcháng 比较|bǐjiào 咸|xián|salty ， 酱油|jiàngyóu|soy_sauce 和|hé 盐|yán 放|fàng 得|de 比较|bǐjiào 多|duō ， 味道|wèidao 也|yě 比较|bǐjiào 重|zhòng 。
+> Northern food, on the other hand, tends to be saltier, with more soy sauce and salt and stronger flavours.
+东北|Dōngběi|Northeast_China|N 菜|cài 分量|fènliàng|portion_size 很|hěn 大|dà ， 一|yī 盘|pán 菜|cài 常常|chángcháng 够|gòu 好几|hǎojǐ 个|gè 人|rén 吃|chī ， 比如|bǐrú 锅包肉|guōbāoròu|crispy_sweet-and-sour_pork|J 和|hé 地三鲜|dìsānxiān|fried_potato,_aubergine_and_pepper|J 。
+> Dishes in the Northeast come in big portions — one plate is often enough for several people — such as guobaorou, crispy sweet-and-sour pork, and disanxian, fried potato, aubergine and green pepper.
+山东|Shāndōng|Shandong|N 菜|cài ， 也|yě 就|jiù 是|shì 鲁菜|Lǔcài ， 是|shì 八大菜系|bā_dà_càixì 中|zhōng 历史|lìshǐ 最|zuì 长|cháng 的|de 之一|zhīyī ， 以前|yǐqián 皇宫|huánggōng|imperial_palace 里|lǐ 的|de 很多|hěnduō 菜|cài 都|dōu 受到|shòudào 了|le 鲁菜|Lǔcài 的|de 影响|yǐngxiǎng 。
+> Shandong cooking, Lucai, has one of the longest histories of the eight great cuisines, and many dishes of the old imperial palace were influenced by it.
+
+@p ss-4
+山西|Shānxī 人|rén 爱|ài 吃|chī 醋|cù|vinegar 是|shì 出了名|chūlemíng|well_known 的|de ， 有|yǒu 人|rén 说|shuō ， 山西|Shānxī 人|rén 吃|chī 什么|shénme 都|dōu 要|yào 放|fàng 一点儿|yīdiǎnr 醋|cù 。
+> Shanxi people's love of vinegar is well known; some say they add a little to everything they eat.
+豆腐脑|dòufunǎo|tofu_pudding|J 是|shì 一|yī 个|gè 很|hěn 好玩|hǎowán 的|de 例子|lìzi 。
+> Tofu pudding is a fun example of regional taste.
+很多|hěnduō 北方|běifāng 人|rén 吃|chī 咸|xián 的|de 豆腐脑|dòufunǎo ， 上面|shàngmian 放|fàng 酱油|jiàngyóu 和|hé 别的|biéde 调料|tiáoliào ； 很多|hěnduō 南方|nánfāng 人|rén 却|què 吃|chī 甜|tián 的|de ， 只|zhǐ 放|fàng 糖|táng 或者|huòzhě 糖水|tángshuǐ|syrup 。
+> Many northerners eat it savoury, topped with soy sauce and other seasonings, while many southerners eat it sweet, with just sugar or syrup.
+每年|měinián 网上|wǎngshàng 都|dōu 有|yǒu 人|rén 为|wèi 这个|zhège 问题|wèntí 争论|zhēnglùn|to_argue ， 就|jiù 像|xiàng 端午节|Duānwǔjié|Dragon_Boat_Festival|J 的|de 时候|shíhou 争论|zhēnglùn 粽子|zòngzi 是|shì 甜|tián 的|de 好|hǎo 还是|háishi 咸|xián 的|de 好|hǎo 一样|yīyàng 。
+> Every year people argue about it online, just as they argue at the Dragon Boat Festival over whether zongzi should be sweet or salty.
+
+@h2 h-table
+饭桌|fànzhuō|dining_table 上|shàng 的|de 习惯|xíguàn
+> Customs at the Table
+
+@p tb-1
+和|hé 很多|hěnduō 西方|xīfāng 国家|guójiā 不|bù 一样|yīyàng ， 中国|Zhōngguó 人|rén 吃|chī 饭|fàn 的|de 时候|shíhou ， 一般|yībān 不|bù 是|shì 每|měi 人|rén 一|yī 份|fèn ， 而是|érshì 把|bǎ 几|jǐ 个|gè 菜|cài 放|fàng 在|zài 桌子|zhuōzi 中间|zhōngjiān ， 大家|dàjiā 一起|yīqǐ 吃|chī 。
+> Unlike in many Western countries, Chinese meals are usually not one plate per person: several dishes are placed in the middle of the table and everyone shares.
+所以|suǒyǐ ， 点|diǎn 菜|cài 的|de 时候|shíhou 要|yào 考虑|kǎolǜ 每|měi 个|gè 人|rén 的|de 口味|kǒuwèi ， 最好|zuìhǎo 有|yǒu 肉|ròu 、 有|yǒu 鱼|yú 、 有|yǒu 蔬菜|shūcài|vegetables ， 再|zài 来|lái 一|yī 个|gè 汤|tāng 。
+> So when ordering you have to think about everyone's tastes; ideally there is meat, fish and vegetables, plus a soup.
+很多|hěnduō 饭店|fàndiàn 用|yòng 大|dà 圆桌|yuánzhuō|round_table ， 中间|zhōngjiān 还|hái 有|yǒu 一|yī 个|gè 可以|kěyǐ 转|zhuàn 的|de 玻璃|bōli|glass 台|tái ， 这样|zhèyàng 每|měi 个|gè 人|rén 都|dōu 能|néng 方便|fāngbiàn 地|de 夹|jiā|to_pick_up_(with_chopsticks) 到|dào 每|měi 一|yī 道|dào 菜|cài 。
+> Many restaurants use large round tables with a revolving glass top in the middle, so everyone can easily reach every dish with their chopsticks.
+
+@p tb-2
+用|yòng 筷子|kuàizi 也|yě 有|yǒu 一些|yīxiē 规矩|guīju|rules,_etiquette 。
+> Chopsticks also come with some rules.
+比如|bǐrú ， 不要|bùyào 把|bǎ 筷子|kuàizi 竖|shù|upright 着|zhe 插|chā|to_stick_in 在|zài 米饭|mǐfàn 里|lǐ ， 因为|yīnwèi 这样|zhèyàng 看|kàn 起来|qǐlai 很|hěn 像|xiàng 给|gěi 去世|qùshì 的|de 人|rén 上香|shàngxiāng|to_offer_incense|J ， 会|huì 让|ràng 人|rén 觉得|juéde 不|bù 吉利|jílì|lucky 。
+> For example, don't stand your chopsticks upright in a bowl of rice: it looks like incense offered to the dead and is considered unlucky.
+也|yě 不要|bùyào 用|yòng 筷子|kuàizi 敲|qiāo|to_knock 碗|wǎn ， 这样|zhèyàng 很|hěn 不|bù 礼貌|lǐmào|polite 。
+> Nor should you tap your bowl with your chopsticks, which is rude.
+请客|qǐngkè 的|de 时候|shíhou ， 主人|zhǔrén 常常|chángcháng 会|huì 给|gěi 客人|kèrén 夹|jiā 菜|cài ， 这|zhè 是|shì 热情|rèqíng 的|de 表现|biǎoxiàn 。
+> When hosting, the host often puts food into the guests' bowls, a sign of warm hospitality.
+
+@p tb-3
+在|zài 中国|Zhōngguó ， 朋友|péngyou 一起|yīqǐ 吃|chī 完|wán 饭|fàn ， 常常|chángcháng 会|huì 抢|qiǎng|to_scramble_(to_do_sth) 着|zhe 付|fù 钱|qián 。
+> In China, when friends finish a meal together, they often compete to pay the bill.
+如果|rúguǒ 这|zhè 次|cì 朋友|péngyou 请|qǐng 了|le 你|nǐ ， 下|xià 次|cì 最好|zuìhǎo 由|yóu 你|nǐ 来|lái 请|qǐng 。
+> If a friend treats you this time, it is best if you pay next time.
+这样|zhèyàng 你来我往|nǐ_lái_wǒ_wǎng|give_and_take|I ， 朋友|péngyou 之间|zhījiān 的|de 关系|guānxì 就|jiù 会|huì 越来越|yuèláiyuè 好|hǎo 。
+> With this give and take, friendships grow stronger and stronger.
+
+@p tb-4
+在|zài 比较|bǐjiào 正式|zhèngshì 的|de 饭局|fànjú|formal_dinner ， 座位|zuòwèi 也|yě 有|yǒu 讲究|jiǎngjiu|particular_rules 。
+> At more formal dinners, the seating has its rules too.
+一般|yībān 来说|láishuō ， 正|zhèng 对|duì 着|zhe 门|mén 的|de 位子|wèizi|seat 是|shì 给|gěi 主人|zhǔrén 或者|huòzhě 最|zuì 重要|zhòngyào 的|de 客人|kèrén 坐|zuò 的|de 。
+> Generally, the seat directly facing the door is for the host or the most important guest.
+如果|rúguǒ 你|nǐ 不|bù 知道|zhīdào 应该|yīnggāi 坐|zuò 在|zài 哪里|nǎli ， 最好|zuìhǎo 等|děng 主人|zhǔrén 来|lái 安排|ānpái 。
+> If you don't know where to sit, it is best to wait for the host to seat you.
+
+@h2 h-street
+街头|jiētóu|street 小吃|xiǎochī|snacks|J
+> Street Food
+
+@p st-1
+除了|chúle 饭店|fàndiàn 里|lǐ 的|de 菜|cài ， 中国|Zhōngguó 的|de 街头|jiētóu 小吃|xiǎochī 也|yě 非常|fēicháng 有意思|yǒuyìsi 。
+> Besides restaurant dishes, Chinese street food is great fun too.
+早上|zǎoshang ， 很多|hěnduō 人|rén 在|zài 路边|lùbiān|roadside 买|mǎi 一|yī 个|gè 煎饼果子|jiānbing_guǒzi|savoury_crepe_with_fried_dough|J 或者|huòzhě 几|jǐ 个|gè 包子|bāozi ， 一边|yībiān 走|zǒu 一边|yībiān 吃|chī ， 就|jiù 去|qù 上班|shàngbān 了|le 。
+> In the morning, many people buy a jianbing guozi — a savoury crepe wrapped round fried dough — or a few buns at the roadside and eat on their way to work.
+到|dào 了|le 晚上|wǎnshang ， 夜市|yèshì|night_market|J 里|lǐ 有|yǒu 烤串|kǎochuàn|grilled_skewers|J 、 炒饭|chǎofàn|fried_rice 、 臭豆腐|chòudòufu|stinky_tofu|J 和|hé 各种|gèzhǒng 甜品|tiánpǐn|desserts ， 人|rén 很|hěn 多|duō ， 非常|fēicháng 热闹|rènao 。
+> In the evening, night markets offer grilled skewers, fried rice, stinky tofu and all kinds of sweets, and are crowded and lively.
+
+@p st-2
+臭豆腐|chòudòufu 是|shì 一|yī 种|zhǒng 很|hěn 特别|tèbié 的|de 小吃|xiǎochī ， 闻|wén 起来|qǐlai 很|hěn 臭|chòu|smelly ， 吃|chī 起来|qǐlai 却|què 很|hěn 香|xiāng 。
+> Stinky tofu is a very special snack: it smells awful but tastes delicious.
+很多|hěnduō 人|rén 第一|dìyī 次|cì 不|bù 敢|gǎn 吃|chī ， 可是|kěshì 尝|cháng|to_taste 过|guo 一|yī 次|cì 以后|yǐhòu ， 就|jiù 再|zài 也|yě 忘不了|wàngbuliǎo|can't_forget 它|tā 的|de 味道|wèidao 。
+> Many people don't dare try it at first, but once they have, they never forget the taste.
+冬天|dōngtiān 的|de 北京|Běijīng 街头|jiētóu ， 常常|chángcháng 能|néng 看到|kàndào 卖|mài 糖葫芦|tánghúlu|candied_haws_on_a_stick|J 的|de 人|rén 。
+> On Beijing's streets in winter you often see people selling tanghulu.
+糖葫芦|tánghúlu 是|shì 把|bǎ 山楂|shānzhā|hawthorn_fruit|J 穿|chuān 在|zài 一|yī 根|gēn 竹签|zhúqiān|bamboo_skewer 上|shàng ， 外面|wàimiàn 包|bāo 上|shàng 一|yī 层|céng 糖|táng ， 吃|chī 起来|qǐlai 酸酸甜甜|suānsuāntiántián|sweet_and_sour 的|de ， 大人|dàrén 和|hé 孩子|háizi 都|dōu 喜欢|xǐhuan 。
+> Tanghulu are hawthorn berries threaded on a bamboo stick and coated in a layer of hard sugar; sweet and sour, they are loved by adults and children alike.
+
+@p st-3
+西安|Xī'ān|Xi'an|N 也|yě 是|shì 一|yī 个|gè 小吃|xiǎochī 很|hěn 多|duō 的|de 城市|chéngshì 。
+> Xi'an is another city full of snacks.
+那里|nàli 最|zuì 有名|yǒumíng 的|de 是|shì 肉夹馍|ròujiāmó|meat_stuffed_in_flatbread|J 和|hé 羊肉泡馍|yángròu_pàomó|mutton_soup_with_torn_flatbread|J 。
+> The most famous are roujiamo, meat stuffed into flatbread, and yangrou paomo, mutton soup with pieces of bread.
+肉夹馍|ròujiāmó 有点儿|yǒudiǎnr 像|xiàng 中国|Zhōngguó 的|de 汉堡|hànbǎo|hamburger ： 把|bǎ 炖|dùn|to_stew 得|de 很|hěn 软|ruǎn|soft,_tender 的|de 肉|ròu 切|qiē 碎|suì|in_small_pieces ， 夹|jiā 在|zài 一|yī 个|gè 烤|kǎo|to_bake,_to_roast 过|guo 的|de 饼|bǐng|flatbread 里|lǐ 。
+> Roujiamo is a bit like a Chinese hamburger: meat stewed until tender is chopped and stuffed into a baked flatbread.
+吃|chī 羊肉泡馍|yángròu_pàomó 的|de 时候|shíhou ， 客人|kèrén 要|yào 先|xiān 自己|zìjǐ 把|bǎ 饼|bǐng 掰|bāi|to_break_off_(with_fingers) 成|chéng 很|hěn 小|xiǎo 的|de 块|kuài ， 然后|ránhòu 交|jiāo 给|gěi 厨师|chúshī ， 厨师|chúshī 再|zài 把|bǎ 它|tā 和|hé 羊肉|yángròu 汤|tāng 一起|yīqǐ 煮|zhǔ 。
+> For yangrou paomo, diners first tear the bread into tiny pieces themselves and hand the bowl to the cook, who then cooks it with mutton broth.
+很多|hěnduō 人|rén 说|shuō ， 掰|bāi 得|de 越|yuè 小|xiǎo ， 吃|chī 起来|qǐlai 就|jiù 越|yuè 香|xiāng 。
+> Many say that the smaller you tear the pieces, the better it tastes.
+
+@h2 h-end
+结语|jiéyǔ|concluding_remarks
+> In Closing
+
+@p end
+中国|Zhōngguó 菜|cài 的|de 种类|zhǒnglèi 实在|shízài 太|tài 多|duō 了|le ， 一辈子|yībèizi|a_lifetime 可能|kěnéng 也|yě 吃|chī 不|bù 完|wán 。
+> There are so many kinds of Chinese food that you might not get through them all in a lifetime.
+每|měi 个|gè 地方|dìfang 的|de 菜|cài ， 都|dōu 和|hé 那里|nàli 的|de 天气|tiānqì 、 环境|huánjìng 、 历史|lìshǐ 和|hé 人们|rénmen 的|de 生活|shēnghuó 习惯|xíguàn 有关|yǒuguān|to_be_related_to 。
+> The food of each place is bound up with its weather, landscape, history and way of life.
+所以|suǒyǐ ， 了解|liǎojiě 一|yī 个|gè 地方|dìfang 的|de 饮食|yǐnshí ， 也|yě 是|shì 了解|liǎojiě 那|nà 个|gè 地方|dìfang 文化|wénhuà 的|de 好|hǎo 办法|bànfǎ 。
+> So getting to know a region's food is also a good way to get to know its culture.
+下次|xiàcì 去|qù 中国|Zhōngguó 旅行|lǚxíng ， 别|bié 只|zhǐ 点|diǎn 你|nǐ 认识|rènshi 的|de 菜|cài ， 试试|shìshi 当地|dāngdì 人|rén 最|zuì 喜欢|xǐhuan 的|de 小吃|xiǎochī 吧|ba ！
+> Next time you travel in China, don't just order the dishes you know — try the snacks the locals love best!

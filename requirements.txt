@@ -1,0 +1,3 @@
+# Core scripts use only the Python standard library.
+# Optional, for annotate_api.py:
+anthropic

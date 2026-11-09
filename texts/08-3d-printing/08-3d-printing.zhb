@@ -1,0 +1,231 @@
+# How 3D printing works — original article for zhbook.
+# Written by Claude (Anthropic). Target: mostly HSK 3.0 level 4 or below;
+# technical vocabulary marked J. Latin abbreviations are bare tokens.
+
+@meta {"title_zh": "3D打印是怎么工作的", "subtitle_zh": "从电脑模型到真实物体", "title_en": "How 3D Printing Works", "subtitle_en": "From a computer model to a real object", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+你|nǐ 有|yǒu 没有|méiyǒu 想|xiǎng 过|guo ， 如果|rúguǒ 可以|kěyǐ 像|xiàng 打印|dǎyìn 一|yī 张|zhāng 纸|zhǐ 一样|yīyàng “ 打印|dǎyìn ” 一|yī 个|gè 杯子|bēizi 、 一|yī 个|gè 零件|língjiàn|part,_component ， 甚至|shènzhì 一|yī 座|zuò 房子|fángzi ， 那|nà 会|huì 是|shì 什么|shénme 样子|yàngzi ？
+> Have you ever imagined “printing” a cup, a machine part or even a house the way you print a sheet of paper?
+今天|jīntiān ， 这|zhè 已经|yǐjīng 不|bù 是|shì 梦想|mèngxiǎng 了|le 。
+> Today this is no longer a dream.
+3D 打印|dǎyìn 技术|jìshù 让|ràng 人们|rénmen 可以|kěyǐ 把|bǎ 电脑|diànnǎo 里|lǐ 的|de 模型|móxíng|model 直接|zhíjiē 变成|biànchéng 真实|zhēnshí 的|de 物体|wùtǐ|object 。
+> 3D printing technology lets people turn a model on a computer directly into a real object.
+这|zhè 篇|piān 文章|wénzhāng 简单|jiǎndān 介绍|jièshào 一下|yīxià 3D 打印|dǎyìn 的|de 基本|jīběn 原理|yuánlǐ|principle 、 常见|chángjiàn 的|de 几|jǐ 种|zhǒng 打印|dǎyìn 方法|fāngfǎ ， 以及|yǐjí 它|tā 的|de 优点|yōudiǎn 和|hé 问题|wèntí 。
+> This article gives a short introduction to the basic principles of 3D printing, the most common printing methods, and its advantages and problems.
+
+@h2 h-add
+加法|jiāfǎ 和|hé 减法|jiǎnfǎ
+> Adding and Subtracting
+
+@p add-1
+传统|chuántǒng 的|de 制造|zhìzào|to_manufacture 方法|fāngfǎ 大多|dàduō 是|shì “ 减法|jiǎnfǎ|subtraction ” 。
+> Most traditional manufacturing methods work by “subtraction”.
+比如说|bǐrúshuō ， 要|yào 做|zuò 一|yī 个|gè 金属|jīnshǔ|metal 零件|língjiàn ， 工人|gōngrén 常常|chángcháng 先|xiān 拿|ná 一|yī 块|kuài 比|bǐ 零件|língjiàn 大|dà 的|de 材料|cáiliào ， 然后|ránhòu 用|yòng 机床|jīchuáng|machine_tool|J 切|qiē|to_cut 、 钻|zuān|to_drill 、 磨|mó|to_grind ， 把|bǎ 不|bù 需要|xūyào 的|de 部分|bùfen 去掉|qùdiào|to_remove ， 最后|zuìhòu 剩下|shèngxià|to_be_left_over 的|de 就|jiù 是|shì 想要|xiǎngyào 的|de 形状|xíngzhuàng 。
+> For example, to make a metal part, a worker usually starts with a block of material larger than the part, then cuts, drills and grinds it on a machine tool to remove what is not needed; what is left at the end is the desired shape.
+这种|zhèzhǒng 方法|fāngfǎ 叫做|jiàozuò 减材制造|jiǎncái_zhìzào|subtractive_manufacturing|J 。
+> This approach is called subtractive manufacturing.
+
+@p add-2
+3D 打印|dǎyìn 正好|zhènghǎo 相反|xiāngfǎn ， 它|tā 用|yòng 的|de 是|shì “ 加法|jiāfǎ|addition ” 。
+> 3D printing is exactly the opposite: it works by “addition”.
+打印机|dǎyìnjī|printer 不|bù 是|shì 从|cóng 大|dà 块|kuài 材料|cáiliào 开始|kāishǐ ， 而是|érshì 一|yī 层|céng 一|yī 层|céng 地|de 把|bǎ 材料|cáiliào 加|jiā 上去|shàngqu 。
+> Instead of starting from a large block of material, the printer adds material one layer at a time.
+每|měi 一|yī 层|céng 都|dōu 很|hěn 薄|báo ， 常常|chángcháng 只有|zhǐyǒu 零|líng 点|diǎn 一|yī 到|dào 零|líng 点|diǎn 三|sān 毫米|háomǐ|millimetre 。
+> Each layer is very thin, often only 0.1 to 0.3 millimetres.
+成百上千|chéngbǎi_shàngqiān|hundreds_or_thousands|I 层|céng 叠|dié|to_stack 在|zài 一起|yīqǐ ， 就|jiù 成|chéng 了|le 一|yī 个|gè 完整|wánzhěng 的|de 物体|wùtǐ 。
+> Hundreds or thousands of layers stacked together make a complete object.
+所以|suǒyǐ ， 3D 打印|dǎyìn 的|de 正式|zhèngshì 名字|míngzi 叫做|jiàozuò 增材制造|zēngcái_zhìzào|additive_manufacturing|J 。
+> That is why the formal name for 3D printing is additive manufacturing.
+
+@p add-3
+这种|zhèzhǒng “ 一|yī 层|céng 一|yī 层|céng ” 的|de 方法|fāngfǎ 有|yǒu 一|yī 个|gè 很|hěn 大|dà 的|de 好处|hǎochù ： 形状|xíngzhuàng 再|zài 复杂|fùzá ， 打印|dǎyìn 起来|qǐlai 也|yě 不|bù 一定|yīdìng 更|gèng 难|nán 。
+> This “layer by layer” method has one big advantage: however complex the shape, it is not necessarily any harder to print.
+用|yòng 传统|chuántǒng 方法|fāngfǎ 很|hěn 难|nán 做|zuò 出来|chūlai 的|de 内部|nèibù 空心|kōngxīn|hollow 结构|jiégòu 、 弯弯曲曲|wānwānqūqū|winding,_twisting|I 的|de 管道|guǎndào|pipe,_channel ， 3D 打印|dǎyìn 都|dōu 可以|kěyǐ 比较|bǐjiào 容易|róngyì 地|de 完成|wánchéng 。
+> Hollow internal structures and winding channels that are very hard to make by traditional methods can be produced fairly easily by 3D printing.
+另外|lìngwài ， 因为|yīnwèi 只|zhǐ 在|zài 需要|xūyào 的|de 地方|dìfang 加|jiā 材料|cáiliào ， 浪费|làngfèi 也|yě 比较|bǐjiào 少|shǎo 。
+> And because material is added only where it is needed, there is also less waste.
+
+@h2 h-workflow
+从|cóng 模型|móxíng 到|dào 打印机|dǎyìnjī
+> From Model to Printer
+
+@p wf-1
+3D 打印|dǎyìn 的|de 第一|dìyī 步|bù 是|shì 设计|shèjì 模型|móxíng 。
+> The first step in 3D printing is designing a model.
+工程师|gōngchéngshī 一般|yībān 用|yòng CAD 软件|ruǎnjiàn|software 在|zài 电脑|diànnǎo 上|shàng 画|huà 出|chū 物体|wùtǐ 的|de 三维|sānwéi|three-dimensional|J 模型|móxíng 。
+> Engineers usually draw a three-dimensional model of the object on a computer with CAD software.
+如果|rúguǒ 不|bù 会|huì 设计|shèjì ， 也|yě 可以|kěyǐ 从|cóng 网上|wǎngshàng 下载|xiàzài 别人|biérén 分享|fēnxiǎng|to_share 的|de 模型|móxíng ， 或者|huòzhě 用|yòng 三维|sānwéi 扫描仪|sǎomiáoyí|3D_scanner|J 扫描|sǎomiáo|to_scan 一|yī 个|gè 真实|zhēnshí 的|de 东西|dōngxi 。
+> If you cannot design, you can also download models that others have shared online, or scan a real object with a 3D scanner.
+
+@p wf-2
+设计|shèjì 好|hǎo 以后|yǐhòu ， 模型|móxíng 常常|chángcháng 被|bèi 保存|bǎocún 成|chéng STL 格式|géshì|file_format 。
+> Once the design is finished, the model is usually saved in STL format.
+STL 文件|wénjiàn 把|bǎ 物体|wùtǐ 的|de 表面|biǎomiàn 分|fēn 成|chéng 很多|hěnduō 很|hěn 小|xiǎo 的|de 三角形|sānjiǎoxíng|triangle ， 就|jiù 像|xiàng 用|yòng 很多|hěnduō 小|xiǎo 纸片|zhǐpiàn|scrap_of_paper 拼|pīn|to_piece_together 出|chū 一|yī 个|gè 形状|xíngzhuàng 。
+> An STL file divides the surface of the object into many tiny triangles, like piecing a shape together out of lots of little scraps of paper.
+三角形|sānjiǎoxíng 越|yuè 多|duō ， 表面|biǎomiàn 就|jiù 越|yuè 光滑|guānghuá|smooth ， 但是|dànshì 文件|wénjiàn 也|yě 越|yuè 大|dà 。
+> The more triangles, the smoother the surface, but the bigger the file.
+
+@p wf-3
+第二|dì'èr 步|bù 叫做|jiàozuò “ 切片|qiēpiàn|slicing|J ” 。
+> The second step is called “slicing”.
+切片|qiēpiàn 软件|ruǎnjiàn 会|huì 把|bǎ 模型|móxíng 切|qiē 成|chéng 很多|hěnduō 水平|shuǐpíng|horizontal 的|de 薄|báo 层|céng ， 然后|ránhòu 计算|jìsuàn 出|chū 打印机|dǎyìnjī 在|zài 每|měi 一|yī 层|céng 应该|yīnggāi 怎么|zěnme 走|zǒu 、 走|zǒu 多|duō 快|kuài 、 在|zài 哪里|nǎli 放|fàng 材料|cáiliào 。
+> The slicing software cuts the model into many thin horizontal layers and then works out how the printer should move in each layer, how fast, and where to put material.
+用户|yònghù|user 可以|kěyǐ 在|zài 软件|ruǎnjiàn 里|lǐ 设置|shèzhì 很多|hěnduō 参数|cānshù|parameter|J ， 比如|bǐrú 层高|cénggāo|layer_height|J 、 打印|dǎyìn 速度|sùdù 、 温度|wēndù 和|hé 填充率|tiánchōnglǜ|infill_percentage|J 。
+> Users can set many parameters in the software, such as layer height, print speed, temperature and infill percentage.
+
+@p wf-4
+最后|zuìhòu ， 切片|qiēpiàn 软件|ruǎnjiàn 会|huì 生成|shēngchéng|to_generate G-code 。
+> Finally, the slicer generates G-code.
+G-code 是|shì 一|yī 种|zhǒng 很|hěn 简单|jiǎndān 的|de 机器|jīqì 语言|yǔyán ， 里面|lǐmiàn 是|shì 一|yī 行|háng 一|yī 行|háng 的|de 命令|mìnglìng|command ， 比如|bǐrú “ 移动|yídòng 到|dào 这个|zhège 位置|wèizhì ” 、 “ 把|bǎ 喷嘴|pēnzuǐ|nozzle|J 加热|jiārè|to_heat 到|dào 两百|liǎngbǎi 度|dù ” 。
+> G-code is a very simple machine language made up of one command per line, such as “move to this position” or “heat the nozzle to 200 degrees”.
+打印机|dǎyìnjī 按照|ànzhào 这些|zhèxiē 命令|mìnglìng 一|yī 步|bù 一|yī 步|bù 地|de 工作|gōngzuò ， 几|jǐ 个|gè 小时|xiǎoshí 以后|yǐhòu ， 模型|móxíng 就|jiù 从|cóng 电脑|diànnǎo 里|lǐ “ 走|zǒu ” 到|dào 了|le 桌子|zhuōzi 上|shàng 。
+> The printer follows these commands step by step, and a few hours later the model has “walked” out of the computer and onto the table.
+
+@h2 h-methods
+常见|chángjiàn 的|de 打印|dǎyìn 方法|fāngfǎ
+> Common Printing Methods
+
+@p fdm-1
+最|zuì 常见|chángjiàn 的|de 一|yī 种|zhǒng 方法|fāngfǎ 叫|jiào FDM ， 中文|Zhōngwén 叫|jiào 熔融沉积成型|róngróng_chénjī_chéngxíng|fused_deposition_modelling|J 。
+> The most common method is called FDM, which in Chinese is called “fused deposition modelling”.
+家|jiā 里|lǐ 和|hé 学校|xuéxiào 用|yòng 的|de 3D 打印机|dǎyìnjī 大多|dàduō 是|shì 这|zhè 一|yī 种|zhǒng 。
+> Most 3D printers found in homes and schools are of this kind.
+它|tā 的|de 原理|yuánlǐ 有点|yǒudiǎn 像|xiàng 一|yī 把|bǎ 热熔胶枪|rèróngjiāoqiāng|hot_glue_gun ： 一|yī 根|gēn 塑料丝|sùliàosī|plastic_filament|J 被|bèi 送|sòng 进|jìn 加热|jiārè 的|de 喷嘴|pēnzuǐ ， 在|zài 两百|liǎngbǎi 度|dù 左右|zuǒyòu 熔化|rónghuà|to_melt ， 然后|ránhòu 从|cóng 很|hěn 细|xì 的|de 喷嘴|pēnzuǐ 口|kǒu 挤|jǐ|to_squeeze_out 出来|chūlai 。
+> It works a little like a hot glue gun: a plastic filament is fed into a heated nozzle, melts at around 200 degrees and is squeezed out through the nozzle's fine opening.
+喷嘴|pēnzuǐ 在|zài 平台|píngtái|platform,_build_plate 上方|shàngfāng|above 移动|yídòng ， 一|yī 条|tiáo 线|xiàn 一|yī 条|tiáo 线|xiàn 地|de 画|huà 出|chū 每|měi 一|yī 层|céng ， 塑料|sùliào 很|hěn 快|kuài 就|jiù 冷却|lěngquè|to_cool_down 变|biàn 硬|yìng|hard 了|le 。
+> The nozzle moves above the platform, drawing each layer line by line, and the plastic quickly cools and hardens.
+
+@p fdm-machine
+一|yī 台|tái FDM 打印机|dǎyìnjī 的|de 结构|jiégòu 并|bìng 不|bù 复杂|fùzá 。
+> The construction of an FDM printer is not complicated.
+它|tā 主要|zhǔyào 有|yǒu 三|sān 个|gè 部分|bùfen ： 负责|fùzé 送|sòng 丝|sī|filament 和|hé 加热|jiārè 的|de 挤出机|jǐchūjī|extruder|J 、 可以|kěyǐ 前后|qiánhòu 、 左右|zuǒyòu 、 上下|shàngxià|up_and_down 移动|yídòng 的|de 运动|yùndòng 系统|xìtǒng ， 还有|háiyǒu 一|yī 块|kuài 平台|píngtái 。
+> It has three main parts: the extruder, which feeds and heats the filament; the motion system, which moves forwards and backwards, left and right, up and down; and a platform.
+运动|yùndòng 系统|xìtǒng 一般|yībān 由|yóu 几|jǐ 个|gè 步进电机|bùjìn_diànjī|stepper_motor|J 控制|kòngzhì|to_control ， 电机|diànjī|electric_motor|J 每|měi 走|zǒu 一|yī 步|bù 只|zhǐ 转|zhuàn 一|yī 个|gè 很|hěn 小|xiǎo 的|de 角度|jiǎodù ， 所以|suǒyǐ 喷嘴|pēnzuǐ 的|de 位置|wèizhì 可以|kěyǐ 控制|kòngzhì 得|de 很|hěn 准确|zhǔnquè 。
+> The motion system is usually driven by several stepper motors; with each step a motor turns through only a tiny angle, so the position of the nozzle can be controlled very accurately.
+打印|dǎyìn 完|wán 一|yī 层|céng 以后|yǐhòu ， 平台|píngtái 下降|xiàjiàng 一点点|yīdiǎndiǎn ， 或者|huòzhě 喷嘴|pēnzuǐ 升高|shēnggāo|to_rise 一点点|yīdiǎndiǎn ， 然后|ránhòu 开始|kāishǐ 打印|dǎyìn 下|xià 一|yī 层|céng 。
+> When a layer is finished, the platform drops a tiny amount, or the nozzle rises a tiny amount, and the next layer begins.
+
+@p fdm-2
+FDM 打印机|dǎyìnjī 常用|chángyòng 的|de 材料|cáiliào 有|yǒu PLA 、 ABS 和|hé PETG 。
+> Common materials for FDM printers are PLA, ABS and PETG.
+PLA 最|zuì 容易|róngyì 打印|dǎyìn ， 气味|qìwèi|smell 也|yě 比较|bǐjiào 小|xiǎo ， 适合|shìhé 初学者|chūxuézhě|beginner ； ABS 更|gèng 结实|jiēshi 、 更|gèng 耐热|nàirè|heat-resistant ， 但是|dànshì 打印|dǎyìn 的|de 时候|shíhou 容易|róngyì 翘边|qiàobiān|to_warp_at_the_edges|J ， 对|duì 温度|wēndù 的|de 要求|yāoqiú 也|yě 更|gèng 高|gāo ； PETG 的|de 性能|xìngnéng|properties,_performance 在|zài 两者|liǎngzhě|the_two 之间|zhījiān 。
+> PLA is the easiest to print and has little smell, so it suits beginners; ABS is tougher and more heat-resistant, but tends to warp at the edges while printing and is fussier about temperature; PETG lies between the two.
+打印|dǎyìn 平台|píngtái 一般|yībān 也|yě 是|shì 加热|jiārè 的|de ， 叫做|jiàozuò 热床|rèchuáng|heated_bed|J ， 这样|zhèyàng 第一|dìyī 层|céng 可以|kěyǐ 牢牢|láoláo|firmly 地|de 粘|zhān|to_stick 在|zài 上面|shàngmian ， 不|bù 容易|róngyì 翘|qiào|to_curl_up 起来|qǐlai 。
+> The build platform is usually heated as well — it is called a heated bed — so that the first layer sticks firmly to it and does not easily curl up.
+
+@p fdm-3
+打印|dǎyìn 的|de 时候|shíhou ， 物体|wùtǐ 里面|lǐmiàn 一般|yībān 不|bù 是|shì 实心|shíxīn|solid 的|de ， 而是|érshì 用|yòng 一|yī 种|zhǒng 网格|wǎnggé|grid,_mesh 一样|yīyàng 的|de 结构|jiégòu 来|lái 填充|tiánchōng|to_fill;_infill|J 。
+> When printing, the inside of an object is usually not solid but filled with a grid-like structure.
+填充率|tiánchōnglǜ 越|yuè 高|gāo ， 零件|língjiàn 就|jiù 越|yuè 结实|jiēshi ， 但是|dànshì 用|yòng 的|de 材料|cáiliào 和|hé 时间|shíjiān 也|yě 越|yuè 多|duō 。
+> The higher the infill percentage, the stronger the part, but the more material and time it takes.
+还有|háiyǒu 一|yī 个|gè 问题|wèntí 是|shì “ 悬空|xuánkōng|overhang|J ” ： 如果|rúguǒ 某|mǒu 一|yī 部分|bùfen 下面|xiàmiàn 什么|shénme 都|dōu 没有|méiyǒu ， 熔化|rónghuà 的|de 塑料|sùliào 就|jiù 会|huì 掉|diào 下去|xiàqu 。
+> Another issue is the “overhang”: if there is nothing underneath some part, the molten plastic will simply drop down.
+这|zhè 时候|shíhou ， 切片|qiēpiàn 软件|ruǎnjiàn 会|huì 自动|zìdòng 加|jiā 上|shàng 支撑|zhīchēng|support_(structure)|J ， 打印|dǎyìn 完|wán 以后|yǐhòu 再|zài 把|bǎ 支撑|zhīchēng 去掉|qùdiào 。
+> In that case the slicer automatically adds supports, which are removed after printing.
+一般|yībān 来|lái 说|shuō ， 倾斜|qīngxié|to_slant,_to_lean 不|bù 超过|chāoguò 四十五|sìshíwǔ 度|dù 的|de 部分|bùfen 可以|kěyǐ 不用|bùyòng 支撑|zhīchēng 。
+> As a rule, parts that lean out by no more than 45 degrees can be printed without supports.
+
+@p resin
+第二|dì'èr 种|zhǒng 常见|chángjiàn 的|de 方法|fāngfǎ 是|shì 光固化|guānggùhuà|light_curing_(resin_printing)|J ， 比如|bǐrú SLA 和|hé DLP 。
+> The second common method is light curing, as in SLA and DLP printers.
+这种|zhèzhǒng 打印机|dǎyìnjī 用|yòng 的|de 不|bù 是|shì 塑料丝|sùliàosī ， 而是|érshì 一|yī 种|zhǒng 液体|yètǐ|liquid 树脂|shùzhī|resin|J ， 它|tā 遇到|yùdào 紫外线|zǐwàixiàn|ultraviolet_light|J 就|jiù 会|huì 变|biàn 硬|yìng 。
+> These printers use not filament but a liquid resin that hardens when it is exposed to ultraviolet light.
+打印机|dǎyìnjī 用|yòng 激光|jīguāng|laser|J 或者|huòzhě 投影|tóuyǐng|projected_image 一|yī 层|céng 一|yī 层|céng 地|de 照射|zhàoshè|to_shine_on 树脂|shùzhī ， 被|bèi 照|zhào 到|dào 的|de 地方|dìfang 就|jiù 固化|gùhuà|to_cure,_to_solidify|J 成|chéng 固体|gùtǐ|solid 。
+> The printer shines a laser or a projected image onto the resin layer by layer, and wherever the light falls the resin cures into a solid.
+光固化|guānggùhuà 打印|dǎyìn 的|de 精度|jīngdù|precision|J 很|hěn 高|gāo ， 表面|biǎomiàn 也|yě 很|hěn 光滑|guānghuá ， 所以|suǒyǐ 常常|chángcháng 用来|yònglái|to_be_used_for 做|zuò 首饰|shǒushì|jewellery 模型|móxíng 、 牙齿|yáchǐ|teeth 模型|móxíng 和|hé 很|hěn 小|xiǎo 的|de 零件|língjiàn 。
+> Resin printing is very precise and the surface is smooth, so it is often used for jewellery models, dental models and very small parts.
+不过|bùguò ， 没有|méiyǒu 固化|gùhuà 的|de 树脂|shùzhī 对|duì 皮肤|pífū|skin 有|yǒu 刺激|cìjī|irritation ， 使用|shǐyòng 的|de 时候|shíhou 要|yào 戴|dài 手套|shǒutào ， 还|hái 要|yào 注意|zhùyì 通风|tōngfēng|ventilation 。
+> However, uncured resin irritates the skin, so you should wear gloves when handling it and make sure the room is well ventilated.
+
+@p powder
+第三|dìsān 种|zhǒng 是|shì 粉末|fěnmò|powder 打印|dǎyìn ， 比如|bǐrú SLS ， 中文|Zhōngwén 叫|jiào 选择性激光烧结|xuǎnzéxìng_jīguāng_shāojié|selective_laser_sintering|J 。
+> The third is powder printing, such as SLS — in Chinese, “selective laser sintering”.
+机器|jīqì 先|xiān 在|zài 平台|píngtái 上|shàng 铺|pū|to_spread 一|yī 层|céng 很|hěn 薄|báo 的|de 粉末|fěnmò ， 然后|ránhòu 用|yòng 激光|jīguāng 把|bǎ 需要|xūyào 的|de 部分|bùfen 烧结|shāojié|to_sinter|J 在|zài 一起|yīqǐ ， 再|zài 铺|pū 下|xià 一|yī 层|céng 粉末|fěnmò ， 就|jiù 这样|zhèyàng 一直|yīzhí 重复|chóngfù 。
+> The machine first spreads a very thin layer of powder on the platform, then uses a laser to fuse the required areas together, spreads the next layer of powder, and keeps repeating.
+没有|méiyǒu 被|bèi 烧结|shāojié 的|de 粉末|fěnmò 可以|kěyǐ 托住|tuōzhù|to_hold_up 上面|shàngmian 的|de 部分|bùfen ， 所以|suǒyǐ 一般|yībān 不|bù 需要|xūyào 另外|lìngwài 加|jiā 支撑|zhīchēng 。
+> The unsintered powder holds up the parts above it, so separate supports are generally not needed.
+SLS 常用|chángyòng 尼龙|nílóng|nylon 粉末|fěnmò 。
+> SLS commonly uses nylon powder.
+用|yòng 类似|lèisì 的|de 方法|fāngfǎ 和|hé 更|gèng 强|qiáng 的|de 激光|jīguāng ， 还|hái 可以|kěyǐ 把|bǎ 钛合金|tàihéjīn|titanium_alloy|J 、 不锈钢|bùxiùgāng|stainless_steel|J 这样|zhèyàng 的|de 金属|jīnshǔ 粉末|fěnmò 熔化|rónghuà 成|chéng 零件|língjiàn ， 这|zhè 在|zài 航空|hángkōng|aviation 和|hé 医疗|yīliáo|medicine,_medical_care 领域|lǐngyù|field,_sector 特别|tèbié 有用|yǒuyòng 。
+> With a similar method and a more powerful laser, metal powders such as titanium alloy or stainless steel can also be melted into parts, which is especially useful in aviation and medicine.
+
+@h2 h-pros
+优点|yōudiǎn 和|hé 不足|bùzú|shortcoming
+> Strengths and Weaknesses
+
+@p pros-1
+3D 打印|dǎyìn 最|zuì 大|dà 的|de 优点|yōudiǎn 是|shì 灵活|línghuó|flexible 。
+> The greatest strength of 3D printing is its flexibility.
+做|zuò 一|yī 个|gè 新|xīn 零件|língjiàn ， 不|bù 需要|xūyào 先|xiān 做|zuò 模具|mújù|mould|J ， 只要|zhǐyào 改|gǎi 一下|yīxià 电脑|diànnǎo 里|lǐ 的|de 模型|móxíng ， 第二|dì'èr 天|tiān 就|jiù 可以|kěyǐ 拿到|nádào 新|xīn 的|de 样品|yàngpǐn|sample 。
+> To make a new part you do not have to make a mould first; you simply change the model on the computer and can have a new sample the next day.
+所以|suǒyǐ ， 很多|hěnduō 公司|gōngsī 用|yòng 它|tā 来|lái 做|zuò 原型|yuánxíng|prototype|J ， 快速|kuàisù 检查|jiǎnchá 设计|shèjì 有|yǒu 没有|méiyǒu 问题|wèntí 。
+> That is why many companies use it to make prototypes and quickly check whether a design has any problems.
+对于|duìyú 只|zhǐ 需要|xūyào 做|zuò 一|yī 两|liǎng 个|gè 的|de 特殊|tèshū 零件|língjiàn ， 3D 打印|dǎyìn 也|yě 常常|chángcháng 比|bǐ 传统|chuántǒng 方法|fāngfǎ 便宜|piányi 得|de 多|duō 。
+> For special parts that are needed only once or twice, 3D printing is also often much cheaper than traditional methods.
+
+@p pros-2
+但是|dànshì ， 3D 打印|dǎyìn 也|yě 有|yǒu 不少|bùshǎo 问题|wèntí 。
+> But 3D printing also has quite a few problems.
+首先|shǒuxiān 是|shì 速度|sùdù ： 打印|dǎyìn 一|yī 个|gè 手掌|shǒuzhǎng|palm_(of_the_hand) 大小|dàxiǎo 的|de 零件|língjiàn ， 常常|chángcháng 需要|xūyào 好几|hǎojǐ 个|gè 小时|xiǎoshí ， 所以|suǒyǐ 它|tā 不|bù 适合|shìhé 大量|dàliàng 生产|shēngchǎn 。
+> The first is speed: printing a palm-sized part often takes several hours, so it is not suited to mass production.
+其次|qícì ， 因为|yīnwèi 物体|wùtǐ 是|shì 一|yī 层|céng 一|yī 层|céng 叠|dié 起来|qǐlai 的|de ， 层|céng 和|hé 层|céng 之间|zhījiān 的|de 连接|liánjiē|connection,_bond 比较|bǐjiào 弱|ruò 。
+> Second, because the object is built up layer by layer, the bond between the layers is relatively weak.
+如果|rúguǒ 力|lì 的|de 方向|fāngxiàng 和|hé 层|céng 平行|píngxíng|parallel ， 零件|língjiàn 比较|bǐjiào 结实|jiēshi ； 如果|rúguǒ 力|lì 要|yào 把|bǎ 层|céng 和|hé 层|céng 拉开|lākāi ， 零件|língjiàn 就|jiù 容易|róngyì 断|duàn 。
+> If a force acts parallel to the layers, the part is fairly strong; if the force tries to pull the layers apart, the part breaks easily.
+工程师|gōngchéngshī 把|bǎ 这种|zhèzhǒng 特点|tèdiǎn 叫做|jiàozuò 各向异性|gèxiàngyìxìng|anisotropy|J ， 所以|suǒyǐ 设计|shèjì 的|de 时候|shíhou 要|yào 考虑|kǎolǜ 零件|língjiàn 的|de 打印|dǎyìn 方向|fāngxiàng 。
+> Engineers call this property anisotropy, so the print orientation of a part has to be considered at the design stage.
+
+@p pros-3
+另外|lìngwài ， FDM 打印|dǎyìn 的|de 表面|biǎomiàn 常常|chángcháng 能|néng 看到|kàndào 一|yī 条|tiáo 一|yī 条|tiáo 的|de 层纹|céngwén|layer_lines|J ， 不|bù 够|gòu 光滑|guānghuá ， 有时候|yǒushíhou 需要|xūyào 打磨|dǎmó|to_sand,_to_polish 或者|huòzhě 再|zài 加工|jiāgōng|to_process,_to_machine 。
+> In addition, layer lines are often visible on the surface of FDM prints, so it is not very smooth and sometimes needs sanding or further processing.
+打印|dǎyìn 失败|shībài 也|yě 是|shì 常|cháng 有|yǒu 的|de 事|shì ： 第一|dìyī 层|céng 没|méi 粘|zhān 好|hǎo 、 喷嘴|pēnzuǐ 堵|dǔ|to_block,_to_clog 住|zhù 了|le 、 模型|móxíng 打|dǎ 到|dào 一半|yībàn 倒|dǎo|to_topple_over 了|le …… 这些|zhèxiē 都|dōu 会|huì 让|ràng 几|jǐ 个|gè 小时|xiǎoshí 的|de 工作|gōngzuò 白费|báifèi|to_be_wasted 。
+> Failed prints are common too: the first layer does not stick, the nozzle clogs, the model topples over halfway through… any of these can waste hours of work.
+
+@h2 h-uses
+3D 打印|dǎyìn 的|de 应用|yìngyòng
+> What 3D Printing Is Used For
+
+@p uses-1
+今天|jīntiān ， 3D 打印|dǎyìn 已经|yǐjīng 走进|zǒujìn 了|le 很多|hěnduō 行业|hángyè|industry 。
+> Today 3D printing has found its way into many industries.
+在|zài 工厂|gōngchǎng 里|lǐ ， 工程师|gōngchéngshī 用|yòng 它|tā 打印|dǎyìn 夹具|jiājù|jig,_fixture|J 和|hé 工具|gōngjù ； 在|zài 医院|yīyuàn 里|lǐ ， 医生|yīshēng 可以|kěyǐ 根据|gēnjù 病人|bìngrén 的|de CT 数据|shùjù 打印|dǎyìn 出|chū 骨头|gǔtou 的|de 模型|móxíng ， 在|zài 手术|shǒushù 前|qián 进行|jìnxíng 练习|liànxí 。
+> In factories engineers use it to print jigs, fixtures and tools; in hospitals doctors can print models of bones from a patient's CT data and practise before an operation.
+用|yòng 钛合金|tàihéjīn 打印|dǎyìn 的|de 人工|réngōng|artificial 关节|guānjié|joint 和|hé 植入物|zhírùwù|implant|J ， 还|hái 可以|kěyǐ 根据|gēnjù 每|měi 个|gè 病人|bìngrén 的|de 身体|shēntǐ 专门|zhuānmén 设计|shèjì 。
+> Artificial joints and implants printed in titanium alloy can even be designed specifically for each patient's body.
+
+@p uses-2
+在|zài 航空|hángkōng 领域|lǐngyù ， 有的|yǒude 发动机|fādòngjī 零件|língjiàn 以前|yǐqián 需要|xūyào 把|bǎ 很多|hěnduō 小|xiǎo 零件|língjiàn 焊|hàn|to_weld 在|zài 一起|yīqǐ ， 现在|xiànzài 可以|kěyǐ 一|yī 次|cì 打印|dǎyìn 成|chéng 一|yī 个|gè 整体|zhěngtǐ|single_whole_piece ， 不但|bùdàn 更|gèng 轻|qīng ， 而且|érqiě 更|gèng 可靠|kěkào 。
+> In aviation, some engine parts that used to be welded together from many small pieces can now be printed in one go as a single piece, which is both lighter and more reliable.
+在|zài 建筑|jiànzhù|construction 领域|lǐngyù ， 有的|yǒude 公司|gōngsī 用|yòng 巨大|jùdà 的|de 打印机|dǎyìnjī 把|bǎ 混凝土|hùnníngtǔ|concrete|J 一|yī 层|céng 一|yī 层|céng 地|de 挤|jǐ 出来|chūlai ， 几|jǐ 天|tiān 之内|zhīnèi|within 就|jiù 能|néng “ 打印|dǎyìn ” 出|chū 一|yī 座|zuò 小|xiǎo 房子|fángzi 的|de 墙|qiáng 。
+> In construction, some companies use huge printers to extrude concrete layer by layer, and can “print” the walls of a small house within a few days.
+
+@p uses-3
+3D 打印|dǎyìn 也|yě 受到|shòudào 了|le 普通|pǔtōng 人|rén 的|de 欢迎|huānyíng 。
+> 3D printing has also become popular with ordinary people.
+很多|hěnduō 人|rén 在|zài 家|jiā 里|lǐ 打印|dǎyìn 手机|shǒujī 支架|zhījià|stand,_holder 、 玩具|wánjù 和|hé 坏|huài 了|le 的|de 家电|jiādiàn|household_appliance 零件|língjiàn ， 还有|háiyǒu 人|rén 在|zài 网上|wǎngshàng 免费|miǎnfèi 分享|fēnxiǎng 自己|zìjǐ 的|de 设计|shèjì 。
+> Many people print phone stands, toys and spare parts for broken household appliances at home, and some share their designs online for free.
+现在|xiànzài ， 一|yī 台|tái 入门级|rùménjí|entry-level 的|de 打印机|dǎyìnjī 只要|zhǐyào 一|yī 两|liǎng 千|qiān 元|yuán 人民币|rénmínbì 就|jiù 能|néng 买到|mǎidào 。
+> Nowadays an entry-level printer can be bought for just one or two thousand yuan.
+
+@p uses-school
+在|zài 学校|xuéxiào 里|lǐ ， 3D 打印机|dǎyìnjī 也|yě 是|shì 一|yī 种|zhǒng 很|hěn 好|hǎo 的|de 教学|jiàoxué 工具|gōngjù 。
+> In schools, too, the 3D printer is an excellent teaching tool.
+学生|xuésheng 可以|kěyǐ 自己|zìjǐ 设计|shèjì 一|yī 个|gè 小|xiǎo 东西|dōngxi ， 第二|dì'èr 天|tiān 就|jiù 拿到|nádào 手|shǒu 里|lǐ ， 看看|kànkan 哪里|nǎli 设计|shèjì 得|de 好|hǎo ， 哪里|nǎli 还|hái 需要|xūyào 修改|xiūgǎi 。
+> Students can design a small object themselves, hold it in their hands the next day, and see which parts are well designed and which still need changing.
+这种|zhèzhǒng “ 设计|shèjì 、 打印|dǎyìn 、 检查|jiǎnchá 、 再|zài 设计|shèjì ” 的|de 过程|guòchéng ， 正是|zhèngshì 工程师|gōngchéngshī 每天|měitiān 工作|gōngzuò 的|de 方式|fāngshì 。
+> This cycle of “design, print, check, redesign” is exactly how engineers work every day.
+
+@h2 h-end
+结语|jiéyǔ|concluding_remarks
+> In Closing
+
+@p end
+3D 打印|dǎyìn 不|bù 会|huì 马上|mǎshàng 代替|dàitì 所有|suǒyǒu 传统|chuántǒng 的|de 制造|zhìzào 方法|fāngfǎ ， 因为|yīnwèi 在|zài 大量|dàliàng 生产|shēngchǎn 的|de 时候|shíhou ， 注塑|zhùsù|injection_moulding|J 和|hé 机床|jīchuáng 加工|jiāgōng 仍然|réngrán 更|gèng 快|kuài 、 更|gèng 便宜|piányi 。
+> 3D printing will not replace all traditional manufacturing methods any time soon, because for mass production, injection moulding and machining are still faster and cheaper.
+但是|dànshì ， 它|tā 让|ràng 设计|shèjì 和|hé 制造|zhìzào 之间|zhījiān 的|de 距离|jùlí 变|biàn 得|de 更|gèng 短|duǎn 了|le 。
+> But it has shortened the distance between design and manufacturing.
+一|yī 个|gè 想法|xiǎngfǎ 从|cóng 电脑|diànnǎo 里|lǐ 的|de 模型|móxíng 变成|biànchéng 拿|ná 在|zài 手|shǒu 里|lǐ 的|de 东西|dōngxi ， 可能|kěnéng 只|zhǐ 需要|xūyào 一|yī 个|gè 晚上|wǎnshang 。
+> An idea can go from a model on a computer to something you hold in your hand in a single night.
+也许|yěxǔ 将来|jiānglái ， “ 打印|dǎyìn ” 一|yī 件|jiàn 东西|dōngxi 会|huì 像|xiàng 今天|jīntiān 打印|dǎyìn 一|yī 张|zhāng 纸|zhǐ 一样|yīyàng 普通|pǔtōng 。
+> Perhaps one day “printing” an object will be as ordinary as printing a sheet of paper is today.
