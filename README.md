@@ -27,7 +27,21 @@ read it in the browser, or download a whole level as one zip from the **Releases
 
 ### HSK 3.0 level 5
 
-In preparation: ten short stories, planned in [plans/hsk5-stories.md](plans/hsk5-stories.md). Finished stories will appear in [stories/hsk5](stories/hsk5/).
+Ten narrative short stories with dialogue, each practising four focus grammar points
+(see [stories/hsk5](stories/hsk5/) for the grammar of each story).
+
+| # | 中文 | English | theme | PDF |
+|---|---|---|---|---|
+| 12 | 胡同里的修表师傅 | The Watch Repairer of the Hutong | society, tradition & ideas | [PDF](stories/hsk5/12-watch-repairer/12-watch-repairer.pdf) |
+| 13 | 郑和下西洋 | Zheng He Sails the Western Seas | history | [PDF](stories/hsk5/13-zheng-he/13-zheng-he.pdf) |
+| 14 | 回村的女孩 | The Girl Who Went Back to the Village | society, culture & daily life | [PDF](stories/hsk5/14-back-to-the-village/14-back-to-the-village.pdf) |
+| 15 | 塞翁失马 | Old Sai Loses His Horse | tradition & ideas, language | [PDF](stories/hsk5/15-sai-weng/15-sai-weng.pdf) |
+| 16 | 变脸 | The Face-Changer's Apprentice | tradition & ideas | [PDF](stories/hsk5/16-face-changing/16-face-changing.pdf) |
+| 17 | 高考那一年 | The Year of the Gaokao | society | [PDF](stories/hsk5/17-gaokao/17-gaokao.pdf) |
+| 18 | 大熊猫回家 | Bringing the Pandas Home | nature & environment, science & technology | [PDF](stories/hsk5/18-pandas/18-pandas.pdf) |
+| 19 | 沙漠里的驼铃 | Camel Bells in the Desert | history | [PDF](stories/hsk5/19-silk-road/19-silk-road.pdf) |
+| 20 | 外婆的药箱 | Grandma's Medicine Chest | culture & daily life, science & technology | [PDF](stories/hsk5/20-medicine-chest/20-medicine-chest.pdf) |
+| 21 | 月亮上的脚印 | Footprints on the Moon | science & technology, tradition & ideas | [PDF](stories/hsk5/21-moon/21-moon.pdf) |
 
 The full catalogue of all levels is in [stories/README.md](stories/README.md).
 

@@ -1,0 +1,356 @@
+# Bringing the Pandas Home — original story and translation by Claude (Anthropic).
+# Target: HSK 3.0 level 5; focus grammar: 被/叫/让 + 给 passive, 因而, 难以, 加以; names N, terms J, set phrases I.
+
+@meta {"title_zh": "大熊猫回家", "subtitle_zh": "教一只熊猫忘记人类", "title_en": "Bringing the Pandas Home", "subtitle_en": "Teaching a panda to forget us", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+四川|Sìchuān|Sichuan_province|N 的|de 山|shān 里|lǐ ， 早上|zǎoshang 常常|chángcháng 有|yǒu 雾|wù|fog,_mist 。
+> In the mountains of Sichuan there is often mist in the morning.
+雾|wù 慢慢|mànmàn 散开|sànkāi|to_disperse,_lift 的|de 时候|shíhou ， 你|nǐ 也许|yěxǔ 会|huì 看见|kànjiàn 一|yī 只|zhī 大熊猫|dàxióngmāo|giant_panda 从|cóng 竹林|zhúlín|bamboo_grove 里|lǐ 走|zǒu 出来|chūlai ， 走|zǒu 得|de 很|hěn 慢|màn ， 很|hěn 小心|xiǎoxīn 。
+> As the mist slowly lifts, you might see a giant panda come out of the bamboo grove, walking slowly and carefully.
+可是|kěshì 如果|rúguǒ 你|nǐ 再|zài 仔细|zǐxì|carefully 看|kàn 一|yī 看|kàn ， 就|jiù 会|huì 发现|fāxiàn 这|zhè 只|zhī “ 熊猫|xióngmāo|panda ” 有点儿|yǒudiǎnr 奇怪|qíguài ： 它|tā 是|shì 站|zhàn 着|zhe 走路|zǒulù 的|de ， 手|shǒu 里|lǐ 还|hái 提|tí 着|zhe 一|yī 个|gè 装满|zhuāngmǎn|filled_with 竹子|zhúzi|bamboo 的|de 篮子|lánzi|basket 。
+> But if you look more closely, you will notice that this “panda” is a little odd: it walks upright, and it is carrying a basket full of bamboo.
+它|tā 不|bù 是|shì 熊猫|xióngmāo ， 而是|érshì 一|yī 个|gè 穿|chuān 着|zhe 熊猫|xióngmāo 衣服|yīfu 的|de 人|rén 。
+> It is not a panda at all, but a person in a panda suit.
+她|tā 叫|jiào 杨帆|Yáng_Fān|Yang_Fan,_a_young_researcher|N ， 今年|jīnnián 二十九|èrshíjiǔ 岁|suì ， 是|shì 卧龙|Wòlóng|Wolong,_panda_reserve_in_Sichuan|N 核桃坪|Hétáopíng|Hetaoping,_panda_training_base_at_Wolong|N 大熊猫|dàxióngmāo 野化|yěhuà|rewilding,_wild_training|J 培训|péixùn|training 基地|jīdì|base 的|de 研究|yánjiū 人员|rényuán 。
+> Her name is Yang Fan. She is twenty-nine, and she is a researcher at the giant panda wild-training base at Hetaoping in Wolong.
+
+@h2 h-costume
+穿|chuān 熊猫|xióngmāo 衣服|yīfu 的|de 人|rén
+> The People in Panda Suits
+
+@p costume-1
+第一|dìyī 次|cì 穿|chuān 上|shàng 这|zhè 套|tào 衣服|yīfu 的|de 时候|shíhou ， 杨帆|Yáng_Fān 觉得|juéde 自己|zìjǐ 像|xiàng 在|zài 演|yǎn 一|yī 个|gè 儿童|értóng 节目|jiémù 。
+> The first time she put on the suit, Yang Fan felt as if she were performing in a children's show.
+衣服|yīfu 又|yòu 厚|hòu 又|yòu 重|zhòng ， 头套|tóutào|head_of_the_suit 上|shàng 只有|zhǐyǒu 两|liǎng 个|gè 小小|xiǎoxiǎo 的|de 洞|dòng|hole ， 夏天|xiàtiān 穿|chuān 着|zhe 它|tā 在|zài 山|shān 上|shàng 走|zǒu 一|yī 圈|quān ， 里面|lǐmiàn 的|de 衬衫|chènshān 全|quán 湿|shī 了|le 。
+> It was thick and heavy, the head had only two tiny eyeholes, and after one walk around the mountainside in summer the shirt underneath was soaked through.
+更|gèng 让|ràng 她|tā 难以|nányǐ|hard_to 接受|jiēshòu 的|de 是|shì 衣服|yīfu 上|shàng 的|de 味道|wèidao 。
+> What she found even harder to accept was the smell.
+为了|wèile 让|ràng 熊猫|xióngmāo 闻|wén 不|bù 出|chū 人|rén 的|de 味道|wèidao ， 大家|dàjiā 会|huì 把|bǎ 熊猫|xióngmāo 的|de 粪便|fènbiàn|dung,_droppings 擦|cā|to_rub 在|zài 衣服|yīfu 上|shàng 。
+> So that the pandas could not smell humans, everyone rubbed panda dung onto the suits.
+“ 这|zhè 也|yě 太|tài 臭|chòu|smelly,_to_stink 了|le 吧|ba ！ ” 她|tā 大声|dàshēng 说|shuō 。
+> “This stinks!” she said loudly.
+
+@p costume-2
+老马|Lǎo_Mǎ|Lao_Ma_(“Old_Ma”),_a_keeper|N 在|zài 基地|jīdì 工作|gōngzuò 了|le 二十|èrshí 多|duō 年|nián ， 是|shì 这里|zhèlǐ 最|zuì 有|yǒu 经验|jīngyàn 的|de 饲养员|sìyǎngyuán|animal_keeper|J 。
+> Lao Ma had worked at the base for more than twenty years and was its most experienced keeper.
+他|tā 一边|yībiān 帮|bāng 她|tā 拉|lā 好|hǎo 背后|bèihòu 的|de 衣服|yīfu ， 一边|yībiān 笑|xiào 着|zhe 说|shuō ： “ 臭|chòu 就|jiù 对|duì 了|le 。 你|nǐ 闻|wén 起来|qǐlai 越|yuè 像|xiàng 熊猫|xióngmāo ， 草草|Cǎocǎo|Caocao,_a_young_female_panda|N 就|jiù 越|yuè 不|bù 会|huì 注意|zhùyì 你|nǐ 。 ”
+> As he straightened the back of her suit, he laughed: “Stinking is the point. The more you smell like a panda, the less Caocao will notice you.”
+“ 可|kě|but 我|wǒ 是|shì 来|lái 研究|yánjiū 熊猫|xióngmāo 的|de ， 不|bù 是|shì 来|lái 演|yǎn 熊猫|xióngmāo 的|de 。 ”
+> “But I came here to study pandas, not to play one.”
+“ 在|zài 这里|zhèlǐ ， 这|zhè 两|liǎng 件|jiàn 事|shì 是|shì 一样|yīyàng 的|de 。 ” 老马|Lǎo_Mǎ 说|shuō ， “ 咱们|zánmen 的|de 工作|gōngzuò ， 就|jiù 是|shì 让|ràng 她|tā 忘|wàng 了|le 世界|shìjiè 上|shàng 还|hái 有|yǒu 人|rén 。 ”
+> “Here, those are the same thing,” said Lao Ma. “Our job is to make her forget that people exist.”
+
+@p costume-3
+草草|Cǎocǎo 是|shì 一|yī 只|zhī 一|yī 岁|suì 多|duō 的|de 母|mǔ|female_(animal) 熊猫|xióngmāo 。
+> Caocao was a female panda, a little over a year old.
+她|tā 从|cóng 出生|chūshēng 起|qǐ 就|jiù 跟|gēn 着|zhe 妈妈|māma 生活|shēnghuó 在|zài 一|yī 个|gè 很|hěn 大|dà 的|de 训练场|xùnliànchǎng|training_enclosure 里|lǐ ， 那里|nàli 有|yǒu 真|zhēn 的|de 山坡|shānpō|hillside 、 真|zhēn 的|de 竹林|zhúlín 和|hé 小河|xiǎohé|stream 。
+> Since birth she had lived with her mother in a huge training enclosure with real hillsides, real bamboo groves and a stream.
+按照|ànzhào 计划|jìhuà ， 她|tā 要|yào 在|zài 这里|zhèlǐ 学习|xuéxí 野外|yěwài|the_wild 生存|shēngcún 的|de 本领|běnlǐng ， 大约|dàyuē 一|yī 年|nián 以后|yǐhòu 被|bèi 放归|fàngguī|to_release_into_the_wild|J 到|dào 真正|zhēnzhèng 的|de 森林|sēnlín 里|lǐ 。
+> According to the plan, she would learn the skills of survival in the wild here, and in about a year she would be released into a real forest.
+所以|suǒyǐ ， 饲养员|sìyǎngyuán 们|men 给|gěi 她|tā 送|sòng 竹子|zhúzi 、 检查|jiǎnchá 身体|shēntǐ 的|de 时候|shíhou ， 都|dōu 必须|bìxū 穿|chuān 上|shàng 熊猫|xióngmāo 衣服|yīfu ， 而且|érqiě 不|bù 能|néng 说话|shuōhuà 。
+> So whenever the keepers brought her bamboo or gave her a check-up, they had to wear panda suits, and they were not allowed to speak.
+一旦|yīdàn|once,_if_ever 她|tā 习惯|xíguàn 了|le 人|rén ， 觉得|juéde 人|rén 会|huì 给|gěi 她|tā 吃|chī 的|de ， 放归|fàngguī 以后|yǐhòu 就|jiù 可能|kěnéng 主动|zhǔdòng 走|zǒu 到|dào 村子|cūnzi|village 和|hé 公路|gōnglù 附近|fùjìn ， 那|nà 会|huì 非常|fēicháng 危险|wēixiǎn 。
+> Once she got used to people and thought they would give her food, she might wander up to villages and roads after her release, and that would be very dangerous.
+
+@p costume-4
+杨帆|Yáng_Fān 刚|gāng 来|lái 的|de 时候|shíhou ， 对|duì 这些|zhèxiē 规定|guīdìng 很|hěn 不|bù 理解|lǐjiě 。
+> When Yang Fan first arrived, she did not understand these rules at all.
+她|tā 从小|cóngxiǎo 就|jiù 喜欢|xǐhuan 熊猫|xióngmāo ， 大学|dàxué 学|xué 的|de 专业|zhuānyè 也|yě 和|hé 野生|yěshēng|wild 动物|dòngwù 保护|bǎohù 有关|yǒuguān|to_be_related_to 。
+> She had loved pandas since she was little, and at university she had studied wildlife conservation.
+她|tā 心里|xīnli 一直|yīzhí 有|yǒu 一|yī 个|gè 画面|huàmiàn|picture,_image ： 自己|zìjǐ 坐|zuò 在|zài 熊猫|xióngmāo 旁边|pángbiān ， 轻轻|qīngqīng|gently 地|de 摸|mō 它|tā 的|de 头|tóu 。
+> She had always carried a picture in her mind: herself sitting beside a panda, gently stroking its head.
+可是|kěshì 在|zài 这里|zhèlǐ ， 她|tā 连|lián 跟|gēn 草草|Cǎocǎo 说|shuō 一|yī 句|jù “ 早上好|zǎoshanghǎo ” 都|dōu 不|bù 行|xíng 。
+> But here she could not even say “good morning” to Caocao.
+有|yǒu 一|yī 次|cì ， 草草|Cǎocǎo 在|zài 树|shù 下|xià 打滚|dǎgǔn|to_roll_about ， 样子|yàngzi 可爱|kě'ài 极了|jíle ， 杨帆|Yáng_Fān 忍不住|rěnbuzhù|can't_help_(doing) 笑|xiào 出|chū 了|le 声|shēng|sound,_voice ， 老马|Lǎo_Mǎ 马上|mǎshàng 回头|huítóu|to_turn_round 看|kàn 了|le 她|tā 一|yī 眼|yǎn 。
+> Once, when Caocao was rolling about under a tree, looking adorable, Yang Fan could not help laughing out loud, and Lao Ma turned round at once and gave her a look.
+那天|nàtiān 晚上|wǎnshang ， 她|tā 在|zài 日记|rìjì 里|lǐ 写|xiě 道|dào ： “ 我|wǒ 离|lí 熊猫|xióngmāo 这么|zhème 近|jìn ， 却|què 好像|hǎoxiàng 离|lí 她|tā 很|hěn 远|yuǎn 。 ”
+> That night she wrote in her diary: “I am so close to a panda, and yet she seems so far away.”
+
+@h2 h-fear
+学会|xuéhuì|to_learn 害怕|hàipà
+> Learning to Be Afraid
+
+@p fear-1
+野生|yěshēng 的|de 熊猫|xióngmāo 看起来|kànqǐlai 很|hěn 温和|wēnhé|gentle,_mild ， 但|dàn 森林|sēnlín 并|bìng 不|bù 温和|wēnhé 。
+> Wild pandas look gentle, but the forest is not.
+豹子|bàozi|leopard 和|hé 野狗|yěgǒu|wild_dog 会|huì 攻击|gōngjī|to_attack 小|xiǎo 熊猫|xióngmāo ； 村子|cūnzi 、 公路|gōnglù 和|hé 人|rén 带来|dàilái 的|de 危险|wēixiǎn 也|yě 一直|yīzhí 存在|cúnzài 。
+> Leopards and wild dogs attack young pandas, and the dangers brought by villages, roads and people are always there.
+在|zài 基地|jīdì 出生|chūshēng 的|de 熊猫|xióngmāo 没有|méiyǒu 见|jiàn 过|guo 这些|zhèxiē ， 因而|yīn'ér|thus,_as_a_result 不|bù 知道|zhīdào 什么|shénme 应该|yīnggāi 怕|pà 。
+> Pandas born at the base have never seen any of this, and so they do not know what to be afraid of.
+研究|yánjiū 人员|rényuán 要|yào 做|zuò 的|de ， 就|jiù 是|shì 教会|jiāohuì|to_teach 草草|Cǎocǎo 害怕|hàipà 。
+> The researchers' job was to teach Caocao fear.
+
+@p fear-2
+这|zhè 种|zhǒng 训练|xùnliàn 听|tīng 起来|qǐlai 有点儿|yǒudiǎnr 残酷|cánkù|cruel 。
+> This kind of training sounds a little cruel.
+有|yǒu 一|yī 天|tiān ， 老马|Lǎo_Mǎ 和|hé 杨帆|Yáng_Fān 把|bǎ 一|yī 只|zhī 做|zuò 得|de 很|hěn 像|xiàng 的|de 假|jiǎ|fake 豹子|bàozi 放|fàng 在|zài 训练场|xùnliànchǎng 的|de 一|yī 棵|kē 树|shù 下|xià ， 又|yòu 用|yòng 音箱|yīnxiāng|loudspeaker 放|fàng 出|chū 豹子|bàozi 的|de 叫声|jiàoshēng|call,_cry_(of_an_animal) 。
+> One day Lao Ma and Yang Fan put a lifelike model leopard under a tree in the enclosure and played leopard calls through a loudspeaker.
+草草|Cǎocǎo 本来|běnlái 在|zài 树|shù 下|xià 吃|chī 竹子|zhúzi ， 听到|tīngdào 声音|shēngyīn 以后|yǐhòu 先|xiān 是|shì 呆|dāi|to_be_stunned 住|zhù 了|le ， 然后|ránhòu 飞快|fēikuài|very_fast 地|de 爬|pá 上|shàng 了|le 树|shù ， 在|zài 最|zuì 高|gāo 的|de 地方|dìfang 待|dāi|to_stay 了|le 一|yī 个|gè 下午|xiàwǔ 。
+> Caocao had been eating bamboo under the tree. When she heard the sound she froze for a moment, then shot up the tree and stayed at the very top all afternoon.
+她|tā 的|de 妈妈|māma 一直|yīzhí 守|shǒu 在|zài 树|shù 下|xià ， 冲|chòng 着|zhe 假|jiǎ 豹子|bàozi 大声|dàshēng 地|de 叫|jiào 。
+> Her mother stood guard under the tree the whole time, roaring at the fake leopard.
+杨帆|Yáng_Fān 在|zài 电脑|diànnǎo 前|qián 看|kàn 着|zhe ， 心里|xīnli 很|hěn 难受|nánshòu|upset,_unhappy 。
+> Yang Fan watched on the computer with a heavy heart.
+“ 她|tā 吓|xià|to_frighten 坏|huài 了|le 。 ” “ 吓|xià 坏|huài 了|le 才|cái 好|hǎo 。 ” 老马|Lǎo_Mǎ 说|shuō ， “ 在|zài 山|shān 里|lǐ ， 不|bù 会|huì 害怕|hàipà 的|de 熊猫|xióngmāo 活|huó 不|bù 长|cháng 。 ”
+> “She's terrified.” “Terrified is good,” said Lao Ma. “In the mountains, a panda that can't be afraid doesn't live long.”
+
+@p fear-3
+草草|Cǎocǎo 戴|dài 着|zhe 一|yī 个|gè GPS 项圈|xiàngquān|collar|J ， 以便|yǐbiàn|so_that 研究|yánjiū 人员|rényuán 随时|suíshí 知道|zhīdào 她|tā 在|zài 哪里|nǎlǐ 、 走|zǒu 了|le 多|duō 远|yuǎn 。
+> Caocao wore a GPS collar so that the researchers would know at any moment where she was and how far she had walked.
+每天|měitiān 晚上|wǎnshang ， 杨帆|Yáng_Fān 都|dōu 要|yào 把|bǎ 这些|zhèxiē 数据|shùjù 下载|xiàzǎi|to_download 到|dào 电脑|diànnǎo 里|lǐ ， 加以|jiāyǐ|to_apply_(analysis,_care_etc.) 整理|zhěnglǐ|to_sort_out 和|hé 分析|fēnxī|to_analyse 。
+> Every evening Yang Fan downloaded the data to her computer, sorted it and analysed it.
+她|tā 发现|fāxiàn 草草|Cǎocǎo 每天|měitiān 活动|huódòng 的|de 范围|fànwéi 越来越|yuèláiyuè 大|dà ， 爬|pá 树|shù 的|de 时间|shíjiān 越来越|yuèláiyuè 长|cháng ， 也|yě 开始|kāishǐ 自己|zìjǐ 挑|tiāo 竹子|zhúzi 最|zuì 好吃|hǎochī 的|de 部分|bùfen 吃|chī 。
+> She found that Caocao's daily range was growing, she spent longer and longer in the trees, and she had begun choosing the tastiest parts of the bamboo for herself.
+有|yǒu 一|yī 次|cì ， 她|tā 的|de 项圈|xiàngquān 被|bèi 一|yī 棵|kē 小|xiǎo 树|shù 给|gěi 挂|guà 住|zhù 了|le ， 她|tā 用|yòng 前|qián 脚|jiǎo 拉|lā 了|le 半天|bàntiān ， 最后|zuìhòu 自己|zìjǐ 弄|nòng 了|le 下来|xiàlai 。
+> Once her collar got caught on a small tree; she pulled at it with her front paws for ages and finally freed herself.
+随着|suízhe|along_with,_as 秋天|qiūtiān 的|de 到来|dàolái|arrival ， 她|tā 的|de 毛|máo 也|yě 变得|biànde 又|yòu 厚|hòu 又|yòu 亮|liàng 。
+> As autumn came on, her coat grew thick and glossy.
+
+@p fear-4
+不过|bùguò ， 能|néng 不|bù 能|néng 放归|fàngguī ， 并|bìng 不|bù 是|shì 只|zhǐ 看|kàn 熊猫|xióngmāo 自己|zìjǐ ， 山|shān 里|lǐ 的|de 竹子|zhúzi 也|yě 很|hěn 重要|zhòngyào 。
+> But whether a panda can be released does not depend on the panda alone; the bamboo in the mountains matters too.
+大熊猫|dàxióngmāo 每天|měitiān 要|yào 花|huā 十几|shíjǐ 个|gè 小时|xiǎoshí 吃|chī 竹子|zhúzi ， 一|yī 天|tiān 能|néng 吃|chī 掉|diào 十几|shíjǐ 公斤|gōngjīn 甚至|shènzhì 更|gèng 多|duō 。
+> A giant panda spends more than ten hours a day eating bamboo and can get through more than ten kilos in a day, or even more.
+而|ér 有些|yǒuxiē 竹子|zhúzi 每|měi 隔|gé 几十|jǐshí 年|nián 就|jiù 会|huì 大|dà 面积|miànjī 开花|kāihuā ， 开|kāi 完|wán 花|huā 以后|yǐhòu 就|jiù 成片|chéngpiàn|in_whole_stretches 地|de 死去|sǐqù|to_die 。
+> And some kinds of bamboo flower over wide areas once every few decades, and after flowering they die off in great stretches.
+上|shàng 世纪|shìjì 八十|bāshí 年代|niándài ， 四川|Sìchuān 一些|yīxiē 地方|dìfang 的|de 箭竹|jiànzhú|arrow_bamboo|J 开花|kāihuā 死|sǐ 了|le ， 不少|bùshǎo 熊猫|xióngmāo 因而|yīn'ér 找|zhǎo 不|bù 到|dào 吃|chī 的|de 。
+> In the 1980s, arrow bamboo flowered and died in parts of Sichuan, and many pandas were left with nothing to eat.
+所以|suǒyǐ ， 选择|xuǎnzé 放归|fàngguī 地点|dìdiǎn 以前|yǐqián ， 研究|yánjiū 人员|rényuán 必须|bìxū 对|duì 那里|nàli 的|de 竹子|zhúzi 、 水|shuǐ 和|hé 野生|yěshēng 熊猫|xióngmāo 的|de 数量|shùliàng 加以|jiāyǐ 调查|diàochá 。
+> So before choosing a release site, researchers have to survey the bamboo, the water and the number of wild pandas there.
+
+@p fear-5
+一|yī 天|tiān 晚上|wǎnshang ， 杨帆|Yáng_Fān 问|wèn 老马|Lǎo_Mǎ ： “ 野外|yěwài 已经|yǐjīng 有|yǒu 那么|nàme 多|duō 熊猫|xióngmāo 了|le ， 为什么|wèishénme 还|hái 要|yào 把|bǎ 草草|Cǎocǎo 放|fàng 回去|huíqu ？ ”
+> One evening Yang Fan asked Lao Ma, “There are already so many pandas in the wild. Why do we still need to send Caocao back?”
+老马|Lǎo_Mǎ 指|zhǐ 着|zhe 墙|qiáng 上|shàng 的|de 地图|dìtú 说|shuō ： “ 你|nǐ 看|kàn ， 这些|zhèxiē 绿色|lǜsè 的|de 地方|dìfang 都|dōu 是|shì 熊猫|xióngmāo 生活|shēnghuó 的|de 森林|sēnlín ， 可是|kěshì 它们|tāmen 让|ràng 公路|gōnglù 、 村子|cūnzi 和|hé 农田|nóngtián|farmland 给|gěi 切|qiē 成|chéng 了|le 一|yī 小|xiǎo 块|kuài 一|yī 小|xiǎo 块|kuài 。
+> Lao Ma pointed to the map on the wall. “Look, these green patches are all forest where pandas live, but roads, villages and farmland have cut them into little pieces.
+每|měi 一|yī 块|kuài 里|lǐ 的|de 熊猫|xióngmāo 都|dōu 不|bù 多|duō ， 互相|hùxiāng 难以|nányǐ 见面|jiànmiàn ， 时间|shíjiān 长|cháng 了|le ， 小|xiǎo 熊猫|xióngmāo 就|jiù 会|huì 越来越|yuèláiyuè 弱|ruò 。
+> There aren't many pandas in each piece, and they can hardly ever meet. Over time the cubs grow weaker and weaker.
+我们|wǒmen 放归|fàngguī 熊猫|xióngmāo ， 又|yòu 在|zài 森林|sēnlín 之间|zhījiān 修|xiū ‘ 走廊|zǒuláng|(wildlife)_corridor|J ’ ， 就|jiù 是|shì 为了|wèile 让|ràng 它们|tāmen 重新|chóngxīn 连|lián 起来|qǐlai 。 ”
+> We release pandas and build ‘corridors’ between the forests to join them up again.”
+杨帆|Yáng_Fān 看|kàn 着|zhe 地图|dìtú 上|shàng 那些|nàxiē 小小|xiǎoxiǎo 的|de 绿色|lǜsè ， 第一|dìyī 次|cì 觉得|juéde ， 草草|Cǎocǎo 身|shēn|body 上|shàng 的|de 任务|rènwu 比|bǐ 她|tā 想象|xiǎngxiàng 的|de 大|dà 得|de 多|duō 。
+> Looking at those little green patches on the map, Yang Fan felt for the first time that the task resting on Caocao was far bigger than she had imagined.
+
+@h2 h-release
+放归|fàngguī
+> The Release
+
+@p release-1
+第二|dì-èr 年|nián 秋天|qiūtiān ， 草草|Cǎocǎo 两|liǎng 岁|suì 半|bàn 了|le 。
+> The following autumn, Caocao was two and a half.
+经过|jīngguò 一|yī 次|cì 又|yòu 一|yī 次|cì 的|de 检查|jiǎnchá 和|hé 评估|pínggū|assessment ， 专家|zhuānjiā 们|men 终于|zhōngyú 决定|juédìng ： 可以|kěyǐ 放归|fàngguī 了|le 。
+> After one check and assessment after another, the experts finally decided that she was ready.
+放归|fàngguī 地点|dìdiǎn 选|xuǎn 在|zài 离|lí 基地|jīdì 很|hěn 远|yuǎn 的|de 一|yī 个|gè 自然|zìrán 保护区|bǎohùqū|(nature)_reserve|J ， 那里|nàli 竹子|zhúzi 长|zhǎng 得|de 好|hǎo ， 也|yě 有|yǒu 一|yī 小|xiǎo 群|qún 野生|yěshēng 熊猫|xióngmāo 。
+> The release site was a nature reserve far from the base, where the bamboo grew well and there was a small group of wild pandas.
+
+@p release-2
+出发|chūfā 前|qián 一|yī 天|tiān 晚上|wǎnshang ， 杨帆|Yáng_Fān 一直|yīzhí 难以|nányǐ 入睡|rùshuì|to_fall_asleep 。
+> The night before they set off, Yang Fan could not get to sleep.
+她|tā 打开|dǎkāi 电脑|diànnǎo ， 一|yī 张|zhāng 一|yī 张|zhāng 地|de 看|kàn 草草|Cǎocǎo 的|de 照片|zhàopiàn ：
+> She opened her computer and looked through Caocao's photos one by one:
+刚|gāng 出生|chūshēng 时|shí 只有|zhǐyǒu 一百|yībǎi 多|duō 克|kè 、 全身|quánshēn 红红|hónghóng|red_all_over 的|de 小|xiǎo 东西|dōngxi ； 第一|dìyī 次|cì 爬|pá 树|shù 时|shí 紧紧|jǐnjǐn|tightly 抱|bào 着|zhe 树干|shùgàn|tree_trunk 的|de 样子|yàngzi ； 吃|chī 竹子|zhúzi 吃|chī 得|de 满|mǎn 脸|liǎn 都|dōu 是|shì 竹叶|zhúyè|bamboo_leaves 的|de 样子|yàngzi 。
+> the little pink thing weighing just over a hundred grams at birth; the way she clung to the trunk the first time she climbed a tree; her face covered in bamboo leaves as she ate.
+她|tā 突然|tūrán 有点儿|yǒudiǎnr 害怕|hàipà 。
+> Suddenly she felt a little afraid.
+在|zài 基地|jīdì 里|lǐ ， 草草|Cǎocǎo 每天|měitiān 都|dōu 在|zài 摄像头|shèxiàngtóu|camera 下面|xiàmiàn ， 生病|shēngbìng 了|le 有|yǒu 医生|yīshēng ， 没有|méiyǒu 竹子|zhúzi 了|le 有|yǒu 人|rén 送|sòng 。
+> At the base Caocao was under the cameras every day; if she fell ill there was a doctor, and if she ran out of bamboo someone brought more.
+到|dào 了|le 山|shān 里|lǐ ， 这|zhè 一切|yīqiè 都|dōu 没有|méiyǒu 了|le 。
+> In the mountains, none of that would exist.
+
+@p release-3
+“ 你|nǐ 说|shuō ， 她|tā 会|huì 不|bù 会|huì 恨|hèn|to_hate 我们|wǒmen ？ ” 第二|dì-èr 天|tiān 早上|zǎoshang 在|zài 车|chē 上|shàng ， 她|tā 小声|xiǎoshēng 问|wèn 老马|Lǎo_Mǎ 。
+> “Do you think she'll hate us?” she asked Lao Ma quietly in the car the next morning.
+老马|Lǎo_Mǎ 看|kàn 着|zhe 窗|chuāng 外|wài ， 过|guò 了|le 很|hěn 久|jiǔ 才|cái 说|shuō ： “ 她|tā 不|bù 会|huì 记得|jìde 我们|wǒmen 的|de 。 这|zhè 就|jiù 是|shì 我们|wǒmen 这么|zhème 多|duō 年|nián 想要|xiǎngyào 的|de 结果|jiéguǒ 。 ”
+> Lao Ma looked out of the window for a long time before he answered. “She won't remember us. That's the result we've wanted all these years.”
+
+@p release-4
+保护区|bǎohùqū 的|de 路|lù 很|hěn 不|bù 好|hǎo 走|zǒu ， 最后|zuìhòu 一|yī 段|duàn 车|chē 开|kāi 不|bù 上去|shàngqu ， 十几|shíjǐ 个|gè 人|rén 只好|zhǐhǎo 抬|tái|to_carry_(together) 着|zhe 装|zhuāng 草草|Cǎocǎo 的|de 大|dà 箱子|xiāngzi 往|wǎng 上|shàng 走|zǒu 。
+> The roads in the reserve were rough and the cars could not get up the last stretch, so a dozen or so people had to carry Caocao's big crate uphill.
+到|dào 了|le 地点|dìdiǎn ， 大家|dàjiā 退|tuì 到|dào 远处|yuǎnchù|a_distance ， 箱子|xiāngzi 的|de 门|mén 打开|dǎkāi 了|le 。
+> At the site, everyone moved back to a distance, and the crate door was opened.
+草草|Cǎocǎo 没有|méiyǒu 马上|mǎshàng 出来|chūlai 。 她|tā 先|xiān 把|bǎ 头|tóu 伸|shēn|to_stick_out 出来|chūlai ， 闻|wén 了|le 闻|wén 空气|kōngqì ， 又|yòu 把|bǎ 头|tóu 收|shōu 了|le 回去|huíqu 。
+> Caocao did not come out at once. First she put her head out, sniffed the air, and pulled back in again.
+过|guò 了|le 好|hǎo 几|jǐ 分钟|fēnzhōng ， 她|tā 才|cái 慢慢|mànmàn 地|de 走|zǒu 出|chū 箱子|xiāngzi ， 在|zài 地|dì 上|shàng 闻|wén 了|le 一会儿|yīhuìr ， 然后|ránhòu 头|tóu 也|yě 不|bù 回|huí 地|de 走进|zǒujìn 了|le 竹林|zhúlín 。
+> Only after several minutes did she slowly walk out of the crate, sniff the ground for a while, and then walk into the bamboo without looking back.
+前后|qiánhòu 不|bù 到|dào 十|shí 分钟|fēnzhōng ， 她|tā 就|jiù 叫|jiào 密密|mìmì|dense,_thick 的|de 竹子|zhúzi 给|gěi 挡|dǎng|to_block,_hide 住|zhù 了|le ， 再|zài 也|yě 看|kàn 不|bù 见|jiàn 了|le 。
+> In less than ten minutes, she was hidden by the dense bamboo and could no longer be seen.
+有人|yǒurén 鼓掌|gǔzhǎng|to_clap ， 有人|yǒurén 拍照|pāizhào 。 杨帆|Yáng_Fān 没有|méiyǒu 动|dòng 。
+> Some people clapped, some took photos. Yang Fan did not move.
+她|tā 发现|fāxiàn 自己|zìjǐ 的|de 眼睛|yǎnjing 湿|shī 了|le ， 可|kě 她|tā 不|bù 知道|zhīdào 这|zhè 是|shì 因为|yīnwèi 高兴|gāoxìng ， 还是|háishi 因为|yīnwèi 难过|nánguò 。
+> She found that her eyes were wet, but she did not know whether it was from happiness or from sadness.
+
+@h2 h-signal
+没有|méiyǒu 信号|xìnhào
+> No Signal
+
+@p signal-1
+放归|fàngguī 以后|yǐhòu 的|de 头|tóu 两|liǎng 个|gè 月|yuè ， 一切|yīqiè 都|dōu 很|hěn 顺利|shùnlì 。
+> For the first two months after the release, everything went smoothly.
+项圈|xiàngquān 每天|měitiān 按时|ànshí 发回|fāhuí|to_send_back 数据|shùjù ， 显示|xiǎnshì 草草|Cǎocǎo 在|zài 一|yī 片|piàn 两千|liǎngqiān 多|duō 米|mǐ 高|gāo 的|de 森林|sēnlín 里|lǐ 活动|huódòng ， 范围|fànwéi 慢慢|mànmàn 扩大|kuòdà 。
+> The collar sent back data on time every day, showing that Caocao was moving about in a forest more than two thousand metres up, and that her range was slowly growing.
+红外|hóngwài|infrared|J 相机|xiàngjī|camera 还|hái 拍|pāi 到|dào 过|guo 她|tā 几|jǐ 次|cì ： 一|yī 次|cì 在|zài 小河|xiǎohé 边|biān 喝|hē 水|shuǐ ， 一|yī 次|cì 在|zài 一|yī 棵|kē 倒|dǎo|to_fall_over 在|zài 地|dì 上|shàng 的|de 大树|dàshù 上|shàng 睡觉|shuìjiào 。
+> Infrared cameras caught her a few times as well: once drinking at a stream, once asleep on a fallen tree.
+研究|yánjiū 人员|rényuán 把|bǎ 这些|zhèxiē 照片|zhàopiàn 和|hé 她|tā 在|zài 基地|jīdì 时|shí 的|de 照片|zhàopiàn 加以|jiāyǐ 比较|bǐjiào ， 发现|fāxiàn 她|tā 瘦|shòu|thin 了|le 一点儿|yīdiǎnr ， 但|dàn 精神|jīngshén 很|hěn 好|hǎo 。
+> The researchers compared these photos with the ones from the base and found that she was a little thinner, but in good spirits.
+
+@p signal-2
+随着|suízhe 冬天|dōngtiān 的|de 到来|dàolái ， 山|shān 里|lǐ 开始|kāishǐ 下雪|xiàxuě 。
+> As winter arrived, snow began to fall in the mountains.
+十二月|shí'èryuè 的|de 一|yī 天|tiān 早上|zǎoshang ， 杨帆|Yáng_Fān 像|xiàng 平时|píngshí 一样|yīyàng 打开|dǎkāi 电脑|diànnǎo ， 却|què 发现|fāxiàn 草草|Cǎocǎo 的|de 数据|shùjù 停|tíng 在|zài 了|le 三|sān 天|tiān 前|qián ， 最后|zuìhòu 一|yī 个|gè 位置|wèizhi 在|zài 一|yī 条|tiáo 山沟|shāngōu|ravine,_gully 附近|fùjìn 。
+> One morning in December, Yang Fan opened her computer as usual and found that Caocao's data had stopped three days earlier; the last position was near a ravine.
+之后|zhīhòu ， 什么|shénme 也|yě 没有|méiyǒu 了|le 。
+> After that, there was nothing.
+
+@p signal-3
+“ 可能|kěnéng 是|shì 项圈|xiàngquān 的|de 电池|diànchí|battery 出|chū 问题|wèntí 了|le 。 天|tiān 太|tài 冷|lěng ， 电池|diànchí 容易|róngyì 坏|huài 。 ” 一|yī 个|gè 同事|tóngshì 说|shuō 。
+> “Maybe the collar battery's failed. It's very cold, and batteries die easily,” one colleague said.
+“ 也|yě 可能|kěnéng 是|shì 信号|xìnhào 被|bèi 大山|dàshān 给|gěi 挡|dǎng 住|zhù 了|le 。 ” 另|lìng|another 一|yī 个|gè 同事|tóngshì 说|shuō ， “ 先|xiān 把|bǎ 最后|zuìhòu 几|jǐ 天|tiān 的|de 数据|shùjù 调|diào 出来|chūlai ， 加以|jiāyǐ 分析|fēnxī 吧|ba 。 ”
+> “Or the signal might be blocked by the mountains,” said another. “Let's pull up the last few days of data and analyse them first.”
+大家|dàjiā 都|dōu 在|zài 找|zhǎo 技术|jìshù 上|shàng 的|de 原因|yuányīn ， 可是|kěshì 每个|měigè 人|rén 心里|xīnli 都|dōu 清楚|qīngchu ， 还|hái 有|yǒu 一|yī 种|zhǒng 可能|kěnéng ： 草草|Cǎocǎo 出事|chūshì|to_have_an_accident 了|le 。
+> Everyone was looking for a technical reason, but each of them knew there was another possibility: something had happened to Caocao.
+
+@p signal-4
+杨帆|Yáng_Fān 想起|xiǎngqǐ 了|le 一|yī 件|jiàn 事|shì 。
+> Yang Fan remembered something.
+大约|dàyuē 二十|èrshí 年|nián 前|qián ， 中国|Zhōngguó 第一|dìyī 只|zhī 人工|réngōng|artificial,_man-made 繁殖|fánzhí|to_breed 后|hòu 放归|fàngguī 的|de 大熊猫|dàxióngmāo 祥祥|Xiángxiáng|Xiangxiang,_first_captive-bred_panda_released_(2006)|N ， 在|zài 野外|yěwài 生活|shēnghuó 了|le 不|bù 到|dào 一|yī 年|nián 就|jiù 死|sǐ 了|le 。
+> About twenty years earlier, Xiangxiang, the first captive-bred giant panda China had released, died after less than a year in the wild.
+研究|yánjiū 人员|rényuán 认为|rènwéi ， 它|tā 很|hěn 可能|kěnéng 是|shì 在|zài 跟|gēn 野生|yěshēng 熊猫|xióngmāo 争|zhēng 地盘|dìpán|territory 的|de 时候|shíhou 受|shòu 了|le 伤|shāng 。
+> Researchers believed he had most likely been injured fighting wild pandas over territory.
+后来|hòulái ， 大家|dàjiā 对|duì 训练|xùnliàn 和|hé 放归|fàngguī 的|de 方法|fāngfǎ 加以|jiāyǐ 改进|gǎijìn ， 也|yě 更|gèng 多|duō 地|de 选择|xuǎnzé 放归|fàngguī 母|mǔ 熊猫|xióngmāo 。
+> Afterwards, the methods of training and release were improved, and more female pandas were chosen for release.
+可是|kěshì ， 谁|shéi 也|yě 不|bù 能|néng 保证|bǎozhèng 悲剧|bēijù|tragedy 不|bù 会|huì 再|zài 发生|fāshēng 。
+> Still, no one could promise that such a tragedy would never happen again.
+
+@p signal-5
+那天|nàtiān 晚上|wǎnshang ， 杨帆|Yáng_Fān 一|yī 个|gè 人|rén 坐|zuò 在|zài 办公室|bàngōngshì 里|lǐ ， 看|kàn 着|zhe 地图|dìtú 上|shàng 那个|nàge 不|bù 再|zài 移动|yídòng 的|de 小|xiǎo 点|diǎn 。
+> That night Yang Fan sat alone in the office, staring at the little dot on the map that no longer moved.
+她|tā 突然|tūrán 觉得|juéde ， 也许|yěxǔ 当初|dāngchū 就|jiù 不|bù 应该|yīnggāi 让|ràng 她|tā 走|zǒu 。 如果|rúguǒ 草草|Cǎocǎo 还|hái 在|zài 基地|jīdì ， 至少|zhìshǎo 是|shì 安全|ānquán 的|de 。
+> Suddenly she felt that perhaps they should never have let her go. If Caocao were still at the base, at least she would be safe.
+老马|Lǎo_Mǎ 走|zǒu 进来|jìnlai ， 把|bǎ 一|yī 杯|bēi 热茶|rèchá 放|fàng 在|zài 她|tā 面前|miànqián 。
+> Lao Ma came in and put a cup of hot tea in front of her.
+“ 明天|míngtiān 上山|shàngshān 。 ” 他|tā 说|shuō 。
+> “We go up the mountain tomorrow,” he said.
+“ 雪|xuě 这么|zhème 大|dà ， 能|néng 找到|zhǎodào 吗|ma ？ ” “ 找|zhǎo 不|bù 到|dào 也|yě 得|děi 找|zhǎo 。 ”
+> “With this much snow, can we find her?” “Even if we can't, we have to look.”
+
+@h2 h-snow
+雪地|xuědì|snowy_ground 里|lǐ 的|de 脚印|jiǎoyìn|footprint
+> Footprints in the Snow
+
+@p snow-1
+第二|dì-èr 天|tiān 天|tiān 还|hái 没|méi 亮|liàng ， 搜索|sōusuǒ|to_search 小组|xiǎozǔ 就|jiù 出发|chūfā 了|le 。
+> The next day, before it was light, the search team set off.
+一共|yīgòng 五|wǔ 个|gè 人|rén ， 带|dài 着|zhe 信号|xìnhào 接收器|jiēshōuqì|receiver 、 帐篷|zhàngpeng|tent 和|hé 三|sān 天|tiān 的|de 干粮|gānliáng|dry_rations 。
+> There were five of them, with a signal receiver, tents and three days' food.
+山|shān 上|shàng 的|de 雪|xuě 比|bǐ 他们|tāmen 想|xiǎng 的|de 还|hái 要|yào 厚|hòu ， 有|yǒu 的|de 地方|dìfang 雪|xuě 很|hěn 深|shēn ， 走|zǒu 起来|qǐlai 很|hěn 累|lèi 。
+> The snow on the mountain was even deeper than they had expected; in places it was so deep that walking was exhausting.
+杨帆|Yáng_Fān 每|měi 走|zǒu 一|yī 步|bù 都|dōu 要|yào 先|xiān 用|yòng 脚|jiǎo 试|shì 一|yī 试|shì ， 看看|kànkan 雪|xuě 下面|xiàmiàn 是|shì 石头|shítou 还是|háishi 空|kōng 的|de 。
+> At every step Yang Fan first tested the snow with her foot to see whether there was rock underneath or nothing at all.
+她|tā 难以|nányǐ 想象|xiǎngxiàng ， 草草|Cǎocǎo 一|yī 个|gè 人|rén 是|shì 怎么|zěnme 在|zài 这样|zhèyàng 的|de 地方|dìfang 过冬|guòdōng|to_get_through_the_winter 的|de 。
+> She could hardly imagine how Caocao was getting through the winter alone in a place like this.
+
+@p snow-2
+他们|tāmen 先|xiān 去|qù 了|le 最后|zuìhòu 一|yī 个|gè 信号|xìnhào 出现|chūxiàn 的|de 山沟|shāngōu 。 那里|nàli 很|hěn 安静|ānjìng ， 只有|zhǐyǒu 风|fēng 吹|chuī 过|guò 竹林|zhúlín 的|de 声音|shēngyīn 。
+> First they went to the ravine where the last signal had come from. It was very quiet there; there was only the sound of wind in the bamboo.
+竹子|zhúzi 让|ràng 厚厚|hòuhòu|thick 的|de 雪|xuě 给|gěi 压|yā 弯|wān 了|le 腰|yāo ， 有|yǒu 的|de 已经|yǐjīng 断|duàn 了|le 。
+> The bamboo had been bent double by the thick snow, and some of it had snapped.
+老马|Lǎo_Mǎ 在|zài 雪地|xuědì 上|shàng 仔细|zǐxì 地|de 看|kàn 了|le 很|hěn 久|jiǔ 。
+> Lao Ma studied the snow carefully for a long time.
+“ 没有|méiyǒu 血|xiě ， 也|yě 看|kàn 不|bù 出|chū 打斗|dǎdòu|fight 过|guo 。 ” 他|tā 说|shuō ， “ 这|zhè 是|shì 好|hǎo 消息|xiāoxi 。 ”
+> “No blood, and no sign of a fight,” he said. “That's good news.”
+
+@p snow-3
+第一|dìyī 天|tiān ， 他们|tāmen 什么|shénme 也|yě 没|méi 找到|zhǎodào 。
+> On the first day they found nothing.
+晚上|wǎnshang ， 大家|dàjiā 挤|jǐ|to_squeeze 在|zài 帐篷|zhàngpeng 里|lǐ ， 外面|wàimiàn 的|de 风|fēng 大|dà 得|de 好像|hǎoxiàng 要|yào 把|bǎ 帐篷|zhàngpeng 吹|chuī 走|zǒu 。
+> At night they all squeezed into the tents, and the wind outside was so strong it seemed about to blow the tents away.
+杨帆|Yáng_Fān 冷|lěng 得|de 睡|shuì 不|bù 着|zháo ， 小声|xiǎoshēng 说|shuō ： “ 马|mǎ 师傅|shīfu|master_(polite_address) ， 我|wǒ 是不是|shìbushì 错|cuò 了|le ？
+> Yang Fan was too cold to sleep. She whispered, “Master Ma, was I wrong?
+以前|yǐqián 我|wǒ 一直|yīzhí 觉得|juéde 放归|fàngguī 是|shì 对|duì 的|de ， 可|kě 现在|xiànzài 我|wǒ 只|zhǐ 想|xiǎng 把|bǎ 她|tā 找|zhǎo 回来|huílai ， 带|dài 回|huí 基地|jīdì ， 再|zài 也|yě 不|bù 让|ràng 她|tā 走|zǒu 了|le 。 ”
+> I always thought releasing her was right, but now all I want is to find her, bring her back to the base, and never let her go again.”
+
+@p snow-4
+老马|Lǎo_Mǎ 在|zài 黑暗|hēi'àn 中|zhōng 沉默|chénmò 了|le 一会儿|yīhuìr 。
+> Lao Ma was silent in the dark for a while.
+“ 我|wǒ 刚|gāng 工作|gōngzuò 的|de 时候|shíhou ， 也|yě 有|yǒu 过|guo 一|yī 只|zhī 熊猫|xióngmāo 。 我|wǒ 天天|tiāntiān 喂|wèi 它|tā ， 它|tā 见|jiàn 了|le 我|wǒ 就|jiù 跑|pǎo 过来|guòlai 抱|bào 我|wǒ 的|de 腿|tuǐ 。
+> “When I first started working, I had a panda too. I fed him every day, and whenever he saw me he ran over and hugged my leg.
+后来|hòulái ， 它|tā 一辈子|yībèizi|whole_life 都|dōu 没有|méiyǒu 离开|líkāi 过|guo 基地|jīdì ， 因为|yīnwèi 它|tā 已经|yǐjīng 离|lí 不|bù 开|kāi 人|rén 了|le 。 ”
+> He never left the base for the rest of his life, because he couldn't live without people any more.”
+他|tā 停|tíng 了|le 一下|yīxià ， 又|yòu 说|shuō ： “ 你|nǐ 说|shuō ， 那|nà 是|shì 爱|ài 它|tā ， 还是|háishi 害|hài|to_harm 了|le 它|tā ？ ”
+> He paused, then said, “Tell me, was that loving him, or harming him?”
+杨帆|Yáng_Fān 没有|méiyǒu 回答|huídá 。 她|tā 闭|bì|to_close 上|shàng 眼睛|yǎnjing ， 听|tīng 着|zhe 外面|wàimiàn 的|de 风声|fēngshēng|sound_of_the_wind 。
+> Yang Fan did not answer. She closed her eyes and listened to the wind outside.
+
+@p snow-5
+第二|dì-èr 天|tiān 中午|zhōngwǔ ， 他们|tāmen 在|zài 一|yī 片|piàn 向阳|xiàngyáng|facing_the_sun 的|de 山坡|shānpō 上|shàng 发现|fāxiàn 了|le 一|yī 串|chuàn|string,_line 脚印|jiǎoyìn 。
+> At noon on the second day, they found a line of footprints on a sunny slope.
+脚印|jiǎoyìn 又|yòu 圆|yuán 又|yòu 大|dà ， 旁边|pángbiān 还|hái 有|yǒu 一些|yīxiē 咬|yǎo|to_bite 断|duàn 的|de 竹子|zhúzi 和|hé 新鲜|xīnxiān 的|de 粪便|fènbiàn 。
+> The prints were big and round, and nearby there was some bitten-off bamboo and fresh dung.
+老马|Lǎo_Mǎ 拿|ná 起|qǐ 一|yī 块|kuài 粪便|fènbiàn ， 看|kàn 了|le 看|kàn ， 又|yòu 闻|wén 了|le 闻|wén 。
+> Lao Ma picked up a piece of dung, looked at it and sniffed it.
+“ 新鲜|xīnxiān 的|de ， 不|bù 超过|chāoguò 两|liǎng 天|tiān 。 里面|lǐmiàn 的|de 竹子|zhúzi 咬|yǎo 得|de 很|hěn 碎|suì|in_small_bits ， 说明|shuōmíng 她|tā 吃|chī 得|de 不错|bùcuò 。 ”
+> “Fresh, no more than two days old. The bamboo in it is chewed fine, which means she's eating well.”
+
+@p snow-6
+可是|kěshì ， 脚印|jiǎoyìn 没|méi 走|zǒu 多|duō 远|yuǎn ， 就|jiù 在|zài 一|yī 片|piàn 乱|luàn 石头|shítou 中间|zhōngjiān 消失|xiāoshī 了|le 。
+> But the footprints did not go far before they disappeared among a jumble of rocks.
+他们|tāmen 又|yòu 找|zhǎo 了|le 一|yī 个|gè 下午|xiàwǔ ， 一直|yīzhí 到|dào 天|tiān 快|kuài 黑|hēi 了|le ， 雪|xuě 又|yòu 开始|kāishǐ 下|xià 起来|qǐlai 。
+> They searched for another whole afternoon, until it was nearly dark and snow began to fall again.
+这些|zhèxiē 粪便|fènbiàn 被|bèi 带|dài 回|huí 了|le 基地|jīdì ， 可是|kěshì 要|yào 确认|quèrèn|to_confirm 是|shì 不|bù 是|shì 草草|Cǎocǎo 的|de ， 必须|bìxū 做|zuò DNA 检测|jiǎncè|test ， 至少|zhìshǎo 要|yào 等|děng 好|hǎo 几|jǐ 天|tiān 。
+> The dung was taken back to the base, but to confirm whether they were Caocao's, a DNA test was needed, and that would take several days at least.
+老马|Lǎo_Mǎ 说|shuō ： “ 如果|rúguǒ 是|shì 她|tā ， 就|jiù 说明|shuōmíng 她|tā 还|hái 活|huó 着|zhe ， 自己|zìjǐ 能|néng 找到|zhǎodào 吃|chī 的|de ， 只是|zhǐshì 项圈|xiàngquān 坏|huài 了|le 。 ”
+> Lao Ma said, “If it's her, it means she's alive and can find food on her own, and it's just the collar that's broken.”
+杨帆|Yáng_Fān 点|diǎn 了|le 点头|diǎntóu 。 她|tā 第一|dìyī 次|cì 觉得|juéde ， 找|zhǎo 不|bù 到|dào 草草|Cǎocǎo ， 也许|yěxǔ 不|bù 是|shì 坏|huài 消息|xiāoxi 。
+> Yang Fan nodded. For the first time she felt that not being able to find Caocao might not be bad news.
+
+@h2 h-spring
+春天|chūntiān
+> Spring
+
+@p spring-1
+一|yī 个|gè 星期|xīngqī 以后|yǐhòu ， DNA 的|de 结果|jiéguǒ 出来|chūlái 了|le ： 粪便|fènbiàn 确实|quèshí 是|shì 草草|Cǎocǎo 的|de 。
+> A week later the DNA result came back: the dung really was Caocao's.
+整个|zhěnggè 冬天|dōngtiān ， 研究|yánjiū 人员|rényuán 又|yòu 上|shàng 了|le 两|liǎng 次|cì 山|shān ， 在|zài 不同|bùtóng 的|de 地方|dìfang 找到|zhǎodào 了|le 她|tā 的|de 脚印|jiǎoyìn 和|hé 吃|chī 剩|shèng|to_be_left_over 的|de 竹子|zhúzi ， 可是|kěshì 一直|yīzhí 没有|méiyǒu 真正|zhēnzhèng 见到|jiàndào 她|tā 。
+> Over the winter the researchers went up the mountain twice more and found her footprints and half-eaten bamboo in different places, but they never saw her with their own eyes.
+天气|tiānqì 慢慢|mànmàn 变|biàn 暖|nuǎn|warm ， 山|shān 上|shàng 的|de 雪|xuě 一|yī 天|tiān 比|bǐ 一|yī 天|tiān 少|shǎo ， 小河|xiǎohé 里|lǐ 的|de 水|shuǐ 一|yī 天|tiān 比|bǐ 一|yī 天|tiān 多|duō 。
+> The weather slowly grew warmer, the snow on the mountain shrank day by day, and the streams grew fuller day by day.
+
+@p spring-2
+四月|sìyuè 的|de 一|yī 天|tiān ， 杨帆|Yáng_Fān 在|zài 整理|zhěnglǐ 红外|hóngwài 相机|xiàngjī 的|de 照片|zhàopiàn 时|shí ， 突然|tūrán 停|tíng 了|le 下来|xiàlai 。
+> One day in April, Yang Fan was sorting through photos from the infrared cameras when she suddenly stopped.
+照片|zhàopiàn 是|shì 在|zài 夜里|yèli 拍|pāi 的|de ， 有点儿|yǒudiǎnr 模糊|móhu|blurry ， 但是|dànshì 能|néng 看|kàn 清楚|qīngchu ： 一|yī 只|zhī 大熊猫|dàxióngmāo 正|zhèng 站|zhàn 在|zài 一|yī 棵|kē 大树|dàshù 旁边|pángbiān ， 项圈|xiàngquān 也|yě 还|hái 在|zài 。
+> The photo had been taken at night and was a little blurry, but it was clear enough: a giant panda was standing beside a big tree, and the collar was still there.
+是|shì 草草|Cǎocǎo ！ 她|tā 看起来|kànqǐlai 比|bǐ 秋天|qiūtiān 时|shí 还|hái 胖|pàng 了|le 一些|yīxiē 。
+> It was Caocao! She looked even plumper than she had in the autumn.
+
+@p spring-3
+杨帆|Yáng_Fān 点|diǎn 开|kāi 下|xià 一|yī 张|zhāng 照片|zhàopiàn ， 又|yòu 吓|xià 了|le 一|yī 跳|tiào 。
+> Yang Fan clicked open the next photo and jumped again.
+在|zài 草草|Cǎocǎo 身后|shēnhòu|behind 几|jǐ 米|mǐ 远|yuǎn 的|de 地方|dìfang ， 还|hái 有|yǒu 一|yī 只|zhī 熊猫|xióngmāo 。 它|tā 的|de 个子|gèzi 更|gèng 大|dà ， 身|shēn 上|shàng 没有|méiyǒu 项圈|xiàngquān 。
+> A few metres behind Caocao was another panda. It was bigger, and it wore no collar.
+“ 马|mǎ 师傅|shīfu ！ 您|nín 快|kuài 来|lái 看|kàn ！ ” 她|tā 喊|hǎn 了|le 起来|qǐlai 。
+> “Master Ma! Come and look, quick!” she shouted.
+老马|Lǎo_Mǎ 走|zǒu 过来|guòlai ， 戴|dài 上|shàng 眼镜|yǎnjìng ， 看|kàn 了|le 很|hěn 久|jiǔ ， 慢慢|mànmàn 地|de 笑|xiào 了|le 。
+> Lao Ma came over, put on his glasses and looked for a long time, and slowly he smiled.
+“ 野生|yěshēng 的|de ， 公|gōng|male_(animal) 的|de 。 ” 他|tā 说|shuō ， “ 春天|chūntiān 正|zhèng 是|shì 熊猫|xióngmāo 找|zhǎo 对象|duìxiàng 的|de 季节|jìjié 。 ”
+> “A wild one. A male,” he said. “Spring is just the season when pandas look for a mate.”
+
+@p spring-4
+办公室|bàngōngshì 里|lǐ 一下子|yīxiàzi|all_at_once 热闹|rènao 起来|qǐlai ， 大家|dàjiā 围|wéi 在|zài 电脑|diànnǎo 前|qián ， 把|bǎ 那|nà 几|jǐ 张|zhāng 照片|zhàopiàn 看|kàn 了|le 一|yī 遍|biàn 又|yòu 一|yī 遍|biàn 。
+> All at once the office came alive; everyone crowded round the computer and looked at those few photos again and again.
+有人|yǒurén 说|shuō ， 要是|yàoshi 草草|Cǎocǎo 将来|jiānglái 能|néng 在|zài 野外|yěwài 生|shēng 下|xià 小|xiǎo 熊猫|xióngmāo ， 那|nà 片|piàn 森林|sēnlín 里|lǐ 的|de 熊猫|xióngmāo 群|qún 就|jiù 会|huì 多|duō 一些|yīxiē 新|xīn 的|de 血液|xuèyè|blood ， 因而|yīn'ér 变得|biànde 更|gèng 健康|jiànkāng 。
+> Someone said that if Caocao could one day give birth to a cub in the wild, the panda group in that forest would gain some new blood and so become healthier.
+也|yě 有人|yǒurén 说|shuō ， 现在|xiànzài 高兴|gāoxìng 还|hái 太|tài 早|zǎo ， 一切|yīqiè 都|dōu 要|yào 等|děng 以后|yǐhòu 的|de 数据|shùjù 来|lái 证明|zhèngmíng 。
+> Others said it was too early to celebrate; everything would have to be proved by future data.
+
+@p spring-5
+晚上|wǎnshang ， 杨帆|Yáng_Fān 又|yòu 打开|dǎkāi 了|le 日记本|rìjìběn|diary 。
+> That evening Yang Fan opened her diary again.
+她|tā 想起|xiǎngqǐ 第一|dìyī 次|cì 穿|chuān 熊猫|xióngmāo 衣服|yīfu 时|shí 的|de 那|nà 种|zhǒng 臭味|chòuwèi|stink ， 想起|xiǎngqǐ 草草|Cǎocǎo 走|zǒu 出|chū 箱子|xiāngzi 时|shí 头|tóu 也|yě 不|bù 回|huí 的|de 样子|yàngzi ， 想起|xiǎngqǐ 雪地|xuědì 里|lǐ 那|nà 一|yī 串|chuàn 圆圆|yuányuán|round 的|de 脚印|jiǎoyìn 。
+> She remembered the stink the first time she wore the panda suit, the way Caocao had walked out of the crate without looking back, and that line of round footprints in the snow.
+她|tā 曾经|céngjīng 以为|yǐwéi ， 保护|bǎohù 一|yī 只|zhī 熊猫|xióngmāo ， 就|jiù 是|shì 让|ràng 她|tā 离|lí 自己|zìjǐ 近|jìn 一点儿|yīdiǎnr ， 再|zài 近|jìn 一点儿|yīdiǎnr 。
+> She had once thought that protecting a panda meant bringing her closer and closer to herself.
+现在|xiànzài 她|tā 终于|zhōngyú 明白|míngbai 了|le ： 有|yǒu 的|de 时候|shíhou ， 保护|bǎohù 就|jiù 是|shì 学会|xuéhuì 放手|fàngshǒu|to_let_go ， 让|ràng 她|tā 走|zǒu 得|de 远远|yuǎnyuǎn|far_away 的|de ， 远|yuǎn 到|dào 再|zài 也|yě 不|bù 需要|xūyào 我们|wǒmen 。
+> Now at last she understood: sometimes protecting means learning to let go, letting her go far, far away, so far that she will never need us again.
+她|tā 在|zài 日记|rìjì 的|de 最后|zuìhòu 写|xiě 道|dào ： “ 草草|Cǎocǎo ， 你|nǐ 不|bù 会|huì 记得|jìde 我|wǒ 。 没关系|méiguānxi 。 欢迎|huānyíng 回家|huíjiā 。 ”
+> At the end of the entry she wrote: “Caocao, you won't remember me. That's all right. Welcome home.”
