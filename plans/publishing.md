@@ -71,17 +71,15 @@ hsk4-stories-v1.0.zip
 
 ## Steps
 
+**Chosen:** level folders in the repository, plus a release zip per level.
+
 ### 1. Local preparation (done)
 - `.gitignore` · `LICENSE` (MIT, code) · `LICENSE-TEXTS` (CC BY 4.0, texts) · licence section and story
   catalogue in `README.md` · local `git init` and first commit.
 
-### 2. Move to the level layout (about 15 minutes, can be done any time)
-```bash
-mkdir -p stories/hsk4
-git mv texts/* stories/hsk4/
-```
-Then update the links in `README.md` (`texts/` → `stories/hsk4/`) and add `stories/README.md` and
-`stories/hsk4/README.md`. No script has `texts/` hard-coded, so nothing else changes.
+### 2. Move to the level layout (done)
+`texts/*` moved to `stories/hsk4/`. Added `stories/README.md` (all levels), `stories/hsk4/README.md` and
+`stories/hsk5/README.md` (planned list). Links updated and checked.
 
 ### 3. Create the GitHub repository (needs your go-ahead)
 ```bash
@@ -96,17 +94,17 @@ gh repo edit --visibility public --accept-visibility-change-consequences
 Add topics so learners can find it: `chinese` `mandarin` `hsk` `graded-readers` `language-learning`
 `bilingual` `xelatex`.
 
-### 4. First release (needs your go-ahead)
+### 4. First release (zip built; upload needs your go-ahead)
 ```bash
-mkdir -p dist/hsk4-stories
-cp stories/hsk4/*/*.pdf dist/hsk4-stories/
-cp LICENSE-TEXTS dist/hsk4-stories/LICENSE-TEXTS.txt
-# + README.txt written for readers
-(cd dist && zip -r hsk4-stories-v1.0.zip hsk4-stories)
+python make_release.py hsk4 v1.0          # → dist/hsk4-stories-v1.0.zip (done, 2.1 MB)
 gh release create hsk4-v1.0 dist/hsk4-stories-v1.0.zip \
-  --title "HSK 4 stories, v1.0" --notes-file dist/hsk4-release-notes.md
+  --title "HSK 4 stories, v1.0" \
+  --notes "Eleven Chinese/English facing-page readers at HSK 3.0 level 4. Download the zip, or read single PDFs in stories/hsk4."
 ```
-`dist/` is ignored by git, so the zip lives only in the release.
+`make_release.py` writes the reader's `README.txt` (story list, credit, licence) and adds
+`LICENSE-TEXTS.txt` and all PDFs of the level. `dist/` is ignored by git, so the zip lives only in the
+release. If the repository gets a different name, pass `--repo <url>` so the links inside README.txt
+are right.
 
 ### 5. Each new HSK 5 story
 1. Write `stories/hsk5/NN-slug/NN-slug.zhb`, run validate, hsk_report and make_book.

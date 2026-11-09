@@ -19,10 +19,10 @@ dialogue, time jumps and opinions, not only facts.
 Build and check commands (same pipeline as before, one level higher):
 
 ```bash
-python zhb2jsonl.py texts/12-watch-repairer/12-watch-repairer.zhb
-python validate.py texts/12-watch-repairer/12-watch-repairer.jsonl --annotate-above 5
-python hsk_report.py texts/12-watch-repairer/12-watch-repairer.jsonl --target 5
-python make_book.py texts/12-watch-repairer/12-watch-repairer.jsonl -o texts/12-watch-repairer --annotate-above 5
+python zhb2jsonl.py stories/hsk5/12-watch-repairer/12-watch-repairer.zhb
+python validate.py stories/hsk5/12-watch-repairer/12-watch-repairer.jsonl --annotate-above 5
+python hsk_report.py stories/hsk5/12-watch-repairer/12-watch-repairer.jsonl --target 5
+python make_book.py stories/hsk5/12-watch-repairer/12-watch-repairer.jsonl -o stories/hsk5/12-watch-repairer --annotate-above 5
 ```
 
 ## Grammar map

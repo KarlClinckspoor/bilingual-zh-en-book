@@ -6,27 +6,30 @@ the free tool that builds them.
 ## Read the stories
 
 Each PDF has Chinese on the left page and English on the right. Word boundaries are underlined, and
-names, terms and words above the target level are footnoted with pinyin and meaning.
+names, terms and words above the target level are footnoted with pinyin and meaning. Click a PDF to
+read it in the browser, or download a whole level as one zip from the **Releases** page.
 
 ### HSK 3.0 level 4
 
 | # | 中文 | English | theme | PDF |
 |---|---|---|---|---|
-| 01 | 中国茶 | Tea in China | culture & daily life | [PDF](texts/01-tea/01-tea.pdf) |
-| 02 | 中国各地的饮食 | Food Across China | culture & daily life | [PDF](texts/02-regional-food/02-regional-food.pdf) |
-| 03 | 汉字的故事 | How Chinese Characters Work | language | [PDF](texts/03-chinese-characters/03-chinese-characters.pdf) |
-| 04 | 城市里的一天 | A Day in a Chinese City | culture & daily life | [PDF](texts/04-a-day-in-the-city/04-a-day-in-the-city.pdf) |
-| 05 | 长城：传说与事实 | The Great Wall: Myth and Fact | history | [PDF](texts/05-great-wall/05-great-wall.pdf) |
-| 06 | 中国人的名字和称呼 | Chinese Names and Family Terms | language, culture & daily life | [PDF](texts/06-names-and-family/06-names-and-family.pdf) |
-| 07 | 二十四节气 | The 24 Solar Terms | nature & calendar | [PDF](texts/07-solar-terms/07-solar-terms.pdf) |
-| 08 | 3D打印是怎么工作的 | How 3D Printing Works | science & technology | [PDF](texts/08-3d-printing/08-3d-printing.pdf) |
-| 09 | 四大发明 | The Four Great Inventions | history, science & technology | [PDF](texts/09-four-great-inventions/09-four-great-inventions.pdf) |
-| 10 | 三国的故事 | The Three Kingdoms | history | [PDF](texts/10-three-kingdoms/10-three-kingdoms.pdf) |
-| 11 | 秦始皇 | Qin Shi Huang | history | [PDF](texts/11-qin-shi-huang/11-qin-shi-huang.pdf) |
+| 01 | 中国茶 | Tea in China | culture & daily life | [PDF](stories/hsk4/01-tea/01-tea.pdf) |
+| 02 | 中国各地的饮食 | Food Across China | culture & daily life | [PDF](stories/hsk4/02-regional-food/02-regional-food.pdf) |
+| 03 | 汉字的故事 | How Chinese Characters Work | language | [PDF](stories/hsk4/03-chinese-characters/03-chinese-characters.pdf) |
+| 04 | 城市里的一天 | A Day in a Chinese City | culture & daily life | [PDF](stories/hsk4/04-a-day-in-the-city/04-a-day-in-the-city.pdf) |
+| 05 | 长城：传说与事实 | The Great Wall: Myth and Fact | history | [PDF](stories/hsk4/05-great-wall/05-great-wall.pdf) |
+| 06 | 中国人的名字和称呼 | Chinese Names and Family Terms | language, culture & daily life | [PDF](stories/hsk4/06-names-and-family/06-names-and-family.pdf) |
+| 07 | 二十四节气 | The 24 Solar Terms | nature & calendar | [PDF](stories/hsk4/07-solar-terms/07-solar-terms.pdf) |
+| 08 | 3D打印是怎么工作的 | How 3D Printing Works | science & technology | [PDF](stories/hsk4/08-3d-printing/08-3d-printing.pdf) |
+| 09 | 四大发明 | The Four Great Inventions | history, science & technology | [PDF](stories/hsk4/09-four-great-inventions/09-four-great-inventions.pdf) |
+| 10 | 三国的故事 | The Three Kingdoms | history | [PDF](stories/hsk4/10-three-kingdoms/10-three-kingdoms.pdf) |
+| 11 | 秦始皇 | Qin Shi Huang | history | [PDF](stories/hsk4/11-qin-shi-huang/11-qin-shi-huang.pdf) |
 
 ### HSK 3.0 level 5
 
-In preparation: ten short stories, planned in [plans/hsk5-stories.md](plans/hsk5-stories.md).
+In preparation: ten short stories, planned in [plans/hsk5-stories.md](plans/hsk5-stories.md). Finished stories will appear in [stories/hsk5](stories/hsk5/).
+
+The full catalogue of all levels is in [stories/README.md](stories/README.md).
 
 **About the texts.** All texts and translations were written by Claude (Anthropic), an AI model.
 They have been checked with the scripts in this repository but may still contain errors. Please open
@@ -247,7 +250,7 @@ nothing is regenerated at build time.
 ## Licence
 
 * **Code** (`*.py`, `zhbook/`): MIT, see [LICENSE](LICENSE).
-* **Texts and translations** (`texts/`, `examples/`, the PDFs built from them):
+* **Texts and translations** (`stories/`, `examples/`, the PDFs built from them):
   [CC BY 4.0](LICENSE-TEXTS). You may share and adapt them, including commercially, if you give credit
   and link to this repository. The texts were written by an AI model. Some jurisdictions may not grant
   copyright in such text, and the licence then simply confirms that reuse is welcome.
