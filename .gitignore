@@ -24,3 +24,6 @@ dist/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Personal KaiTi PDFs (commercial font - never publish)
+kaiti-pdfs/

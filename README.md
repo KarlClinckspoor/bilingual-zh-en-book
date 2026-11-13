@@ -100,6 +100,38 @@ festival terms. To see its level profile:
 python hsk_report.py examples/festivals/festivals.jsonl --target 4
 ```
 
+## Desktop app (optional)
+
+`zhbook_gui.py` is a small window for the build step, using only the standard library (tkinter):
+
+```bash
+python zhbook_gui.py
+```
+
+* **Texts:** pick stories from `stories/` and `examples/` (a level row selects the whole level), or
+  add any `.jsonl` / `.zhb`. A `.zhb` that is newer than its `.jsonl` is converted first.
+* **Options:** every `make_book.py` option on four tabs: page (paper, cell, type sizes, margins, grid
+  lines), reading aids (HSK level for notes, note kinds, underlines, marks), fonts (lists what
+  XeLaTeX can find) and output. A live line shows the resulting grid, or why the settings won't fit.
+* **Output:** PDFs go to `work/pdfs/<story>.pdf` by default. Builds can be combined into one book,
+  or can replace the published PDFs in `stories/`. The app refuses that if a font is not known to be
+  free to redistribute.
+* **Also:** **Validate** and **HSK report** buttons, and **Copy command** for the equivalent
+  command line. Settings are kept in `~/.zhbook-gui.json`.
+
+To make a stand-alone `zhbook-gui.exe`, use PyInstaller in a virtual environment:
+
+```bash
+python -m venv .venv
+.venv/Scripts/python -m pip install pyinstaller
+.venv/Scripts/python build_exe.py
+```
+
+The result is `dist/zhbook-gui.exe`, which needs no Python install. It still needs this project
+folder and XeLaTeX, though. It finds the folder when it sits inside it, as `dist/` does, and
+otherwise asks for it once. The project's scripts are not frozen into the exe, so edits to
+`zhbook/` or `make_book.py` take effect without rebuilding it.
+
 ## Workflows
 
 ### A. A new text written by Claude
