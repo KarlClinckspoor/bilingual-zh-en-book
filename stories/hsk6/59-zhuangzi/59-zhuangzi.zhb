@@ -1,0 +1,401 @@
+# Zhuangzi's Dreams — original story and translation by Claude (Anthropic).
+# Target: HSK 3.0 level 6; focus grammar: 不禁, 至于, 时而 (review: 反而, 究竟, 不是……而是); names N, terms J, idioms and classical lines I.
+
+@meta {"title_zh": "庄子的梦", "subtitle_zh": "一个程序员的一个星期，和两千多年前的四个故事", "title_en": "Zhuangzi's Dreams", "subtitle_en": "One programmer's week, and four stories from two thousand years ago", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+两千|liǎngqiān 多|duō 年|nián 前|qián ， 有|yǒu 一|yī 个|gè 人|rén 梦见|mèngjiàn|to_dream_of 自己|zìjǐ 变成|biànchéng 了|le 一|yī 只|zhī 蝴蝶|húdié|butterfly 。
+> More than two thousand years ago, a man dreamed that he had turned into a butterfly.
+醒|xǐng 了|le 以后|yǐhòu ， 他|tā 问|wèn 了|le 自己|zìjǐ 一|yī 个|gè 问题|wèntí ， 这个|zhège 问题|wèntí 到|dào 今天|jīntiān 也|yě 没有|méiyǒu 人|rén 能|néng 回答|huídá 。
+> When he woke, he asked himself a question that no one has been able to answer to this day.
+两千|liǎngqiān 多|duō 年|nián 以后|yǐhòu 的|de 一|yī 个|gè 深秋|shēnqiū|late_autumn 的|de 夜里|yèlǐ ， 北京|Běijīng 的|de 一|yī 个|gè 程序员|chéngxùyuán|programmer 也|yě 做|zuò 了|le 一|yī 个|gè 梦|mèng 。
+> More than two thousand years later, on a late-autumn night, a programmer in Beijing also had a dream.
+不过|bùguò ， 在|zài 做梦|zuòmèng 之前|zhīqián ， 他|tā 得|děi 先|xiān 下班|xiàbān 。
+> But before he could dream, he had to get off work.
+
+@h2 h-night
+凌晨|língchén|small_hours_of_the_morning 两|liǎng 点|diǎn
+> Two in the Morning
+
+@p night-1
+凌晨|língchén 两|liǎng 点|diǎn ， 顾帆|Gù_Fān|Gu_Fan|N 终于|zhōngyú 把|bǎ 最后|zuìhòu 一|yī 个|gè 问题|wèntí 修|xiū 好|hǎo 了|le 。
+> At two in the morning, Gu Fan finally fixed the last problem.
+办公室|bàngōngshì 里|lǐ 只|zhǐ 剩下|shèngxià 他|tā 一个人|yīgèrén ， 空调|kōngtiáo 早|zǎo 就|jiù 关|guān 了|le ， 屏幕|píngmù|screen 的|de 光|guāng 照|zhào 在|zài 他|tā 脸|liǎn 上|shàng ， 显得|xiǎnde 特别|tèbié 白|bái 。
+> He was the only one left in the office. The air conditioning had long since been switched off, and the light of the screen made his face look especially pale.
+他|tā 今年|jīnnián 二十九|èrshíjiǔ 岁|suì ， 在|zài 一|yī 家|jiā 互联网|hùliánwǎng 公司|gōngsī 当|dāng 程序员|chéngxùyuán ， 已经|yǐjīng 当|dāng 了|le 六|liù 年|nián 。
+> He was twenty-nine, and had been a programmer at an internet company for six years.
+这|zhè 六|liù 年|nián 里|lǐ ， 他|tā 时而|shí'ér|sometimes…_sometimes 加班|jiābān 到|dào 半夜|bànyè ， 时而|shí'ér 在|zài 会议室|huìyìshì 的|de 沙发|shāfā 上|shàng 睡|shuì 到|dào 天亮|tiānliàng ， 周末|zhōumò 也|yě 常常|chángcháng 被|bèi 一|yī 个|gè 电话|diànhuà 叫|jiào 回|huí 公司|gōngsī 。
+> In those six years he had sometimes worked until midnight and sometimes slept on the meeting-room sofa until dawn, and at weekends a single phone call often summoned him back to the office.
+他|tā 写|xiě 的|de 代码|dàimǎ|code ， 每天|měitiān 有|yǒu 几百万|jǐbǎiwàn 人|rén 在|zài 用|yòng ； 可是|kěshì 他|tā 自己|zìjǐ ， 已经|yǐjīng 很|hěn 久|jiǔ 没有|méiyǒu 好好|hǎohǎo 看|kàn 过|guò 一|yī 次|cì 太阳|tàiyáng 了|le 。
+> Millions of people used the code he wrote every day; but he himself had not had a proper look at the sun in a long time.
+
+@p night-2
+他|tā 关|guān 上|shàng 电脑|diànnǎo ， 拿|ná 出|chū 手机|shǒujī ， 打开|dǎkāi 了|le 一|yī 封|fēng 写|xiě 了|le 三|sān 个|gè 月|yuè 的|de 信|xìn 。 信|xìn 里|lǐ 只有|zhǐyǒu 一|yī 句|jù 话|huà ： “ 我|wǒ 决定|juédìng 辞职|cízhí|to_resign 。 ”
+> He shut down the computer, took out his phone and opened a letter he had been writing for three months. It said only one thing: “I have decided to resign.”
+这|zhè 封|fēng 信|xìn 他|tā 改|gǎi 过|guò 很多|hěnduō 次|cì ： 有时候|yǒushíhou 写|xiě 得|de 很|hěn 长|cháng ， 把|bǎ 这些|zhèxiē 年|nián 的|de 辛苦|xīnkǔ 和|hé 不|bù 开心|kāixīn 都|dōu 写|xiě 进去|jìnqu ； 有时候|yǒushíhou 只|zhǐ 写|xiě 一|yī 句|jù ， 因为|yīnwèi 觉得|juéde 说|shuō 多|duō 了|le 也|yě 没|méi 用|yòng 。
+> He had rewritten it many times. Sometimes it was long, with all the hard work and unhappiness of these years poured into it; sometimes it was a single sentence, because saying more seemed pointless.
+今天|jīntiān 晚上|wǎnshang ， 他|tā 终于|zhōngyú 不|bù 想|xiǎng 再|zài 改|gǎi 了|le 。 他|tā 告诉|gàosu 自己|zìjǐ ： 明天|míngtiān 早上|zǎoshang 就|jiù 把|bǎ 它|tā 发|fā 出去|chūqu 。
+> Tonight he no longer wanted to change it. He told himself: tomorrow morning, I'll send it.
+至于|zhìyú|as_for 辞职|cízhí 以后|yǐhòu 做|zuò 什么|shénme ， 他|tā 还|hái 没有|méiyǒu 想|xiǎng 好|hǎo 。 也许|yěxǔ 回|huí 江西|Jiāngxī|Jiangxi_(province)|N 老家|lǎojiā ， 也许|yěxǔ 去|qù 南方|nánfāng ， 也许|yěxǔ 什么|shénme 都|dōu 不|bù 做|zuò ， 先|xiān 睡|shuì 一|yī 个|gè 月|yuè 再|zài 说|shuō 。
+> As for what he would do after resigning, he hadn't decided. Perhaps go back to his home village in Jiangxi, perhaps go south, perhaps do nothing at all and simply sleep for a month first.
+
+@p night-3
+从|cóng 写字楼|xiězìlóu|office_building 出来|chūlai ， 街|jiē 上|shàng 空空|kōngkōng 的|de ， 一|yī 辆|liàng 出租车|chūzūchē 也|yě 没有|méiyǒu 。
+> When he came out of the office building, the street was empty. There wasn't a single taxi.
+十一月|shíyīyuè 的|de 风|fēng 已经|yǐjīng 很|hěn 冷|lěng 了|le ， 他|tā 把|bǎ 手|shǒu 放|fàng 进|jìn 口袋|kǒudai 里|lǐ ， 沿着|yánzhe|along 马路|mǎlù 慢慢|mànmàn 往|wǎng 地铁站|dìtiězhàn 走|zǒu 。
+> The November wind was already cold. He put his hands in his pockets and walked slowly along the road toward the subway station.
+地铁|dìtiě 早|zǎo 就|jiù 停|tíng 了|le ， 他|tā 也|yě 不|bù 知道|zhīdào 自己|zìjǐ 为什么|wèishénme 要|yào 往|wǎng 那儿|nàr 走|zǒu ， 也许|yěxǔ 只是|zhǐshì 习惯|xíguàn 罢了|bàle|that's_all 。
+> The trains had stopped long ago, and he didn't know why he was heading there. Perhaps it was only habit.
+地铁站|dìtiězhàn 旁边|pángbiān 有|yǒu 一|yī 家|jiā 二十四|èrshísì 小时|xiǎoshí 营业|yíngyè 的|de 小|xiǎo 商店|shāngdiàn ， 门口|ménkǒu 的|de 灯|dēng 下|xià 坐|zuò 着|zhe 一|yī 位|wèi 老人|lǎorén ， 面前|miànqián 的|de 地|dì 上|shàng 摆|bǎi 着|zhe 几十|jǐshí 本|běn 旧|jiù 书|shū 。
+> Next to the station was a small shop open twenty-four hours, and under the light by its door sat an old man with a few dozen old books laid out on the ground in front of him.
+凌晨|língchén 两|liǎng 点|diǎn 在|zài 街|jiē 上|shàng 卖|mài 书|shū ？ 顾帆|Gù_Fān 不禁|bùjīn|cannot_help_(doing) 停|tíng 下|xià 了|le 脚步|jiǎobù 。
+> Selling books on the street at two in the morning? Gu Fan couldn't help stopping.
+
+@p night-4
+“ 这么|zhème 晚|wǎn 了|le ， 还|hái 有|yǒu 人|rén 买|mǎi 书|shū 吗|ma ？ ” 他|tā 问|wèn 。
+> “Does anyone still buy books this late?” he asked.
+老人|lǎorén 笑|xiào 了|le 笑|xiào ： “ 没有|méiyǒu 。 人|rén 老|lǎo 了|le ， 睡不着|shuìbuzháo ， 出来|chūlai 坐坐|zuòzuo 罢了|bàle 。 ”
+> The old man smiled. “No. When you get old, you can't sleep. I just come out to sit for a while, that's all.”
+顾帆|Gù_Fān 蹲|dūn|to_squat 下来|xiàlai ， 随手|suíshǒu 翻|fān 了|le 翻|fān 。 大部分|dàbùfen 是|shì 旧|jiù 杂志|zázhì 和|hé 过时|guòshí|outdated 的|de 电脑|diànnǎo 书|shū ， 只有|zhǐyǒu 一|yī 本|běn 薄薄|báobáo 的|de 小|xiǎo 书|shū ， 书皮|shūpí|book_cover 上|shàng 画|huà 着|zhe 一|yī 只|zhī 蝴蝶|húdié ， 下面|xiàmiàn 写|xiě 着|zhe 两|liǎng 个|gè 字|zì ： 《 庄子|Zhuāngzǐ|Zhuangzi_(the_thinker,_and_his_book)|N 》 。
+> He squatted down and idly leafed through them. Most were old magazines and out-of-date computer books; only one, a thin little book, had a butterfly drawn on its cover, and beneath it two characters: Zhuangzi.
+书|shū 里|lǐ 每|měi 一|yī 页|yè 都|dōu 有|yǒu 画|huà ， 画|huà 旁边|pángbiān 是|shì 简单|jiǎndān 的|de 白话|báihuà|modern_vernacular_Chinese|J ， 还有|háiyǒu 一两|yīliǎng 句|jù 古文|gǔwén|classical_Chinese|J 。
+> Every page had pictures, and beside them were simple explanations in modern Chinese, along with a line or two of classical Chinese.
+“ 十|shí 块|kuài 钱|qián 。 ” 老人|lǎorén 说|shuō ， “ 这|zhè 本|běn 书|shū 没|méi 什么|shénme 用|yòng ， 看|kàn 了|le 也|yě 不能|bùnéng 帮|bāng 你|nǐ 赚钱|zhuànqián|to_make_money 。 ”
+> “Ten yuan,” said the old man. “This book's not much use. Reading it won't help you make money.”
+顾帆|Gù_Fān 笑|xiào 了|le ： “ 没|méi 用|yòng 的|de 东西|dōngxi ， 正是|zhèngshì 我|wǒ 现在|xiànzài 最|zuì 需要|xūyào 的|de 。 ” 他|tā 付|fù 了|le 钱|qián ， 把|bǎ 书|shū 放|fàng 进|jìn 了|le 包|bāo 里|lǐ 。
+> Gu Fan laughed. “Something useless is exactly what I need right now.” He paid and put the book in his bag.
+
+@h2 h-butterfly
+蝴蝶|húdié
+> The Butterfly
+
+@p butterfly-1
+回到|huídào 租|zū 的|de 房子|fángzi ， 已经|yǐjīng 快|kuài 三|sān 点|diǎn 了|le 。
+> By the time he got back to his rented flat, it was nearly three.
+顾帆|Gù_Fān 躺|tǎng 在|zài 床|chuáng 上|shàng ， 本来|běnlái 想|xiǎng 马上|mǎshàng 睡觉|shuìjiào ， 却|què 怎么|zěnme 也|yě 睡不着|shuìbuzháo 。 人|rén 越|yuè 累|lèi ， 脑子|nǎozi 反而|fǎn'ér|on_the_contrary 越|yuè 清醒|qīngxǐng 。
+> Gu Fan lay down meaning to fall asleep at once, but he simply couldn't. The more tired he was, the more awake his mind became.
+他|tā 打开|dǎkāi 那|nà 本|běn 《 庄子|Zhuāngzǐ 》 ， 从|cóng 第一|dìyī 页|yè 看|kàn 起|qǐ 。
+> He opened the Zhuangzi and began at the first page.
+书|shū 上|shàng 说|shuō ， 庄子|Zhuāngzǐ 名|míng 叫|jiào 庄周|Zhuāng_Zhōu|Zhuang_Zhou,_Zhuangzi's_own_name|N ， 大约|dàyuē 生活|shēnghuó 在|zài 两千|liǎngqiān 三百|sānbǎi 多|duō 年|nián 前|qián 的|de 战国|Zhànguó|the_Warring_States_(475–221_BC)|N 时代|shídài ， 是|shì 宋国|Sòngguó|the_state_of_Song|N 人|rén 。
+> The book said that Zhuangzi's name was Zhuang Zhou, that he lived about 2,300 years ago in the Warring States period, and that he came from the state of Song.
+他|tā 只|zhǐ 做|zuò 过|guò 一|yī 个|gè 管理|guǎnlǐ 漆树园|qīshùyuán|lacquer-tree_garden|J 的|de 小|xiǎo 官|guān ， 日子|rìzi 过|guò 得|de 很|hěn 穷|qióng ， 据说|jùshuō 有时候|yǒushíhou 还|hái 得|děi 向|xiàng 别人|biérén 借|jiè 米|mǐ 。
+> He only ever held a minor post looking after a lacquer-tree garden, and he lived in poverty; it is said that at times he even had to borrow grain from others.
+
+@p butterfly-2
+据说|jùshuō ， 有|yǒu 一|yī 次|cì ， 楚国|Chǔguó|the_state_of_Chu|N 的|de 国王|guówáng 听说|tīngshuō 庄子|Zhuāngzǐ 很|hěn 有|yǒu 本事|běnshi ， 派|pài 了|le 两|liǎng 个|gè 官员|guānyuán|official 去|qù 请|qǐng 他|tā ， 想|xiǎng 把|bǎ 整个|zhěnggè 国家|guójiā 的|de 事|shì 都|dōu 交给|jiāogěi 他|tā 管|guǎn 。
+> It is said that once the king of Chu, hearing how able Zhuangzi was, sent two officials to invite him, wishing to hand him the running of the whole state.
+那|nà 时|shí 庄子|Zhuāngzǐ 正|zhèng 在|zài 河边|hébiān 钓鱼|diàoyú|to_fish ， 头|tóu 也|yě 没有|méiyǒu 回|huí ， 只|zhǐ 问|wèn 了|le 一|yī 句|jù ：
+> Zhuangzi was fishing by a river at the time. Without even turning his head, he asked a single question:
+“ 我|wǒ 听说|tīngshuō 楚国|Chǔguó 有|yǒu 一|yī 只|zhī 神龟|shénguī|sacred_tortoise|J ， 已经|yǐjīng 死|sǐ 了|le 三千|sānqiān 年|nián 。 国王|guówáng 把|bǎ 它|tā 包|bāo 在|zài 布|bù 里|lǐ ， 放|fàng 进|jìn 盒子|hézi ， 摆|bǎi 在|zài 庙|miào|temple,_shrine 里|lǐ 最|zuì 高|gāo 的|de 地方|dìfang 。 你们|nǐmen 说|shuō ， 这|zhè 只|zhī 龟|guī|tortoise 是|shì 愿意|yuànyì 死|sǐ 了|le 让|ràng 人|rén 尊敬|zūnjìng ， 还是|háishi 愿意|yuànyì 活|huó 着|zhe ， 在|zài 泥|ní|mud 里|lǐ 拖|tuō|to_drag 着|zhe 尾巴|wěiba 爬|pá ？ ”
+> “I hear that Chu has a sacred tortoise that has been dead for three thousand years. The king keeps it wrapped in cloth, in a box, in the highest place in the temple. Tell me: would this tortoise rather be dead and honoured, or alive, dragging its tail through the mud?”
+两|liǎng 个|gè 官员|guānyuán 说|shuō ： “ 当然|dāngrán 愿意|yuànyì 活|huó 着|zhe 。 ” 庄子|Zhuāngzǐ 说|shuō ： “ 那|nà 你们|nǐmen 回去|huíqu 吧|ba 。 我|wǒ 也|yě 要|yào 在|zài 泥|ní 里|lǐ 拖|tuō 着|zhe 尾巴|wěiba 爬|pá 。 ”
+> “Alive, of course,” said the two officials. “Then go back,” said Zhuangzi. “I too will drag my tail through the mud.”
+顾帆|Gù_Fān 不禁|bùjīn 笑|xiào 了|le 起来|qǐlai ： 原来|yuánlái 两千|liǎngqiān 多|duō 年|nián 前|qián ， 就|jiù 已经|yǐjīng 有|yǒu 人|rén 不|bù 想|xiǎng 上班|shàngbān 了|le 。
+> Gu Fan couldn't help laughing. So even two thousand years ago, there were people who didn't want to go to work.
+
+@p butterfly-3
+再|zài 往|wǎng 后|hòu 翻|fān 几|jǐ 页|yè ， 就是|jiùshì 那个|nàge 最|zuì 有名|yǒumíng 的|de 故事|gùshi 。 画|huà 上|shàng 是|shì 一|yī 个|gè 在|zài 树|shù 下|xià 睡觉|shuìjiào 的|de 人|rén ， 他|tā 头|tóu 上|shàng 飞|fēi 着|zhe 一|yī 只|zhī 蝴蝶|húdié 。
+> A few pages further on came the most famous story of all. The picture showed a man asleep under a tree, with a butterfly flying above his head.
+白话|báihuà 是|shì 这样|zhèyàng 写|xiě 的|de ： 从前|cóngqián ， 庄周|Zhuāng_Zhōu 梦见|mèngjiàn 自己|zìjǐ 变成|biànchéng 了|le 一|yī 只|zhī 蝴蝶|húdié ， 一|yī 只|zhī 快乐|kuàilè 的|de 蝴蝶|húdié ， 时而|shí'ér 飞|fēi 上|shàng 天空|tiānkōng ， 时而|shí'ér 落|luò 在|zài 花|huā 上|shàng ， 完全|wánquán 忘|wàng 了|le 自己|zìjǐ 是|shì 庄周|Zhuāng_Zhōu 。
+> The modern text went like this: Once, Zhuang Zhou dreamed that he had become a butterfly, a happy butterfly, now flying up into the sky, now settling on a flower, quite forgetting that he was Zhuang Zhou.
+忽然|hūrán ， 他|tā 醒|xǐng 了|le 过来|guòlai ， 发现|fāxiàn 自己|zìjǐ 明明|míngmíng|clearly 是|shì 庄周|Zhuāng_Zhōu 。
+> Suddenly he woke, and found that he was plainly Zhuang Zhou.
+于是|yúshì 他|tā 想|xiǎng ： 究竟|jiūjìng|after_all,_actually 是|shì 庄周|Zhuāng_Zhōu 在|zài 梦|mèng 里|lǐ 变成|biànchéng 了|le 蝴蝶|húdié ， 还是|háishi 蝴蝶|húdié 在|zài 梦|mèng 里|lǐ 变成|biànchéng 了|le 庄周|Zhuāng_Zhōu ？
+> And so he wondered: had Zhuang Zhou become a butterfly in a dream, or was a butterfly now dreaming that it was Zhuang Zhou?
+旁边|pángbiān 的|de 古文|gǔwén 是|shì ： “ 不知|bùzhī|do_not_know 周|Zhōu|Zhou_(Zhuangzi's_name)|N 之|zhī|(classical_particle) 梦|mèng|dream;_to_dream 为|wéi|to_become 胡蝶|húdié|butterfly_(old_spelling) 与|yú|(classical_question_particle) ， 胡蝶|húdié 之|zhī 梦|mèng 为|wéi 周|Zhōu 与|yú ？ ”
+> Beside it was the classical line: “I do not know whether Zhou dreamed he was a butterfly, or a butterfly is dreaming that it is Zhou.”
+
+@p butterfly-4
+看|kàn 着|zhe 看|kàn 着|zhe ， 顾帆|Gù_Fān 睡着|shuìzháo 了|le 。
+> Reading on and on, Gu Fan fell asleep.
+他|tā 梦见|mèngjiàn 自己|zìjǐ 也|yě 变成|biànchéng 了|le 一|yī 只|zhī 蝴蝶|húdié ， 飞|fēi 在|zài 老家|lǎojiā 的|de 油菜花|yóucàihuā|rapeseed_flowers|J 田|tián|field 上|shàng 。
+> He dreamed that he too had become a butterfly, flying over the rapeseed fields of his home village.
+四月|sìyuè 的|de 阳光|yángguāng 照|zhào 在|zài 黄色|huángsè 的|de 花|huā 上|shàng ， 风|fēng 一|yī 吹|chuī ， 整|zhěng 片|piàn 田|tián 就|jiù 像|xiàng 水|shuǐ 一样|yīyàng 动|dòng 了|le 起来|qǐlai 。
+> The April sun shone on the yellow flowers, and whenever the wind blew, the whole field moved like water.
+他|tā 时而|shí'ér 飞|fēi 得|de 很|hěn 高|gāo ， 看见|kànjiàn 远处|yuǎnchù 的|de 小|xiǎo 河|hé 和|hé 奶奶|nǎinai 的|de 房子|fángzi ； 时而|shí'ér 飞|fēi 得|de 很|hěn 低|dī ， 几乎|jīhū 碰|pèng 到|dào 了|le 花|huā 。
+> Now he flew high and could see the little river in the distance and his grandmother's house; now he flew low, almost brushing the flowers.
+没有|méiyǒu 会议|huìyì ， 没有|méiyǒu 消息|xiāoxi ， 也|yě 没有|méiyǒu 人|rén 问|wèn 他|tā “ 什么|shénme 时候|shíhou 能|néng 上线|shàngxiàn|to_go_live_(software)|J ” 。
+> No meetings, no messages, and no one asking him “When can it go live?”
+他|tā 仿佛|fǎngfú|as_if 又|yòu 回到|huídào 了|le 七|qī 岁|suì ， 又|yòu 成|chéng 了|le 那个|nàge 在|zài 田|tián 边|biān 追|zhuī 蝴蝶|húdié 的|de 男孩|nánhái 。 只是|zhǐshì 这|zhè 一|yī 次|cì ， 他|tā 自己|zìjǐ 就是|jiùshì 那|nà 只|zhī 蝴蝶|húdié 。
+> It was as if he were seven again, the boy who chased butterflies at the edge of the fields. Only this time, he himself was the butterfly.
+
+@p butterfly-5
+闹钟|nàozhōng 响|xiǎng 了|le 。 早上|zǎoshang 七|qī 点|diǎn 半|bàn 。
+> The alarm went off. Half past seven in the morning.
+顾帆|Gù_Fān 醒|xǐng 过来|guòlai ， 看见|kànjiàn 的|de 是|shì 灰色|huīsè 的|de 天花板|tiānhuābǎn|ceiling ， 和|hé 手机|shǒujī 上|shàng 四十七|sìshíqī 条|tiáo 没|méi 看|kàn 的|de 工作|gōngzuò 消息|xiāoxi 。
+> Gu Fan woke to a grey ceiling, and forty-seven unread work messages on his phone.
+他|tā 躺|tǎng 着|zhe 没|méi 动|dòng 。 有|yǒu 好几|hǎojǐ 秒|miǎo ， 他|tā 真的|zhēnde 不|bù 知道|zhīdào 自己|zìjǐ 究竟|jiūjìng 是|shì 谁|shéi ： 是|shì 一|yī 个|gè 梦见|mèngjiàn 自己|zìjǐ 变成|biànchéng 蝴蝶|húdié 的|de 程序员|chéngxùyuán ， 还是|háishi 一|yī 只|zhī 梦见|mèngjiàn 自己|zìjǐ 变成|biànchéng 程序员|chéngxùyuán 的|de 蝴蝶|húdié ？
+> He lay there without moving. For several seconds he truly didn't know who he was: a programmer who had dreamed he was a butterfly, or a butterfly dreaming that it was a programmer?
+如果|rúguǒ 是|shì 一|yī 只|zhī 蝴蝶|húdié ， 那|nà 这个|zhège 梦|mèng 也|yě 做|zuò 得|de 太|tài 长|cháng 、 太|tài 累|lèi 了|le 。
+> If he was a butterfly, this dream had gone on far too long, and was far too tiring.
+他|tā 拿|ná 起|qǐ 手机|shǒujī ， 又|yòu 看|kàn 了|le 看|kàn 那|nà 封|fēng 信|xìn ， 最后|zuìhòu 还是|háishi 没有|méiyǒu 发|fā 。
+> He picked up his phone and looked at the letter again, but in the end he didn't send it.
+“ 再|zài 等|děng 一|yī 个|gè 星期|xīngqī 吧|ba 。 ” 他|tā 对|duì 自己|zìjǐ 说|shuō ， “ 至少|zhìshǎo 把|bǎ 这|zhè 本|běn 书|shū 看|kàn 完|wán 。 ” 至于|zhìyú 为什么|wèishénme 是|shì 一|yī 个|gè 星期|xīngqī ， 他|tā 自己|zìjǐ 也|yě 说|shuō 不|bù 清楚|qīngchu 。
+> “I'll wait another week,” he told himself. “At least until I've finished this book.” As for why it should be a week, he couldn't really have said himself.
+
+
+@h2 h-fish
+鱼|yú 的|de 快乐|kuàilè
+> The Joy of Fish
+
+@p fish-1
+星期二|xīngqī'èr 上午|shàngwǔ ， 组|zǔ 里|lǐ 开会|kāihuì ， 讨论|tǎolùn 一|yī 个|gè 新|xīn 功能|gōngnéng 。
+> On Tuesday morning the team held a meeting to discuss a new feature.
+产品|chǎnpǐn 经理|jīnglǐ 想|xiǎng 让|ràng 应用|yìngyòng 每天|měitiān 晚上|wǎnshang 十|shí 点|diǎn 以后|yǐhòu ， 再|zài 给|gěi 用户|yònghù 多|duō 发|fā 两|liǎng 条|tiáo 消息|xiāoxi 。 “ 数据|shùjù 说|shuō 得|de 很|hěn 清楚|qīngchu ， 晚上|wǎnshang 发|fā 的|de 消息|xiāoxi ， 点|diǎn 开|kāi 的|de 人|rén 最|zuì 多|duō 。 ”
+> The product manager wanted the app to send users two extra messages every evening after ten. “The data is very clear: messages sent at night get opened the most.”
+顾帆|Gù_Fān 觉得|juéde 不|bù 对|duì ： “ 半夜|bànyè 收到|shōudào 那么|nàme 多|duō 消息|xiāoxi ， 谁|shéi 会|huì 高兴|gāoxìng ？ 用户|yònghù 本来|běnlái 想|xiǎng 睡觉|shuìjiào ， 我们|wǒmen 反而|fǎn'ér 让|ràng 他们|tāmen 更|gèng 睡不着|shuìbuzháo 。 ”
+> Gu Fan didn't think it was right. “Who's happy to get that many messages in the middle of the night? Users want to sleep, and instead we keep them awake even longer.”
+坐|zuò 在|zài 他|tā 对面|duìmiàn 的|de 何磊|Hé_Lěi|He_Lei|N 马上|mǎshàng 笑|xiào 了|le 。
+> He Lei, who sat across from him, laughed at once.
+何磊|Hé_Lěi 是|shì 做|zuò 数据|shùjù 分析|fēnxī 的|de ， 比|bǐ 顾帆|Gù_Fān 早|zǎo 两|liǎng 年|nián 进|jìn 公司|gōngsī 。 两|liǎng 个|gè 人|rén 一起|yīqǐ 吃|chī 了|le 几|jǐ 年|nián 午饭|wǔfàn ， 也|yě 吵|chǎo 了|le 几|jǐ 年|nián 架|jià ， 什么|shénme 事|shì 都|dōu 能|néng 吵|chǎo 起来|qǐlai 。
+> He Lei worked in data analysis and had joined the company two years before Gu Fan. The two of them had eaten lunch together for years, and argued for years too; they could argue about anything.
+
+@p fish-2
+“ 你|nǐ 又|yòu 不是|bùshì 用户|yònghù ， ” 何磊|Hé_Lěi 说|shuō ， “ 你|nǐ 怎么|zěnme 知道|zhīdào 用户|yònghù 不|bù 高兴|gāoxìng ？ ”
+> “You're not a user,” said He Lei. “How do you know users aren't happy?”
+“ 你|nǐ 又|yòu 不是|bùshì 我|wǒ ， ” 顾帆|Gù_Fān 说|shuō ， “ 你|nǐ 怎么|zěnme 知道|zhīdào 我|wǒ 不|bù 知道|zhīdào ？ ”
+> “You're not me,” said Gu Fan. “How do you know that I don't know?”
+会议室|huìyìshì 里|lǐ 安静|ānjìng 了|le 一|yī 秒|miǎo ， 接着|jiēzhe 大家|dàjiā 都|dōu 笑|xiào 了|le 。
+> The meeting room went quiet for a second, and then everyone laughed.
+产品|chǎnpǐn 经理|jīnglǐ 摇|yáo 了|le 摇|yáo 头|tóu ： “ 你们|nǐmen 俩|liǎ 又|yòu 来|lái 了|le 。 先|xiān 试|shì 一|yī 个|gè 星期|xīngqī ， 至于|zhìyú 以后|yǐhòu 还|hái 发|fā 不|bù 发|fā ， 看|kàn 了|le 数据|shùjù 再|zài 说|shuō 。 ”
+> The product manager shook her head. “Here you two go again. We'll try it for a week. As for whether we keep sending them, we'll decide when we've seen the data.”
+顾帆|Gù_Fān 也|yě 跟着|gēnzhe 笑|xiào ， 可是|kěshì 笑|xiào 到|dào 一半|yībàn ， 他|tā 忽然|hūrán 觉得|juéde 刚才|gāngcái 那|nà 几|jǐ 句|jù 话|huà 非常|fēicháng 熟悉|shúxī ， 好像|hǎoxiàng 在|zài 哪里|nǎlǐ 听|tīng 过|guò 。
+> Gu Fan laughed along, but halfway through he suddenly felt that those few lines were very familiar, as if he had heard them somewhere before.
+那天|nàtiān 下午|xiàwǔ ， 他|tā 时而|shí'ér 写|xiě 几|jǐ 行|háng 代码|dàimǎ ， 时而|shí'ér 停|tíng 下来|xiàlai 发呆|fādāi|to_stare_blankly ， 却|què 怎么|zěnme 也|yě 想|xiǎng 不|bù 起来|qǐlai 。
+> All that afternoon he would write a few lines of code and then stop and stare into space, but he just couldn't remember where.
+
+@p fish-3
+那天|nàtiān 晚上|wǎnshang ， 他|tā 在|zài 《 庄子|Zhuāngzǐ 》 里|lǐ 找到|zhǎodào 了|le 答案|dá'àn 。
+> That evening he found the answer in the Zhuangzi.
+有|yǒu 一|yī 天|tiān ， 庄子|Zhuāngzǐ 和|hé 他|tā 的|de 朋友|péngyou 惠子|Huìzǐ|Huizi,_Zhuangzi's_friend|N 在|zài 濠水|Háoshuǐ|the_Hao_River|N 的|de 一|yī 座|zuò 桥|qiáo 上|shàng 散步|sànbù 。
+> One day Zhuangzi and his friend Huizi were strolling on a bridge over the Hao River.
+庄子|Zhuāngzǐ 看|kàn 着|zhe 桥|qiáo 下|xià 的|de 鱼|yú 说|shuō ： “ 你|nǐ 看|kàn ， 这些|zhèxiē 鱼|yú 游|yóu 得|de 多|duō 自由|zìyóu 、 多|duō 轻松|qīngsōng ， 这|zhè 就是|jiùshì 鱼|yú 的|de 快乐|kuàilè 啊|a 。 ”
+> Looking at the fish below the bridge, Zhuangzi said, “Look how freely and easily these fish swim. That is the joy of fish.”
+惠子|Huìzǐ 说|shuō ： “ 子|zǐ|you_(classical) 非|fēi|are_not_(classical) 鱼|yú ， 安|ān|how_(classical) 知|zhī|to_know 鱼|yú 之|zhī|(classical)_'s 乐|lè|joy ？ ” —— 你|nǐ 又|yòu 不是|bùshì 鱼|yú ， 怎么|zěnme 知道|zhīdào 鱼|yú 快乐|kuàilè 呢|ne ？
+> Huizi said, “You are not a fish; how do you know the joy of fish?” In other words: you're not a fish, so how can you know that fish are happy?
+庄子|Zhuāngzǐ 说|shuō ： “ 子|zǐ 非|fēi 我|wǒ ， 安|ān 知|zhī 我|wǒ 不|bù 知|zhī 鱼|yú 之|zhī 乐|lè ？ ” —— 你|nǐ 又|yòu 不是|bùshì 我|wǒ ， 怎么|zěnme 知道|zhīdào 我|wǒ 不|bù 知道|zhīdào 鱼|yú 快乐|kuàilè 呢|ne ？
+> Zhuangzi said, “You are not me; how do you know that I do not know the joy of fish?” That is: you're not me, so how can you know that I don't know the fish are happy?
+顾帆|Gù_Fān 不禁|bùjīn 大笑|dàxiào 起来|qǐlai 。 原来|yuánlái 他|tā 和|hé 何磊|Hé_Lěi 今天|jīntiān 吵|chǎo 的|de 这|zhè 一|yī 架|jià ， 两千|liǎngqiān 多|duō 年|nián 前|qián 就|jiù 有|yǒu 人|rén 吵|chǎo 过|guò 了|le ， 连|lián 句子|jùzi 都|dōu 差不多|chàbuduō 。
+> Gu Fan couldn't help bursting out laughing. So the argument he and He Lei had had that day had already been fought two thousand years ago, almost word for word.
+
+@p fish-4
+书|shū 上|shàng 说|shuō ， 惠子|Huìzǐ 名|míng 叫|jiào 惠施|Huì_Shī|Hui_Shi|N ， 是|shì 当时|dāngshí 有名|yǒumíng 的|de 思想家|sīxiǎngjiā|thinker ， 还|hái 在|zài 魏国|Wèiguó|the_state_of_Wei|N 当|dāng 过|guò 大官|dàguān 。
+> The book said that Huizi's name was Hui Shi. He was a well-known thinker of his day, and had held high office in the state of Wei.
+他|tā 最|zuì 喜欢|xǐhuan 辩论|biànlùn ， 什么|shénme 问题|wèntí 都|dōu 要|yào 问|wèn 个|gè 清楚|qīngchu 。 庄子|Zhuāngzǐ 和|hé 他|tā 几乎|jīhū 每|měi 次|cì 见面|jiànmiàn 都|dōu 要|yào 争|zhēng ， 谁|shéi 也|yě 说服|shuōfú 不|bù 了|liǎo 谁|shéi 。
+> He loved nothing more than a debate, and had to get to the bottom of every question. He and Zhuangzi argued almost every time they met, and neither could ever convince the other.
+可是|kěshì ， 他们|tāmen 一辈子|yībèizi 都|dōu 是|shì 朋友|péngyou 。
+> Yet they were friends all their lives.
+据说|jùshuō 惠子|Huìzǐ 死|sǐ 后|hòu ， 有|yǒu 一|yī 次|cì 庄子|Zhuāngzǐ 经过|jīngguò 他|tā 的|de 墓|mù|tomb ， 停|tíng 下来|xiàlai 对|duì 身边|shēnbiān 的|de 人|rén 说|shuō ： 自从|zìcóng 惠子|Huìzǐ 走|zǒu 了|le ， 我|wǒ 就|jiù 再|zài 也|yě 没有|méiyǒu 可以|kěyǐ 说话|shuōhuà 的|de 人|rén 了|le 。
+> It is said that after Huizi died, Zhuangzi once passed his tomb, stopped, and said to those with him: since Huizi has gone, I have had no one left to talk to.
+顾帆|Gù_Fān 合|hé 上|shàng 书|shū ， 想|xiǎng 了|le 很|hěn 久|jiǔ 。
+> Gu Fan closed the book and thought for a long time.
+
+@p fish-5
+第二天|dì'èrtiān 中午|zhōngwǔ ， 他|tā 走|zǒu 到|dào 何磊|Hé_Lěi 的|de 桌子|zhuōzi 旁边|pángbiān ： “ 走|zǒu ， 吃饭|chīfàn 去|qù 。 昨天|zuótiān 那个|nàge 问题|wèntí ， 我们|wǒmen 还|hái 没|méi 吵|chǎo 完|wán 。 ”
+> At noon the next day he went over to He Lei's desk. “Come on, let's go and eat. We haven't finished arguing about yesterday's question.”
+何磊|Hé_Lěi 抬|tái 起|qǐ 头|tóu ， 奇怪|qíguài 地|de 看|kàn 着|zhe 他|tā ： “ 你|nǐ 今天|jīntiān 怎么|zěnme 这么|zhème 高兴|gāoxìng ？ 前|qián 几|jǐ 天|tiān 你|nǐ 看|kàn 起来|qǐlai 还|hái 像|xiàng 要|yào 辞职|cízhí 一样|yīyàng 。 ”
+> He Lei looked up and gave him a puzzled look. “Why are you so cheerful today? A few days ago you looked like you were about to quit.”
+“ 我|wǒ 在|zài 看|kàn 一|yī 本|běn 书|shū 。 ” 顾帆|Gù_Fān 说|shuō ， “ 书|shū 上|shàng 说|shuō ， 天天|tiāntiān 跟|gēn 你|nǐ 吵架|chǎojià 的|de 人|rén ， 不|bù 一定|yīdìng 是|shì 你|nǐ 的|de 敌人|dírén ； 说不定|shuōbudìng ， 反而|fǎn'ér 是|shì 最|zuì 懂|dǒng 你|nǐ 的|de 人|rén 。 ”
+> “I've been reading a book,” said Gu Fan. “It says that someone who argues with you every day isn't necessarily your enemy. If anything, he may be the person who understands you best.”
+何磊|Hé_Lěi 想|xiǎng 了|le 想|xiǎng ： “ 你|nǐ 又|yòu 不是|bùshì 我|wǒ ， 你|nǐ 怎么|zěnme 知道|zhīdào 我|wǒ 懂|dǒng 你|nǐ ？ ”
+> He Lei thought about it. “You're not me. How do you know I understand you?”
+两|liǎng 个|gè 人|rén 一起|yīqǐ 笑|xiào 了|le ， 走|zǒu 进|jìn 了|le 电梯|diàntī 。
+> They both laughed and stepped into the lift.
+
+@h2 h-tree
+没用|méiyòng 的|de 树|shù
+> The Useless Tree
+
+@p tree-1
+星期四|xīngqīsì 下午|xiàwǔ ， 领导|lǐngdǎo 把|bǎ 顾帆|Gù_Fān 叫|jiào 进|jìn 了|le 办公室|bàngōngshì 。
+> On Thursday afternoon, his manager called Gu Fan into his office.
+今年|jīnnián 的|de 绩效|jìxiào|work_performance|J 考核|kǎohé|assessment ， 顾帆|Gù_Fān 拿|ná 了|le 一|yī 个|gè 很|hěn 低|dī 的|de 分|fēn 。
+> In this year's performance review, Gu Fan had been given a very low score.
+领导|lǐngdǎo 说话|shuōhuà 很|hěn 客气|kèqi ， 可是|kěshì 意思|yìsi 很|hěn 清楚|qīngchu ： “ 你|nǐ 的|de 技术|jìshù 没|méi 问题|wèntí ， 就是|jiùshì 做|zuò 的|de 东西|dōngxi …… 怎么|zěnme 说|shuō 呢|ne ， 用处|yòngchu|use 不|bù 大|dà 。 ”
+> His manager spoke politely, but the meaning was clear. “There's nothing wrong with your technical skills. It's just that the things you work on are... how shall I put it... not much use.”
+他|tā 举|jǔ 了|le 个|gè 例子|lìzi ： 今年|jīnnián 春天|chūntiān ， 顾帆|Gù_Fān 花|huā 了|le 两|liǎng 个|gè 月|yuè ， 把|bǎ 一|yī 个|gè 老|lǎo 系统|xìtǒng 的|de 代码|dàimǎ 重新|chóngxīn 整理|zhěnglǐ 了|le 一|yī 遍|biàn ， 还|hái 写|xiě 了|le 几十|jǐshí 页|yè 的|de 说明|shuōmíng 。
+> He gave an example: this spring Gu Fan had spent two months tidying up the code of an old system, and had written dozens of pages of documentation as well.
+“ 这些|zhèxiē 东西|dōngxi ， 用户|yònghù 看|kàn 不|bù 见|jiàn ， 老板|lǎobǎn 也|yě 看|kàn 不|bù 见|jiàn 。 今年|jīnnián 公司|gōngsī 要|yào 的|de 是|shì 速度|sùdù ， 是|shì 新|xīn 功能|gōngnéng 。 ”
+> “Users can't see that sort of thing, and neither can the bosses. What the company wants this year is speed, and new features.”
+
+@p tree-2
+最后|zuìhòu ， 领导|lǐngdǎo 告诉|gàosu 他|tā ， 从|cóng 下|xià 个|gè 星期|xīngqī 起|qǐ ， 他|tā 不用|bùyòng 再|zài 做|zuò 新|xīn 项目|xiàngmù 了|le ， 去|qù 维护|wéihù 那个|nàge 老|lǎo 系统|xìtǒng 。
+> Finally his manager told him that from next week he would no longer work on new projects, but would go and maintain that old system.
+公司|gōngsī 里|lǐ 的|de 人|rén 都|dōu 明白|míngbai ， 被|bèi 派|pài 去|qù 维护|wéihù 老|lǎo 系统|xìtǒng ， 就是说|jiùshìshuō|that_is_to_say ， 你|nǐ 在|zài 这里|zhèlǐ 已经|yǐjīng 不|bù 重要|zhòngyào 了|le 。
+> Everyone in the company understood that being sent to maintain an old system meant, in other words, that you no longer mattered there.
+从|cóng 办公室|bàngōngshì 出来|chūlai ， 顾帆|Gù_Fān 觉得|juéde 自己|zìjǐ 像|xiàng 一|yī 张|zhāng 用|yòng 过|guò 的|de 纸|zhǐ 。
+> Coming out of the office, Gu Fan felt like a sheet of used paper.
+回到|huídào 座位|zuòwèi 上|shàng ， 他|tā 又|yòu 打开|dǎkāi 了|le 那|nà 封|fēng 信|xìn 。 这|zhè 一|yī 次|cì ， 他|tā 的|de 手指|shǒuzhǐ 在|zài “ 发送|fāsòng ” 上|shàng 停|tíng 了|le 很|hěn 久|jiǔ 。
+> Back at his desk, he opened the letter again. This time his finger hovered over “Send” for a long while.
+
+@p tree-3
+“ 没用|méiyòng ” 这|zhè 两|liǎng 个|gè 字|zì ， 比|bǐ 加班|jiābān 、 比|bǐ 半夜|bànyè 被|bèi 叫|jiào 醒|xǐng 都|dōu 让|ràng 他|tā 难受|nánshòu 。
+> The word “useless” hurt him more than the overtime, more than being woken in the middle of the night.
+这|zhè 六|liù 年|nián ， 他|tā 一直|yīzhí 努力|nǔlì 做|zuò 一|yī 个|gè 有用|yǒuyòng 的|de 人|rén ： 对|duì 公司|gōngsī 有用|yǒuyòng ， 对|duì 项目|xiàngmù 有用|yǒuyòng ， 对|duì 父母|fùmǔ 有用|yǒuyòng 。 现在|xiànzài 却|què 有|yǒu 人|rén 告诉|gàosu 他|tā ， 他|tā 认真|rènzhēn 做|zuò 的|de 事情|shìqing ， 没|méi 什么|shénme 用|yòng 。
+> For six years he had tried hard to be useful: useful to the company, useful to the project, useful to his parents. And now someone was telling him that the work he had done so carefully wasn't much use.
+可是|kěshì 他|tā 最后|zuìhòu 还是|háishi 没有|méiyǒu 按|àn 下去|xiàqu 。 不是|bùshì 因为|yīnwèi 他|tā 想|xiǎng 留|liú 下来|xiàlai ， 而是|érshì 因为|yīnwèi 他|tā 不|bù 想|xiǎng 就|jiù 这样|zhèyàng 带|dài 着|zhe “ 没用|méiyòng ” 两|liǎng 个|gè 字|zì 离开|líkāi 。
+> But in the end he still didn't press it. Not because he wanted to stay, but because he didn't want to leave like this, carrying the word “useless” with him.
+
+@p tree-4
+那天|nàtiān 晚上|wǎnshang ， 他|tā 翻|fān 到|dào 了|le 一|yī 棵|kē 树|shù 的|de 故事|gùshi 。
+> That night he turned to the story of a tree.
+有|yǒu 一|yī 个|gè 木匠|mùjiang|carpenter ， 大家|dàjiā 叫|jiào 他|tā 匠石|Jiàng_Shí|Carpenter_Shi|N 。 有|yǒu 一|yī 次|cì ， 他|tā 带|dài 着|zhe 徒弟|túdì|apprentice 去|qù 齐国|Qíguó|the_state_of_Qi|N ， 路|lù 上|shàng 经过|jīngguò 一|yī 座|zuò 庙|miào ， 庙|miào 前|qián 有|yǒu 一|yī 棵|kē 大|dà 栎树|lìshù|oak_tree 。
+> There was a carpenter whom people called Carpenter Shi. Once, on his way to the state of Qi with his apprentice, he passed a shrine, and in front of it stood a great oak.
+这|zhè 棵|kē 树|shù 又|yòu 高|gāo 又|yòu 粗|cū ， 大|dà 得|de 能|néng 给|gěi 几千|jǐqiān 头|tóu 牛|niú 挡|dǎng 太阳|tàiyáng 。 来|lái 看|kàn 它|tā 的|de 人|rén 多|duō 得|de 像|xiàng 赶集|gǎnjí|to_go_to_market 一样|yīyàng ， 可是|kěshì 匠石|Jiàng_Shí 连|lián 看|kàn 都|dōu 不|bù 看|kàn ， 一直|yīzhí 往|wǎng 前|qián 走|zǒu 。
+> The tree was so tall and thick that it could shade several thousand oxen from the sun. So many people came to look at it that it was like a market day, but Carpenter Shi didn't so much as look, and walked straight on.
+
+@p tree-5
+徒弟|túdì 追|zhuī 上去|shàngqu 问|wèn ： “ 师父|shīfu|master_(teacher) ， 我|wǒ 跟|gēn 您|nín 学|xué 了|le 这么|zhème 多|duō 年|nián ， 从来|cónglái 没|méi 见|jiàn 过|guò 这么|zhème 好|hǎo 的|de 木头|mùtou 。 您|nín 为什么|wèishénme 看|kàn 都|dōu 不|bù 看|kàn ？ ”
+> His apprentice ran to catch up and asked, “Master, in all the years I've studied with you, I've never seen such fine timber. Why won't you even look at it?”
+匠石|Jiàng_Shí 说|shuō ： “ 别|bié 说|shuō 了|le ， 那|nà 是|shì 没用|méiyòng 的|de 树|shù 。 用|yòng 它|tā 做|zuò 船|chuán ， 船|chuán 会|huì 沉|chén ； 做|zuò 棺材|guāncai|coffin ， 很|hěn 快|kuài 就|jiù 烂|làn ； 做|zuò 家具|jiājù ， 很|hěn 快|kuài 就|jiù 坏|huài ； 做|zuò 柱子|zhùzi|pillar ， 会|huì 生|shēng 虫子|chóngzi 。 正|zhèng 因为|yīnwèi 它|tā 一点|yīdiǎn 用|yòng 也|yě 没有|méiyǒu ， 才|cái 能|néng 活|huó 得|de 这么|zhème 久|jiǔ 。 ”
+> Carpenter Shi said, “Say no more. That's a useless tree. Make a boat of it and the boat will sink; make a coffin and it will soon rot; make furniture and it will soon fall apart; make a pillar and it will get worms. It is precisely because it is no use at all that it has lived so long.”
+
+@p tree-6
+那天|nàtiān 夜里|yèlǐ ， 大|dà 栎树|lìshù 出现|chūxiàn 在|zài 匠石|Jiàng_Shí 的|de 梦|mèng 里|lǐ 。
+> That night the great oak appeared in Carpenter Shi's dream.
+它|tā 说|shuō ： “ 你|nǐ 拿|ná 我|wǒ 跟|gēn 那些|nàxiē ‘ 有用|yǒuyòng ’ 的|de 树|shù 比|bǐ 吗|ma ？ 果树|guǒshù|fruit_tree 结|jié 了|le 果子|guǒzi ， 人们|rénmen 就|jiù 去|qù 打|dǎ 它|tā 、 拉|lā 它|tā 的|de 枝|zhī|branch ， 它们|tāmen 因为|yīnwèi 有用|yǒuyòng ， 一辈子|yībèizi 都|dōu 很|hěn 辛苦|xīnkǔ ， 往往|wǎngwǎng 活|huó 不|bù 到|dào 该|gāi 活|huó 的|de 年纪|niánjì 。 ”
+> It said, “Are you comparing me with those ‘useful’ trees? When fruit trees bear fruit, people beat them and pull at their branches. Because they are useful, their whole lives are hard, and they often don't live out their natural years.”
+“ 我|wǒ 想|xiǎng 做|zuò 一|yī 棵|kē 没用|méiyòng 的|de 树|shù ， 已经|yǐjīng 想|xiǎng 了|le 很|hěn 久|jiǔ ， 好几|hǎojǐ 次|cì 差点儿|chàdiǎnr 被|bèi 人|rén 砍|kǎn|to_chop 死|sǐ ， 现在|xiànzài 才|cái 终于|zhōngyú 做到|zuòdào 了|le 。 这|zhè ‘ 没用|méiyòng ’ ， 对|duì 我|wǒ 来说|láishuō ， 正是|zhèngshì 最|zuì 大|dà 的|de 用处|yòngchu 。 ”
+> “I have been trying to be useless for a long time. Several times I was nearly chopped down, and only now have I finally succeeded. This ‘uselessness’ is, for me, the greatest use of all.”
+在|zài 这|zhè 一|yī 篇|piān 的|de 最后|zuìhòu ， 庄子|Zhuāngzǐ 写|xiě 道|dào ： “ 人|rén 皆|jiē|all_(classical) 知|zhī 有用|yǒuyòng 之|zhī 用|yòng ， 而|ér 莫|mò|no_one_(classical) 知|zhī 无用|wúyòng|useless 之|zhī 用|yòng 也|yě 。 ” —— 人人|rénrén 都|dōu 知道|zhīdào 有用|yǒuyòng 的|de 用处|yòngchu ， 却|què 没有|méiyǒu 人|rén 知道|zhīdào 没用|méiyòng 的|de 用处|yòngchu 。
+> At the end of this chapter, Zhuangzi wrote: “Everyone knows the use of the useful, but no one knows the use of the useless.”
+顾帆|Gù_Fān 看|kàn 着|zhe 这|zhè 句|jù 话|huà ， 不禁|bùjīn 问|wèn 自己|zìjǐ ： 那么|nàme ， 我|wǒ 的|de “ 没用|méiyòng ” ， 又|yòu 有|yǒu 什么|shénme 用|yòng 呢|ne ？
+> Looking at the line, Gu Fan couldn't help asking himself: then what use is my “uselessness”?
+
+@h2 h-cook
+庖丁|Páo_Dīng|Cook_Ding|N
+> Cook Ding
+
+@p cook-1
+下|xià 个|gè 星期一|xīngqīyī ， 顾帆|Gù_Fān 搬|bān 到|dào 了|le 九|jiǔ 楼|lóu 最|zuì 里面|lǐmiàn 的|de 一|yī 张|zhāng 桌子|zhuōzi ， 开始|kāishǐ 维护|wéihù 那个|nàge 老|lǎo 系统|xìtǒng 。
+> The following Monday, Gu Fan moved to a desk at the far end of the ninth floor and began maintaining the old system.
+这个|zhège 系统|xìtǒng 是|shì 公司|gōngsī 最|zuì 早|zǎo 的|de 系统|xìtǒng 之一|zhīyī ， 十|shí 多|duō 年|nián 前|qián 就|jiù 写|xiě 好|hǎo 了|le ， 每天|měitiān 负责|fùzé 给|gěi 几万|jǐwàn 家|jiā 商店|shāngdiàn 算|suàn 钱|qián 、 付|fù 钱|qián ， 从来|cónglái 没有|méiyǒu 出|chū 过|guò 大|dà 问题|wèntí 。
+> It was one of the company's earliest systems, written more than ten years before. Every day it worked out and paid what was owed to tens of thousands of shops, and it had never once had a serious problem.
+大家|dàjiā 都|dōu 叫|jiào 它|tā “ 老|lǎo 房子|fángzi ” ： 谁|shéi 也|yě 不|bù 愿意|yuànyì 住|zhù 进去|jìnqu ， 可是|kěshì 谁|shéi 也|yě 不|bù 敢|gǎn 把|bǎ 它|tā 拆|chāi 掉|diào 。
+> Everyone called it “the old house”: nobody wanted to move in, but nobody dared to tear it down either.
+负责|fùzé 它|tā 的|de 只有|zhǐyǒu 一|yī 个|gè 人|rén ： 老宋|Lǎo_Sòng|Old_Song|N 。 老宋|Lǎo_Sòng 四十六|sìshíliù 岁|suì ， 是|shì 组|zǔ 里|lǐ 年纪|niánjì 最|zuì 大|dà 的|de 程序员|chéngxùyuán 。
+> Only one person was in charge of it: Old Song. He was forty-six, the oldest programmer on the team.
+年轻人|niánqīngrén 在|zài 背后|bèihòu 说|shuō ， 像|xiàng 他|tā 这样|zhèyàng 的|de 人|rén ， 早|zǎo 就|jiù 该|gāi 被|bèi “ 优化|yōuhuà|“optimised”_(laid_off)|J ” 了|le 。
+> Behind his back the younger staff said that someone like him should have been “optimised” long ago.
+可是|kěshì 老宋|Lǎo_Sòng 好像|hǎoxiàng 一点儿|yīdiǎnr 也|yě 不|bù 着急|zháojí 。 他|tā 每天|měitiān 九|jiǔ 点|diǎn 来|lái ， 六|liù 点|diǎn 走|zǒu ， 很|hěn 少|shǎo 加班|jiābān ， 桌子|zhuōzi 上|shàng 总是|zǒngshì 放|fàng 着|zhe 一|yī 杯|bēi 热|rè 茶|chá 。
+> But Old Song didn't seem the least bit worried. He came in at nine, left at six, rarely worked overtime, and always had a cup of hot tea on his desk.
+
+@p cook-2
+星期三|xīngqīsān 晚上|wǎnshang ， 系统|xìtǒng 出|chū 了|le 问题|wèntí ： 有|yǒu 一|yī 部分|bùfen 商店|shāngdiàn 的|de 钱|qián 没有|méiyǒu 按时|ànshí 到账|dàozhàng|to_reach_the_account 。
+> On Wednesday evening the system ran into trouble: some of the shops had not received their money on time.
+组|zǔ 里|lǐ 一下子|yīxiàzi 急|jí 了|le 。 两|liǎng 个|gè 年轻|niánqīng 同事|tóngshì 马上|mǎshàng 打开|dǎkāi 了|le 十几|shíjǐ 个|gè 窗口|chuāngkǒu|window_(on_a_screen) ， 一|yī 行|háng 一|yī 行|háng 地|de 查|chá 代码|dàimǎ ， 查|chá 了|le 两|liǎng 个|gè 小时|xiǎoshí ， 越|yuè 查|chá 越|yuè 乱|luàn 。
+> The whole team was suddenly in a panic. Two young colleagues opened a dozen windows at once and went through the code line by line; after two hours of searching, things were only more confused.
+老宋|Lǎo_Sòng 来|lái 了|le 以后|yǐhòu ， 却|què 不|bù 急|jí 着|zhe 动手|dòngshǒu 。 他|tā 先|xiān 给|gěi 自己|zìjǐ 泡|pào|to_brew_(tea) 了|le 一|yī 杯|bēi 茶|chá ， 然后|ránhòu 坐|zuò 在|zài 屏幕|píngmù 前|qián ， 静静|jìngjìng 地|de 看|kàn 了|le 二十|èrshí 分钟|fēnzhōng 日志|rìzhì|system_log|J 。
+> When Old Song arrived, though, he was in no hurry to start. First he made himself a cup of tea, then sat in front of the screen and quietly read the logs for twenty minutes.
+最后|zuìhòu ， 他|tā 只|zhǐ 改|gǎi 了|le 三|sān 行|háng 代码|dàimǎ 。 问题|wèntí 解决|jiějué 了|le 。
+> In the end he changed just three lines of code. The problem was solved.
+顾帆|Gù_Fān 在|zài 旁边|pángbiān 看|kàn 着|zhe ， 不禁|bùjīn 问|wèn ： “ 您|nín 怎么|zěnme 知道|zhīdào 是|shì 这|zhè 三|sān 行|háng ？ ”
+> Gu Fan, watching beside him, couldn't help asking, “How did you know it was those three lines?”
+老宋|Lǎo_Sòng 喝|hē 了|le 一|yī 口|kǒu 茶|chá ， 说|shuō ： “ 这个|zhège 系统|xìtǒng ， 我|wǒ 看|kàn 了|le 十二|shí'èr 年|nián 了|le 。 它|tā 哪里|nǎlǐ 结实|jiēshi ， 哪里|nǎlǐ 有|yǒu 缝|fèng|crack,_seam ， 我|wǒ 心里|xīnli 都|dōu 清楚|qīngchu 。 我|wǒ 不是|bùshì 比|bǐ 你们|nǐmen 快|kuài ， 而是|érshì 不|bù 走|zǒu 那些|nàxiē 没用|méiyòng 的|de 路|lù 。 ”
+> Old Song took a sip of tea and said, “I've been looking at this system for twelve years. Where it's solid and where it has cracks, I know it all by heart. It's not that I'm faster than you; it's that I don't go down the roads that lead nowhere.”
+
+@p cook-3
+那天|nàtiān 晚上|wǎnshang ， 顾帆|Gù_Fān 读|dú 到|dào 了|le 庖丁|Páo_Dīng 的|de 故事|gùshi 。
+> That night Gu Fan read the story of Cook Ding.
+庖丁|Páo_Dīng 是|shì 一|yī 个|gè 厨师|chúshī|cook 。 有|yǒu 一|yī 次|cì ， 他|tā 给|gěi 文惠君|Wénhuì_Jūn|Lord_Wenhui|N 解牛|jiěniú|to_cut_up_an_ox|J —— 就是|jiùshì 把|bǎ 一|yī 整|zhěng 头|tóu 牛|niú 的|de 肉|ròu 和|hé 骨头|gǔtou 分开|fēnkāi 。
+> Ding was a cook. Once he was cutting up an ox for Lord Wenhui, that is, separating all the meat of a whole ox from its bones.
+他|tā 的|de 手|shǒu 、 脚|jiǎo 和|hé 身体|shēntǐ ， 每|měi 一|yī 个|gè 动作|dòngzuò 都|dōu 像|xiàng 在|zài 跳舞|tiàowǔ ； 刀|dāo 进去|jìnqu 的|de 声音|shēngyīn 很|hěn 有|yǒu 节奏|jiézòu|rhythm ， 像|xiàng 音乐|yīnyuè 一样|yīyàng 。
+> Every movement of his hands, his feet and his body was like a dance, and the sound of the knife going in had a rhythm, like music.
+文惠君|Wénhuì_Jūn 看|kàn 呆|dāi 了|le ： “ 好|hǎo 啊|a ！ 技术|jìshù 怎么|zěnme 能|néng 好|hǎo 到|dào 这种|zhèzhǒng 程度|chéngdù ？ ”
+> Lord Wenhui watched spellbound. “Wonderful! How can skill reach such a level?”
+庖丁|Páo_Dīng 放|fàng 下|xià 刀|dāo ， 说|shuō ： “ 臣|chén|I,_your_servant_(classical) 之|zhī|(classical_particle) 所|suǒ|what_(classical) 好|hào|to_love 者|zhě|(classical_particle) 道|dào|the_Way 也|yě ， 进|jìn|to_go_beyond 乎|hū|(classical)_than 技|jì|skill 矣|yǐ|(classical_particle) 。 ”
+> Cook Ding put down his knife and said, “What your servant loves is the Way, which goes beyond skill.”
+—— 我|wǒ 喜欢|xǐhuan 的|de 不是|bùshì 技术|jìshù ， 而是|érshì “ 道|dào ” ； 道|dào 比|bǐ 技术|jìshù 又|yòu 进|jìn 了|le 一|yī 步|bù 。
+> In other words: what I love is not technique but the Way, and the Way goes one step further than technique.
+
+@p cook-4
+庖丁|Páo_Dīng 说|shuō ， 他|tā 刚|gāng 开始|kāishǐ 解牛|jiěniú 的|de 时候|shíhou ， 眼|yǎn 里|lǐ 看到|kàndào 的|de 只是|zhǐshì 一|yī 整|zhěng 头|tóu 牛|niú 。 三|sān 年|nián 以后|yǐhòu ， 他|tā 再|zài 也|yě 看|kàn 不|bù 到|dào 一|yī 整|zhěng 头|tóu 牛|niú 了|le ， 看到|kàndào 的|de 是|shì 牛|niú 身体|shēntǐ 里面|lǐmiàn 的|de 结构|jiégòu ： 哪里|nǎlǐ 是|shì 骨头|gǔtou ， 哪里|nǎlǐ 是|shì 空|kōng 的|de 。
+> Ding said that when he first began cutting up oxen, all he saw was a whole ox. After three years he never saw a whole ox again; what he saw was the structure inside its body: where the bones were, and where the empty spaces were.
+后来|hòulái ， 人们|rénmen 就|jiù 用|yòng “ 目无全牛|mù_wú_quán_niú|to_see_no_whole_ox_(perfect_mastery)|I ” 这个|zhège 成语|chéngyǔ ， 来|lái 说|shuō 一|yī 个|gè 人|rén 的|de 技术|jìshù 已经|yǐjīng 非常|fēicháng 高|gāo 了|le 。
+> Later, people came to use the idiom “to see no whole ox” to say that someone's skill has become truly masterly.
+现在|xiànzài ， 他|tā 不|bù 用|yòng 眼睛|yǎnjing 看|kàn ， 而是|érshì 用|yòng 心|xīn 去|qù 感觉|gǎnjué 。 他|tā 按照|ànzhào 牛|niú 身体|shēntǐ 本来|běnlái 的|de 样子|yàngzi ， 让|ràng 刀|dāo 从|cóng 骨头|gǔtou 和|hé 骨头|gǔtou 之间|zhījiān 的|de 空处|kòngchù 进去|jìnqu ， 一点儿|yīdiǎnr 也|yě 不|bù 费力|fèilì 。
+> Now he no longer looked with his eyes but felt his way with his mind. Following the natural shape of the ox's body, he let the knife go in through the spaces between the bones, without the slightest effort.
+
+@p cook-5
+“ 好|hǎo 的|de 厨师|chúshī 一|yī 年|nián 换|huàn 一|yī 把|bǎ 刀|dāo ， 因为|yīnwèi 他们|tāmen 是|shì 用|yòng 刀|dāo 去|qù 切|qiē 肉|ròu ； 普通|pǔtōng 的|de 厨师|chúshī 一|yī 个|gè 月|yuè 就|jiù 得|děi 换|huàn 一|yī 把|bǎ ， 因为|yīnwèi 他们|tāmen 的|de 刀|dāo 总是|zǒngshì 硬|yìng 碰|pèng 骨头|gǔtou 。 我|wǒ 这|zhè 把|bǎ 刀|dāo 已经|yǐjīng 用|yòng 了|le 十九|shíjiǔ 年|nián ， 解|jiě 过|guò 几千|jǐqiān 头|tóu 牛|niú ， 可是|kěshì 刀口|dāokǒu 还|hái 像|xiàng 刚|gāng 磨|mó|to_sharpen 过|guò 的|de 一样|yīyàng 。 ”
+> “A good cook changes his knife once a year, because he cuts through meat. An ordinary cook has to change his every month, because his knife keeps hacking against bone. I have used this knife for nineteen years and cut up several thousand oxen, yet its edge is as if it had just been sharpened.”
+骨头|gǔtou 和|hé 骨头|gǔtou 之间|zhījiān 有|yǒu 空|kòng ， 刀口|dāokǒu 却|què 薄|báo 得|de 几乎|jīhū 没有|méiyǒu 一点|yīdiǎn 厚|hòu ， 所以|suǒyǐ 刀|dāo 在|zài 里面|lǐmiàn 走|zǒu 来|lái 走|zǒu 去|qù ， 总|zǒng 有|yǒu 足够|zúgòu 的|de 地方|dìfang 。 成语|chéngyǔ “ 游刃有余|yóurèn_yǒuyú|to_handle_with_ease|I ” ， 就|jiù 是|shì 从|cóng 这里|zhèlǐ 来|lái 的|de 。
+> There are gaps between the bones, while the edge is so thin it has almost no thickness at all, so the knife can move about inside with room to spare. That is where the idiom “a blade moving with room to spare” comes from.
+
+@p cook-6
+不过|bùguò ， 庖丁|Páo_Dīng 也|yě 说|shuō ， 每|měi 次|cì 碰|pèng 到|dào 骨头|gǔtou 和|hé 筋|jīn|tendon 长|zhǎng 在|zài 一起|yīqǐ 、 很|hěn 难|nán 下|xià 刀|dāo 的|de 地方|dìfang ， 他|tā 照样|zhàoyàng|all_the_same 会|huì 小心|xiǎoxīn 起来|qǐlai ： 眼睛|yǎnjing 看|kàn 准|zhǔn ， 动作|dòngzuò 放|fàng 慢|màn ， 刀|dāo 轻轻|qīngqīng 一|yī 动|dòng ， 牛|niú 肉|ròu 就|jiù 像|xiàng 一|yī 堆|duī 土|tǔ 一样|yīyàng 散|sàn 开|kāi 了|le 。
+> Still, Ding said, each time he came to a place where bone and tendon grew together and it was hard to cut, he would grow careful all the same: his eyes fixed on the spot, his movements slowed, the knife moved ever so slightly, and the meat fell apart like a heap of earth.
+文惠君|Wénhuì_Jūn 听|tīng 了|le 说|shuō ： “ 好|hǎo 啊|a ！ 我|wǒ 听|tīng 了|le 庖丁|Páo_Dīng 的|de 话|huà ， 懂得|dǒngde 了|le 怎样|zěnyàng 养生|yǎngshēng|to_nurture_life|J 。 ”
+> When Lord Wenhui heard this he said, “Wonderful! Listening to Cook Ding, I have learned how to nurture life.”
+顾帆|Gù_Fān 合|hé 上|shàng 书|shū ， 想起|xiǎngqǐ 了|le 老宋|Lǎo_Sòng 的|de 那|nà 三|sān 行|háng 代码|dàimǎ 。
+> Gu Fan closed the book and thought of Old Song's three lines of code.
+
+@p cook-7
+第二天|dì'èrtiān ， 他|tā 把|bǎ 那天|nàtiān 晚上|wǎnshang 的|de 日志|rìzhì 从|cóng 头|tóu 看|kàn 了|le 一|yī 遍|biàn 。 看|kàn 着|zhe 看|kàn 着|zhe ， 他|tā 发现|fāxiàn 系统|xìtǒng 里|lǐ 有|yǒu 很多|hěnduō 注释|zhùshì|comment_(in_code)|J ， 写|xiě 得|de 清清楚楚|qīngqīngchǔchǔ ， 有|yǒu 的|de 已经|yǐjīng 是|shì 十|shí 年|nián 前|qián 的|de 了|le 。
+> The next day he went through that night's logs again from the beginning. As he read, he found that the system was full of comments, written with perfect clarity, some of them ten years old.
+更|gèng 让|ràng 他|tā 没|méi 想到|xiǎngdào 的|de 是|shì ， 老宋|Lǎo_Sòng 的|de 电脑|diànnǎo 旁边|pángbiān 放|fàng 着|zhe 一|yī 份|fèn 打印|dǎyìn 出来|chūlai 的|de 文件|wénjiàn ， 边上|biānshang 写|xiě 满|mǎn 了|le 字|zì 。 那|nà 正是|zhèngshì 他|tā 春天|chūntiān 写|xiě 的|de 那|nà 几十|jǐshí 页|yè 说明|shuōmíng 。
+> What surprised him even more was a printed document lying beside Old Song's computer, its margins covered in handwriting. It was the very documentation, dozens of pages of it, that he had written in the spring.
+“ 这|zhè 是|shì …… 我|wǒ 写|xiě 的|de ？ ” 他|tā 问|wèn 。
+> “Is this... mine?” he asked.
+老宋|Lǎo_Sòng 笑|xiào 了|le ： “ 写|xiě 得|de 好|hǎo 啊|a ， 我|wǒ 天天|tiāntiān 看|kàn 。 年轻人|niánqīngrén 都|dōu 说|shuō 这种|zhèzhǒng 东西|dōngxi 没用|méiyòng ， 可是|kěshì 没有|méiyǒu 它|tā ， 这么|zhème 大|dà 的|de 系统|xìtǒng ， 我|wǒ 一个人|yīgèrén 哪里|nǎlǐ 看|kàn 得|de 过来|guòlai ？ ”
+> Old Song smiled. “It's well written. I read it every day. The young ones all say this sort of thing is useless, but without it, how could I keep track of a system this big on my own?”
+他|tā 喝|hē 了|le 一|yī 口|kǒu 茶|chá ， 又|yòu 说|shuō ： “ 很多|hěnduō 人|rén 觉得|juéde 我|wǒ 在|zài 这里|zhèlǐ 也|yě 没用|méiyòng 。 至于|zhìyú 有用|yǒuyòng 没用|méiyòng ， 我|wǒ 早|zǎo 就|jiù 不|bù 想|xiǎng 了|le 。 我|wǒ 只|zhǐ 想|xiǎng 把|bǎ 这|zhè 一|yī 件|jiàn 事|shì 做|zuò 好|hǎo 。 ”
+> He sipped his tea and went on, “Plenty of people think I'm useless here too. As for useful or useless, I stopped thinking about that long ago. I just want to do this one thing well.”
+顾帆|Gù_Fān 没有|méiyǒu 说话|shuōhuà 。 他|tā 想起|xiǎngqǐ 了|le 那|nà 棵|kē 大|dà 栎树|lìshù ， 也|yě 想起|xiǎngqǐ 了|le 庖丁|Páo_Dīng 那|nà 把|bǎ 用|yòng 了|le 十九|shíjiǔ 年|nián 的|de 刀|dāo 。
+> Gu Fan said nothing. He thought of the great oak, and of Cook Ding's knife that had lasted nineteen years.
+
+@h2 h-wake
+醒来|xǐnglái|to_wake_up
+> Waking
+
+@p wake-1
+星期六|xīngqīliù 早上|zǎoshang ， 顾帆|Gù_Fān 醒|xǐng 过来|guòlai 的|de 时候|shíhou ， 已经|yǐjīng 十|shí 点|diǎn 了|le 。
+> On Saturday morning, when Gu Fan woke up, it was already ten o'clock.
+他|tā 整整|zhěngzhěng 睡|shuì 了|le 十|shí 个|gè 小时|xiǎoshí ， 没有|méiyǒu 做梦|zuòmèng —— 没有|méiyǒu 蝴蝶|húdié ， 也|yě 没有|méiyǒu 会议|huìyì 。 这|zhè 是|shì 这|zhè 几|jǐ 年|nián 来|lái 他|tā 第一|dìyī 次|cì 睡|shuì 得|de 这么|zhème 好|hǎo 。
+> He had slept for a full ten hours without dreaming: no butterflies, and no meetings either. It was the first time in years he had slept so well.
+窗外|chuāngwài 的|de 太阳|tàiyáng 很|hěn 好|hǎo 。 他|tā 躺|tǎng 着|zhe 想|xiǎng ： 一|yī 个|gè 星期|xīngqī 到|dào 了|le ， 那|nà 封|fēng 信|xìn 还|hái 在|zài 手机|shǒujī 里|lǐ 。
+> The sun was bright outside the window. Lying there, he thought: the week is up, and the letter is still on my phone.
+他|tā 起床|qǐchuáng 洗|xǐ 了|le 脸|liǎn ， 把|bǎ 那|nà 本|běn 《 庄子|Zhuāngzǐ 》 放|fàng 进|jìn 包|bāo 里|lǐ ， 坐|zuò 地铁|dìtiě 去|qù 了|le 什刹海|Shíchàhǎi|Shichahai_(lakes_in_central_Beijing)|N 。
+> He got up, washed his face, put the Zhuangzi in his bag, and took the subway to Shichahai.
+
+@p wake-2
+十一月|shíyīyuè 的|de 什刹海|Shíchàhǎi ， 游客|yóukè 不|bù 多|duō 。 湖|hú 边|biān 的|de 树|shù 叶子|yèzi 已经|yǐjīng 黄|huáng 了|le ， 几|jǐ 个|gè 老人|lǎorén 坐|zuò 在|zài 水|shuǐ 边|biān 聊天|liáotiān ， 远处|yuǎnchù 有|yǒu 人|rén 在|zài 唱|chàng 京剧|jīngjù 。
+> In November there were few visitors at Shichahai. The leaves on the trees by the lake had turned yellow; a few old people sat chatting by the water, and somewhere in the distance someone was singing Peking opera.
+顾帆|Gù_Fān 找|zhǎo 了|le 一|yī 张|zhāng 长椅|chángyǐ 坐|zuò 下|xià ， 看|kàn 着|zhe 湖水|húshuǐ 发呆|fādāi 。 水|shuǐ 下|xià 有|yǒu 几|jǐ 条|tiáo 鱼|yú ， 慢慢|mànmàn 地|de 游|yóu 来|lái 游|yóu 去|qù 。
+> Gu Fan found a bench, sat down and gazed at the water. A few fish were swimming slowly back and forth beneath the surface.
+他|tā 想起|xiǎngqǐ 了|le 这个|zhège 星期|xīngqī ： 一|yī 只|zhī 蝴蝶|húdié ， 几|jǐ 条|tiáo 鱼|yú ， 一|yī 棵|kē 树|shù ， 一|yī 把|bǎ 刀|dāo 。
+> He thought back over the week: a butterfly, some fish, a tree, a knife.
+他|tā 发现|fāxiàn ， 这|zhè 本|běn 书|shū 从头到尾|cóngtóu_dàowěi 都|dōu 没有|méiyǒu 告诉|gàosu 他|tā 该|gāi 不|bù 该|gāi 辞职|cízhí 。 庄子|Zhuāngzǐ 什么|shénme 也|yě 没有|méiyǒu 告诉|gàosu 他|tā ， 只是|zhǐshì 让|ràng 他|tā 换|huàn 了|le 几|jǐ 个|gè 地方|dìfang 看|kàn 自己|zìjǐ ： 在|zài 梦|mèng 里|lǐ ， 在|zài 桥|qiáo 上|shàng ， 在|zài 树|shù 下|xià ， 在|zài 厨房|chúfáng 里|lǐ 。
+> He realised that from beginning to end the book had never told him whether he should resign. Zhuangzi had told him nothing at all; he had only let him look at himself from a few different places: in a dream, on a bridge, under a tree, in a kitchen.
+
+@p wake-3
+手机|shǒujī 响|xiǎng 了|le 两|liǎng 次|cì 。
+> His phone buzzed twice.
+第一|dìyī 条|tiáo 是|shì 何磊|Hé_Lěi 发|fā 来|lái 的|de ： “ 数据|shùjù 出来|chūlai 了|le 。 晚上|wǎnshang 多|duō 发|fā 两|liǎng 条|tiáo 消息|xiāoxi ， 点|diǎn 开|kāi 的|de 人|rén 确实|quèshí 多|duō 了|le ， 可是|kěshì 不再|bùzài 用|yòng 这个|zhège 应用|yìngyòng 的|de 人|rén 也|yě 多|duō 了|le 。 你|nǐ 赢|yíng 了|le 一半|yībàn 。 下午|xiàwǔ 打球|dǎqiú 吗|ma ？ 正好|zhènghǎo 把|bǎ 那个|nàge 问题|wèntí 吵|chǎo 完|wán 。 ”
+> The first was from He Lei: “The data's in. With two more messages at night, more people did open them, but more people also stopped using the app. You won half. Basketball this afternoon? We can finish that argument while we're at it.”
+第二|dì'èr 条|tiáo 是|shì 老宋|Lǎo_Sòng 的|de ： “ 星期一|xīngqīyī 早|zǎo 点儿|diǎnr 来|lái ， 带|dài 你|nǐ 看看|kànkan 系统|xìtǒng 最|zuì 老|lǎo 的|de 那|nà 部分|bùfen 。 那里|nàlǐ 的|de 骨头|gǔtou 最|zuì 硬|yìng 。 ”
+> The second was from Old Song: “Come in early on Monday and I'll show you the oldest part of the system. That's where the bones are hardest.”
+顾帆|Gù_Fān 看|kàn 着|zhe 这|zhè 两|liǎng 条|tiáo 消息|xiāoxi ， 笑|xiào 了|le 很|hěn 久|jiǔ 。
+> Gu Fan looked at the two messages and smiled for a long time.
+
+@p wake-4
+然后|ránhòu ， 他|tā 打开|dǎkāi 了|le 那|nà 封|fēng 信|xìn 。 “ 我|wǒ 决定|juédìng 辞职|cízhí 。 ” 还是|háishi 那|nà 五|wǔ 个|gè 字|zì 。
+> Then he opened the letter. “I have decided to resign.” The same five characters.
+他|tā 看|kàn 了|le 很|hěn 久|jiǔ ， 在|zài 后面|hòumiàn 又|yòu 写|xiě 了|le 几|jǐ 句|jù 话|huà ， 然后|ránhòu 按|àn 下|xià 了|le 一|yī 个|gè 键|jiàn 。
+> He looked at it for a long time, added a few more sentences at the end, and then pressed a key.
+至于|zhìyú 他|tā 究竟|jiūjìng 是|shì 把|bǎ 信|xìn 发|fā 了|le 出去|chūqu ， 还是|háishi 又|yòu 一|yī 次|cì 把|bǎ 它|tā 留|liú 在|zài 了|le 手机|shǒujī 里|lǐ ， 这里|zhèlǐ 就|jiù 不|bù 说|shuō 了|le 。
+> As for whether he actually sent the letter, or left it on his phone once again, we will not say here.
+也许|yěxǔ 星期一|xīngqīyī ， 他|tā 照样|zhàoyàng 坐|zuò 地铁|dìtiě 去|qù 公司|gōngsī ， 坐|zuò 在|zài 九|jiǔ 楼|lóu 最|zuì 里面|lǐmiàn 的|de 桌子|zhuōzi 旁边|pángbiān ， 跟|gēn 老宋|Lǎo_Sòng 学|xué 怎么|zěnme “ 解|jiě ” 一|yī 个|gè 老|lǎo 系统|xìtǒng ； 也许|yěxǔ 他|tā 坐|zuò 上|shàng 了|le 回|huí 江西|Jiāngxī 的|de 火车|huǒchē ， 去|qù 看|kàn 那|nà 一|yī 片|piàn 油菜花|yóucàihuā 。 哪|nǎ 一|yī 种|zhǒng 都|dōu 可以|kěyǐ 。
+> Perhaps on Monday he took the subway to work as usual, sat at the desk at the far end of the ninth floor, and learned from Old Song how to “carve up” an old system; perhaps he boarded a train home to Jiangxi to see those rapeseed fields. Either would be fine.
+
+@p wake-5
+湖|hú 里|lǐ 的|de 鱼|yú 还|hái 在|zài 游|yóu 。 它们|tāmen 究竟|jiūjìng 快乐|kuàilè 不|bù 快乐|kuàilè ， 顾帆|Gù_Fān 不|bù 知道|zhīdào 。
+> The fish in the lake were still swimming. Whether they were really happy or not, Gu Fan didn't know.
+不过|bùguò 他|tā 想起|xiǎngqǐ 了|le 书|shū 上|shàng 那个|nàge 故事|gùshi 的|de 最后|zuìhòu ： 惠子|Huìzǐ 还是|háishi 不|bù 同意|tóngyì ， 庄子|Zhuāngzǐ 就|jiù 说|shuō ， 你|nǐ 问|wèn 我|wǒ “ 怎么|zěnme 知道|zhīdào 鱼|yú 快乐|kuàilè ” ， 说明|shuōmíng 你|nǐ 已经|yǐjīng 知道|zhīdào 我|wǒ 知道|zhīdào 了|le ， 才|cái 来|lái 问|wèn 我|wǒ 。 我|wǒ 是|shì 在|zài 濠水|Háoshuǐ 的|de 桥|qiáo 上|shàng 知道|zhīdào 的|de 。
+> But he remembered how that story in the book ended. Huizi still didn't agree, and Zhuangzi said: you asked me “how do you know the fish are happy”, which shows you already knew that I knew, and that's why you asked. I knew it on the bridge over the Hao.
+最后|zuìhòu 一|yī 句|jù 古文|gǔwén 是|shì ： “ 我|wǒ 知|zhī 之|zhī|it_(classical) 濠|Háo|the_Hao_River|N 上|shàng 也|yě 。 ”
+> The last line in classical Chinese was: “I knew it here, above the Hao.”
+顾帆|Gù_Fān 也|yě 知道|zhīdào 了|le 一|yī 件|jiàn 事|shì ： 此刻|cǐkè ， 坐|zuò 在|zài 这里|zhèlǐ ， 他|tā 是|shì 快乐|kuàilè 的|de 。
+> And Gu Fan knew one thing too: right now, sitting here, he was happy.
+一|yī 片|piàn 黄|huáng 叶子|yèzi 从|cóng 树|shù 上|shàng 落|luò 下来|xiàlai ， 在|zài 风|fēng 里|lǐ 时而|shí'ér 高|gāo ， 时而|shí'ér 低|dī ， 像|xiàng 一|yī 只|zhī 蝴蝶|húdié 。
+> A yellow leaf fell from a tree, rising and dipping in the wind, like a butterfly.

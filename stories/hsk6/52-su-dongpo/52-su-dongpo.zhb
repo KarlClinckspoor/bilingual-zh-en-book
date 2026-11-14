@@ -1,0 +1,372 @@
+# Su Dongpo in Exile — original story and translation by Claude (Anthropic).
+# Target: HSK 3.0 level 6; focus grammar: 不料, 不禁, 便 (review: 毕竟, 反而, 随着); names N, terms J, set phrases and classical lines I.
+
+@meta {"title_zh": "苏东坡在黄州", "subtitle_zh": "一个诗人最难的四年，和他最好的作品", "title_en": "Su Dongpo in Exile", "subtitle_en": "A poet's four hardest years, and his finest work", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+黄州|Huángzhōu|Huangzhou,_today's_Huanggang,_Hubei|N 城|chéng 东|dōng 有|yǒu 一|yī 片|piàn 不|bù 大|dà 的|de 山坡|shānpō|hillside,_slope ， 本地|běndì|local 人|rén 叫|jiào 它|tā “ 东坡|Dōngpō|the_Eastern_Slope|N ” 。
+> East of the town of Huangzhou lies a small hillside that the locals call Dongpo, “the Eastern Slope”.
+如今|rújīn|nowadays ， 人们|rénmen 一|yī 说起|shuōqǐ “ 东坡|Dōngpō ” ， 想到|xiǎngdào 的|de 往往|wǎngwǎng|usually 不是|bùshì 这|zhè 片|piàn 山坡|shānpō ， 而是|érshì 一|yī 个|gè 人|rén —— 苏东坡|Sū_Dōngpō|Su_Dongpo,_i.e._Su_Shi_(1037–1101)|N 。
+> Today, when people hear “Dongpo”, they usually think not of the hillside but of a man: Su Dongpo.
+这个|zhège 名字|míngzi 是|shì 他|tā 自己|zìjǐ 起|qǐ 的|de ， 就是|jiùshì 从|cóng 这|zhè 片|piàn 山坡|shānpō 来|lái 的|de 。
+> He gave himself that name, and it came from this very hillside.
+九百|jiǔbǎi 多|duō 年|nián 前|qián ， 他|tā 在|zài 这里|zhèlǐ 过|guò 了|le 四|sì 年|nián 多|duō 很|hěn 苦|kǔ 的|de 日子|rìzi ， 也|yě 写|xiě 出|chū 了|le 一生|yīshēng|whole_life 中|zhōng 最|zuì 好|hǎo 的|de 一些|yīxiē 作品|zuòpǐn 。
+> More than nine hundred years ago he spent four hard years here, and wrote some of the finest work of his life.
+故事|gùshi 里|lǐ 那|nà 个|gè 叫|jiào 阿牛|Ā_Niú|A_Niu,_a_farm_boy_(fictional)|N 的|de 农家|nóngjiā|farming_family 少年|shàonián|youth,_teenager 是|shì 编|biān|to_make_up 出来|chūlai 的|de ， 苏东坡|Sū_Dōngpō 在|zài 黄州|Huángzhōu 的|de 那些|nàxiē 日子|rìzi ， 却|què 是|shì 真实|zhēnshí 的|de 历史|lìshǐ 。
+> The farm boy A Niu in this story is invented, but Su Dongpo's days in Huangzhou are real history.
+
+@h2 h-prison
+牢|láo|prison 里|lǐ 的|de 诗|shī
+> Poems in Prison
+
+@p prison-1
+1079 年|nián 秋天|qiūtiān ， 宋朝|Sòngcháo|the_Song_dynasty_(960–1279)|N 的|de 京城|jīngchéng|capital_city 开封|Kāifēng|Kaifeng,_the_Song_capital|N ， 御史台|Yùshǐtái|the_Censorate|N 的|de 牢|láo 里|lǐ 关|guān 着|zhe 一|yī 个|gè 四十|sìshí 多|duō 岁|suì 的|de 犯人|fànrén|prisoner 。
+> In the autumn of 1079, in the prison of the Censorate in Kaifeng, capital of the Song dynasty, sat a prisoner in his forties.
+他|tā 叫|jiào 苏轼|Sū_Shì|Su_Shi,_Su_Dongpo's_real_name|N ， 是|shì 当时|dāngshí 最|zuì 有名|yǒumíng 的|de 诗人|shīrén 之一|zhīyī 。
+> His name was Su Shi, and he was one of the most famous poets of his day.
+几|jǐ 个|gè 月|yuè 前|qián ， 他|tā 还|hái 在|zài 南方|nánfāng 的|de 湖州|Húzhōu|Huzhou,_in_Zhejiang|N 当|dāng 官|guān ， 不料|bùliào|unexpectedly 有人|yǒurén 从|cóng 他|tā 的|de 诗|shī 里|lǐ 找|zhǎo 出|chū 了|le 一些|yīxiē 句子|jùzi ， 说|shuō 他|tā 在|zài 批评|pīpíng 皇帝|huángdì|emperor 和|hé 新法|xīnfǎ|the_New_Policies_(state_reforms)|J 。
+> A few months earlier he had still been serving as an official in Huzhou in the south, when, to his surprise, people dug lines out of his poems and claimed he was attacking the emperor and the New Policies.
+于是|yúshì ， 京城|jīngchéng 派|pài 来|lái 的|de 人|rén 冲|chōng 进|jìn 他|tā 家|jiā ， 像|xiàng 赶|gǎn 鸡|jī 赶|gǎn 狗|gǒu 一样|yīyàng ， 把|bǎ 他|tā 带|dài 走|zǒu 了|le 。
+> So men sent from the capital burst into his house and drove him off like a chicken or a dog.
+
+@p prison-2
+御史台|Yùshǐtái 的|de 院子|yuànzi 里|lǐ 有|yǒu 很多|hěnduō 老|lǎo 树|shù ， 树|shù 上|shàng 住|zhù 着|zhe 成群|chéngqún|in_flocks 的|de 乌鸦|wūyā|crow ， 所以|suǒyǐ 人们|rénmen 也|yě 叫|jiào 它|tā “ 乌台|Wūtái|Crow_Terrace,_i.e._the_Censorate|N ” 。
+> Old trees grew in the Censorate's courtyard, with flocks of crows living in them, so people also called it the “Crow Terrace”.
+这个|zhège 案子|ànzi|(legal)_case ， 后来|hòulái 就|jiù 叫做|jiàozuò “ 乌台诗案|Wūtái_Shī'àn|the_Crow_Terrace_Poetry_Case|J ” 。
+> The case later became known as the Crow Terrace Poetry Case.
+在|zài 牢|láo 里|lǐ ， 苏轼|Sū_Shì 每天|měitiān 都|dōu 要|yào 被|bèi 审问|shěnwèn|to_interrogate 。 审问|shěnwèn 的|de 人|rén 拿|ná 着|zhe 他|tā 的|de 诗集|shījí|poetry_collection ， 一|yī 首|shǒu 一|yī 首|shǒu 地|de 问|wèn ： 这|zhè 句|jù 是|shì 什么|shénme 意思|yìsi ？ 那|nà 句|jù 是|shì 在|zài 说|shuō 谁|shéi ？
+> In prison Su Shi was interrogated every day. His interrogators held his collected poems and went through them one by one: What does this line mean? Who is that line about?
+他|tā 从来|cónglái 没|méi 想到|xiǎngdào ， 自己|zìjǐ 写|xiě 的|de 诗|shī ， 有|yǒu 一|yī 天|tiān 会|huì 变成|biànchéng 自己|zìjǐ 的|de 罪名|zuìmíng|charge,_accusation 。
+> He had never imagined that the poems he wrote would one day become the charges against him.
+外面|wàimiàn 传|chuán 来|lái 的|de 消息|xiāoxi 一|yī 天|tiān 比|bǐ 一|yī 天|tiān 坏|huài ， 他|tā 觉得|juéde ， 这|zhè 一|yī 次|cì 恐怕|kǒngpà 活|huó 不|bù 成|chéng 了|le 。
+> The news from outside got worse by the day, and he felt that this time he would probably not come out alive.
+
+@p prison-3
+据说|jùshuō ， 他|tā 和|hé 每天|měitiān 来|lái 送|sòng 饭|fàn 的|de 大|dà 儿子|érzi 苏迈|Sū_Mài|Su_Mai,_Su_Shi's_eldest_son|N 有|yǒu 一|yī 个|gè 约定|yuēdìng|agreement ： 平时|píngshí 只|zhǐ 送|sòng 菜|cài 和|hé 肉|ròu ； 如果|rúguǒ 听到|tīngdào 要|yào 判|pàn|to_sentence 他|tā 死罪|sǐzuì|death_sentence 的|de 消息|xiāoxi ， 就|jiù 送|sòng 一|yī 条|tiáo 鱼|yú 来|lái 。
+> It is said that he had an agreement with his eldest son, Su Mai, who brought him food every day: normally he would bring only vegetables and meat, but if he heard that his father was to be sentenced to death, he would bring a fish.
+有|yǒu 一|yī 天|tiān ， 苏迈|Sū_Mài 有|yǒu 事|shì 要|yào 出|chū 城|chéng ， 便|biàn|then,_so 托|tuō|to_ask_(sb_to_do_sth) 别人|biéren 替|tì 他|tā 送|sòng 饭|fàn ， 却|què 忘|wàng 了|le 说|shuō 这个|zhège 约定|yuēdìng 。
+> One day Su Mai had to leave the city, so he asked someone else to bring the food in his place, but he forgot to mention the agreement.
+那|nà 个|gè 人|rén 想|xiǎng 让|ràng 他|tā 吃|chī 得|de 好|hǎo 一点儿|yīdiǎnr ， 特意|tèyì|specially 做|zuò 了|le 一|yī 条|tiáo 鱼|yú 送|sòng 进去|jìnqu 。
+> Wanting him to eat a little better, the man made a fish especially for him.
+苏轼|Sū_Shì 打开|dǎkāi 饭盒|fànhé|food_box ， 一|yī 看|kàn 是|shì 鱼|yú ， 脸色|liǎnsè 一下子|yīxiàzi 白|bái 了|le 。 他|tā 以为|yǐwéi 这|zhè 就是|jiùshì 最后|zuìhòu 的|de 消息|xiāoxi ， 不禁|bùjīn|cannot_help_(doing_sth) 流|liú 下|xià 了|le 眼泪|yǎnlèi 。
+> When Su Shi opened the food box and saw a fish, the colour drained from his face. Thinking this was the final news, he could not hold back his tears.
+
+@p prison-4
+那天|nàtiān 夜里|yèlǐ ， 他|tā 给|gěi 弟弟|dìdi 苏辙|Sū_Zhé|Su_Zhe,_Su_Shi's_younger_brother|N 写|xiě 了|le 两|liǎng 首|shǒu 诗|shī ， 当作|dàngzuò|to_treat_as 最后|zuìhòu 的|de 告别|gàobié 。
+> That night he wrote two poems to his younger brother Su Zhe as a last farewell.
+诗|shī 里|lǐ 有|yǒu 这样|zhèyàng 的|de 句子|jùzi ： “ 是处青山可埋骨|shìchù_qīngshān_kě_mái_gǔ|any_green_hill_may_bury_my_bones|I ” —— 哪里|nǎlǐ 的|de 青山|qīngshān|green_hills 都|dōu 可以|kěyǐ 埋|mái|to_bury 我|wǒ 的|de 骨头|gǔtou|bones ； “ 与君世世为兄弟|yǔ_jūn_shìshì_wéi_xiōngdì|may_we_be_brothers_every_life|I ” —— 希望|xīwàng 下|xià 辈子|bèizi|lifetime ， 下|xià 下|xià 辈子|bèizi ， 还|hái 能|néng 和|hé 你|nǐ 做|zuò 兄弟|xiōngdì 。
+> In them were lines like these: “Any green hill will do to bury my bones”, that is, any green hill anywhere can hold me; and “May you and I be brothers in every life to come”, that is, in the next life, and the one after, I hope to be your brother again.
+他|tā 和|hé 弟弟|dìdi 从小|cóngxiǎo 一起|yīqǐ 读书|dúshū ， 又|yòu 在|zài 同|tóng 一|yī 年|nián 考|kǎo 中|zhòng 了|le 进士|jìnshì|jinshi,_highest_examination_degree|J ， 感情|gǎnqíng 一直|yīzhí 特别|tèbié 深|shēn 。
+> He and his brother had studied together since childhood and passed the highest examination in the same year; they had always been very close.
+
+@p prison-5
+不料|bùliào ， 事情|shìqing 后来|hòulái 有|yǒu 了|le 变化|biànhuà 。
+> Then, unexpectedly, things took a turn.
+很多|hěnduō 人|rén 为|wèi 他|tā 说|shuō 好话|hǎohuà ， 据说|jùshuō 连|lián 主张|zhǔzhāng|to_advocate 新法|xīnfǎ 的|de 王安石|Wáng_Ānshí|Wang_Anshi,_reforming_statesman|N 也|yě 劝|quàn 皇帝|huángdì 不要|bùyào 杀|shā 这样|zhèyàng 有|yǒu 才能|cáinéng 的|de 人|rén 。 也|yě 有|yǒu 人|rén 说|shuō ， 皇帝|huángdì 读|dú 到|dào 了|le 他|tā 写|xiě 给|gěi 弟弟|dìdi 的|de 诗|shī ， 心|xīn 也|yě 软|ruǎn 了|le 。
+> Many people spoke up for him; it is said that even Wang Anshi, the champion of the New Policies, urged the emperor not to kill a man of such talent. Others say the emperor read the poems to his brother and was moved.
+这|zhè 一|yī 年|nián 年底|niándǐ ， 苏轼|Sū_Shì 在|zài 牢|láo 里|lǐ 关|guān 了|le 一百|yībǎi 多|duō 天|tiān 以后|yǐhòu ， 终于|zhōngyú 被|bèi 放|fàng 了|le 出来|chūlai 。
+> At the end of that year, after more than a hundred days in prison, Su Shi was finally released.
+他|tā 没有|méiyǒu 被|bèi 杀|shā ， 却|què 被|bèi 贬|biǎn|to_demote_and_banish|J 到|dào 了|le 长江|Chángjiāng|the_Yangtze_River|N 边|biān 的|de 黄州|Huángzhōu ， 当|dāng 一|yī 个|gè 叫|jiào “ 团练副使|tuánliàn_fùshǐ|deputy_militia_commissioner|J ” 的|de 小|xiǎo 官|guān 。
+> He was not executed but banished to Huangzhou on the Yangtze, as a minor official with the title of “deputy militia commissioner”.
+这个|zhège 官|guān 没有|méiyǒu 一点|yīdiǎn 权力|quánlì ， 什么|shénme 事|shì 也|yě 不|bù 能|néng 管|guǎn ， 也|yě 不|bù 能|néng 随便|suíbiàn 离开|líkāi 黄州|Huángzhōu 。 说|shuō 是|shì 官|guān ， 其实|qíshí 跟|gēn 犯人|fànrén 差不多|chàbuduō 。
+> The post carried no power at all: he could take charge of nothing and could not leave Huangzhou as he pleased. An official in name, he was really little better than a prisoner.
+
+@p prison-6
+出|chū 了|le 牢门|láomén|prison_gate ， 他|tā 看|kàn 着|zhe 冬天|dōngtiān 的|de 太阳|tàiyang ， 觉得|juéde 一切|yīqiè 都|dōu 像|xiàng 做梦|zuòmèng 一样|yīyàng 。
+> Outside the prison gate, he looked at the winter sun and felt that everything was like a dream.
+可是|kěshì 他|tā 刚|gāng 回到|huídào 住|zhù 的|de 地方|dìfang ， 便|biàn 又|yòu 拿|ná 起|qǐ 笔|bǐ 写|xiě 了|le 两|liǎng 首|shǒu 诗|shī 。
+> Yet no sooner was he back where he was staying than he picked up his brush and wrote two more poems.
+其中|qízhōng 一|yī 句|jù 是|shì “ 平生文字为吾累|píngshēng_wénzì_wéi_wú_lěi|my_writing_has_ruined_my_life|I ” —— 一辈子|yībèizi 写|xiě 的|de 文字|wénzì ， 都|dōu 成|chéng 了|le 我|wǒ 的|de 麻烦|máfan 。
+> One line ran: “All my life, my writing has been my undoing.”
+写|xiě 完|wán ， 他|tā 自己|zìjǐ 也|yě 不禁|bùjīn 笑|xiào 了|le ： 刚|gāng 因为|yīnwèi 写|xiě 诗|shī 差点儿|chàdiǎnr 死|sǐ 掉|diào ， 怎么|zěnme 又|yòu 写|xiě 起来|qǐlai 了|le ？
+> When he had finished, even he could not help laughing: he had nearly died for writing poems, and here he was writing them again.
+
+@h2 h-arrive
+到|dào 黄州|Huángzhōu
+> Arriving in Huangzhou
+
+@p arrive-1
+1080 年|nián 正月|zhēngyuè|first_lunar_month|J 初一|chūyī|first_day_of_a_lunar_month|J ， 别人|biéren 家|jiā 都|dōu 在|zài 过|guò 年|nián ， 苏轼|Sū_Shì 却|què 带|dài 着|zhe 苏迈|Sū_Mài ， 冒|mào|to_brave 着|zhe 风雪|fēngxuě|wind_and_snow 离开|líkāi 了|le 京城|jīngchéng 。
+> On the first day of the first lunar month of 1080, while other families were celebrating the New Year, Su Shi set out from the capital through wind and snow, taking Su Mai with him.
+他们|tāmen 一路|yīlù 往|wǎng 南|nán ， 走|zǒu 了|le 整整|zhěngzhěng 一|yī 个|gè 月|yuè ， 二月|Èryuè 初一|chūyī 才|cái 到|dào 了|le 黄州|Huángzhōu 。
+> They travelled south for a full month, and reached Huangzhou only on the first day of the second month.
+那时候|nàshíhou 的|de 黄州|Huángzhōu ， 是|shì 长江|Chángjiāng 边|biān 的|de 一|yī 个|gè 小|xiǎo 城|chéng ， 又|yòu 穷|qióng 又|yòu 远|yuǎn 。 城|chéng 里|lǐ 只有|zhǐyǒu 几|jǐ 条|tiáo 街|jiē ， 城|chéng 外|wài 是|shì 山|shān ， 是|shì 竹林|zhúlín|bamboo_grove ， 是|shì 一|yī 眼|yǎn 看|kàn 不|bù 到|dào 头|tóu 的|de 大|dà 江|jiāng 。
+> Huangzhou then was a small town on the Yangtze, poor and remote. Inside the walls there were only a few streets; outside were hills, bamboo groves, and a great river that stretched further than the eye could see.
+苏轼|Sū_Shì 没有|méiyǒu 房子|fángzi ， 只好|zhǐhǎo 先|xiān 住|zhù 进|jìn 城|chéng 东南|dōngnán 的|de 一|yī 座|zuò 小|xiǎo 寺|sì|Buddhist_temple ， 叫|jiào 定惠院|Dìnghuì_Yuàn|Dinghui_Temple|N 。 他|tā 跟|gēn 寺|sì 里|lǐ 的|de 人|rén 一起|yīqǐ 吃|chī 饭|fàn ， 白天|báitiān 常常|chángcháng 关|guān 着|zhe 门|mén ， 晚上|wǎnshang 才|cái 一个人|yīgèrén 出来|chūlai 走走|zǒuzou 。
+> Having no house, he had to stay at first in a small temple in the south-east of the town, the Dinghui Temple. He ate with the monks, often kept his door shut during the day, and came out for walks alone only at night.
+
+@p arrive-2
+阿牛|Ā_Niú 第一|dìyī 次|cì 见到|jiàndào 苏轼|Sū_Shì ， 就|jiù 是|shì 在|zài 定惠院|Dìnghuì_Yuàn 的|de 后门|hòumén|back_gate 外|wài 。
+> A Niu first saw Su Shi outside the back gate of the Dinghui Temple.
+那|nà 年|nián 阿牛|Ā_Niú 十四|shísì 岁|suì ， 家|jiā 住|zhù 在|zài 城|chéng 外|wài ， 每|měi 隔|gé 几|jǐ 天|tiān 就|jiù 挑|tiāo|to_carry_on_a_shoulder_pole 着|zhe 青菜|qīngcài 进|jìn 城|chéng 来|lái 卖|mài 。
+> That year A Niu was fourteen. His family lived outside the town, and every few days he carried vegetables in on a shoulder pole to sell.
+有|yǒu 一|yī 天|tiān 晚上|wǎnshang ， 天|tiān 已经|yǐjīng 黑|hēi 了|le ， 他|tā 看见|kànjiàn 一|yī 个|gè 穿|chuān 着|zhe 旧|jiù 衣服|yīfu 的|de 中年人|zhōngniánrén|middle-aged_person 一个人|yīgèrén 站|zhàn 在|zài 树|shù 下|xià ， 抬|tái 头|tóu 看|kàn 着|zhe 月亮|yuèliang ， 很|hěn 久|jiǔ 都|dōu 不|bù 动|dòng 。
+> One evening, after dark, he saw a middle-aged man in old clothes standing alone under a tree, looking up at the moon, not moving for a long time.
+阿牛|Ā_Niú 以为|yǐwéi 他|tā 是|shì 寺|sì 里|lǐ 新|xīn 来|lái 的|de 客人|kèrén ， 就|jiù 问|wèn ： “ 先生|xiānsheng ， 要|yào 买|mǎi 菜|cài 吗|ma ？ ”
+> Taking him for a new guest at the temple, A Niu asked, “Sir, would you like some vegetables?”
+那|nà 人|rén 转|zhuǎn 过|guò 头|tóu 来|lái ， 看|kàn 了|le 看|kàn 他|tā 的|de 菜|cài ， 笑|xiào 了|le ： “ 你|nǐ 这|zhè 菜|cài 很|hěn 新鲜|xīnxiān 。 可惜|kěxī ， 我|wǒ 现在|xiànzài 买|mǎi 菜|cài 也|yě 得|děi 一|yī 个|gè 钱|qián 一|yī 个|gè 钱|qián 地|de 算|suàn 了|le 。 ”
+> The man turned, looked at his vegetables and smiled. “Your vegetables are very fresh. Unfortunately, these days I have to count every coin, even for vegetables.”
+
+@p arrive-3
+后来|hòulái 阿牛|Ā_Niú 才|cái 知道|zhīdào ， 这|zhè 个|gè 人|rén 就是|jiùshì 从|cóng 京城|jīngchéng 来|lái 的|de 大|dà 诗人|shīrén 苏轼|Sū_Shì 。
+> Only later did A Niu learn that this man was the great poet Su Shi from the capital.
+城|chéng 里|lǐ 的|de 人|rén 说|shuō ， 他|tā 犯|fàn 了|le 罪|zuì ， 是|shì 被|bèi 皇帝|huángdì 赶|gǎn 到|dào 这里|zhèlǐ 来|lái 的|de ， 最好|zuìhǎo 离|lí 他|tā 远|yuǎn 一点儿|yīdiǎnr 。
+> People in the town said he had committed a crime and been driven here by the emperor, and that it was best to keep away from him.
+苏轼|Sū_Shì 自己|zìjǐ 好像|hǎoxiàng 也|yě 怕|pà 见|jiàn 人|rén 。 老|lǎo 朋友|péngyou 们|men 很|hěn 少|shǎo 给|gěi 他|tā 写信|xiěxìn ， 他|tā 写|xiě 给|gěi 别人|biéren 的|de 信|xìn ， 也|yě 常常|chángcháng 请|qǐng 人家|rénjia 看|kàn 完|wán 就|jiù 烧|shāo 掉|diào 。
+> Su Shi himself seemed afraid of meeting people. His old friends seldom wrote to him, and in the letters he did write he often asked people to burn them once they had read them.
+毕竟|bìjìng|after_all ， 他|tā 刚|gāng 因为|yīnwèi 几|jǐ 句|jù 诗|shī 差点儿|chàdiǎnr 丢|diū 了|le 命|mìng 。
+> After all, he had just nearly lost his life over a few lines of verse.
+可是|kěshì 阿牛|Ā_Niú 一点儿|yīdiǎnr 也|yě 不|bù 怕|pà 他|tā 。 他|tā 觉得|juéde ， 这|zhè 个|gè 人|rén 说话|shuōhuà 很|hěn 客气|kèqi ， 笑|xiào 起来|qǐlai 的|de 样子|yàngzi ， 跟|gēn 村|cūn 里|lǐ 的|de 老|lǎo 农民|nóngmín 差不多|chàbuduō 。
+> But A Niu was not afraid of him at all. He thought the man spoke politely, and when he laughed he looked much like the old farmers in the village.
+
+@p arrive-4
+苏轼|Sū_Shì 到|dào 黄州|Huángzhōu 不久|bùjiǔ ， 写|xiě 了|le 一|yī 首|shǒu 诗|shī ， 里面|lǐmiàn 有|yǒu 两|liǎng 句|jù ： “ 长江绕郭知鱼美|Chángjiāng_rào_guō_zhī_yú_měi|river_round_the_walls:_fine_fish|I ， 好竹连山觉笋香|hǎo_zhú_lián_shān_jué_sǔn_xiāng|bamboo_hills:_fragrant_shoots|I 。 ”
+> Soon after he arrived in Huangzhou, Su Shi wrote a poem containing these two lines: “The Yangtze rings the town walls: I know the fish will be good; fine bamboo covers the hills: I can smell the shoots already.”
+意思|yìsi 是|shì ： 长江|Chángjiāng 绕|rào|to_wind_around 着|zhe 城|chéng 流|liú ， 这里|zhèlǐ 的|de 鱼|yú 一定|yīdìng 很|hěn 好吃|hǎochī ； 山|shān 上|shàng 到处|dàochù 是|shì 竹子|zhúzi ， 竹笋|zhúsǔn|bamboo_shoots|J 一定|yīdìng 也|yě 很|hěn 香|xiāng 。
+> That is: the Yangtze flows around the town, so the fish here must be delicious; the hills are covered in bamboo, so the shoots must taste wonderful too.
+刚|gāng 从|cóng 牢|láo 里|lǐ 出来|chūlai ， 他|tā 想|xiǎng 的|de 却|què 是|shì 吃|chī 。 阿牛|Ā_Niú 后来|hòulái 听|tīng 人|rén 念|niàn 这|zhè 首|shǒu 诗|shī ， 忍不住|rěnbuzhù 笑|xiào 出|chū 了|le 声|shēng 。
+> Fresh out of prison, and what he was thinking about was food. When A Niu later heard someone recite the poem, he burst out laughing.
+那|nà 年|nián 五月|Wǔyuè ， 苏辙|Sū_Zhé 坐|zuò 船|chuán 把|bǎ 哥哥|gēge 的|de 家人|jiārén 送|sòng 到|dào 了|le 黄州|Huángzhōu 。 全家|quánjiā 搬|bān 进|jìn 了|le 江|jiāng 边|biān 一|yī 座|zuò 叫|jiào 临皋亭|Língāo_Tíng|Lingao_Pavilion,_a_riverside_lodge|N 的|de 旧|jiù 房子|fángzi ， 那里|nàlǐ 原来|yuánlái 是|shì 给|gěi 过路|guòlù|passing_through 的|de 官|guān 住|zhù 的|de 。
+> In the fifth month of that year, Su Zhe brought his brother's family to Huangzhou by boat. The family moved into an old building by the river called the Lingao Pavilion, which had once been a lodge for officials passing through.
+
+@p arrive-5
+人|rén 多|duō ， 钱|qián 却|què 少|shǎo 。 苏轼|Sū_Shì 几乎|jīhū 没有|méiyǒu 收入|shōurù 了|le ， 只|zhǐ 能|néng 靠|kào 以前|yǐqián 存|cún 下|xià 的|de 一点儿|yīdiǎnr 钱|qián 生活|shēnghuó 。
+> Many mouths, little money. Su Shi had almost no income now, and the family had to live on the little he had saved.
+他|tā 想|xiǎng 了|le 一|yī 个|gè 办法|bànfǎ ： 每|měi 个|gè 月|yuè 初一|chūyī ， 拿|ná 出|chū 4500 个|gè 铜钱|tóngqián|copper_coins ， 分成|fēnchéng 30 串|chuàn|string_(of_coins) ， 挂|guà 在|zài 房梁|fángliáng|roof_beam 上|shàng 。
+> He came up with a plan. On the first day of each month he took out 4,500 copper coins, divided them into thirty strings and hung them from the roof beam.
+每天|měitiān 早上|zǎoshang ， 他|tā 用|yòng 一|yī 根|gēn 长|cháng 叉子|chāzi|forked_pole 挑|tiǎo|to_lift_with_a_pole 下|xià 一|yī 串|chuàn ， 然后|ránhòu 把|bǎ 叉子|chāzi 藏|cáng 起来|qǐlai ， 一|yī 天|tiān 最多|zuìduō 只|zhǐ 花|huā 150 个|gè 钱|qián 。 用|yòng 不|bù 完|wán 的|de ， 就|jiù 另外|lìngwài 存|cún 起来|qǐlai ， 等|děng 朋友|péngyou 来|lái 的|de 时候|shíhou 买|mǎi 酒|jiǔ 。
+> Every morning he lifted down one string with a long forked pole and then hid the pole away; he never spent more than 150 coins a day. Whatever was left over he put aside, to buy wine with when friends came.
+阿牛|Ā_Niú 去|qù 送|sòng 菜|cài 的|de 时候|shíhou ， 亲眼|qīnyǎn|with_one's_own_eyes 见|jiàn 过|guò 房梁|fángliáng 上|shàng 那|nà 一|yī 串|chuàn 一|yī 串|chuàn 的|de 钱|qián 。 他|tā 心里|xīnli 想|xiǎng ： 原来|yuánlái 大|dà 诗人|shīrén 的|de 日子|rìzi ， 也|yě 跟|gēn 我们|wǒmen 农家|nóngjiā 一样|yīyàng 难|nán 。
+> When A Niu delivered vegetables, he saw the strings of coins hanging from the beam with his own eyes. He thought: so a great poet's life is just as hard as ours on the farm.
+
+@h2 h-slope
+东坡|Dōngpō
+> The Eastern Slope
+
+@p slope-1
+可是|kěshì ， 存|cún 下|xià 的|de 钱|qián 总|zǒng 有|yǒu 用|yòng 完|wán 的|de 一|yī 天|tiān 。 到|dào 了|le 第二|dì'èr 年|nián ， 也|yě 就是|jiùshì 1081 年|nián ， 家|jiā 里|lǐ 快|kuài 吃|chī 不|bù 上|shàng 饭|fàn 了|le 。
+> But savings are bound to run out one day. By the second year, 1081, the family was close to going hungry.
+这时|zhèshí ， 一|yī 个|gè 跟|gēn 了|le 他|tā 二十|èrshí 年|nián 的|de 老|lǎo 朋友|péngyou 马正卿|Mǎ_Zhèngqīng|Ma_Zhengqing,_Su_Shi's_loyal_friend|N ， 替|tì 他|tā 向|xiàng 本地|běndì 官府|guānfǔ|local_authorities_(old) 要|yào 来|lái 了|le 一|yī 块|kuài 地|dì 。
+> At this point Ma Zhengqing, an old friend who had followed him for twenty years, obtained a plot of land for him from the local authorities.
+地|dì 在|zài 城|chéng 东|dōng 的|de 山坡|shānpō 上|shàng ， 大约|dàyuē 有|yǒu 五十|wǔshí 亩|mǔ|mu_(about_1/15_hectare)|J ， 原来|yuánlái 是|shì 一|yī 片|piàn 旧|jiù 兵营|bīngyíng|army_camp ， 已经|yǐjīng 很多|hěnduō 年|nián 没有|méiyǒu 人|rén 管|guǎn 了|le ， 到处|dàochù 是|shì 野草|yěcǎo 和|hé 碎|suì 石头|shítou 。
+> The land lay on the slope east of the town, roughly fifty mu. It had once been an army camp and had been left untended for years, overgrown with weeds and strewn with broken stones.
+
+@p slope-2
+苏轼|Sū_Shì 决定|juédìng 自己|zìjǐ 种|zhòng 地|dì 。 一|yī 个|gè 读|dú 了|le 一辈子|yībèizi 书|shū 的|de 人|rén ， 便|biàn 这样|zhèyàng 拿|ná 起|qǐ 了|le 农具|nóngjù|farm_tools 。
+> Su Shi decided to farm the land himself. And so a man who had spent his whole life reading books took up farm tools.
+阿牛|Ā_Niú 的|de 父亲|fùqīn 听说|tīngshuō 了|le ， 摇|yáo 着|zhe 头|tóu 说|shuō ： “ 一|yī 个|gè 写|xiě 字|zì 的|de 先生|xiānsheng ， 哪里|nǎlǐ 会|huì 种|zhòng 地|dì ？ ” 话|huà 虽然|suīrán 这么|zhème 说|shuō ， 他|tā 还是|háishi 让|ràng 阿牛|Ā_Niú 去|qù 帮忙|bāngmáng ， 一|yī 天|tiān 几|jǐ 个|gè 钱|qián ， 管|guǎn 一|yī 顿|dùn 饭|fàn 。
+> When A Niu's father heard about it, he shook his head. “A gentleman who writes — what does he know about farming?” For all that, he still sent A Niu to help, for a few coins a day and a meal.
+那|nà 年|nián 雨水|yǔshuǐ 很|hěn 少|shǎo ， 地|dì 又|yòu 硬|yìng ， 挖|wā 一|yī 下|xià 就|jiù 碰到|pèngdào 石头|shítou 。 苏轼|Sū_Shì 全家|quánjiā 都|dōu 来|lái 了|le ： 妻子|qīzi 王闰之|Wáng_Rùnzhī|Wang_Runzhi,_Su_Shi's_wife|N 送|sòng 水|shuǐ 送|sòng 饭|fàn ， 儿子|érzi 们|men 搬|bān 石头|shítou ， 他|tā 自己|zìjǐ 卷|juǎn 起|qǐ 袖子|xiùzi|sleeves ， 跟|gēn 阿牛|Ā_Niú 一起|yīqǐ 挖|wā 地|dì 、 拔|bá 草|cǎo 。
+> There was little rain that year and the ground was hard; every stroke hit stone. Su Shi's whole family came: his wife Wang Runzhi brought water and food, his sons carried stones, and he himself rolled up his sleeves and dug and weeded alongside A Niu.
+没|méi 几|jǐ 天|tiān ， 这|zhè 位|wèi 大|dà 诗人|shīrén 的|de 手|shǒu 上|shàng 就|jiù 起|qǐ 满|mǎn 了|le 泡|pào|blisters 。
+> Within a few days the great poet's hands were covered in blisters.
+
+@p slope-3
+有|yǒu 一|yī 天|tiān ， 阿牛|Ā_Niú 在|zài 坡|pō 下|xià 烧|shāo 干|gān 草|cǎo 。 火|huǒ 灭|miè 了|le 以后|yǐhòu ， 草|cǎo 下面|xiàmiàn 露|lù 出|chū 了|le 一|yī 圈|quān 旧|jiù 石头|shítou ， 中间|zhōngjiān 黑|hēi 黑|hēi 的|de 。 他|tā 往|wǎng 下|xià 一|yī 看|kàn ， 竟然|jìngrán 有|yǒu 水|shuǐ ！
+> One day A Niu was burning dry grass at the foot of the slope. When the fire died down, a ring of old stones showed beneath the grass, dark in the middle. He looked down, and there was water!
+“ 先生|xiānsheng ！ 有|yǒu 井|jǐng|well ！ ” 他|tā 一边|yībiān 喊|hǎn 一边|yībiān 往|wǎng 坡|pō 上|shàng 跑|pǎo 。
+> “Sir! There's a well!” he shouted as he ran up the slope.
+苏轼|Sū_Shì 跑|pǎo 下来|xiàlai 一|yī 看|kàn ， 高兴|gāoxìng 得|de 像|xiàng 个|gè 孩子|háizi 。 有|yǒu 了|le 这|zhè 口|kǒu 井|jǐng ， 天|tiān 再|zài 干|gān ， 地|dì 也|yě 不|bù 怕|pà 了|le 。
+> Su Shi ran down to look and was as happy as a child. With this well, the land would be safe however dry the weather.
+后来|hòulái ， 他|tā 把|bǎ 这|zhè 件|jiàn 事|shì 写|xiě 进|jìn 了|le 诗|shī 里|lǐ ： 家|jiā 里|lǐ 的|de 孩子|háizi 烧|shāo 草|cǎo ， 跑|pǎo 来|lái 告诉|gàosu 他|tā ， 发现|fāxiàn 了|le 一|yī 口|kǒu 藏|cáng 着|zhe 的|de 井|jǐng 。 阿牛|Ā_Niú 一直|yīzhí 相信|xiāngxìn ， 诗|shī 里|lǐ 那|nà 个|gè 孩子|háizi 就是|jiùshì 他|tā 。
+> Later he put the event into a poem: a boy of the household, burning grass, came running to tell him that a hidden well had been found. A Niu always believed that the boy in the poem was him.
+
+@p slope-4
+低|dī 一点|yīdiǎn 的|de 地|dì ， 他们|tāmen 种|zhòng 了|le 水稻|shuǐdào|rice_(paddy) ； 高|gāo 一点|yīdiǎn 的|de 地|dì ， 种|zhòng 了|le 麦子|màizi ； 坡|pō 边|biān 上|shàng 又|yòu 种|zhòng 了|le 一些|yīxiē 果树|guǒshù|fruit_trees 。
+> In the lower ground they planted rice, on the higher ground wheat, and along the edges of the slope a few fruit trees.
+麦子|màizi 长|zhǎng 出来|chūlai 以后|yǐhòu ， 绿|lǜ 得|de 特别|tèbié 快|kuài 。 苏轼|Sū_Shì 正|zhèng 高兴|gāoxìng ， 一|yī 位|wèi 老|lǎo 农民|nóngmín 却|què 说|shuō ： “ 长|zhǎng 得|de 太|tài 快|kuài 不|bù 是|shì 好事|hǎoshì 。 您|nín 要|yào 是|shì 想|xiǎng 吃|chī 饱|bǎo 饭|fàn ， 就|jiù 得|děi 让|ràng 牛|niú 羊|yáng 进|jìn 地|dì 里|lǐ 踩|cǎi|to_trample 一|yī 踩|cǎi 。 ”
+> When the wheat came up, it turned green very fast. Su Shi was delighted, but an old farmer said, “Growing too fast is no good. If you want a full belly, you must let the cattle and sheep into the field to trample it a bit.”
+苏轼|Sū_Shì 听|tīng 了|le ， 不|bù 但|dàn 没有|méiyǒu 不|bù 高兴|gāoxìng ， 反而|fǎn'ér|on_the_contrary 认真|rènzhēn 地|de 谢|xiè 了|le 他|tā ， 后来|hòulái 还|hái 把|bǎ 老|lǎo 农民|nóngmín 的|de 话|huà 也|yě 写|xiě 进|jìn 了|le 诗|shī 里|lǐ 。
+> Far from taking offence, Su Shi thanked him earnestly, and later put the old farmer's words into a poem as well.
+
+@p slope-5
+他|tā 越来越|yuèláiyuè 喜欢|xǐhuan 这|zhè 片|piàn 山坡|shānpō 。 唐朝|Tángcháo|the_Tang_dynasty_(618–907)|N 的|de 大|dà 诗人|shīrén 白居易|Bái_Jūyì|Bai_Juyi,_Tang_poet|N 当年|dāngnián 在|zài 外地|wàidì 做|zuò 官|guān 的|de 时候|shíhou ， 也|yě 在|zài 城|chéng 东|dōng 的|de 山坡|shānpō 上|shàng 种|zhòng 过|guò 花|huā 种|zhòng 过|guò 树|shù ， 还|hái 写|xiě 过|guò 好几|hǎojǐ 首|shǒu 关于|guānyú “ 东坡|Dōngpō ” 的|de 诗|shī 。
+> He grew fonder and fonder of this hillside. When the great Tang poet Bai Juyi had served as an official far from the capital, he too had planted flowers and trees on a slope east of his town and written several poems about his “Eastern Slope”.
+苏轼|Sū_Shì 也|yě 就|jiù 把|bǎ 这|zhè 块|kuài 地|dì 叫|jiào 作|zuò “ 东坡|Dōngpō ” ， 还|hái 给|gěi 自己|zìjǐ 起|qǐ 了|le 一|yī 个|gè 号|hào|literary_name|J ， 叫|jiào “ 东坡居士|Dōngpō_Jūshì|the_Recluse_of_the_Eastern_Slope|N ” 。
+> So Su Shi, too, called his land the Eastern Slope, and gave himself the literary name “the Recluse of the Eastern Slope”.
+第二|dì'èr 年|nián 春天|chūntiān ， 他|tā 在|zài 坡|pō 上|shàng 盖|gài 了|le 几|jǐ 间|jiān 房子|fángzi 。 房子|fángzi 是|shì 在|zài 大雪|dàxuě 中|zhōng 盖|gài 好|hǎo 的|de ， 他|tā 就|jiù 在|zài 墙|qiáng 上|shàng 画|huà 满|mǎn 了|le 雪|xuě ， 叫|jiào 它|tā “ 雪堂|Xuětáng|the_Snow_Hall|N ” 。
+> The next spring he built a few rooms on the slope. They were finished during a heavy snowfall, so he painted snow all over the walls and called the place the Snow Hall.
+从|cóng 那|nà 以后|yǐhòu ， “ 苏东坡|Sū_Dōngpō ” 这个|zhège 名字|míngzi 越|yuè 传|chuán 越|yuè 远|yuǎn ， 一直|yīzhí 传|chuán 到|dào 了|le 今天|jīntiān 。
+> From then on, the name “Su Dongpo” spread further and further, all the way down to the present day.
+
+@h2 h-pork
+一|yī 锅|guō|pot 肉|ròu
+> A Pot of Pork
+
+@p pork-1
+黄州|Huángzhōu 养|yǎng 猪|zhū 的|de 人|rén 家|jiā 很|hěn 多|duō ， 猪肉|zhūròu 也|yě 便宜|piányi 。 可是|kěshì 有钱人|yǒuqiánrén|rich_people 看不起|kànbuqǐ 它|tā ， 不|bù 愿意|yuànyì 吃|chī ； 穷|qióng 人|rén 又|yòu 不|bù 会|huì 做|zuò ， 煮|zhǔ 出来|chūlai 又|yòu 难吃|nánchī 又|yòu 硬|yìng 。
+> Many households in Huangzhou kept pigs, and pork was cheap. But the rich looked down on it and would not eat it, while the poor did not know how to cook it; boiled, it came out tough and nasty.
+阿牛|Ā_Niú 家|jiā 一|yī 年|nián 也|yě 吃|chī 不|bù 了|liǎo 几|jǐ 次|cì 肉|ròu 。 他|tā 母亲|mǔqīn 常|cháng 说|shuō ， 猪肉|zhūròu 那|nà 东西|dōngxi ， 煮|zhǔ 不|bù 好|hǎo 还|hái 不如|bùrú 青菜|qīngcài 。
+> A Niu's family had meat only a few times a year. His mother often said that pork, badly cooked, was worse than greens.
+有|yǒu 一|yī 天|tiān ， 苏轼|Sū_Shì 从|cóng 集市|jíshì|market 上|shàng 提|tí 回|huí 一|yī 大|dà 块|kuài 猪肉|zhūròu ， 笑|xiào 着|zhe 对|duì 阿牛|Ā_Niú 说|shuō ： “ 今天|jīntiān 不|bù 干活|gànhuó 了|le ， 你|nǐ 来|lái 帮|bāng 我|wǒ 烧|shāo 火|huǒ 。 ”
+> One day Su Shi came back from the market carrying a big slab of pork and said to A Niu with a smile, “No farm work today. Come and help me tend the fire.”
+
+@p pork-2
+他|tā 把|bǎ 肉|ròu 切|qiē 成|chéng 大|dà 块|kuài ， 放|fàng 进|jìn 锅|guō 里|lǐ ， 只|zhǐ 加|jiā 了|le 一点点|yīdiǎndiǎn 水|shuǐ 和|hé 酒|jiǔ ， 然后|ránhòu 让|ràng 阿牛|Ā_Niú 把|bǎ 火|huǒ 弄|nòng 小|xiǎo ， 越|yuè 小|xiǎo 越|yuè 好|hǎo 。
+> He cut the meat into big chunks, put them in the pot with just a little water and wine, and then told A Niu to make the fire small, the smaller the better.
+阿牛|Ā_Niú 着急|zháojí 了|le ： “ 先生|xiānsheng ， 火|huǒ 这么|zhème 小|xiǎo ， 什么|shénme 时候|shíhou 才|cái 能|néng 熟|shú 啊|a ？ ”
+> A Niu grew impatient. “Sir, with a fire this small, when will it ever be done?”
+苏轼|Sū_Shì 不慌不忙|bùhuāng_bùmáng|calm_and_unhurried|I 地|de 说|shuō ： “ 别|bié 急|jí 。 做|zuò 这|zhè 肉|ròu ， 就|jiù 跟|gēn 过|guò 日子|rìzi 一样|yīyàng ， 急|jí 不|bù 得|de 。 火候|huǒhou|cooking_time_and_heat|J 到|dào 了|le ， 它|tā 便|biàn 自己|zìjǐ 香|xiāng 了|le 。 ”
+> Su Shi answered calmly, “Don't rush. Cooking this meat is like living your life: it can't be hurried. When the heat has done its work, it will turn fragrant all by itself.”
+说|shuō 完|wán ， 他|tā 就|jiù 坐|zuò 在|zài 火|huǒ 边|biān 看|kàn 起|qǐ 书|shū 来|lái ， 一|yī 看|kàn 就|jiù 是|shì 半天|bàntiān 。
+> With that he sat down by the fire and began to read, and stayed there for half the day.
+
+@p pork-3
+天|tiān 快|kuài 黑|hēi 的|de 时候|shíhou ， 锅|guō 一|yī 打开|dǎkāi ， 一|yī 股|gǔ 香气|xiāngqì|aroma 冲|chōng 了|le 出来|chūlai 。 肉|ròu 变成|biànchéng 了|le 红|hóng 亮|liàng 的|de 颜色|yánsè ， 用|yòng 筷子|kuàizi 一|yī 夹|jiā 就|jiù 开|kāi ， 放|fàng 进|jìn 嘴|zuǐ 里|lǐ ， 又|yòu 软|ruǎn 又|yòu 香|xiāng 。
+> As darkness fell they opened the pot, and a rich aroma burst out. The meat had turned a glossy red; it came apart at the touch of the chopsticks, and in the mouth it was soft and fragrant.
+阿牛|Ā_Niú 吃|chī 了|le 一|yī 块|kuài ， 又|yòu 吃|chī 了|le 一|yī 块|kuài ， 不禁|bùjīn 叫|jiào 了|le 起来|qǐlai ： “ 这|zhè 真|zhēn 是|shì 我们|wǒmen 黄州|Huángzhōu 的|de 猪肉|zhūròu 吗|ma ？ ”
+> A Niu ate one piece, then another, and could not help crying out, “Is this really our Huangzhou pork?”
+苏轼|Sū_Shì 哈哈|hāhā 大笑|dàxiào 。 他|tā 写|xiě 过|guò 一|yī 篇|piān 短短|duǎnduǎn 的|de 《 猪肉颂|Zhūròu_Sòng|In_Praise_of_Pork|N 》 ， 一般|yībān 认为|rènwéi 就是|jiùshì 在|zài 黄州|Huángzhōu 写|xiě 的|de 。 里面|lǐmiàn 说|shuō ： “ 少著水|shǎo_zhuó_shuǐ|use_little_water|I ， …… 待他自熟莫催他|dài_tā_zì_shú_mò_cuī_tā|let_it_cook,_don't_hurry_it|I ， 火候足时他自美|huǒhou_zú_shí_tā_zì_měi|cooked_long_enough,_it's_delicious|I 。 ”
+> Su Shi roared with laughter. He wrote a short piece, In Praise of Pork, generally thought to date from his Huangzhou years. It says: “Use little water... wait for it to cook by itself and do not hurry it; when the heat has done its work, it turns delicious on its own.”
+他|tā 还|hái 说|shuō ， 每天|měitiān 早上|zǎoshang 来|lái 上|shàng 两|liǎng 碗|wǎn ， 自己|zìjǐ 吃|chī 饱|bǎo 了|le 就|jiù 好|hǎo ， 别人|biéren 怎么|zěnme 想|xiǎng ， 不用|bùyòng 管|guǎn 。
+> He added that he would have two bowls every morning; as long as he was full, never mind what anyone else thought.
+
+@p pork-4
+今天|jīntiān ， 中国|Zhōngguó 很多|hěnduō 饭馆|fànguǎn 都|dōu 有|yǒu 一|yī 道|dào 菜|cài ， 叫|jiào “ 东坡肉|Dōngpōròu|Dongpo_pork_(braised_pork_belly)|J ” 。
+> Today many restaurants in China serve a dish called Dongpo pork.
+关于|guānyú 这|zhè 道|dào 菜|cài 是|shì 怎么|zěnme 来|lái 的|de ， 有|yǒu 不少|bùshǎo 传说|chuánshuō 。 最|zuì 有名|yǒumíng 的|de 一|yī 个|gè 说|shuō ， 很多|hěnduō 年|nián 以后|yǐhòu ， 苏东坡|Sū_Dōngpō 在|zài 杭州|Hángzhōu|Hangzhou|N 当|dāng 官|guān ， 带|dài 人|rén 清理|qīnglǐ 西湖|Xīhú|West_Lake|N ， 老百姓|lǎobǎixìng 送|sòng 来|lái 很多|hěnduō 猪肉|zhūròu 感谢|gǎnxiè 他|tā ， 他|tā 就|jiù 让|ràng 人|rén 按|àn 黄州|Huángzhōu 的|de 做法|zuòfǎ 烧|shāo 好|hǎo ， 再|zài 送|sòng 给|gěi 干活|gànhuó 的|de 人|rén 吃|chī 。
+> There are many legends about how the dish came about. The best known says that years later, when Su Dongpo was an official in Hangzhou and had men clearing out West Lake, the people sent him a great deal of pork in thanks, and he had it cooked the Huangzhou way and given to the workers.
+这|zhè 只是|zhǐshì 传说|chuánshuō ， 不|bù 一定|yīdìng 是|shì 真|zhēn 的|de 。 可是|kěshì 那|nà 道|dào 菜|cài 最|zuì 早|zǎo 的|de 味道|wèidao ， 也许|yěxǔ 真|zhēn 是|shì 从|cóng 黄州|Huángzhōu 的|de 那|nà 口|kǒu 小|xiǎo 锅|guō 里|lǐ 来|lái 的|de 。
+> It is only a legend and may not be true. But the dish's original flavour may well have come out of that little pot in Huangzhou.
+
+@h2 h-rain
+雨|yǔ 中|zhōng 的|de 路|lù
+> The Road in the Rain
+
+@p rain-1
+日子|rìzi 并|bìng 不|bù 总是|zǒngshì 这么|zhème 轻松|qīngsōng 。 1082 年|nián 春天|chūntiān ， 黄州|Huángzhōu 的|de 雨|yǔ 下|xià 了|le 两|liǎng 个|gè 多|duō 月|yuè 。 临皋亭|Língāo_Tíng 的|de 房子|fángzi 又|yòu 小|xiǎo 又|yòu 湿|shī ， 江|jiāng 水|shuǐ 涨|zhǎng|to_rise_(of_water) 得|de 快|kuài 要|yào 进|jìn 门|mén 了|le ， 厨房|chúfáng 里|lǐ 只|zhǐ 剩|shèng 下|xia 一点|yīdiǎn 冷|lěng 菜|cài 。
+> Life was not always so carefree. In the spring of 1082 it rained in Huangzhou for more than two months. The rooms at the Lingao Pavilion were small and damp, the river rose until it nearly came in at the door, and there was little left in the kitchen but some cold greens.
+寒食节|Hánshíjié|Cold_Food_Festival|J 那|nà 天|tiān ， 苏轼|Sū_Shì 写|xiě 了|le 两|liǎng 首|shǒu 诗|shī ， 开头|kāitóu 就|jiù 说|shuō ： “ 自我来黄州|zì_wǒ_lái_Huángzhōu|since_I_came_to_Huangzhou|I ， 已过三寒食|yǐ_guò_sān_Hánshí|three_Cold_Food_days_have_passed|I 。 ”
+> On the day of the Cold Food Festival Su Shi wrote two poems, which begin: “Since I came to Huangzhou, three Cold Food Festivals have passed.”
+诗|shī 里|lǐ 的|de 他|tā 又|yòu 老|lǎo 又|yòu 病|bìng ， 头发|tóufa 也|yě 白|bái 了|le ， 心|xīn 就|jiù 像|xiàng “ 死灰吹不起|sǐhuī_chuī_bù_qǐ|dead_ashes_won't_rekindle|I ” —— 火|huǒ 灭|miè 了|le 以后|yǐhòu 剩|shèng 下|xia 的|de 东西|dōngxi ， 怎么|zěnme 吹|chuī 也|yě 吹|chuī 不|bù 起来|qǐlai 了|le 。
+> In the poems he is old and sick, his hair gone white, and his heart is like “dead ashes that cannot be blown back to flame”: what is left after a fire goes out, which no amount of blowing will rekindle.
+他|tā 写|xiě 下|xià 这|zhè 两|liǎng 首|shǒu 诗|shī 的|de 字|zì ， 后来|hòulái 成|chéng 了|le 有名|yǒumíng 的|de 书法|shūfǎ 作品|zuòpǐn 《 寒食帖|Hánshí_Tiě|the_Cold_Food_Observance_scroll|N 》 。
+> The scroll on which he wrote out these two poems later became a famous work of calligraphy, the Cold Food Observance.
+
+@p rain-2
+可是|kěshì ， 他|tā 并|bìng 没有|méiyǒu 被|bèi 这|zhè 场|chǎng 雨|yǔ 打败|dǎbài 。 随着|suízhe|along_with,_as 天气|tiānqì 慢慢|mànmàn 变|biàn 暖|nuǎn ， 他|tā 又|yòu 开始|kāishǐ 出门|chūmén 了|le 。
+> But the rain did not defeat him. As the weather slowly grew warmer, he began to go out again.
+那|nà 年|nián 三月|Sānyuè 初七|chūqī ， 他|tā 听说|tīngshuō 城|chéng 东南|dōngnán 三十|sānshí 里|lǐ|li_(about_half_a_kilometre)|J 外|wài 的|de 沙湖|Shāhú|Shahu,_south-east_of_Huangzhou|N 有|yǒu 地|dì 要|yào 卖|mài ， 就|jiù 和|hé 几|jǐ 个|gè 朋友|péngyou 一起|yīqǐ 去|qù 看|kàn 地|dì 。 阿牛|Ā_Niú 认识|rènshi 路|lù ， 也|yě 跟|gēn 着|zhe 去|qù 了|le 。 去|qù 的|de 时候|shíhou 天气|tiānqì 很|hěn 好|hǎo ， 大家|dàjiā 在|zài 路|lù 上|shàng 还|hái 喝|hē 了|le 一点|yīdiǎn 酒|jiǔ 。
+> On the seventh day of the third month that year, he heard that there was land for sale at Shahu, thirty li south-east of the town, and went with a few friends to look at it. A Niu knew the way, so he went along too. On the way out the weather was fine, and they even drank a little wine as they went.
+
+@p rain-3
+回来|huílai 的|de 路|lù 上|shàng ， 拿|ná 着|zhe 雨具|yǔjù|rain_gear 的|de 人|rén 已经|yǐjīng 先|xiān 走|zǒu 了|le ， 不料|bùliào 一|yī 阵|zhèn 大|dà 雨|yǔ 说|shuō 来|lái 就|jiù 来|lái ， 打|dǎ 在|zài 路|lù 边|biān 的|de 竹叶|zhúyè 上|shàng ， 响|xiǎng 成|chéng 一|yī 片|piàn 。
+> On the way back, the servants with the rain gear had already gone on ahead when, without warning, a heavy shower came down, drumming loudly on the bamboo leaves by the road.
+同行|tóngxíng|travelling_companions 的|de 人|rén 一下子|yīxiàzi 都|dōu 乱|luàn 了|le ， 有|yǒu 的|de 用|yòng 袖子|xiùzi 挡|dǎng 着|zhe 头|tóu ， 有|yǒu 的|de 往|wǎng 树|shù 下|xià 跑|pǎo ， 一个个|yīgègè 全身|quánshēn 湿透|shītòu|soaked_through ， 样子|yàngzi 很|hěn 难看|nánkàn 。
+> His companions were thrown into confusion: some covered their heads with their sleeves, some ran for the trees, and every one of them was soaked through and looked a sorry sight.
+阿牛|Ā_Niú 也|yě 想|xiǎng 跑|pǎo ， 回|huí 头|tóu 一|yī 看|kàn ， 却|què 站住|zhànzhù 了|le ： 苏轼|Sū_Shì 拿|ná 着|zhe 一|yī 根|gēn 细|xì 竹子|zhúzi ， 穿|chuān 着|zhe 草鞋|cǎoxié ， 在|zài 大|dà 雨|yǔ 里|lǐ 慢慢|mànmàn 地|de 走|zǒu 着|zhe ， 嘴|zuǐ 里|lǐ 还|hái 在|zài 轻轻|qīngqīng 地|de 念|niàn 着|zhe 什么|shénme 。
+> A Niu wanted to run too, but when he looked back he stopped short: Su Shi, holding a thin bamboo stick and wearing straw sandals, was strolling along in the downpour, murmuring something to himself.
+“ 先生|xiānsheng ， 快|kuài 跑|pǎo 啊|a ！ ” 阿牛|Ā_Niú 喊|hǎn 。
+> “Sir, run!” A Niu shouted.
+“ 跑|pǎo 什么|shénme ？ ” 苏轼|Sū_Shì 笑|xiào 着|zhe 说|shuō ， “ 前面|qiánmiàn 也|yě 在|zài 下雨|xiàyǔ 。 反正|fǎnzhèng 已经|yǐjīng 湿|shī 了|le ， 不如|bùrú 慢慢|mànmàn 走|zǒu 。 再|zài 说|shuō ， 雨|yǔ 毕竟|bìjìng 是|shì 会|huì 停|tíng 的|de 。 ”
+> “What for?” said Su Shi with a smile. “It's raining up ahead too. We're wet already, so we may as well take our time. Besides, the rain will stop eventually.”
+阿牛|Ā_Niú 想|xiǎng 了|le 想|xiǎng ， 觉得|juéde 很|hěn 有|yǒu 道理|dàoli ， 便|biàn 也|yě 放慢|fàngmàn 了|le 脚步|jiǎobù ， 跟|gēn 在|zài 他|tā 身后|shēnhòu 走|zǒu 。
+> A Niu thought about it, decided he was right, and slowed his pace to walk behind him.
+
+@p rain-4
+没|méi 走|zǒu 多|duō 远|yuǎn ， 雨|yǔ 果然|guǒrán 停|tíng 了|le 。 一|yī 阵|zhèn 冷|lěng 风|fēng 吹|chuī 来|lái ， 苏轼|Sū_Shì 路|lù 上|shàng 喝|hē 的|de 酒|jiǔ 也|yě 醒|xǐng 了|le ， 身上|shēnshang 有点儿|yǒudiǎnr 冷|lěng 。 可是|kěshì 一|yī 抬|tái 头|tóu ， 山|shān 头|tóu 上|shàng 的|de 太阳|tàiyang 已经|yǐjīng 斜|xié 斜|xié 地|de 照|zhào 了|le 过来|guòlai ， 好像|hǎoxiàng 在|zài 迎接|yíngjiē 他们|tāmen 。
+> Before they had gone far, the rain did indeed stop. A cold gust blew, sobering Su Shi from the wine he had drunk on the way, and he felt a little chilly. But when he looked up, the sun on the hilltop was already slanting towards them, as if to welcome them.
+后来|hòulái ， 他|tā 把|bǎ 这|zhè 场|chǎng 雨|yǔ 写|xiě 成|chéng 了|le 一|yī 首|shǒu 词|cí|ci,_a_song_lyric|J ， 叫|jiào 《 定风波|Dìngfēngbō|Calming_the_Waves_(a_ci_tune)|N 》 。 里面|lǐmiàn 有|yǒu 这样|zhèyàng 几|jǐ 句|jù ： “ 竹杖芒鞋轻胜马|zhúzhàng_mángxié_qīng_shèng_mǎ|staff_and_sandals,_lighter_than_a_horse|I ， 谁|shéi 怕|pà ？ 一蓑烟雨任平生|yī_suō_yānyǔ_rèn_píngshēng|a_rain_cape_for_a_lifetime|I 。 ”
+> Later he turned that shower into a song lyric, “Calming the Waves”. In it are these lines: “Bamboo staff and straw sandals, lighter than a horse: who's afraid? In a straw cape through mist and rain, I'll take whatever life may bring.”
+意思|yìsi 是|shì ： 拿|ná 着|zhe 竹子|zhúzi ， 穿|chuān 着|zhe 草鞋|cǎoxié ， 比|bǐ 骑|qí 马|mǎ 还|hái 轻快|qīngkuài 。 怕|pà 什么|shénme ？ 披|pī|to_drape_over_one's_shoulders 上|shàng 一|yī 件|jiàn 蓑衣|suōyī|straw_rain_cape|J ， 风|fēng 里|lǐ 雨|yǔ 里|lǐ ， 就|jiù 这样|zhèyàng 过|guò 一辈子|yībèizi 。
+> That is: with a bamboo stick and straw sandals I go more lightly than on horseback. What is there to fear? Throw on a straw cape and go through wind and rain like this for the rest of my life.
+
+@p rain-5
+词|cí 的|de 最后|zuìhòu 几|jǐ 句|jù 是|shì ： “ 回首向来萧瑟处|huíshǒu_xiànglái_xiāosè_chù|looking_back_where_the_storm_was|I ， 归去|guīqù|going_home|I ， 也无风雨也无晴|yě_wú_fēngyǔ_yě_wú_qíng|neither_storm_nor_sunshine|I 。 ”
+> The lyric ends with these lines: “I look back at the place where the wind and rain were wailing; going home, there is neither storm nor sunshine.”
+回|huí 头|tóu 看|kàn 刚才|gāngcái 风|fēng 吹|chuī 雨|yǔ 打|dǎ 的|de 地方|dìfang ， 现在|xiànzài 已经|yǐjīng 说|shuō 不|bù 上|shàng 有|yǒu 风|fēng 有|yǒu 雨|yǔ ， 也|yě 说|shuō 不|bù 上|shàng 是|shì 晴天|qíngtiān 了|le 。
+> Looking back at the place where wind and rain had lashed them a moment ago, one could no longer call it stormy, nor call it fine.
+阿牛|Ā_Niú 不|bù 懂|dǒng 什么|shénme 是|shì 词|cí ， 可是|kěshì 他|tā 一直|yīzhí 记得|jìde 那天|nàtiān 的|de 样子|yàngzi ： 大家|dàjiā 都|dōu 在|zài 跑|pǎo ， 只有|zhǐyǒu 一|yī 个|gè 人|rén ， 在|zài 雨|yǔ 里|lǐ 慢慢|mànmàn 地|de 走|zǒu 。
+> A Niu did not know what a song lyric was, but he always remembered how that day looked: everyone running, and just one man walking slowly in the rain.
+
+@h2 h-cliff
+赤壁|Chìbì|Red_Cliff|N 之|zhī|(classical)_of 夜|yè
+> A Night at Red Cliff
+
+@p cliff-1
+黄州|Huángzhōu 城|chéng 外|wài 的|de 江|jiāng 边|biān ， 有|yǒu 一|yī 片|piàn 红色|hóngsè 的|de 石壁|shíbì|rock_face ， 本地|běndì 人|rén 叫|jiào 它|tā “ 赤壁|Chìbì ” 。
+> Outside Huangzhou, on the riverbank, stands a red rock face that the locals call Red Cliff.
+有人|yǒurén 说|shuō ， 这里|zhèlǐ 就是|jiùshì 三国|Sānguó|the_Three_Kingdoms_era|N 故事|gùshi 里|lǐ 赤壁之战|Chìbì_zhī_Zhàn|the_Battle_of_Red_Cliffs_(208)|N 的|de 地方|dìfang ： 公元|gōngyuán 208 年|nián ， 周瑜|Zhōu_Yú|Zhou_Yu,_general_of_Wu|N 用|yòng 火|huǒ 烧|shāo 了|le 曹操|Cáo_Cāo|Cao_Cao,_northern_warlord|N 的|de 船|chuán ， 打败|dǎbài 了|le 曹操|Cáo_Cāo 的|de 大军|dàjūn|great_army 。
+> Some said this was the site of the Battle of Red Cliffs from the stories of the Three Kingdoms: in 208, Zhou Yu set fire to Cao Cao's ships and defeated his great army.
+其实|qíshí ， 真正|zhēnzhèng 的|de 战场|zhànchǎng|battlefield 很|hěn 可能|kěnéng 在|zài 黄州|Huángzhōu 西边|xībian ， 离|lí 这里|zhèlǐ 有|yǒu 好几|hǎojǐ 百|bǎi 里|lǐ 。 苏轼|Sū_Shì 自己|zìjǐ 大概|dàgài 也|yě 知道|zhīdào 这|zhè 一点|yīdiǎn 。
+> In fact, the real battlefield was very probably several hundred li to the west, upriver from Huangzhou. Su Shi himself most likely knew this.
+
+@p cliff-2
+1082 年|nián 七月|Qīyuè 十六|shíliù ， 月亮|yuèliang 正|zhèng 圆|yuán 。 苏轼|Sū_Shì 和|hé 几|jǐ 个|gè 客人|kèrén 坐|zuò 着|zhe 一|yī 条|tiáo 小|xiǎo 船|chuán ， 到|dào 赤壁|Chìbì 下面|xiàmiàn 去|qù 玩|wán ， 阿牛|Ā_Niú 帮|bāng 他们|tāmen 划|huá|to_row 船|chuán 。
+> On the sixteenth day of the seventh month of 1082, the moon was full. Su Shi and a few guests took a small boat out below Red Cliff, with A Niu rowing for them.
+江|jiāng 上|shàng 的|de 风|fēng 轻轻|qīngqīng 地|de 吹|chuī 来|lái ， 水|shuǐ 平|píng 得|de 像|xiàng 一|yī 面|miàn 镜子|jìngzi 。 苏轼|Sū_Shì 后来|hòulái 写|xiě 道|dào ： “ 清风徐来|qīngfēng_xú_lái|a_cool_breeze_comes_gently|I ， 水波不兴|shuǐbō_bù_xīng|the_water_lies_unruffled|I 。 ”
+> A breeze blew gently over the river, and the water was as flat as a mirror. Su Shi later wrote: “A cool breeze comes gently; the water lies unruffled.”
+大家|dàjiā 喝|hē 着|zhe 酒|jiǔ ， 唱|chàng 着|zhe 歌|gē 。 一|yī 个|gè 客人|kèrén 拿|ná 出|chū 箫|xiāo|xiao,_vertical_bamboo_flute|J 吹|chuī 了|le 起来|qǐlai ， 声音|shēngyīn 又|yòu 低|dī 又|yòu 长|cháng ， 像|xiàng 有|yǒu 人|rén 在|zài 哭|kū ， 又|yòu 像|xiàng 有|yǒu 人|rén 在|zài 说|shuō 心里|xīnli 的|de 话|huà 。 阿牛|Ā_Niú 听|tīng 着|zhe 听|tīng 着|zhe ， 心里|xīnli 也|yě 难过|nánguò 起来|qǐlai 。
+> They drank and sang. One of the guests took out a flute and began to play; its notes were low and long, like someone weeping, or someone pouring out his heart. As A Niu listened, he too grew sad.
+
+@p cliff-3
+苏轼|Sū_Shì 问|wèn ： “ 你|nǐ 的|de 箫|xiāo 声|shēng 怎么|zěnme 这么|zhème 伤心|shāngxīn ？ ”
+> Su Shi asked, “Why does your flute sound so sad?”
+客人|kèrén 说|shuō ： “ 当年|dāngnián 曹操|Cáo_Cāo 的|de 船|chuán 从|cóng 这里|zhèlǐ 经过|jīngguò ， 一|yī 眼|yǎn 看|kàn 不|bù 到|dào 头|tóu ， 他|tā 是|shì 多么|duōme 了不起|liǎobuqǐ 的|de 英雄|yīngxióng ！ 可是|kěshì 现在|xiànzài ， 他|tā 在|zài 哪儿|nǎr 呢|ne ？ 我们|wǒmen 这些|zhèxiē 人|rén 在|zài 这么|zhème 大|dà 的|de 世界|shìjiè 里|lǐ ， 就|jiù 像|xiàng 只|zhǐ 活|huó 一|yī 天|tiān 的|de 小|xiǎo 虫子|chóngzi ， 像|xiàng 大海|dàhǎi 里|lǐ 的|de 一|yī 颗|kē 米|mǐ 。 人生|rénshēng 这么|zhème 短|duǎn ， 长江|Chángjiāng 却|què 永远|yǒngyuǎn 流|liú 不|bù 完|wán 。 ”
+> The guest said, “When Cao Cao's ships passed this way, they stretched further than the eye could see. What a hero he was! And where is he now? We people in this vast world are like little insects that live for a single day, like one grain of rice in the sea. Life is so short, and yet the Yangtze flows on for ever.”
+
+@p cliff-4
+苏轼|Sū_Shì 指|zhǐ 着|zhe 江|jiāng 水|shuǐ 和|hé 月亮|yuèliang 说|shuō ： “ 你|nǐ 看|kàn 这|zhè 水|shuǐ ， 一直|yīzhí 在|zài 流|liú ， 可是|kěshì 从来|cónglái 没有|méiyǒu 流|liú 走|zǒu ； 你|nǐ 看|kàn 这|zhè 月亮|yuèliang ， 有时候|yǒushíhou 圆|yuán ， 有时候|yǒushíhou 缺|quē ， 可是|kěshì 也|yě 从来|cónglái 没有|méiyǒu 多|duō 一点|yīdiǎn 、 少|shǎo 一点|yīdiǎn 。 从|cóng 变|biàn 的|de 一|yī 面|miàn 看|kàn ， 什么|shénme 都|dōu 一下子|yīxiàzi 就|jiù 变|biàn 了|le ； 从|cóng 不|bù 变|biàn 的|de 一|yī 面|miàn 看|kàn ， 我们|wǒmen 和|hé 万物|wànwù|all_things 都|dōu 不会|bùhuì 完|wán ， 又|yòu 何必|hébì|why_must,_there's_no_need 为|wèi 长江|Chángjiāng 伤心|shāngxīn 呢|ne ？ ”
+> Su Shi pointed at the river and the moon. “Look at this water: it flows on and on, yet it has never flowed away. Look at the moon: sometimes full, sometimes waning, yet it has never grown by a bit or shrunk by a bit. Seen from the side of change, everything changes in an instant; seen from the side of what does not change, we and all things are without end. So why grieve over the Yangtze?”
+他|tā 又|yòu 说|shuō ： “ 江|jiāng 上|shàng 的|de 清风|qīngfēng|cool_breeze ， 山|shān 间|jiān 的|de 明月|míngyuè|bright_moon ， 耳朵|ěrduo 听|tīng 到|dào 了|le 就|jiù 是|shì 声音|shēngyīn ， 眼睛|yǎnjing 看到|kàndào 了|le 就|jiù 是|shì 颜色|yánsè 。 谁|shéi 都|dōu 可以|kěyǐ 拿|ná ， 谁|shéi 也|yě 不会|bùhuì 不|bù 让|ràng 你|nǐ 拿|ná ， 用|yòng 多少|duōshao 也|yě 用|yòng 不|bù 完|wán 。 这|zhè 是|shì 老天|lǎotiān|Heaven 送|sòng 给|gěi 我们|wǒmen 的|de ， 我们|wǒmen 一起|yīqǐ 享受|xiǎngshòu 吧|ba 。 ”
+> He went on: “The cool breeze on the river and the bright moon over the hills: what the ear catches becomes sound, what the eye meets becomes colour. Anyone may take them, no one will stop you, and however much you use, they never run out. They are Heaven's gift to us; let us enjoy them together.”
+客人|kèrén 听|tīng 了|le ， 笑|xiào 了|le 起来|qǐlai 。 大家|dàjiā 又|yòu 喝|hē 起|qǐ 酒|jiǔ 来|lái ， 最后|zuìhòu 都|dōu 在|zài 船|chuán 上|shàng 睡着|shuìzháo 了|le ， 不|bù 知道|zhīdào 东方|dōngfāng 已经|yǐjīng 白|bái 了|le 。
+> The guest laughed when he heard this. They drank again, and in the end all fell asleep in the boat, not knowing that the east had already turned white.
+
+@p cliff-5
+后来|hòulái ， 苏轼|Sū_Shì 把|bǎ 这|zhè 一|yī 夜|yè 写|xiě 成|chéng 了|le 一|yī 篇|piān 赋|fù|fu,_rhymed_prose|J 。 三|sān 个|gè 月|yuè 以后|yǐhòu ， 他|tā 又|yòu 去|qù 了|le 一|yī 次|cì 赤壁|Chìbì ， 又|yòu 写|xiě 了|le 一|yī 篇|piān 。 后来|hòulái 的|de 人|rén 把|bǎ 它们|tāmen 叫|jiào 作|zuò 《 前赤壁赋|Qián_Chìbì_Fù|First_Ode_on_Red_Cliff|N 》 和|hé 《 后赤壁赋|Hòu_Chìbì_Fù|Second_Ode_on_Red_Cliff|N 》 。
+> Later Su Shi wrote up that night as a piece of rhymed prose. Three months afterwards he went to Red Cliff again and wrote a second. Later readers called them the First and Second Odes on Red Cliff.
+大约|dàyuē 在|zài 同|tóng 一|yī 年|nián ， 他|tā 还|hái 写|xiě 了|le 一|yī 首|shǒu 词|cí 《 念奴娇|Niànnújiāo|Niannujiao_(a_ci_tune)|N · 赤壁怀古|Chìbì_Huáigǔ|Remembering_the_Past_at_Red_Cliff|N 》 ， 开头|kāitóu 是|shì ： “ 大江东去|dàjiāng_dōng_qù|the_great_river_flows_east|I ， 浪淘尽|làng_táo_jìn|its_waves_have_washed_away|I ， 千古风流人物|qiāngǔ_fēngliú_rénwù|the_heroes_of_all_ages|I 。 ”
+> At about the same time he also wrote a song lyric, “Remembering the Past at Red Cliff”, to the tune Niannujiao. It begins: “The great river flows east; its waves have washed away the heroes of a thousand ages.”
+接着|jiēzhe 又|yòu 说|shuō ： “ 故垒西边|gùlěi_xībian|west_of_the_old_ramparts|I ， 人道是|rén_dào_shì|people_say_it_is|I ， 三国周郎赤壁|Sānguó_Zhōu_láng_Chìbì|young_Zhou_Yu's_Red_Cliff|I 。 ” “ 人道是|rén_dào_shì ” ， 就是|jiùshì “ 人们|rénmen 说|shuō 这里|zhèlǐ 是|shì ” 。 他|tā 并|bìng 没有|méiyǒu 说|shuō 这|zhè 就是|jiùshì 真|zhēn 的|de 战场|zhànchǎng ， 只|zhǐ 说|shuō 是|shì 别人|biéren 这么|zhème 说|shuō 。
+> Then it goes on: “West of the old ramparts, people say, is the Red Cliff of young Zhou Yu in the Three Kingdoms.” “People say” means “people say it is here”. He did not claim it was the real battlefield; he only said that others said so.
+可是|kěshì 真|zhēn 的|de 也好|yěhǎo ， 假|jiǎ 的|de 也好|yěhǎo ， 从|cóng 那|nà 以后|yǐhòu ， 黄州|Huángzhōu 的|de 赤壁|Chìbì 就|jiù 因为|yīnwèi 他|tā 的|de 文章|wénzhāng 出|chū 了|le 名|míng ， 人们|rénmen 叫|jiào 它|tā “ 东坡赤壁|Dōngpō_Chìbì|Dongpo's_Red_Cliff|N ” 。
+> But real or not, from then on Huangzhou's Red Cliff became famous because of his writing, and people call it “Dongpo's Red Cliff”.
+
+@h2 h-leave
+离开|líkāi
+> Leaving
+
+@p leave-1
+1084 年|nián 春天|chūntiān ， 京城|jīngchéng 来|lái 了|le 命令|mìnglìng ： 苏轼|Sū_Shì 被|bèi 调|diào|to_transfer 到|dào 汝州|Rǔzhōu|Ruzhou,_in_Henan|N 。 新|xīn 的|de 官|guān 还是|háishi 一|yī 个|gè 没有|méiyǒu 权力|quánlì 的|de 小|xiǎo 官|guān ， 可是|kěshì 汝州|Rǔzhōu 离|lí 京城|jīngchéng 近|jìn 多了|duōle 。 大家|dàjiā 都|dōu 明白|míngbai ， 这|zhè 说明|shuōmíng 皇帝|huángdì 已经|yǐjīng 不|bù 那么|nàme 生气|shēngqì 了|le 。
+> In the spring of 1084 an order came from the capital: Su Shi was to be transferred to Ruzhou. The new post was still a minor one without power, but Ruzhou was much closer to the capital. Everyone understood that the emperor was no longer so angry.
+据说|jùshuō ， 皇帝|huángdì 亲自|qīnzì 写|xiě 了|le 一|yī 句|jù 话|huà ， 意思|yìsi 是|shì ： 人才|réncái 难得|nándé ， 我|wǒ 不忍心|bùrěnxīn 一直|yīzhí 不|bù 用|yòng 他|tā 。
+> It is said that the emperor wrote in his own hand words to this effect: talent is rare, and I cannot bear to cast him aside for good.
+
+@p leave-2
+这|zhè 本来|běnlái 是|shì 好|hǎo 消息|xiāoxi ， 苏轼|Sū_Shì 却|què 高兴|gāoxìng 不|bù 起来|qǐlai 。 他|tā 已经|yǐjīng 在|zài 黄州|Huángzhōu 住|zhù 了|le 四|sì 年|nián 多|duō ， 东坡|Dōngpō 上|shàng 的|de 麦子|màizi 又|yòu 快|kuài 熟|shú 了|le ， 雪堂|Xuětáng 前|qián 的|de 小|xiǎo 树|shù 也|yě 长|zhǎng 高|gāo 了|le 。
+> It should have been good news, but Su Shi could not feel glad. He had lived in Huangzhou for more than four years; the wheat on the Eastern Slope was nearly ripe again, and the young trees in front of the Snow Hall had grown tall.
+他|tā 写|xiě 了|le 一|yī 首|shǒu 词|cí 告别|gàobié 黄州|Huángzhōu 的|de 邻居|línjū ， 第一|dìyī 句|jù 就|jiù 问|wèn ： “ 归去来兮|guī_qù_lái_xī|let_me_go_home|I ， 吾归何处|wú_guī_hé_chù|but_where_is_my_home|I ？ ” —— 回去|huíqu 吧|ba ， 可是|kěshì 我|wǒ 的|de 家|jiā 到底|dàodǐ 在|zài 哪里|nǎlǐ 呢|ne ？ 他|tā 的|de 老家|lǎojiā 在|zài 万里|wànlǐ 以外|yǐwài 的|de 四川|Sìchuān|Sichuan|N 。
+> He wrote a song lyric to bid farewell to his Huangzhou neighbours, and its first line asks: “Let me go home! But where is home for me?” Go back, yes, but where exactly was his home? His native place was in Sichuan, ten thousand li away.
+他|tā 在|zài 词|cí 里|lǐ 请|qǐng 邻居|línjū 们|men 别|bié 剪|jiǎn 雪堂|Xuětáng 前|qián 那些|nàxiē 细|xì 树|shù 枝|zhī ， 还|hái 请|qǐng 他们|tāmen 有|yǒu 空|kòng 的|de 时候|shíhou ， 替|tì 他|tā 晒|shài 一|yī 晒|shài 打鱼|dǎyú 穿|chuān 的|de 蓑衣|suōyī 。 好像|hǎoxiàng 他|tā 只是|zhǐshì 出|chū 一|yī 趟|tàng 远门|yuǎnmén ， 很|hěn 快|kuài 就|jiù 会|huì 回来|huílai 。
+> In the lyric he asked the neighbours not to cut the slender branches in front of the Snow Hall, and to sun his fishing cape for him now and then when they had time. It was as if he were only going on a long trip and would soon be back.
+
+@p leave-3
+走|zǒu 的|de 那天|nàtiān ， 江|jiāng 边|biān 站|zhàn 满|mǎn 了|le 送|sòng 他|tā 的|de 人|rén ： 有|yǒu 一起|yīqǐ 喝|hē 过|guò 酒|jiǔ 的|de 朋友|péngyou ， 有|yǒu 卖|mài 酒|jiǔ 的|de 、 卖|mài 药|yào 的|de ， 也|yě 有|yǒu 种|zhòng 地|dì 的|de 农民|nóngmín 。 四|sì 年|nián 前|qián ， 大家|dàjiā 都|dōu 躲|duǒ 着|zhe 这|zhè 个|gè “ 犯人|fànrén ” ； 四|sì 年|nián 后|hòu ， 大家|dàjiā 反而|fǎn'ér 舍不得|shěbude 他|tā 走|zǒu 了|le 。
+> On the day he left, the riverbank was crowded with people seeing him off: friends he had drunk with, the wine seller and the medicine seller, and farmers too. Four years before, everyone had avoided this “criminal”; four years later, they could not bear to let him go.
+阿牛|Ā_Niú 已经|yǐjīng 十八|shíbā 岁|suì 了|le ， 长|zhǎng 得|de 又|yòu 高|gāo 又|yòu 结实|jiēshi 。 他|tā 挤|jǐ 到|dào 前面|qiánmiàn ， 把|bǎ 一|yī 包|bāo 新|xīn 茶|chá 塞|sāi 到|dào 苏轼|Sū_Shì 手|shǒu 里|lǐ ， 却|què 说|shuō 不|bù 出|chū 话|huà 来|lái 。
+> A Niu was eighteen now, tall and sturdy. He pushed his way to the front and pressed a packet of new tea into Su Shi's hands, but could not get a word out.
+苏轼|Sū_Shì 拍|pāi 了|le 拍|pāi 他|tā ： “ 四|sì 年|nián 前|qián 来|lái 的|de 时候|shíhou ， 我|wǒ 以为|yǐwéi 会|huì 死|sǐ 在|zài 这里|zhèlǐ ； 不料|bùliào ， 这里|zhèlǐ 给|gěi 了|le 我|wǒ 这么|zhème 多|duō 朋友|péngyou 。 东坡|Dōngpō 就|jiù 交给|jiāogěi 你|nǐ 了|le 。 井|jǐng 是|shì 你|nǐ 找到|zhǎodào 的|de ， 地|dì 也|yě 是|shì 你|nǐ 帮|bāng 我|wǒ 开|kāi 的|de 。 我|wǒ 的|de 蓑衣|suōyī ， 你|nǐ 也|yě 记得|jìde 替|tì 我|wǒ 晒|shài 。 ”
+> Su Shi patted him. “When I came here four years ago, I thought I would die here. Who would have thought this place would give me so many friends? I'm leaving the Eastern Slope to you. You found the well, and you helped me clear the land. And remember to sun my rain cape for me.”
+船|chuán 慢慢|mànmàn 开|kāi 远|yuǎn 了|le 。 阿牛|Ā_Niú 站|zhàn 在|zài 江|jiāng 边|biān ， 一直|yīzhí 看|kàn 到|dào 船|chuán 变成|biànchéng 了|le 一|yī 个|gè 小|xiǎo 黑点|hēidiǎn 。
+> The boat slowly moved away. A Niu stood on the bank and watched until it became a little black dot.
+
+@p leave-4
+苏轼|Sū_Shì 再|zài 也|yě 没有|méiyǒu 回|huí 过|guò 黄州|Huángzhōu 。 随着|suízhe 皇帝|huángdì 去世|qùshì ， 京城|jīngchéng 里|lǐ 的|de 情况|qíngkuàng 变|biàn 了|le ， 他|tā 回|huí 到|dào 京城|jīngchéng ， 当|dāng 过|guò 很|hěn 大|dà 的|de 官|guān 。 不料|bùliào 没|méi 过|guò 几|jǐ 年|nián ， 他|tā 又|yòu 被|bèi 贬|biǎn 了|le ， 而且|érqiě 一|yī 次|cì 比|bǐ 一|yī 次|cì 远|yuǎn ： 先|xiān 到|dào 了|le 南方|nánfāng 的|de 惠州|Huìzhōu|Huizhou,_in_Guangdong|N ， 后来|hòulái 又|yòu 到|dào 了|le 海|hǎi 那边|nàbiān 的|de 儋州|Dānzhōu|Danzhou,_on_Hainan_Island|N 。
+> Su Shi never went back to Huangzhou. With the emperor's death, things in the capital changed; he returned there and held high office. But unexpectedly, within a few years he was banished again, each time further away: first to Huizhou in the far south, then across the sea to Danzhou.
+1101 年|nián ， 他|tā 终于|zhōngyú 可以|kěyǐ 回|huí 北方|běifāng 了|le ， 却|què 在|zài 路|lù 上|shàng 病|bìng 倒|dǎo ， 死|sǐ 在|zài 了|le 常州|Chángzhōu|Changzhou,_in_Jiangsu|N 。
+> In 1101 he was at last allowed to come north again, but he fell ill on the way and died in Changzhou.
+去世|qùshì 前|qián 不久|bùjiǔ ， 他|tā 看到|kàndào 别人|biéren 为|wèi 他|tā 画|huà 的|de 像|xiàng ， 写|xiě 下|xià 了|le 这样|zhèyàng 两|liǎng 句|jù ： “ 问汝平生功业|wèn_rǔ_píngshēng_gōngyè|ask_what_my_life_achieved|I ， 黄州惠州儋州|Huángzhōu_Huìzhōu_Dānzhōu|Huangzhou,_Huizhou,_Danzhou|I 。 ”
+> Shortly before his death, looking at a portrait someone had painted of him, he wrote these two lines: “If you ask what I achieved in my life: Huangzhou, Huizhou, Danzhou.”
+问|wèn 他|tā 这|zhè 一辈子|yībèizi 做|zuò 成|chéng 了|le 什么|shénme ， 他|tā 的|de 回答|huídá 不|bù 是|shì 当|dāng 过|guò 的|de 大|dà 官|guān ， 而是|érshì 三|sān 个|gè 被|bèi 贬|biǎn 去|qù 的|de 地方|dìfang 。 第一|dìyī 个|gè ， 就是|jiùshì 黄州|Huángzhōu 。 那里|nàlǐ 的|de 苦|kǔ 日子|rìzi 没有|méiyǒu 把|bǎ 他|tā 打败|dǎbài ， 反而|fǎn'ér 让|ràng 他|tā 成|chéng 了|le 苏东坡|Sū_Dōngpō 。
+> Asked what his life had amounted to, his answer was not the high offices he had held but the three places he had been banished to. The first was Huangzhou. The hard years there had not defeated him; instead they had made him Su Dongpo.
+
+@p leave-5
+苏东坡|Sū_Dōngpō 去世|qùshì 的|de 消息|xiāoxi 传|chuán 到|dào 黄州|Huángzhōu 的|de 时候|shíhou ， 阿牛|Ā_Niú 已经|yǐjīng 是|shì 个|gè 三十|sānshí 多|duō 岁|suì 的|de 农民|nóngmín 了|le 。
+> When the news of Su Dongpo's death reached Huangzhou, A Niu was a farmer in his thirties.
+那天|nàtiān 下|xià 着|zhe 小|xiǎo 雨|yǔ 。 他|tā 没有|méiyǒu 打|dǎ 伞|sǎn ， 把|bǎ 那|nà 件|jiàn 一直|yīzhí 替|tì 先生|xiānsheng 留|liú 着|zhe 的|de 旧|jiù 蓑衣|suōyī 披|pī 在|zài 身上|shēnshang ， 一个人|yīgèrén 走|zǒu 上|shàng 了|le 东坡|Dōngpō 。 雪堂|Xuětáng 已经|yǐjīng 旧|jiù 了|le ， 那|nà 口|kǒu 井|jǐng 还|hái 在|zài ， 井|jǐng 里|lǐ 的|de 水|shuǐ 还是|háishi 那么|nàme 清|qīng 。
+> It was drizzling that day. He did not take an umbrella; instead he threw on the old rain cape he had kept all these years for his master, and climbed the Eastern Slope alone. The Snow Hall had grown old, but the well was still there, its water as clear as ever.
+雨|yǔ 打|dǎ 在|zài 竹叶|zhúyè 上|shàng ， 沙沙|shāshā|rustling 地|de 响|xiǎng 。 他|tā 想起|xiǎngqǐ 那|nà 年|nián 春天|chūntiān ， 大家|dàjiā 都|dōu 在|zài 跑|pǎo ， 只有|zhǐyǒu 先生|xiānsheng 笑|xiào 着|zhe 说|shuō ： “ 跑|pǎo 什么|shénme ？ ”
+> The rain pattered on the bamboo leaves. He remembered that spring day when everyone was running and only his master had said with a smile, “What for?”
+走|zǒu 到|dào 坡|pō 顶|dǐng 的|de 时候|shíhou ， 雨|yǔ 停|tíng 了|le 。 阿牛|Ā_Niú 回|huí 过|guò 头|tóu ， 看|kàn 着|zhe 刚才|gāngcái 走|zǒu 过|guò 的|de 路|lù ， 不禁|bùjīn 轻轻|qīngqīng 地|de 念|niàn 出|chū 了|le 那|nà 一|yī 句|jù ： “ 也无风雨也无晴|yě_wú_fēngyǔ_yě_wú_qíng 。 ”
+> By the time he reached the top of the slope, the rain had stopped. A Niu turned and looked back down the path he had just climbed, and found himself softly saying that line: “Neither storm nor sunshine.”

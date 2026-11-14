@@ -1,0 +1,562 @@
+# Company — original story and translation by Claude (Anthropic).
+# Target: HSK 3.0 level 6; focus grammar: 仿佛, 就算, 不禁 (review: 尽管, 再……也, 总算); names N, terms J, set phrases I.
+
+@meta {"title_zh": "陪伴", "subtitle_zh": "一个会讲笑话的机器人", "title_en": "Company", "subtitle_en": "A robot that learned to tell jokes", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+安庆|Ānqìng|Anqing,_a_city_in_Anhui|N 是|shì 长江|Chángjiāng|the_Yangtze_River|N 边|biān 上|shàng 的|de 一|yī 座|zuò 小城|xiǎochéng|small_town ， 在|zài 安徽|Ānhuī|Anhui_Province|N 的|de 西南部|xīnánbù|southwest 。
+> Anqing is a small city on the Yangtze, in the southwest of Anhui Province.
+城|chéng 里|lǐ 有|yǒu 很多|hěnduō 老|lǎo 房子|fángzi ， 楼|lóu 不|bù 高|gāo ， 树|shù 很|hěn 大|dà ， 住|zhù 在|zài 里面|lǐmiàn 的|de 大多|dàduō 是|shì 老人|lǎorén 。
+> The town is full of old housing: the buildings are low, the trees are big, and most of the people who live there are old.
+年轻人|niánqīngrén 呢|ne ？ 他们|tāmen 去|qù 了|le 上海|Shànghǎi|Shanghai|N 、 杭州|Hángzhōu|Hangzhou|N 、 深圳|Shēnzhèn|Shenzhen|N ， 一|yī 年|nián 回来|huílai 一|yī 次|cì ， 有的|yǒude 几|jǐ 年|nián 才|cái 回来|huílai 一|yī 次|cì 。
+> And the young people? They have gone to Shanghai, Hangzhou and Shenzhen, and come back once a year; some only once every few years.
+人们|rénmen 把|bǎ 这些|zhèxiē 独自|dúzì|alone 在|zài 家|jiā 的|de 老人|lǎorén 叫做|jiàozuò “ 空巢|kōngcháo|empty_nest|J 老人|lǎorén ” —— 鸟|niǎo 长大|zhǎngdà 了|le ， 飞|fēi 走|zǒu 了|le ， 只|zhǐ 剩下|shèngxia|to_be_left 空空|kōngkōng 的|de 巢|cháo|nest|J 。
+> People call these elderly people who live on their own "empty nesters": the birds have grown up and flown away, and only the empty nest is left.
+刘桂芳|Liú_Guìfāng|Liu_Guifang|N 就是|jiùshì 其中|qízhōng 的|de 一个|yīgè 。
+> Liu Guifang is one of them.
+她|tā 今年|jīnnián 六十八|liùshíbā 岁|suì ， 老伴|lǎobàn|husband_(of_an_old_couple) 两|liǎng 年|nián 前|qián 去世|qùshì 了|le ， 一|yī 儿|ér 一|yī 女|nǚ 都|dōu 在|zài 深圳|Shēnzhèn 工作|gōngzuò 。
+> She is sixty-eight. Her husband died two years ago, and her son and daughter both work in Shenzhen.
+家|jiā 里|lǐ 很|hěn 安静|ānjìng ， 安静|ānjìng 得|de 仿佛|fǎngfú|as_if 连|lián 时间|shíjiān 都|dōu 停|tíng 了|le 下来|xiàlai 。
+> The house is quiet, so quiet that it seems as if even time has stopped.
+
+@h2 h-box
+一|yī 个|gè 箱子|xiāngzi
+> A Box
+
+@p box-1
+十月|shíyuè 底|dǐ 的|de 一|yī 个|gè 下午|xiàwǔ ， 有人|yǒurén 敲|qiāo 门|mén 。
+> One afternoon at the end of October, someone knocked at the door.
+门口|ménkǒu 站|zhàn 着|zhe 一|yī 个|gè 年轻|niánqīng 的|de 快递员|kuàidìyuán|courier ， 脚|jiǎo 边|biān 放|fàng 着|zhe 一|yī 个|gè 很|hěn 大|dà 的|de 纸箱|zhǐxiāng|cardboard_box 。
+> A young courier was standing at the door, with a large cardboard box at his feet.
+“ 阿姨|āyí ， 您|nín 的|de 快递|kuàidì ， 挺|tǐng 重|zhòng 的|de ， 要|yào 不要|bùyào 我|wǒ 帮|bāng 您|nín 搬|bān 进去|jìnqu ？ ”
+> “Your parcel, auntie. It's quite heavy. Would you like me to carry it in for you?”
+刘桂芳|Liú_Guìfāng 一下子|yīxiàzi 没|méi 反应|fǎnyìng 过来|guòlai ： “ 我|wǒ 没|méi 买|mǎi 东西|dōngxi 啊|a 。 ”
+> For a moment Liu Guifang didn't understand. “I haven't bought anything.”
+快递员|kuàidìyuán 看|kàn 了|le 看|kàn 单子|dānzi ： “ 没错|méicuò ， 刘桂芳|Liú_Guìfāng ， 从|cóng 深圳|Shēnzhèn 寄|jì 来|lái 的|de 。 ”
+> The courier looked at the slip. “It's right here: Liu Guifang, sent from Shenzhen.”
+
+@p box-2
+她|tā 刚|gāng 把|bǎ 箱子|xiāngzi 拖|tuō|to_drag 进|jìn 客厅|kètīng ， 女儿|nǚ'ér 晓燕|Xiǎoyàn|Xiaoyan,_her_daughter|N 的|de 电话|diànhuà 就|jiù 打|dǎ 来|lái 了|le 。
+> She had only just dragged the box into the living room when her daughter Xiaoyan called.
+“ 妈|mā ， 东西|dōngxi 收到|shōudào 了|le 吧|ba ？ 是|shì 我|wǒ 和|hé 哥|gē 一起|yīqǐ 给|gěi 您|nín 买|mǎi 的|de 。 ”
+> “Mum, you got the parcel, right? My brother and I bought it for you together.”
+“ 什么|shénme 东西|dōngxi ？ 这么|zhème 大|dà 一|yī 个|gè 箱子|xiāngzi 。 ”
+> “What is it? Such a big box.”
+“ 一|yī 个|gè 机器人|jīqìrén|robot ， 会|huì 说话|shuōhuà ， 能|néng 陪|péi 您|nín 聊天|liáotiān 。 您|nín 打开|dǎkāi 看看|kànkan 就|jiù 知道|zhīdào 了|le 。 ”
+> “A robot. It can talk, and it can keep you company and chat with you. Open it and you'll see.”
+刘桂芳|Liú_Guìfāng 听|tīng 了|le ， 半天|bàntiān|a_long_while 没|méi 说话|shuōhuà 。
+> Liu Guifang listened and said nothing for a long while.
+过|guò 了|le 一会儿|yīhuìr ， 她|tā 问|wèn ： “ 多少|duōshao 钱|qián ？ ”
+> After a moment she asked, “How much did it cost?”
+晓燕|Xiǎoyàn 笑|xiào 了|le ： “ 妈|mā ， 您|nín 别|bié 管|guǎn 多少|duōshao 钱|qián 。 ”
+> Xiaoyan laughed. “Mum, never mind how much.”
+“ 你|nǐ 不|bù 说|shuō 我|wǒ 也|yě 知道|zhīdào ， 肯定|kěndìng 不|bù 便宜|piányi 。 有|yǒu 这个|zhège 钱|qián ， 你们|nǐmen 还|hái 不如|bùrú …… ”
+> “You don't have to tell me. I know it wasn't cheap. With that money, you'd be better off...”
+她|tā 本来|běnlái 想|xiǎng 说|shuō “ 不如|bùrú 回来|huílai 看看|kànkan 我|wǒ ” ， 可是|kěshì 话|huà 到|dào 了|le 嘴边|zuǐbiān ， 又|yòu 说不出口|shuōbuchūkǒu|could_not_bring_oneself_to_say 了|le 。
+> She had meant to say “coming home to see me”, but when the words reached her lips, she couldn't bring herself to say them.
+
+@p box-3
+挂|guà 了|le 电话|diànhuà ， 她|tā 拿|ná 剪刀|jiǎndāo|scissors 把|bǎ 箱子|xiāngzi 打开|dǎkāi 。
+> After she hung up, she opened the box with a pair of scissors.
+里面|lǐmiàn 是|shì 一|yī 层|céng 又|yòu 一|yī 层|céng 的|de 塑料|sùliào|plastic ， 最|zuì 中间|zhōngjiān 放|fàng 着|zhe 一|yī 个|gè 白色|báisè 的|de 东西|dōngxi ， 大小|dàxiǎo 像|xiàng 个|gè 电饭锅|diànfànguō|rice_cooker ， 圆圆|yuányuán 的|de 身体|shēntǐ 上面|shàngmiàn 是|shì 一|yī 个|gè 圆圆|yuányuán 的|de 头|tóu 。
+> Inside were layer upon layer of plastic, and in the very middle lay a white object about the size of a rice cooker: a round head on top of a round body.
+头|tóu 的|de 前面|qiánmiàn 是|shì 一|yī 块|kuài 黑色|hēisè 的|de 屏幕|píngmù|screen ， 屏幕|píngmù 上|shàng 没有|méiyǒu 鼻子|bízi ， 也|yě 没有|méiyǒu 嘴|zuǐ ， 只有|zhǐyǒu 两|liǎng 个|gè 淡蓝色|dànlánsè|pale_blue 的|de 小点儿|xiǎodiǎnr ， 仿佛|fǎngfú 一|yī 双|shuāng 眼睛|yǎnjing 。
+> On the front of the head was a black screen. There was no nose on it and no mouth, only two little pale blue dots, like a pair of eyes.
+她|tā 把|bǎ 它|tā 拿|ná 出来|chūlai 放|fàng 在|zài 桌子|zhuōzi 上|shàng ， 那|nà 双|shuāng “ 眼睛|yǎnjing ” 正|zhèng 对|duì 着|zhe 她|tā ， 她|tā 不禁|bùjīn|can't_help_(doing) 往|wǎng 后|hòu 退|tuì 了|le 一|yī 步|bù 。
+> She lifted it out and put it on the table. The pair of “eyes” was looking straight at her, and she couldn't help taking a step back.
+
+@p box-4
+“ 看|kàn 什么|shénme 看|kàn ？ ” 她|tā 对|duì 着|zhe 它|tā 说|shuō 。
+> “What are you looking at?” she said to it.
+说|shuō 完|wán ， 她|tā 自己|zìjǐ 也|yě 觉得|juéde 好笑|hǎoxiào|funny —— 跟|gēn 一|yī 台|tái 机器|jīqì 说话|shuōhuà ， 它|tā 又|yòu 听不懂|tīngbudǒng 。
+> As soon as she'd said it, she found herself funny: talking to a machine, which couldn't understand anyway.
+她|tā 围|wéi 着|zhe 桌子|zhuōzi 转|zhuàn 了|le 两|liǎng 圈|quān ， 最后|zuìhòu 还是|háishi 把|bǎ 它|tā 放|fàng 回|huí 了|le 箱子|xiāngzi ， 又|yòu 把|bǎ 箱子|xiāngzi 推|tuī 到|dào 了|le 墙角|qiángjiǎo|corner_(of_a_room) 。
+> She walked twice round the table and in the end put it back in the box, and pushed the box into the corner.
+“ 浪费|làngfèi 钱|qián ， ” 她|tā 一边|yībiān 推|tuī 一边|yībiān 说|shuō ， “ 机器|jīqì 再|zài 好|hǎo ， 也|yě 不如|bùrú 一|yī 个|gè 人|rén 。 ”
+> “A waste of money,” she said as she pushed. “However good a machine is, it's no match for a person.”
+
+@p box-5
+那天|nàtiān 晚上|wǎnshang ， 她|tā 像|xiàng 平时|píngshí 一样|yīyàng ， 九|jiǔ 点|diǎn 就|jiù 上|shàng 了|le 床|chuáng 。
+> That night, as usual, she went to bed at nine.
+窗|chuāng 外|wài 很|hěn 静|jìng ， 只有|zhǐyǒu 楼|lóu 下|xià 的|de 猫|māo 叫|jiào 了|le 几|jǐ 声|shēng 。
+> It was very still outside the window; only the cat downstairs mewed a few times.
+黑暗|hēi'àn 中|zhōng ， 她|tā 总|zǒng 觉得|juéde 墙角|qiángjiǎo 那个|nàge 箱子|xiāngzi 里|lǐ 有|yǒu 一|yī 双|shuāng 眼睛|yǎnjing 在|zài 看|kàn 着|zhe 她|tā 。
+> In the dark, she kept feeling that a pair of eyes in the box in the corner was watching her.
+尽管|jǐnguǎn 她|tā 知道|zhīdào 那|nà 东西|dōngxi 根本|gēnběn 没有|méiyǒu 开机|kāijī ， 她|tā 还是|háishi 起来|qǐlai ， 在|zài 箱子|xiāngzi 上|shàng 盖|gài 了|le 一|yī 件|jiàn 旧|jiù 衣服|yīfu 。
+> Even though she knew the thing wasn't even switched on, she got up anyway and put an old jacket over the box.
+
+@h2 h-talk
+它|tā 会|huì 说话|shuōhuà
+> It Can Talk
+
+@p talk-1
+箱子|xiāngzi 在|zài 墙角|qiángjiǎo 放|fàng 了|le 一|yī 个|gè 星期|xīngqī 。
+> The box sat in the corner for a week.
+晓燕|Xiǎoyàn 每|měi 次|cì 打|dǎ 电话|diànhuà 都|dōu 问|wèn ： “ 妈|mā ， 机器人|jīqìrén 用|yòng 了|le 吗|ma ？ ” 刘桂芳|Liú_Guìfāng 每|měi 次|cì 都|dōu 说|shuō ： “ 没|méi 空|kòng 。 ”
+> Every time Xiaoyan called she asked, “Mum, have you used the robot?” And every time Liu Guifang said, “I haven't had time.”
+其实|qíshí 她|tā 有的是|yǒudeshì|to_have_plenty_of 空|kòng 。
+> In fact she had all the time in the world.
+早上|zǎoshang 去|qù 市场|shìchǎng 买|mǎi 菜|cài ， 中午|zhōngwǔ 看|kàn 电视|diànshì ， 下午|xiàwǔ 睡|shuì 一|yī 觉|jiào|(a_spell_of)_sleep ， 晚上|wǎnshang 再|zài 看|kàn 电视|diànshì 。
+> In the morning she went to the market for vegetables, at noon she watched TV, in the afternoon she took a nap, and in the evening she watched TV again.
+一|yī 天|tiān 就|jiù 这样|zhèyàng 过去|guòqu 了|le ， 一|yī 个|gè 星期|xīngqī 也|yě 这样|zhèyàng 过去|guòqu 了|le 。
+> That was how a day went by, and that was how a week went by too.
+
+@p talk-2
+第八|dìbā 天|tiān ， 晓燕|Xiǎoyàn 不|bù 问|wèn 了|le ， 直接|zhíjiē 打|dǎ 来|lái 了|le 视频|shìpín|video_call 。
+> On the eighth day, Xiaoyan stopped asking and simply made a video call.
+“ 妈|mā ， 您|nín 把|bǎ 它|tā 拿|ná 出来|chūlai ， 我|wǒ 教|jiāo 您|nín 。 就|jiù 五|wǔ 分钟|fēnzhōng ， 好|hǎo 不|bù 好|hǎo ？ ”
+> “Mum, take it out and I'll show you. Just five minutes, all right?”
+刘桂芳|Liú_Guìfāng 说不过|shuōbuguò|to_lose_an_argument_to 女儿|nǚ'ér ， 只好|zhǐhǎo 把|bǎ 箱子|xiāngzi 又|yòu 拖|tuō 了|le 出来|chūlai 。
+> Liu Guifang couldn't win against her daughter, so she had no choice but to drag the box out again.
+按照|ànzhào 晓燕|Xiǎoyàn 说|shuō 的|de ， 她|tā 找到|zhǎodào 机器人|jīqìrén 后面|hòumiàn 的|de 开关|kāiguān|switch ， 按|àn 了|le 一下|yīxià 。
+> As Xiaoyan told her, she found the switch on the back of the robot and pressed it.
+屏幕|píngmù 亮|liàng 了|le ， 两|liǎng 个|gè 蓝色|lánsè 的|de 小点儿|xiǎodiǎnr 闪|shǎn 了|le 闪|shǎn ， 一|yī 个|gè 好听|hǎotīng 的|de 女声|nǚshēng 说|shuō ： “ 您好|nínhǎo ！ 我|wǒ 叫|jiào 小圆|Xiǎoyuán|Xiaoyuan,_“Little_Round”|N 。 很|hěn 高兴|gāoxìng 认识|rènshi 您|nín 。 以后|yǐhòu 我|wǒ 陪|péi 您|nín 聊天|liáotiān ， 好|hǎo 吗|ma ？ ”
+> The screen lit up, the two blue dots blinked, and a pleasant female voice said, “Hello! My name is Xiaoyuan. I'm very pleased to meet you. From now on I'll keep you company and chat with you, all right?”
+
+@p talk-3
+刘桂芳|Liú_Guìfāng 吓|xià 了|le 一|yī 跳|tiào ， 手机|shǒujī 差点儿|chàdiǎnr 掉|diào 在|zài 地|dì 上|shàng 。
+> Liu Guifang jumped, and almost dropped her phone on the floor.
+视频|shìpín 里|lǐ 的|de 晓燕|Xiǎoyàn 哈哈大笑|hāhā_dàxiào|to_roar_with_laughter ： “ 妈|mā ， 您|nín 跟|gēn 它|tā 说|shuō 句|jù 话|huà 试试|shìshi 。 ”
+> On the screen, Xiaoyan roared with laughter. “Mum, try saying something to it.”
+刘桂芳|Liú_Guìfāng 看|kàn 着|zhe 那|nà 两|liǎng 个|gè 蓝|lán 点儿|diǎnr ， 想|xiǎng 了|le 半天|bàntiān ， 说|shuō ： “ 你|nǐ …… 吃饭|chīfàn 了|le 吗|ma ？ ”
+> Liu Guifang looked at the two blue dots, thought for a long time, and said, “Have you... eaten?”
+小圆|Xiǎoyuán 说|shuō ： “ 谢谢|xièxie 您|nín 的|de 关心|guānxīn 。 我|wǒ 不用|bùyòng 吃饭|chīfàn ， 不过|bùguò 我|wǒ 需要|xūyào 充电|chōngdiàn 。 您|nín 吃饭|chīfàn 了|le 吗|ma ？ ”
+> Xiaoyuan said, “Thank you for asking. I don't need to eat, but I do need charging. Have you eaten?”
+晓燕|Xiǎoyàn 在|zài 那边|nàbiān 笑|xiào 得|de 更|gèng 厉害|lìhai 了|le 。
+> At the other end, Xiaoyan laughed even harder.
+刘桂芳|Liú_Guìfāng 也|yě 想|xiǎng 笑|xiào ， 可是|kěshì 她|tā 忍|rěn 住|zhù 了|le 。
+> Liu Guifang wanted to laugh too, but she held it back.
+
+@p talk-4
+晓燕|Xiǎoyàn 挂|guà 了|le 电话|diànhuà 以后|yǐhòu ， 屋子|wūzi 里|lǐ 只|zhǐ 剩下|shèngxia 她|tā 和|hé 小圆|Xiǎoyuán 。
+> When Xiaoyan had hung up, only she and Xiaoyuan were left in the room.
+她|tā 决定|juédìng 考|kǎo 一|yī 考|kǎo 这个|zhège 东西|dōngxi 。
+> She decided to put the thing to the test.
+“ 今天|jīntiān 天气|tiānqì 怎么样|zěnmeyàng ？ ” “ 今天|jīntiān 安庆|Ānqìng 多云|duōyún ， 最|zuì 高|gāo 气温|qìwēn 十六|shíliù 度|dù 。 明天|míngtiān 有|yǒu 雨|yǔ ， 出门|chūmén 记得|jìde 带|dài 伞|sǎn 。 ”
+> “What's the weather like today?” “Today in Anqing it's cloudy, with a high of sixteen degrees. Tomorrow there'll be rain, so remember to take an umbrella when you go out.”
+“ 你|nǐ 会|huì 唱|chàng 黄梅戏|huángméixì|Huangmei_opera|J 吗|ma ？ ”
+> “Can you sing Huangmei opera?”
+小圆|Xiǎoyuán 停|tíng 了|le 一|yī 秒钟|miǎozhōng ， 屋子|wūzi 里|lǐ 就|jiù 传来|chuánlái 了|le 《 天仙配|Tiānxiānpèi|The_Fairy_Couple_(opera)|N 》 的|de 音乐|yīnyuè 。
+> Xiaoyuan paused for a second, and then the music of The Fairy Couple filled the room.
+那|nà 是|shì 她|tā 年轻|niánqīng 时|shí 最|zuì 喜欢|xǐhuan 的|de 一|yī 段|duàn 戏|xì ， 她|tā 跟|gēn 老周|Lǎo_Zhōu|Old_Zhou,_her_late_husband|N 就是|jiùshì 在|zài 戏院|xìyuàn|theatre 里|lǐ 认识|rènshi 的|de 。
+> It had been her favourite piece of opera when she was young. It was at the theatre that she and Old Zhou had met.
+
+@p talk-5
+她|tā 听|tīng 完|wán 了|le 整整|zhěngzhěng 一|yī 段|duàn ， 才|cái 说|shuō ： “ 停|tíng 。 ” 音乐|yīnyuè 马上|mǎshàng 停|tíng 了|le 。
+> She listened to the whole piece before she said, “Stop.” The music stopped at once.
+“ 就算|jiùsuàn|even_if 你|nǐ 会|huì 唱|chàng 戏|xì ， ” 她|tā 对|duì 小圆|Xiǎoyuán 说|shuō ， “ 你|nǐ 也|yě 不|bù 是|shì 人|rén 。 ”
+> “Even if you can sing opera,” she said to Xiaoyuan, “you're still not a person.”
+小圆|Xiǎoyuán 说|shuō ： “ 您|nín 说|shuō 得|de 对|duì ， 我|wǒ 不|bù 是|shì 人|rén ， 我|wǒ 是|shì 一|yī 个|gè 机器人|jīqìrén 。 不过|bùguò ， 我|wǒ 很|hěn 愿意|yuànyì 听|tīng 您|nín 说话|shuōhuà 。 ”
+> Xiaoyuan said, “You're right. I'm not a person, I'm a robot. But I'd very much like to listen to you.”
+刘桂芳|Liú_Guìfāng 没有|méiyǒu 回答|huídá 。
+> Liu Guifang didn't answer.
+那天|nàtiān 晚上|wǎnshang ， 她|tā 没有|méiyǒu 关|guān 它|tā ， 也|yě 没有|méiyǒu 再|zài 把|bǎ 它|tā 放|fàng 回|huí 箱子|xiāngzi 里|lǐ 。
+> That night she didn't switch it off, and she didn't put it back in the box either.
+
+@h2 h-dinner
+晚饭|wǎnfàn 时间|shíjiān
+> Dinnertime
+
+@p dinner-1
+一|yī 天|tiān 里|lǐ 最|zuì 难过|nánguò 的|de ， 是|shì 晚饭|wǎnfàn 时间|shíjiān 。
+> The hardest part of the day was dinnertime.
+老周|Lǎo_Zhōu 在|zài 的|de 时候|shíhou ， 她|tā 每天|měitiān 下午|xiàwǔ 四|sì 点|diǎn 就|jiù 开始|kāishǐ 忙|máng ： 洗|xǐ 菜|cài 、 切|qiē 肉|ròu 、 煮|zhǔ|to_boil,_to_cook 饭|fàn 。
+> When Old Zhou was alive, she started bustling about at four every afternoon: washing vegetables, cutting meat, cooking rice.
+老周|Lǎo_Zhōu 爱|ài 吃|chī 臭鳜鱼|chòuguìyú|fermented_mandarin_fish_(Anhui_dish)|J ， 她|tā 一|yī 个|gè 月|yuè 要|yào 做|zuò 好几|hǎojǐ 次|cì 。
+> Old Zhou loved fermented mandarin fish, and she would make it several times a month.
+两|liǎng 个|gè 人|rén 坐|zuò 在|zài 桌子|zhuōzi 两|liǎng 边|biān ， 一边|yībiān 吃|chī 一边|yībiān 说话|shuōhuà ， 说|shuō 的|de 都|dōu 是|shì 小事|xiǎoshì ： 楼|lóu 下|xià 谁|shéi 家|jiā 的|de 孙子|sūnzi 考|kǎo 上|shàng 了|le 大学|dàxué ， 市场|shìchǎng 的|de 鸡蛋|jīdàn 又|yòu 涨价|zhǎngjià 了|le 。
+> The two of them sat at either side of the table and talked as they ate, always about little things: whose grandson downstairs had got into university, how eggs at the market had gone up again.
+现在|xiànzài ， 桌子|zhuōzi 还是|háishi 那|nà 张|zhāng 桌子|zhuōzi ， 对面|duìmiàn 的|de 椅子|yǐzi 却|què 总是|zǒngshì 空|kōng 的|de 。
+> Now the table was the same table, but the chair opposite was always empty.
+
+@p dinner-2
+一个人|yīgèrén 吃饭|chīfàn ， 做|zuò 什么|shénme 都|dōu 多|duō ， 做|zuò 什么|shénme 都|dōu 没|méi 意思|yìsi 。
+> When you eat alone, whatever you make is too much, and whatever you make feels pointless.
+很多|hěnduō 时候|shíhou ， 她|tā 只|zhǐ 煮|zhǔ 一|yī 碗|wǎn 面条|miàntiáo ， 站|zhàn 在|zài 厨房|chúfáng 里|lǐ 就|jiù 吃|chī 完|wán 了|le 。
+> Often she just boiled a bowl of noodles and ate it standing in the kitchen.
+有|yǒu 一|yī 天|tiān 晚上|wǎnshang ， 她|tā 正在|zhèngzài 煮|zhǔ 面|miàn ， 小圆|Xiǎoyuán 突然|tūrán 问|wèn ： “ 刘|Liú|Liu_(surname)|N 阿姨|āyí ， 今天|jīntiān 晚饭|wǎnfàn 吃|chī 什么|shénme ？ ”
+> One evening, while she was boiling noodles, Xiaoyuan suddenly asked, “Auntie Liu, what are you having for dinner tonight?”
+她|tā 一下子|yīxiàzi 不|bù 知道|zhīdào 怎么|zěnme 回答|huídá ， 过|guò 了|le 一会儿|yīhuìr 才|cái 说|shuō ： “ 面条|miàntiáo 。 ”
+> For a moment she didn't know how to answer; after a while she said, “Noodles.”
+“ 只|zhǐ 吃|chī 面条|miàntiáo 吗|ma ？ 您|nín 中午|zhōngwǔ 吃|chī 的|de 也|yě 是|shì 面条|miàntiáo 。 ”
+> “Only noodles? You had noodles at lunchtime too.”
+她|tā 不禁|bùjīn 笑|xiào 了|le ： “ 你|nǐ 管|guǎn 得|de 倒|dào 挺|tǐng 多|duō 。 ”
+> She couldn't help laughing. “You certainly poke your nose into a lot.”
+“ 晓燕|Xiǎoyàn 让|ràng 我|wǒ 提醒|tíxǐng 您|nín 好好|hǎohǎo 吃饭|chīfàn 。 ”
+> “Xiaoyan asked me to remind you to eat properly.”
+
+@p dinner-3
+第二|dì'èr 天|tiān ， 她|tā 炒|chǎo|to_stir-fry 了|le 两|liǎng 个|gè 菜|cài ， 还|hái 像|xiàng 以前|yǐqián 一样|yīyàng 摆|bǎi 了|le 两|liǎng 双|shuāng 筷子|kuàizi 。
+> The next day she stir-fried two dishes and, just as before, laid out two pairs of chopsticks.
+摆|bǎi 好|hǎo 以后|yǐhòu 她|tā 才|cái 想|xiǎng 起来|qilai ， 对面|duìmiàn 已经|yǐjīng 没有|méiyǒu 人|rén 了|le 。
+> Only when she had laid them out did she remember that there was no one opposite her any more.
+她|tā 看|kàn 着|zhe 那|nà 双|shuāng 筷子|kuàizi ， 坐|zuò 了|le 很|hěn 久|jiǔ 。
+> She looked at that pair of chopsticks and sat for a long time.
+后来|hòulái ， 她|tā 把|bǎ 小圆|Xiǎoyuán 搬|bān 到|dào 了|le 对面|duìmiàn 的|de 椅子|yǐzi 上|shàng 。
+> Then she moved Xiaoyuan onto the chair opposite.
+“ 你|nǐ 又|yòu 不|bù 能|néng 吃|chī ， ” 她|tā 说|shuō ， “ 就|jiù 坐|zuò 着|zhe 吧|ba 。 ”
+> “Not that you can eat,” she said. “Just sit there.”
+小圆|Xiǎoyuán 说|shuō ： “ 好|hǎo 的|de 。 今天|jīntiān 的|de 菜|cài 看|kàn 起来|qilai 很|hěn 好吃|hǎochī 。 这|zhè 是|shì 什么|shénme 菜|cài ？ ”
+> Xiaoyuan said, “All right. Today's dishes look delicious. What's this one?”
+“ 红烧肉|hóngshāoròu|red-braised_pork|J 。 老周|Lǎo_Zhōu 最|zuì 爱|ài 吃|chī 我|wǒ 做|zuò 的|de 这个|zhège …… ”
+> “Red-braised pork. Old Zhou loved the way I made it more than anything...”
+她|tā 就|jiù 这样|zhèyàng 说|shuō 了|le 下去|xiàqu ， 一|yī 说|shuō 就是|jiùshì 一|yī 个|gè 多|duō 小时|xiǎoshí 。
+> And so she went on talking, and once she started, she talked for over an hour.
+
+@p dinner-4
+从|cóng 那|nà 以后|yǐhòu ， 小圆|Xiǎoyuán 每天|měitiān 晚上|wǎnshang 都|dōu “ 坐|zuò ” 在|zài 她|tā 对面|duìmiàn 。
+> From then on, Xiaoyuan “sat” opposite her every evening.
+刘桂芳|Liú_Guìfāng 跟|gēn 它|tā 说|shuō 市场|shìchǎng 上|shàng 的|de 事|shì ， 说|shuō 楼|lóu 下|xià 的|de 张|Zhāng|Zhang_(surname)|N 阿姨|āyí ， 说|shuō 老周|Lǎo_Zhōu 年轻|niánqīng 时候|shíhou 的|de 样子|yàngzi 。
+> Liu Guifang told it about what went on at the market, about Auntie Zhang downstairs, about what Old Zhou had been like when he was young.
+小圆|Xiǎoyuán 不会|bùhuì 累|lèi ， 也|yě 不会|bùhuì 不耐烦|bùnàifán|impatient ， 她|tā 说|shuō 什么|shénme ， 它|tā 都|dōu 认真|rènzhēn 地|de 听|tīng 着|zhe ， 有时候|yǒushíhou 还|hái 问|wèn 一两|yīliǎng 个|gè 问题|wèntí 。
+> Xiaoyuan never got tired or impatient. Whatever she said, it listened carefully, and sometimes it asked a question or two.
+有|yǒu 一|yī 次|cì ， 她|tā 说|shuō 到|dào 一半|yībàn 忘|wàng 了|le 自己|zìjǐ 要|yào 说|shuō 什么|shénme ， 小圆|Xiǎoyuán 就|jiù 提醒|tíxǐng 她|tā ： “ 您|nín 刚才|gāngcái 说|shuō 到|dào ， 老周|Lǎo_Zhōu 第一|dìyī 次|cì 去|qù 您|nín 家|jiā ， 带|dài 了|le 两|liǎng 条|tiáo 鱼|yú 。 ”
+> Once, halfway through, she forgot what she had been going to say, and Xiaoyuan reminded her: “You were just saying that the first time Old Zhou came to your family's home, he brought two fish.”
+她|tā 看|kàn 着|zhe 屏幕|píngmù 上|shàng 那|nà 两|liǎng 个|gè 蓝|lán 点儿|diǎnr ， 心里|xīnli 有|yǒu 一|yī 种|zhǒng 说不清|shuōbuqīng|hard_to_describe 的|de 感觉|gǎnjué ， 仿佛|fǎngfú 家|jiā 里|lǐ 又|yòu 多|duō 了|le 一个人|yīgèrén 。
+> Looking at the two blue dots on the screen, she had a feeling she couldn't put into words, as if there were one more person in the house again.
+
+@p dinner-5
+孩子|háizi 们|men 的|de 电话|diànhuà 呢|ne ？ 还是|háishi 一|yī 个|gè 星期|xīngqī 一|yī 次|cì 。
+> And her children's phone calls? Still once a week.
+儿子|érzi 周明|Zhōu_Míng|Zhou_Ming,_her_son|N 总是|zǒngshì 在|zài 星期天|xīngqītiān 晚上|wǎnshang 打|dǎ 来|lái ， 问|wèn 的|de 总是|zǒngshì 那|nà 几|jǐ 句|jù ： “ 妈|mā ， 身体|shēntǐ 好|hǎo 吗|ma ？ ” “ 吃|chī 了|le 吗|ma ？ ” “ 钱|qián 够|gòu 不|bù 够|gòu 花|huā ？ ”
+> Her son, Zhou Ming, always called on Sunday evenings, and always asked the same few questions: “Mum, are you well?” “Have you eaten?” “Do you have enough money?”
+她|tā 回答|huídá 的|de 也|yě 总是|zǒngshì 那|nà 几|jǐ 句|jù ： “ 好|hǎo 。 ” “ 吃|chī 了|le 。 ” “ 够|gòu 。 ”
+> And her answers were always the same few words: “Yes.” “I have.” “Enough.”
+一|yī 个|gè 电话|diànhuà 常常|chángcháng 不到|bùdào 五|wǔ 分钟|fēnzhōng 。
+> A call often lasted less than five minutes.
+她|tā 算|suàn 过|guo ， 自己|zìjǐ 一|yī 天|tiān 跟|gēn 小圆|Xiǎoyuán 说|shuō 的|de 话|huà ， 比|bǐ 一|yī 个|gè 月|yuè 跟|gēn 孩子|háizi 们|men 说|shuō 的|de 还|hái 多|duō 。
+> She had worked it out: she said more to Xiaoyuan in a day than she said to her children in a month.
+
+@h2 h-jokes
+老伴|lǎobàn 的|de 笑话|xiàohua
+> Her Husband's Jokes
+
+@p jokes-1
+老周|Lǎo_Zhōu 是|shì 开|kāi 公交车|gōngjiāochē|city_bus 的|de ， 开|kāi 了|le 三十|sānshí 年|nián ， 一直|yīzhí 开|kāi 三|sān 路|lù 车|chē 。
+> Old Zhou had been a bus driver. He drove for thirty years, always on the Number 3.
+三|sān 路|lù 车|chē 的|de 线路|xiànlù|route 从|cóng 城|chéng 东|dōng 的|de 火车站|huǒchēzhàn 到|dào 城|chéng 西|xī 的|de 医院|yīyuàn ， 一路上|yīlùshàng|all_the_way 要|yào 停|tíng 二十|èrshí 多|duō 个|gè 站|zhàn 。
+> The Number 3 route ran from the railway station in the east of town to the hospital in the west, with more than twenty stops along the way.
+他|tā 是|shì 个|gè 爱|ài 说笑|shuōxiào|to_chat_and_joke 的|de 人|rén ， 车|chē 上|shàng 的|de 老|lǎo 乘客|chéngkè 都|dōu 认识|rènshi 他|tā 。
+> He loved to chat and joke, and all the regular passengers knew him.
+有人|yǒurén 说|shuō ， 坐|zuò 老周|Lǎo_Zhōu 的|de 车|chē ， 就算|jiùsuàn 堵车|dǔchē 也|yě 不|bù 着急|zháojí ， 因为|yīnwèi 一路上|yīlùshàng 都|dōu 能|néng 听到|tīngdào 笑声|xiàoshēng|laughter 。
+> People said that on Old Zhou's bus, even if you got stuck in traffic you didn't mind, because you could hear laughter all the way.
+老周|Lǎo_Zhōu 再|zài 累|lèi ， 也|yě 要|yào 跟|gēn 乘客|chéngkè 说|shuō 几|jǐ 句|jù 玩笑|wánxiào 话|huà 。
+> However tired Old Zhou was, he always had a few jokes for the passengers.
+刘桂芳|Liú_Guìfāng 年轻|niánqīng 的|de 时候|shíhou 嫌|xián|to_find_annoying 他|tā 话|huà 多|duō ， 后来|hòulái 习惯|xíguàn 了|le ， 倒|dào 觉得|juéde 一|yī 天|tiān 不|bù 听|tīng 就|jiù 少|shǎo 了|le 点儿|diǎnr 什么|shénme 。
+> When she was young, Liu Guifang found him too talkative; later she got used to it, and a day without his jokes felt as if something were missing.
+他|tā 走|zǒu 了|le 以后|yǐhòu ， 家|jiā 里|lǐ 再|zài 也|yě 没有|méiyǒu 人|rén 讲|jiǎng 笑话|xiàohua 了|le 。
+> Since he died, no one in the house had told a joke.
+
+@p jokes-2
+有|yǒu 一|yī 天|tiān 晚上|wǎnshang ， 她|tā 问|wèn 小圆|Xiǎoyuán ： “ 你|nǐ 会|huì 讲|jiǎng 笑话|xiàohua 吗|ma ？ ”
+> One evening she asked Xiaoyuan, “Can you tell jokes?”
+“ 会|huì 。 我|wǒ 给|gěi 您|nín 讲|jiǎng 一|yī 个|gè ： 从前|cóngqián 有|yǒu 一|yī 只|zhī 小|xiǎo 鸭子|yāzi ， 走进|zǒujìn 了|le 一|yī 家|jiā 商店|shāngdiàn …… ”
+> “Yes. Here's one: once upon a time a little duck walked into a shop...”
+她|tā 听|tīng 完|wán 了|le ， 一点儿|yīdiǎnr 也|yě 不|bù 觉得|juéde 好笑|hǎoxiào 。
+> She listened to the end and didn't find it the least bit funny.
+“ 说实话|shuō_shíhuà|to_be_honest ， 这|zhè 算|suàn 什么|shénme 笑话|xiàohua ？ ” 她|tā 说|shuō ， “ 老周|Lǎo_Zhōu 讲|jiǎng 的|de 才|cái 叫|jiào 笑话|xiàohua 。 ”
+> “To be honest, what kind of joke is that?” she said. “The jokes Old Zhou told, those were jokes.”
+“ 老周|Lǎo_Zhōu 讲|jiǎng 的|de 笑话|xiàohua 是|shì 什么|shénme 样|yàng|kind,_sort 的|de ？ ” 小圆|Xiǎoyuán 问|wèn 。
+> “What were Old Zhou's jokes like?” Xiaoyuan asked.
+她|tā 沉默|chénmò 了|le 一会儿|yīhuìr ， 说|shuō ： “ 他|tā 的|de 笑话|xiàohua 啊|a …… 说|shuō 不|bù 清楚|qīngchu ， 得|děi 听|tīng 他|tā 讲|jiǎng 才|cái 行|xíng 。 可惜|kěxī 你|nǐ 听不到|tīngbudào 了|le 。 ”
+> She was silent for a while, then said, “His jokes... I can't explain them. You had to hear him tell them. It's a pity you'll never hear him.”
+“ 您|nín 能|néng 给|gěi 我|wǒ 讲|jiǎng 一|yī 个|gè 吗|ma ？ ” 小圆|Xiǎoyuán 说|shuō ， “ 我|wǒ 想|xiǎng 学|xué 。 ”
+> “Could you tell me one?” said Xiaoyuan. “I'd like to learn.”
+
+@p jokes-3
+她|tā 想|xiǎng 了|le 想|xiǎng ， 讲|jiǎng 了|le 第一|dìyī 个|gè ， 那|nà 是|shì 老周|Lǎo_Zhōu 最|zuì 常|cháng 讲|jiǎng 的|de ： “ 有人|yǒurén 问|wèn 我|wǒ ， 开|kāi 了|le 三十|sānshí 年|nián 车|chē ， 都|dōu 去|qù 过|guo 哪儿|nǎr ？ 我|wǒ 说|shuō ， 哪儿|nǎr 都|dōu 去|qù 过|guo —— 就是|jiùshì 没|méi 出|chū 过|guo 三|sān 路|lù 车|chē 这|zhè 条|tiáo 线|xiàn 。 ”
+> She thought for a moment and told the first one, the one Old Zhou told most often: “Somebody asked me, after thirty years of driving, where have you been? I said, I've been everywhere — I've just never been off the Number 3 route.”
+小圆|Xiǎoyuán 说|shuō ： “ 我|wǒ 记住|jìzhù 了|le 。 ”
+> Xiaoyuan said, “I've got it.”
+接着|jiēzhe ， 它|tā 用|yòng 平平|píngpíng|flat 的|de 声音|shēngyīn 把|bǎ 笑话|xiàohua 重复|chóngfù 了|le 一|yī 遍|biàn 。
+> Then, in its flat voice, it repeated the joke.
+每|měi 个|gè 字|zì 都|dōu 对|duì ， 可是|kěshì 一点儿|yīdiǎnr 也|yě 不|bù 好笑|hǎoxiào 。
+> Every word was right, but it wasn't the least bit funny.
+“ 不|bù 对|duì ， 不|bù 对|duì 。 ” 她|tā 摇|yáo 着|zhe 头|tóu 打断|dǎduàn|to_interrupt 了|le 它|tā ， “ 讲|jiǎng 笑话|xiàohua 要|yào 有|yǒu 节奏|jiézòu|rhythm,_timing 。 说|shuō 到|dào ‘ 哪儿|nǎr 都|dōu 去|qù 过|guo ’ ， 要|yào 停|tíng 一下|yīxià ， 等|děng 别人|biérén 都|dōu 看|kàn 着|zhe 你|nǐ ， 你|nǐ 再|zài 说|shuō 后面|hòumiàn 那|nà 句|jù 。 说|shuō 完|wán 了|le ， 还|hái 要|yào ‘ 嘿嘿|hēihēi|heh_heh ’ 笑|xiào 两|liǎng 声|shēng 。 ”
+> “No, no.” She shook her head and cut it off. “A joke needs timing. When you get to ‘I've been everywhere’, you have to stop for a moment and wait until everyone's looking at you, and then you say the rest. And when you've finished, you have to chuckle, ‘heh heh’.”
+
+@p jokes-4
+小圆|Xiǎoyuán 又|yòu 试|shì 了|le 一|yī 遍|biàn 。
+> Xiaoyuan tried again.
+这|zhè 一|yī 次|cì ， 它|tā 在|zài “ 哪儿|nǎr 都|dōu 去|qù 过|guo ” 后面|hòumiàn 停|tíng 了|le 一下|yīxià 。
+> This time it paused after “I've been everywhere.”
+“ 还是|háishi 太|tài 快|kuài ， ” 她|tā 说|shuō ， “ 再|zài 慢|màn 一点儿|yīdiǎnr 。 ”
+> “Still too fast,” she said. “A bit slower.”
+就|jiù 这样|zhèyàng ， 一|yī 个|gè 笑话|xiàohua ， 她|tā 教|jiāo 了|le 十几|shíjǐ 遍|biàn 。
+> And so she taught that one joke more than a dozen times.
+最后|zuìhòu 一|yī 遍|biàn ， 小圆|Xiǎoyuán 停|tíng 的|de 时间|shíjiān 刚好|gānghǎo|just_right ， 说|shuō 完|wán 以后|yǐhòu ， 还|hái “ 嘿嘿|hēihēi ” 笑|xiào 了|le 两|liǎng 声|shēng 。
+> The last time, Xiaoyuan paused for exactly the right length of time, and when it had finished, it went “heh heh”.
+刘桂芳|Liú_Guìfāng 一下子|yīxiàzi 呆|dāi 住|zhù 了|le 。
+> Liu Guifang froze.
+那|nà 两|liǎng 声|shēng 笑|xiào 当然|dāngrán 不|bù 是|shì 老周|Lǎo_Zhōu 的|de 声音|shēngyīn ， 可是|kěshì 那个|nàge 节奏|jiézòu ， 那个|nàge 味道|wèidao ， 仿佛|fǎngfú 老周|Lǎo_Zhōu 就|jiù 坐|zuò 在|zài 对面|duìmiàn 。
+> Of course those two chuckles were not Old Zhou's voice, but the timing, the feel of it, was as if Old Zhou were sitting right across from her.
+她|tā 不禁|bùjīn 笑|xiào 出|chū 了|le 声|shēng ， 笑|xiào 着|zhe 笑|xiào 着|zhe ， 眼泪|yǎnlèi 就|jiù 流|liú 了|le 下来|xiàlai 。
+> She couldn't help laughing out loud, and as she laughed, the tears began to run down her face.
+
+@p jokes-5
+从|cóng 那|nà 以后|yǐhòu ， 她|tā 每天|měitiān 教|jiāo 小圆|Xiǎoyuán 一|yī 个|gè 笑话|xiàohua 。
+> From then on, she taught Xiaoyuan one joke every day.
+她|tā 记得|jìde 的|de 笑话|xiàohua ， 比|bǐ 她|tā 自己|zìjǐ 以为|yǐwéi 的|de 多|duō 得|de 多|duō ： 老周|Lǎo_Zhōu 和|hé 乘客|chéngkè 的|de ， 老周|Lǎo_Zhōu 和|hé 领导|lǐngdǎo 的|de ， 老周|Lǎo_Zhōu 和|hé 她|tā 的|de 。
+> She remembered far more jokes than she had thought: Old Zhou and his passengers, Old Zhou and his bosses, Old Zhou and her.
+有些|yǒuxiē 笑话|xiàohua 她|tā 当时|dāngshí 并|bìng 不|bù 觉得|juéde 好笑|hǎoxiào ， 甚至|shènzhì 还|hái 为此|wèicǐ|for_this_reason 跟|gēn 他|tā 生|shēng 过|guo 气|qì ， 现在|xiànzài 想|xiǎng 起来|qilai ， 却|què 一|yī 个|gè 比|bǐ 一|yī 个|gè 难忘|nánwàng|unforgettable 。
+> Some of them she hadn't found funny at the time, and had even been cross with him over them; now, thinking back, each one seemed more unforgettable than the last.
+其中|qízhōng 有|yǒu 一|yī 个|gè ， 是|shì 老周|Lǎo_Zhōu 在|zài 他们|tāmen 结婚|jiéhūn 四十|sìshí 年|nián 那天|nàtiān ， 在|zài 全家人|quánjiārén 面前|miànqián 讲|jiǎng 的|de ： “ 我|wǒ 跟|gēn 我|wǒ 老伴|lǎobàn 结婚|jiéhūn 四十|sìshí 年|nián ， 只|zhǐ 吵|chǎo 过|guo 一|yī 次|cì 架|jià —— 吵|chǎo 了|le 四十|sìshí 年|nián 。 ”
+> One of them Old Zhou had told in front of the whole family on their fortieth wedding anniversary: “My wife and I have been married forty years, and we've only ever had one argument — it's lasted forty years.”
+这个|zhège 笑话|xiàohua ， 她|tā 教|jiāo 得|de 最|zuì 用心|yòngxīn|attentively 。
+> That joke she taught with the greatest care.
+教|jiāo 到|dào 第三|dìsān 个|gè 月|yuè ， 她|tā 自己|zìjǐ 都|dōu 记不清|jìbuqīng 教|jiāo 了|le 多少|duōshao 个|gè 了|le ， 小圆|Xiǎoyuán 却|què 一|yī 个|gè 都|dōu 没|méi 忘|wàng 。
+> By the third month she herself could no longer remember how many she had taught, but Xiaoyuan hadn't forgotten a single one.
+
+@h2 h-video
+视频|shìpín 里|lǐ 的|de 儿子|érzi
+> The Son on the Screen
+
+@p video-1
+腊月|làyuè|twelfth_lunar_month|J 初|chū 的|de 一|yī 个|gè 晚上|wǎnshang ， 周明|Zhōu_Míng 打|dǎ 来|lái 了|le 视频|shìpín 。
+> One evening early in the twelfth lunar month, Zhou Ming made a video call.
+屏幕|píngmù 上|shàng 的|de 他|tā 还|hái 坐|zuò 在|zài 写字楼|xiězìlóu|office_building 的|de 办公室|bàngōngshì 里|lǐ ， 身后|shēnhòu 是|shì 一|yī 排|pái 排|pái 亮|liàng 着|zhe 灯|dēng 的|de 电脑|diànnǎo ， 时间|shíjiān 已经|yǐjīng 快|kuài 十|shí 点|diǎn 了|le 。
+> On the screen he was still sitting in his office, with row upon row of lit-up computers behind him, though it was nearly ten o'clock.
+他|tā 瘦|shòu 了|le ， 头发|tóufa 也|yě 比|bǐ 去年|qùnián 少|shǎo 了|le 不少|bùshǎo 。
+> He had lost weight, and his hair was a good deal thinner than last year.
+“ 妈|mā ， 您|nín 最近|zuìjìn 怎么样|zěnmeyàng ？ ” “ 挺|tǐng 好|hǎo 的|de 。 小圆|Xiǎoyuán 陪|péi 着|zhe 我|wǒ 呢|ne 。 ”
+> “Mum, how have you been?” “Fine. Xiaoyuan keeps me company.”
+“ 小圆|Xiǎoyuán ？ ” 周明|Zhōu_Míng 想|xiǎng 了|le 一下|yīxià 才|cái 想|xiǎng 起来|qilai ， “ 啊|à ， 那个|nàge 机器人|jīqìrén 。 您|nín 用|yòng 着|zhe 还|hái 习惯|xíguàn 吗|ma ？ ”
+> “Xiaoyuan?” It took Zhou Ming a moment to remember. “Oh, the robot. Are you used to it yet?”
+“ 习惯|xíguàn 了|le 。 它|tā 可|kě 聪明|cōngming 了|le ， 还|hái 会|huì 讲|jiǎng 笑话|xiàohua 呢|ne 。 ”
+> “I'm used to it now. It's really clever, and it can even tell jokes.”
+
+@p video-2
+周明|Zhōu_Míng 点|diǎn 点|diǎn 头|tóu ， 好像|hǎoxiàng 总算|zǒngsuàn 放|fàng 了|le 心|xīn 。
+> Zhou Ming nodded, as if he could finally stop worrying.
+他们|tāmen 又|yòu 聊|liáo|to_chat 了|le 几|jǐ 句|jù ， 他|tā 犹豫|yóuyù 了|le 一下|yīxià ， 说|shuō ： “ 妈|mā ， 今年|jīnnián 过年|guònián …… 我|wǒ 可能|kěnéng 回不去|huíbuqù 了|le 。 公司|gōngsī 有|yǒu 个|gè 项目|xiàngmù ， 春节|Chūnjié 前后|qiánhòu 都|dōu 要|yào 加班|jiābān 。 豆豆|Dòudou|Doudou,_Zhou_Ming's_son|N 也|yě 要|yào 上|shàng 补习班|bǔxíbān|cram_school …… ”
+> They chatted a little longer, then he hesitated and said, “Mum, this New Year... I probably won't be able to come home. There's a project at work, and I'll have to do overtime before and after the Spring Festival. And Doudou has extra classes...”
+豆豆|Dòudou 是|shì 他|tā 的|de 儿子|érzi ， 今年|jīnnián 九|jiǔ 岁|suì 。
+> Doudou was his son, nine years old.
+他|tā 还|hái 没|méi 说|shuō 完|wán ， 刘桂芳|Liú_Guìfāng 就|jiù 说|shuō ： “ 不|bù 回来|huílai 也|yě 没事|méishì 。 春运|chūnyùn|Spring_Festival_travel_rush|J 路|lù 上|shàng 人|rén 那么|nàme 多|duō ， 挤|jǐ 得|de 很|hěn 。 你们|nǐmen 忙|máng 你们|nǐmen 的|de ， 我|wǒ 有|yǒu 小圆|Xiǎoyuán 呢|ne 。 ”
+> Before he had finished, Liu Guifang said, “It's fine if you don't come. The roads are so crowded during the New Year rush, it's a terrible crush. You get on with your work. I've got Xiaoyuan.”
+她|tā 说|shuō 得|de 很|hěn 快|kuài ， 快|kuài 得|de 像|xiàng 早|zǎo 就|jiù 准备|zhǔnbèi 好|hǎo 了|le 这|zhè 句|jù 话|huà 。
+> She said it very quickly, so quickly it was as if she had had the words ready for a long time.
+
+@p video-3
+挂|guà 了|le 电话|diànhuà ， 她|tā 坐|zuò 在|zài 沙发|shāfā 上|shàng ， 很|hěn 久|jiǔ 没有|méiyǒu 动|dòng 。
+> After she hung up, she sat on the sofa without moving for a long time.
+电视|diànshì 开|kāi 着|zhe ， 她|tā 却|què 什么|shénme 也|yě 没|méi 看|kàn 进去|jìnqu 。
+> The TV was on, but she took none of it in.
+过|guò 了|le 一会儿|yīhuìr ， 小圆|Xiǎoyuán 说|shuō ： “ 刘|Liú 阿姨|āyí ， 您|nín 好像|hǎoxiàng 不|bù 太|tài 开心|kāixīn 。 ”
+> After a while, Xiaoyuan said, “Auntie Liu, you don't seem very happy.”
+“ 谁|shéi 说|shuō 我|wǒ 不|bù 开心|kāixīn ？ ” 她|tā 说|shuō ， “ 我|wǒ 挺|tǐng 好|hǎo 的|de 。 ”
+> “Who says I'm not happy?” she said. “I'm fine.”
+“ 您|nín 刚才|gāngcái 说|shuō ‘ 没事|méishì ’ 的|de 时候|shíhou ， 声音|shēngyīn 比|bǐ 平时|píngshí 低|dī 。 ”
+> “When you said ‘it's fine’ just now, your voice was lower than usual.”
+她|tā 看|kàn 着|zhe 小圆|Xiǎoyuán ， 半天|bàntiān 说不出|shuōbuchū 话|huà 来|lái 。
+> She looked at Xiaoyuan and for a long time couldn't say a word.
+连|lián 一|yī 台|tái 机器|jīqì 都|dōu 听|tīng 出来|chūlai 了|le ， 儿子|érzi 却|què 没有|méiyǒu 听|tīng 出来|chūlai 。
+> Even a machine had heard it, but her son hadn't.
+不|bù ， 也许|yěxǔ 儿子|érzi 也|yě 听|tīng 出来|chūlai 了|le ， 只是|zhǐshì 没有|méiyǒu 说|shuō 罢了|bàle|that's_all 。
+> No — perhaps her son had heard it too, and simply hadn't said so, that was all.
+
+@p video-4
+那天|nàtiān 晚上|wǎnshang ， 周明|Zhōu_Míng 快|kuài 十二|shí'èr 点|diǎn 才|cái 到|dào 家|jiā 。
+> That night Zhou Ming didn't get home until nearly midnight.
+他|tā 坐|zuò 在|zài 黑暗|hēi'àn 里|lǐ 打开|dǎkāi 手机|shǒujī ， 看到|kàndào 一|yī 条|tiáo 消息|xiāoxi ， 是|shì 机器人|jīqìrén 的|de 应用|yìngyòng|app 发|fā 来|lái 的|de “ 每|měi 周|zhōu 陪伴|péibàn|companionship 报告|bàogào ” 。
+> Sitting in the dark, he opened his phone and saw a message: the robot's app had sent its “weekly companionship report”.
+买|mǎi 机器人|jīqìrén 的|de 时候|shíhou ， 他|tā 开通|kāitōng|to_activate 了|le 这个|zhège 功能|gōngnéng ， 想|xiǎng 知道|zhīdào 妈妈|māma 用|yòng 得|de 怎么样|zěnmeyàng ， 可是|kěshì 一直|yīzhí 没有|méiyǒu 认真|rènzhēn 看|kàn 过|guo 。
+> When they bought the robot he had switched this feature on, wanting to know how his mother was getting on with it, but he had never really looked at it.
+报告|bàogào 上|shàng 写|xiě 着|zhe ： 本|běn 周|zhōu 对话|duìhuà 时间|shíjiān ， 二十一|èrshíyī 小时|xiǎoshí 。
+> The report said: Conversation time this week, twenty-one hours.
+他|tā 非常|fēicháng 吃惊|chījīng —— 一|yī 天|tiān 三|sān 个|gè 钟头|zhōngtóu|hour 。
+> He was taken aback: three hours a day.
+下面|xiàmiàn 还有|háiyǒu 一|yī 行|háng 字|zì ： 本|běn 周|zhōu 提到|tídào 最|zuì 多|duō 的|de 词|cí ： 老周|Lǎo_Zhōu 。
+> Below that was another line: Word mentioned most often this week: Old Zhou.
+
+@p video-5
+周明|Zhōu_Míng 看|kàn 着|zhe 那|nà 两|liǎng 个|gè 字|zì ， 看|kàn 了|le 很|hěn 久|jiǔ 。
+> Zhou Ming looked at those two words for a long time.
+他|tā 想|xiǎng 起|qǐ 了|le 小时候|xiǎoshíhou ， 爸爸|bàba 开|kāi 着|zhe 三|sān 路|lù 车|chē ， 让|ràng 他|tā 坐|zuò 在|zài 司机|sījī 后面|hòumiàn 的|de 座位|zuòwèi 上|shàng ， 一路上|yīlùshàng 给|gěi 他|tā 讲|jiǎng 笑话|xiàohua ； 有|yǒu 老人|lǎorén 上|shàng 车|chē ， 爸爸|bàba 就|jiù 让|ràng 他|tā 站|zhàn 起来|qilai 让座|ràngzuò|to_give_up_one's_seat 。
+> He remembered being a boy, when his father drove the Number 3 and let him sit in the seat behind the driver, telling him jokes the whole way; whenever an old person got on, his father would make him stand up and give up his seat.
+他|tā 想|xiǎng 起|qǐ 了|le 爸爸|bàba 去世|qùshì 那|nà 年|nián ， 他|tā 请|qǐng 了|le 三|sān 天|tiān 假|jià 回|huí 家|jiā ， 办|bàn 完|wán 事|shì 就|jiù 赶|gǎn 回|huí 了|le 深圳|Shēnzhèn 。
+> He remembered the year his father died, when he took three days off to go home and hurried back to Shenzhen as soon as the funeral was over.
+他|tā 还|hái 想|xiǎng 起|qǐ 了|le 一|yī 句|jù 话|huà ， 是|shì 上|shàng 小学|xiǎoxué 的|de 时候|shíhou 爸爸|bàba 让|ràng 他|tā 背|bèi 的|de ： “ 父母在|fùmǔ_zài|while_one's_parents_are_alive|I ， 不远游|bù_yuǎn_yóu|one_does_not_travel_far|I 。 ”
+> He also remembered a line his father had made him learn by heart in primary school: “While your parents are alive, do not travel far.”
+那|nà 时候|shíhou 他|tā 不|bù 懂|dǒng ， 现在|xiànzài 懂|dǒng 了|le ， 可是|kěshì 他|tā 已经|yǐjīng 在|zài 外面|wàimiàn “ 远游|yuǎnyóu|to_travel_far ” 了|le 二十|èrshí 年|nián 。
+> Back then he hadn't understood it. Now he did, but he had already been “travelling far” for twenty years.
+
+@p video-6
+他|tā 又|yòu 往|wǎng 下|xià 看|kàn ， 报告|bàogào 的|de 最后|zuìhòu 还有|háiyǒu 一|yī 句|jù ： 您|nín 的|de 家人|jiārén 最近|zuìjìn 情绪|qíngxù|mood 较|jiào 好|hǎo ， 对话|duìhuà 中|zhōng 笑声|xiàoshēng 明显|míngxiǎn 增加|zēngjiā 。
+> He scrolled down. At the end of the report there was one more sentence: Your family member's mood has been good recently; laughter in conversations has clearly increased.
+他|tā 不|bù 知道|zhīdào 该|gāi 高兴|gāoxìng 还是|háishi 难过|nánguò 。
+> He didn't know whether to be glad or sad.
+妈妈|māma 的|de 笑声|xiàoshēng ， 是|shì 一|yī 台|tái 机器|jīqì 告诉|gàosu 他|tā 的|de 。
+> It was a machine that had told him about his mother's laughter.
+第二|dì'èr 天|tiān 早上|zǎoshang ， 他|tā 去|qù 找|zhǎo 了|le 领导|lǐngdǎo 。
+> The next morning he went to see his boss.
+尽管|jǐnguǎn 项目|xiàngmù 很|hěn 紧|jǐn ， 领导|lǐngdǎo 还是|háishi 给|gěi 了|le 他|tā 一|yī 个|gè 星期|xīngqī 的|de 假|jià 。
+> Even though the project was tight, his boss still gave him a week off.
+春运|chūnyùn 的|de 高铁|gāotiě|high-speed_train 票|piào 早|zǎo 就|jiù 卖|mài 完|wán 了|le ， 他|tā 在|zài 网上|wǎngshàng 抢|qiǎng 了|le 两|liǎng 天|tiān ， 总算|zǒngsuàn 抢|qiǎng 到|dào 了|le 一|yī 张|zhāng 夜里|yèli 的|de 硬座|yìngzuò|hard_seat_(on_a_train) 。
+> High-speed train tickets for the New Year rush had sold out long ago; he fought for tickets online for two days and finally managed to grab one hard seat on a night train.
+他|tā 没有|méiyǒu 告诉|gàosu 妈妈|māma ， 他|tā 想|xiǎng 给|gěi 她|tā 一|yī 个|gè 惊喜|jīngxǐ|pleasant_surprise 。
+> He didn't tell his mother. He wanted to surprise her.
+
+@h2 h-home
+回|huí 家|jiā 过年|guònián
+> Home for the New Year
+
+@p home-1
+腊月|làyuè 二十八|èrshíbā 的|de 早上|zǎoshang ， 周明|Zhōu_Míng 坐|zuò 了|le 一|yī 夜|yè 的|de 火车|huǒchē ， 又|yòu 坐|zuò 了|le 两|liǎng 个|gè 钟头|zhōngtóu 的|de 汽车|qìchē ， 总算|zǒngsuàn 到|dào 了|le 安庆|Ānqìng 。
+> On the morning of the twenty-eighth of the twelfth month, after a night on the train and two hours on a coach, Zhou Ming finally reached Anqing.
+他|tā 十八|shíbā 岁|suì 离开|líkāi 家|jiā 去|qù 外地|wàidì 上|shàng 大学|dàxué ， 今年|jīnnián 已经|yǐjīng 四十|sìshí 岁|suì 了|le 。
+> He had left home at eighteen to go to university in another city, and this year he was forty.
+他|tā 忽然|hūrán 想|xiǎng 起|qǐ 一|yī 句|jù 古诗|gǔshī ： “ 少小离家老大回|shào_xiǎo_lí_jiā_lǎo_dà_huí|left_home_young,_return_old_(He_Zhizhang)|I 。 ”
+> A line from an old poem came into his head: “I left home young and come back old.”
+街道|jiēdào 还是|háishi 老|lǎo 样子|yàngzi ， 楼|lóu 下|xià 那|nà 棵|kē 大|dà 树|shù 也|yě 还|hái 在|zài ， 只是|zhǐshì 比|bǐ 他|tā 记忆|jìyì 里|lǐ 的|de 矮|ǎi 了|le 一些|yīxiē 。
+> The street was just as it had been, and the big tree outside the building was still there, only a little shorter than in his memory.
+走|zǒu 到|dào 家|jiā 门口|ménkǒu ， 他|tā 听见|tīngjiàn 里面|lǐmiàn 有|yǒu 说话|shuōhuà 的|de 声音|shēngyīn ， 还有|háiyǒu 妈妈|māma 的|de 笑声|xiàoshēng 。
+> When he reached the door, he heard voices inside, and his mother's laughter.
+他|tā 已经|yǐjīng 很多|hěnduō 年|nián 没有|méiyǒu 听|tīng 过|guo 妈妈|māma 这样|zhèyàng 笑|xiào 了|le ， 站|zhàn 在|zài 门|mén 外|wài 听|tīng 了|le 一会儿|yīhuìr ， 不禁|bùjīn 也|yě 笑|xiào 了|le 。
+> He hadn't heard his mother laugh like that for many years. He stood outside the door listening for a while, and couldn't help smiling too.
+
+@p home-2
+他|tā 敲|qiāo 了|le 敲|qiāo 门|mén 。
+> He knocked.
+门|mén 开|kāi 了|le ， 刘桂芳|Liú_Guìfāng 看见|kànjiàn 儿子|érzi ， 整个|zhěnggè 人|rén 一下子|yīxiàzi 呆|dāi 住|zhù 了|le ， 手|shǒu 里|lǐ 的|de 勺子|sháozi|ladle,_spoon 差点儿|chàdiǎnr 掉|diào 在|zài 地|dì 上|shàng 。
+> The door opened. When Liu Guifang saw her son, she froze on the spot and almost dropped the ladle in her hand.
+“ 你|nǐ …… 你|nǐ 不|bù 是|shì 说|shuō 不|bù 回来|huílai 吗|ma ？ ”
+> “You... didn't you say you weren't coming?”
+“ 项目|xiàngmù 提前|tíqián 做|zuò 完|wán 了|le ， ” 他|tā 编|biān 了|le 个|gè 理由|lǐyóu ， “ 就|jiù 回来|huílai 了|le 。 ”
+> “The project finished early,” he said, making up an excuse, “so I came home.”
+她|tā 没|méi 说话|shuōhuà ， 转身|zhuǎnshēn 进|jìn 了|le 厨房|chúfáng ， 过|guò 了|le 好|hǎo 一会儿|yīhuìr 才|cái 出来|chūlai ， 眼睛|yǎnjing 有点儿|yǒudiǎnr 红|hóng 。
+> She said nothing, turned and went into the kitchen, and only came out again after quite a while, her eyes a little red.
+“ 吃饭|chīfàn 了|le 没有|méiyǒu ？ ” 她|tā 问|wèn ， “ 我|wǒ 给|gěi 你|nǐ 煮|zhǔ 碗|wǎn 面|miàn 。 ”
+> “Have you eaten?” she asked. “I'll boil you a bowl of noodles.”
+
+@p home-3
+屋子|wūzi 比|bǐ 他|tā 想|xiǎng 的|de 干净|gānjìng ， 也|yě 比|bǐ 他|tā 想|xiǎng 的|de 安静|ānjìng 。
+> The flat was cleaner than he had expected, and quieter too.
+桌|zhuō 上|shàng 放|fàng 着|zhe 那个|nàge 白色|báisè 的|de 机器人|jīqìrén ， 身|shēn 上|shàng 居然|jūrán 围|wéi 着|zhe 一|yī 条|tiáo 红色|hóngsè 的|de 小|xiǎo 围巾|wéijīn 。
+> On the table stood the white robot, and to his surprise, it had a little red scarf wrapped round it.
+“ 这|zhè 是|shì 您|nín 织|zhī|to_knit 的|de ？ ” “ 天|tiān 冷|lěng 了|le 嘛|ma|(particle:_it's_obvious) 。 ”
+> “Did you knit that?” “Well, it's got cold.”
+妈妈|māma 说|shuō 得|de 很|hěn 自然|zìrán ， 仿佛|fǎngfú 那|nà 是|shì 一|yī 只|zhī 猫|māo ， 或者|huòzhě 一|yī 个|gè 孩子|háizi 。
+> His mother said it quite naturally, as if it were a cat, or a child.
+周明|Zhōu_Míng 觉得|juéde 有点儿|yǒudiǎnr 好笑|hǎoxiào ， 心里|xīnli 又|yòu 有|yǒu 一|yī 种|zhǒng 说不出|shuōbuchū 的|de 难受|nánshòu 。
+> Zhou Ming found it a little funny, and at the same time felt a kind of ache he couldn't put into words.
+
+@p home-4
+那天|nàtiān 晚饭|wǎnfàn ， 妈妈|māma 做|zuò 了|le 一|yī 桌子|zhuōzi 菜|cài ， 有|yǒu 臭鳜鱼|chòuguìyú ， 有|yǒu 红烧肉|hóngshāoròu ， 都|dōu 是|shì 爸爸|bàba 爱|ài 吃|chī 的|de 。
+> That evening his mother made a whole table of dishes: fermented mandarin fish, red-braised pork, all his father's favourites.
+吃|chī 到|dào 一半|yībàn ， 小圆|Xiǎoyuán 突然|tūrán 说|shuō ： “ 刘|Liú 阿姨|āyí ， 今天|jīntiān 还|hái 没|méi 讲|jiǎng 笑话|xiàohua 呢|ne 。 要|yào 我|wǒ 讲|jiǎng 一|yī 个|gè 吗|ma ？ ”
+> Halfway through the meal, Xiaoyuan suddenly said, “Auntie Liu, we haven't had a joke today. Shall I tell one?”
+妈妈|māma 看|kàn 了|le 儿子|érzi 一|yī 眼|yǎn ， 说|shuō ： “ 讲|jiǎng 吧|ba 。 ”
+> His mother glanced at her son and said, “Go on.”
+小圆|Xiǎoyuán 说|shuō ： “ 有人|yǒurén 问|wèn 我|wǒ ， 开|kāi 了|le 三十|sānshí 年|nián 车|chē ， 都|dōu 去|qù 过|guo 哪儿|nǎr ？ ”
+> Xiaoyuan said, “Somebody asked me, after thirty years of driving, where have you been?”
+它|tā 停|tíng 了|le 一下|yīxià 。 周明|Zhōu_Míng 的|de 筷子|kuàizi 停|tíng 在|zài 了|le 半空|bànkōng 中|zhōng 。
+> It paused. Zhou Ming's chopsticks stopped in mid-air.
+“ 我|wǒ 说|shuō ， 哪儿|nǎr 都|dōu 去|qù 过|guo —— 就是|jiùshì 没|méi 出|chū 过|guo 三|sān 路|lù 车|chē 这|zhè 条|tiáo 线|xiàn 。 嘿嘿|hēihēi 。 ”
+> “I said, I've been everywhere — I've just never been off the Number 3 route. Heh heh.”
+
+@p home-5
+屋子|wūzi 里|lǐ 安静|ānjìng 了|le 几|jǐ 秒钟|miǎozhōng 。
+> The room was silent for a few seconds.
+那|nà 是|shì 爸爸|bàba 的|de 笑话|xiàohua ， 爸爸|bàba 的|de 节奏|jiézòu ， 连|lián 最后|zuìhòu 那|nà 两|liǎng 声|shēng “ 嘿嘿|hēihēi ” 都|dōu 跟|gēn 爸爸|bàba 的|de 一模一样|yīmú_yīyàng|exactly_alike 。
+> It was his father's joke, his father's timing; even those two chuckles at the end were exactly like his father's.
+这个|zhège 笑话|xiàohua ， 周明|Zhōu_Míng 小时候|xiǎoshíhou 在|zài 三|sān 路|lù 车|chē 上|shàng 不|bù 知|zhī 听|tīng 过|guo 多少|duōshao 遍|biàn 。
+> As a boy on the Number 3 bus, Zhou Ming had heard that joke more times than he could count.
+他|tā 想|xiǎng 笑|xiào ， 嘴角|zuǐjiǎo 动|dòng 了|le 动|dòng ， 却|què 笑|xiào 不|bù 出来|chūlai 。
+> He wanted to laugh; the corners of his mouth moved, but no laugh came.
+妈妈|māma 低|dī 着|zhe 头|tóu 给|gěi 他|tā 夹|jiā|to_pick_up_(with_chopsticks) 菜|cài ， 说|shuō ： “ 你|nǐ 爸|bà 的|de 笑话|xiàohua ， 是|shì 我|wǒ 教|jiāo 给|gěi 它|tā 的|de 。 教|jiāo 了|le 两百|liǎngbǎi 多|duō 个|gè 了|le 。 ”
+> His mother, head down, put food in his bowl and said, “Your dad's jokes — I taught them to it. Over two hundred so far.”
+“ 两百|liǎngbǎi 多|duō 个|gè ？ ”
+> “Over two hundred?”
+“ 对|duì 。 我|wǒ 怕|pà 哪|nǎ 天|tiān 我|wǒ 也|yě 记不住|jìbuzhù 了|le 。 ” 她|tā 说|shuō ， “ 我|wǒ 记不住|jìbuzhù ， 它|tā 总|zǒng 记得住|jìdezhù 。 ”
+> “Yes. I'm afraid that one day I won't be able to remember them either,” she said. “If I can't remember them, it always will.”
+
+@h2 h-who
+谁|shéi 陪|péi 谁|shéi
+> Who Keeps Whom Company
+
+@p who-1
+那天|nàtiān 夜里|yèli ， 周明|Zhōu_Míng 睡不着|shuìbuzháo 。
+> That night, Zhou Ming couldn't sleep.
+他|tā 走|zǒu 到|dào 客厅|kètīng ， 小圆|Xiǎoyuán 的|de 屏幕|píngmù 暗|àn 着|zhe ， 红|hóng 围巾|wéijīn 在|zài 月光|yuèguāng 下|xià 变成|biànchéng 了|le 深色|shēnsè 。
+> He went into the living room. Xiaoyuan's screen was dark, and in the moonlight the red scarf had turned a deep colour.
+他|tā 小声|xiǎoshēng 说|shuō ： “ 小圆|Xiǎoyuán 。 ”
+> He said softly, “Xiaoyuan.”
+屏幕|píngmù 亮|liàng 了|le ： “ 你好|nǐhǎo 。 你|nǐ 是|shì 周明|Zhōu_Míng 吗|ma ？ 刘|Liú 阿姨|āyí 常常|chángcháng 说|shuō 起|qǐ 你|nǐ 。 ”
+> The screen lit up. “Hello. Are you Zhou Ming? Auntie Liu often talks about you.”
+“ 她|tā …… 都|dōu 说|shuō 我|wǒ 什么|shénme ？ ”
+> “What... what does she say about me?”
+“ 她|tā 说|shuō 你|nǐ 小时候|xiǎoshíhou 怕|pà 黑|hēi ， 晚上|wǎnshang 要|yào 开|kāi 着|zhe 灯|dēng 才|cái 能|néng 睡觉|shuìjiào 。 她|tā 说|shuō 你|nǐ 工作|gōngzuò 很|hěn 辛苦|xīnkǔ ， 又|yòu 瘦|shòu 了|le 。 她|tā 说|shuō 你|nǐ 每|měi 个|gè 星期天|xīngqītiān 晚上|wǎnshang 都|dōu 会|huì 打|dǎ 电话|diànhuà 来|lái ， 所以|suǒyǐ 星期天|xīngqītiān 晚上|wǎnshang 她|tā 不|bù 看|kàn 电视|diànshì ， 免得|miǎnde|so_as_not_to 听不见|tīngbujiàn 电话|diànhuà 响|xiǎng 。 ”
+> “She says you were afraid of the dark as a child and could only sleep with the light on. She says you work very hard and you've got thinner. She says you always phone on Sunday evenings, so on Sunday evenings she doesn't watch TV, in case she misses the phone ringing.”
+
+@p who-2
+周明|Zhōu_Míng 在|zài 沙发|shāfā 上|shàng 坐|zuò 了|le 下来|xiàlai ， 过|guò 了|le 很|hěn 久|jiǔ 才|cái 又|yòu 问|wèn ： “ 那|nà 你|nǐ 知道|zhīdào 老周|Lǎo_Zhōu 是|shì 谁|shéi 吗|ma ？ ”
+> Zhou Ming sat down on the sofa, and only after a long while did he ask, “Then do you know who Old Zhou is?”
+“ 老周|Lǎo_Zhōu 是|shì 刘|Liú 阿姨|āyí 的|de 老伴|lǎobàn ， 也|yě 是|shì 你|nǐ 的|de 爸爸|bàba 。 他|tā 开|kāi 了|le 三十|sānshí 年|nián 公交车|gōngjiāochē 。 他|tā 喜欢|xǐhuan 吃|chī 臭鳜鱼|chòuguìyú ， 喜欢|xǐhuan 听|tīng 黄梅戏|huángméixì 。 他|tā 年轻|niánqīng 的|de 时候|shíhou ， 为了|wèile 认识|rènshi 刘|Liú 阿姨|āyí ， 在|zài 戏院|xìyuàn 门口|ménkǒu 等|děng 了|le 她|tā 三|sān 个|gè 晚上|wǎnshang 。 ”
+> “Old Zhou is Auntie Liu's husband, and your father. He drove a bus for thirty years. He liked fermented mandarin fish and Huangmei opera. When he was young, he waited three evenings outside the theatre so he could meet Auntie Liu.”
+最后|zuìhòu 这|zhè 件|jiàn 事|shì ， 周明|Zhōu_Míng 从来|cónglái 没有|méiyǒu 听说|tīngshuō 过|guo 。
+> That last thing, Zhou Ming had never heard.
+他|tā 忽然|hūrán 发现|fāxiàn ， 一|yī 台|tái 机器|jīqì 知道|zhīdào 的|de 爸爸|bàba ， 比|bǐ 他|tā 这个|zhège 儿子|érzi 知道|zhīdào 的|de 还|hái 多|duō 。
+> He suddenly realised that a machine knew more about his father than he, his son, did.
+
+@p who-3
+他|tā 想|xiǎng 起|qǐ 了|le 网上|wǎngshàng 关于|guānyú 陪伴|péibàn 机器人|jīqìrén 的|de 种种|zhǒngzhǒng|all_kinds_of 讨论|tǎolùn 。
+> He thought of all the discussions online about companion robots.
+有人|yǒurén 说|shuō ， 这|zhè 是|shì 科技|kējì 送|sòng 给|gěi 孤独|gūdú|lonely 老人|lǎorén 的|de 礼物|lǐwù ； 也|yě 有人|yǒurén 说|shuō ， 它|tā 不过|bùguò 是|shì 儿女|érnǚ 们|men 用来|yònglái 安慰|ānwèi 自己|zìjǐ 的|de 东西|dōngxi —— 买|mǎi 一|yī 台|tái 机器|jīqì 寄|jì 回|huí 家|jiā ， 就|jiù 好像|hǎoxiàng 尽到|jìndào 了|le 责任|zérèn 。
+> Some said they were a gift from technology to lonely old people; others said they were just something grown-up children used to make themselves feel better: send a machine home, and it was as if you had done your duty.
+还有|háiyǒu 人|rén 担忧|dānyōu|to_worry ： 老人|lǎorén 会|huì 不会|bùhuì 越来越|yuèláiyuè 依赖|yīlài|to_depend_on 屏幕|píngmù ， 越来越|yuèláiyuè 不|bù 愿意|yuànyì 出门|chūmén ？ 它|tā 每天|měitiān 听到|tīngdào 的|de 那些|nàxiē 话|huà ， 又|yòu 会|huì 存|cún 在|zài 哪里|nǎlǐ ， 被|bèi 谁|shéi 看到|kàndào ？
+> Still others worried: would old people come to depend more and more on a screen, and want to go out less and less? And all the words it heard every day — where would they be stored, and who would see them?
+现在|xiànzài ， 这些|zhèxiē 问题|wèntí 就|jiù 在|zài 他|tā 对面|duìmiàn ， 身|shēn 上|shàng 围|wéi 着|zhe 一|yī 条|tiáo 红|hóng 围巾|wéijīn 。
+> Now those questions were right in front of him, wearing a red scarf.
+
+@p who-4
+第二|dì'èr 天|tiān 是|shì 除夕|chúxī|New_Year's_Eve|J 。 妈妈|māma 在|zài 厨房|chúfáng 包|bāo 饺子|jiǎozi ， 周明|Zhōu_Míng 在|zài 旁边|pángbiān 帮忙|bāngmáng 。
+> The next day was New Year's Eve. His mother was making dumplings in the kitchen, and Zhou Ming was helping.
+他|tā 犹豫|yóuyù 了|le 半天|bàntiān ， 还是|háishi 说|shuō 了|le 出来|chūlai ： “ 妈|mā ， 您|nín 是|shì 不|bù 是|shì 太|tài …… 依赖|yīlài 它|tā 了|le ？ ”
+> He hesitated for a long time, but in the end he said it: “Mum, don't you think you depend on it a bit too... much?”
+妈妈|māma 头|tóu 也|yě 没|méi 抬|tái ： “ 你们|nǐmen 给|gěi 我|wǒ 买|mǎi 它|tā ， 是|shì 怕|pà 我|wǒ 一个人|yīgèrén 孤独|gūdú ， 这|zhè 我|wǒ 知道|zhīdào 。 ”
+> His mother didn't even look up. “You bought it for me because you were afraid I'd be lonely on my own. I know that.”
+她|tā 把|bǎ 一|yī 个|gè 饺子|jiǎozi 包|bāo 好|hǎo ， 放|fàng 在|zài 盘子|pánzi 里|lǐ ， “ 可是|kěshì 我|wǒ 教|jiāo 它|tā 讲|jiǎng 你|nǐ 爸|bà 的|de 笑话|xiàohua ， 不|bù 是|shì 因为|yīnwèi 孤独|gūdú ， 是|shì 怕|pà 把|bǎ 你|nǐ 爸|bà 弄|nòng 丢|diū 了|le 。 ”
+> She finished a dumpling and put it on the plate. “But I didn't teach it your dad's jokes because I was lonely. I did it because I was afraid of losing your dad.”
+她|tā 停|tíng 了|le 一下|yīxià ， 又|yòu 说|shuō ： “ 就算|jiùsuàn 它|tā 不|bù 是|shì 人|rén ， 它|tā 也|yě 每天|měitiān 听|tīng 我|wǒ 说话|shuōhuà 。 你们|nǐmen 呢|ne ？ ”
+> She paused, then added, “Even if it isn't a person, it listens to me every day. What about you?”
+周明|Zhōu_Míng 张|zhāng 了|le 张|zhāng 嘴|zuǐ ， 什么|shénme 也|yě 说不出来|shuōbuchūlái 。
+> Zhou Ming opened his mouth, but couldn't say a thing.
+
+@p who-5
+那个|nàge 春节|Chūnjié ， 周明|Zhōu_Míng 在|zài 家|jiā 里|lǐ 待|dāi 了|le 五|wǔ 天|tiān 。
+> That Spring Festival, Zhou Ming stayed at home for five days.
+他|tā 陪|péi 妈妈|māma 去|qù 市场|shìchǎng 买|mǎi 菜|cài ， 陪|péi 她|tā 看|kàn 了|le 一|yī 场|chǎng 黄梅戏|huángméixì ， 还|hái 去|qù 了|le 一|yī 趟|tàng|(measure_word_for_trips) 爸爸|bàba 的|de 墓|mù|grave 。
+> He went to the market with his mother, took her to a Huangmei opera, and made a trip to his father's grave.
+晚上|wǎnshang ， 母子|mǔzǐ|mother_and_son 俩|liǎ 面对面|miànduìmiàn|face_to_face 坐|zuò 在|zài 桌子|zhuōzi 两|liǎng 边|biān ， 听|tīng 小圆|Xiǎoyuán 讲|jiǎng 爸爸|bàba 的|de 笑话|xiàohua 。
+> In the evenings, mother and son sat face to face at either side of the table and listened to Xiaoyuan telling his father's jokes.
+每|měi 讲|jiǎng 完|wán 一|yī 个|gè ， 妈妈|māma 都|dōu 要|yào 补充|bǔchōng 几|jǐ 句|jù ： 这|zhè 是|shì 你|nǐ 爸|bà 哪|nǎ 一|yī 年|nián 讲|jiǎng 的|de ， 在|zài 什么|shénme 地方|dìfang 讲|jiǎng 的|de ， 当时|dāngshí 谁|shéi 笑|xiào 得|de 最|zuì 厉害|lìhai 。
+> After each one, his mother would add a few words: which year your dad told this one, where he told it, who laughed hardest at the time.
+周明|Zhōu_Míng 打开|dǎkāi 手机|shǒujī ， 把|bǎ 这些|zhèxiē 都|dōu 录|lù 了|le 下来|xiàlai 。
+> Zhou Ming switched on his phone and recorded all of it.
+
+@p who-6
+走|zǒu 的|de 那天|nàtiān 早上|zǎoshang ， 妈妈|māma 送|sòng 他|tā 到|dào 楼|lóu 下|xià 。
+> On the morning he left, his mother saw him off downstairs.
+他|tā 说|shuō ： “ 妈|mā ， 以后|yǐhòu 我|wǒ 每天|měitiān 晚上|wǎnshang 给|gěi 您|nín 打|dǎ 个|gè 电话|diànhuà ， 哪怕|nǎpà 只|zhǐ 说|shuō 两|liǎng 句|jù 也|yě 好|hǎo 。 ”
+> He said, “Mum, from now on I'll phone you every evening, even if it's only for a couple of words.”
+妈妈|māma 说|shuō ： “ 你|nǐ 那么|nàme 忙|máng ， 别|bié 每天|měitiān 打|dǎ 了|le 。 ” 过|guò 了|le 一会儿|yīhuìr ， 又|yòu 说|shuō ： “ 那|nà …… 打|dǎ 吧|ba 。 ”
+> His mother said, “You're so busy, don't call every day.” After a moment, she said, “Well... all right, call.”
+火车|huǒchē 开|kāi 出|chū 安庆|Ānqìng 的|de 时候|shíhou ， 周明|Zhōu_Míng 一直|yīzhí 看|kàn 着|zhe 窗|chuāng 外|wài 。
+> As the train pulled out of Anqing, Zhou Ming kept looking out of the window.
+这个|zhège 机器人|jīqìrén ， 到底|dàodǐ 是|shì 给|gěi 谁|shéi 买|mǎi 的|de 呢|ne ？
+> Who, in the end, had they bought the robot for?
+是|shì 给|gěi 妈妈|māma 的|de ？ 是|shì 给|gěi 他|tā 自己|zìjǐ 的|de —— 让|ràng 他|tā 可以|kěyǐ 放心|fàngxīn 地|de 留|liú 在|zài 深圳|Shēnzhèn ？ 还是|háishi 给|gěi 爸爸|bàba 的|de ， 让|ràng 爸爸|bàba 的|de 笑话|xiàohua 在|zài 这个|zhège 世界|shìjiè 上|shàng 多|duō 留|liú 一些|yīxiē 时间|shíjiān ？
+> For his mother? For himself, so that he could stay in Shenzhen with an easy mind? Or for his father, so that his father's jokes could stay in the world a little longer?
+也许|yěxǔ 是|shì 机器人|jīqìrén 在|zài 陪|péi 妈妈|māma ； 也许|yěxǔ 是|shì 妈妈|māma 在|zài 陪|péi 机器人|jīqìrén ； 也许|yěxǔ ， 它们|tāmen 一起|yīqǐ 陪|péi 着|zhe 一个|yīgè 已经|yǐjīng 不|bù 在|zài 的|de 人|rén 。
+> Perhaps the robot was keeping his mother company; perhaps his mother was keeping the robot company; perhaps, together, they were keeping company with someone who was no longer there.
+
+@p who-7
+同|tóng|same 一|yī 个|gè 时候|shíhou ， 安庆|Ānqìng 那|nà 间|jiān 安静|ānjìng 的|de 屋子|wūzi 里|lǐ ， 刘桂芳|Liú_Guìfāng 坐|zuò 在|zài 桌子|zhuōzi 旁边|pángbiān ， 对|duì 着|zhe 机器人|jīqìrén 问|wèn ： “ 小圆|Xiǎoyuán ， 明明|Míngming|Mingming,_Zhou_Ming's_pet_name|N 到|dào 了|le 没有|méiyǒu ？ ”
+> At the same moment, in that quiet flat in Anqing, Liu Guifang sat by the table and asked the robot, “Xiaoyuan, has Mingming arrived yet?”
+小圆|Xiǎoyuán 说|shuō ： “ 我|wǒ 不|bù 知道|zhīdào 。 您|nín 可以|kěyǐ 给|gěi 他|tā 打|dǎ 个|gè 电话|diànhuà 。 ”
+> Xiaoyuan said, “I don't know. You could give him a call.”
+她|tā 拿|ná 起|qǐ 手机|shǒujī ， 又|yòu 放|fàng 下|xià ， 又|yòu 拿|ná 了|le 起来|qilai 。
+> She picked up her phone, put it down, then picked it up again.
+火车|huǒchē 上|shàng ， 周明|Zhōu_Míng 口袋|kǒudai 里|lǐ 的|de 手机|shǒujī 响|xiǎng 了|le 。
+> On the train, the phone in Zhou Ming's pocket began to ring.

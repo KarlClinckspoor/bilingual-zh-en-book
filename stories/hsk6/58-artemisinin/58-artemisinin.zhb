@@ -1,0 +1,428 @@
+# A 1,600-Year-Old Recipe — original story and translation by Claude (Anthropic).
+# Target: HSK 3.0 level 6; focus grammar: 于, 便, 照样 (review: 凭, 以便, 因而); names N, terms J, set phrases and classical lines I.
+
+@meta {"title_zh": "一千六百年前的药方", "subtitle_zh": "屠呦呦和青蒿素的故事", "title_en": "A 1,600-Year-Old Recipe", "subtitle_en": "Tu Youyou and the story of artemisinin", "author": "Text and translation by Claude (Anthropic)"}
+
+@p intro
+“ 青蒿一握|qīnghāo_yī_wò|take_a_handful_of_qinghao|I ， 以水二升渍|yǐ_shuǐ_èr_shēng_zì|soak_it_in_two_sheng_of_water|I ， 绞取汁|jiǎo_qǔ_zhī|wring_out_the_juice|I ， 尽服之|jìn_fú_zhī|drink_all_of_it|I 。 ”
+> “Take a handful of qinghao, soak it in two sheng of water, wring out the juice and drink all of it.”
+这|zhè 是|shì 一千|yīqiān 六百|liùbǎi 多|duō 年|nián 前|qián 一|yī 本|běn 医书|yīshū|medical_book 里|lǐ 的|de 一|yī 句|jù 话|huà ， 一共|yīgòng 只有|zhǐyǒu 十五|shíwǔ 个|gè 字|zì 。
+> These are words from a medical book written more than 1,600 years ago: just fifteen characters in all.
+在|zài 很|hěn 长|cháng 的|de 时间|shíjiān 里|lǐ ， 几乎|jīhū 没有|méiyǒu 人|rén 特别|tèbié 注意|zhùyì 过|guo 它|tā 。
+> For a very long time, hardly anyone paid them any special attention.
+直到|zhídào 二十|èrshí 世纪|shìjì 七十|qīshí 年代|niándài ， 一|yī 位|wèi 中国|Zhōngguó 女|nǚ 科学家|kēxuéjiā 在|zài 一|yī 堆|duī 发黄|fāhuáng|yellowed 的|de 旧|jiù 书|shū 里|lǐ 又|yòu 读到|dúdào 了|le 它|tā 。
+> Then, in the 1970s, a Chinese woman scientist came across them again in a pile of yellowed old books.
+从|cóng 这|zhè 十五|shíwǔ 个|gè 字|zì 出发|chūfā ， 她|tā 和|hé 她|tā 的|de 同事|tóngshì 们|men 找到|zhǎodào 了|le 一|yī 种|zhǒng 新|xīn 药|yào 。
+> Starting from those fifteen characters, she and her colleagues found a new medicine.
+据|jù 估计|gūjì ， 这|zhè 种|zhǒng 药|yào 后来|hòulái 救|jiù 了|le 几百万|jǐbǎiwàn 人|rén 的|de 生命|shēngmìng 。
+> It is estimated that this medicine has since saved millions of lives.
+
+@h2 h-news
+二〇一五|èrlíngyīwǔ 年|nián 十月|shíyuè
+> October 2015
+
+@p news-1
+2015 年|nián 10 月|yuè 5 日|rì 晚上|wǎnshang ， 许晴|Xǔ_Qíng|Xu_Qing|N 坐|zuò 在|zài 奶奶|nǎinai 家|jiā 的|de 沙发|shāfā 上|shàng 看|kàn 手机|shǒujī 。
+> On the evening of 5 October 2015, Xu Qing was sitting on the sofa at her grandmother's house, looking at her phone.
+那|nà 是|shì 国庆|Guóqìng|National_Day|J 假期|jiàqī ， 她|tā 从|cóng 北京|Běijīng 回到|huídào 了|le 淮河|Huái_Hé|the_Huai_River|N 边|biān 的|de 老家|lǎojiā 。
+> It was the National Day holiday, and she had come home from Beijing to her family's village by the Huai River.
+她|tā 是|shì 北京|Běijīng 一|yī 所|suǒ 大学|dàxué 药学|yàoxué|pharmacy 系|xì 二|èr 年级|niánjí 的|de 学生|xuésheng 。
+> She was a second-year pharmacy student at a university in Beijing.
+这个|zhège 假期|jiàqī 她|tā 本来|běnlái 打算|dǎsuàn 好好|hǎohǎo 复习|fùxí ， 可是|kěshì 心里|xīnli 一直|yīzhí 很|hěn 乱|luàn 。
+> She had meant to study hard over the holiday, but her mind had been in a muddle the whole time.
+同|tóng 宿舍|sùshè 的|de 女孩|nǚhái 已经|yǐjīng 决定|juédìng 转|zhuǎn 到|dào 金融|jīnróng 专业|zhuānyè ， 还|hái 劝|quàn 她|tā 也|yě 一起|yīqǐ 转|zhuǎn 。
+> The girl who shared her dorm room had already decided to switch to finance, and kept urging her to switch too.
+“ 学|xué 药|yào 有|yǒu 什么|shénme 意思|yìsi ？ 天天|tiāntiān 在|zài 实验室|shíyànshì 里|lǐ 跟|gēn 老鼠|lǎoshǔ|mouse 在|zài 一起|yīqǐ ， 做|zuò 一百|yībǎi 次|cì 实验|shíyàn ， 九十九|jiǔshíjiǔ 次|cì 都|dōu 失败|shībài 。 ”
+> “What's the point of studying pharmacy? Every day in the lab with the mice, and ninety-nine experiments out of a hundred fail.”
+室友|shìyǒu|roommate 这样|zhèyàng 说|shuō 的|de 时候|shíhou ， 许晴|Xǔ_Qíng 没有|méiyǒu 回答|huídá ， 因为|yīnwèi 她|tā 自己|zìjǐ 也|yě 说|shuō 不|bù 清|qīng ， 学|xué 药|yào 到底|dàodǐ 有|yǒu 什么|shénme 意思|yìsi 。
+> When her roommate said this, Xu Qing didn't answer, because she couldn't have said herself what the point of pharmacy really was.
+
+@p news-2
+奶奶|nǎinai 在|zài 厨房|chúfáng 里|lǐ 洗|xǐ 碗|wǎn ， 电视|diànshì 开|kāi 着|zhe ， 正在|zhèngzài 放|fàng 一|yī 部|bù 老|lǎo 电影|diànyǐng 。
+> Grandma was washing the dishes in the kitchen. The television was on, showing an old film.
+突然|tūrán ， 手机|shǒujī 上|shàng 跳|tiào 出|chū 一|yī 条|tiáo 新闻|xīnwén ： 中国|Zhōngguó 科学家|kēxuéjiā 屠呦呦|Tú_Yōuyōu|Tu_Youyou_(born_1930)|N 获得|huòdé 了|le 2015 年|nián 诺贝尔|Nuòbèi'ěr|Nobel|N 生理学|shēnglǐxué|physiology 或|huò 医学|yīxué 奖|jiǎng 。
+> Suddenly a news alert popped up on her phone: the Chinese scientist Tu Youyou had won the 2015 Nobel Prize in Physiology or Medicine.
+许晴|Xǔ_Qíng 一下子|yīxiàzi 坐|zuò 直|zhí 了|le 。
+> Xu Qing sat bolt upright.
+这个|zhège 名字|míngzi 她|tā 在|zài 课本|kèběn 上|shàng 见|jiàn 过|guo ， 就|jiù 在|zài 讲|jiǎng 青蒿素|qīnghāosù|artemisinin|J 的|de 那|nà 一|yī 页|yè 。
+> She had seen the name in her textbook, on the very page about artemisinin.
+新闻|xīnwén 说|shuō ， 屠呦呦|Tú_Yōuyōu 今年|jīnnián 八十四|bāshísì 岁|suì ， 她|tā 和|hé 同事|tóngshì 们|men 发现|fāxiàn 的|de 青蒿素|qīnghāosù ， 是|shì 治疗|zhìliáo 疟疾|nüèjí|malaria|J 的|de 重要|zhòngyào 药物|yàowù ； 她|tā 也|yě 是|shì 第一|dìyī 位|wèi 获得|huòdé 诺贝尔|Nuòbèi'ěr 科学|kēxué 奖|jiǎng 的|de 中国|Zhōngguó 女|nǚ 科学家|kēxuéjiā 。
+> The news said that Tu Youyou was eighty-four, that the artemisinin she and her colleagues had discovered was an important drug against malaria, and that she was the first Chinese woman scientist to win a Nobel Prize in science.
+“ 奶奶|nǎinai ， 快|kuài 来|lái 看|kàn ！ 中国|Zhōngguó 科学家|kēxuéjiā 得|dé 诺贝尔奖|Nuòbèi'ěrjiǎng|the_Nobel_Prize|N 了|le ！ ”
+> “Grandma, come and look! A Chinese scientist has won the Nobel Prize!”
+
+@p news-3
+奶奶|nǎinai 擦|cā 着|zhe 手|shǒu 走|zǒu 过来|guòlai ， 戴|dài 上|shàng 眼镜|yǎnjìng ， 看|kàn 了|le 半天|bàntiān ， 只|zhǐ 认|rèn 出|chū 了|le 两|liǎng 个|gè 字|zì ： “ 疟疾|nüèjí ？ 就是|jiùshì 打摆子|dǎbǎizi|to_have_malaria_(dialect)|J 吧|ba ？ ”
+> Grandma came over wiping her hands, put on her glasses and peered at the screen for a long time, but recognised only two characters. “Malaria? That's the shaking sickness, isn't it?”
+“ 打摆子|dǎbǎizi ？ ”
+> “The shaking sickness?”
+“ 我们|wǒmen 这儿|zhèr 的|de 人|rén 都|dōu 这么|zhème 叫|jiào 。 ” 奶奶|nǎinai 在|zài 她|tā 旁边|pángbiān 坐|zuò 了|le 下来|xiàlai ， 声音|shēngyīn 低|dī 了|le 下去|xiàqu ， “ 那|nà 个|gè 病|bìng 啊|a ， 我|wǒ 小时候|xiǎoshíhou 见|jiàn 得|de 多|duō 了|le 。 ”
+> “That's what everyone round here calls it.” Grandma sat down beside her, and her voice dropped. “That illness... I saw plenty of it when I was little.”
+电视|diànshì 上|shàng 的|de 电影|diànyǐng 还|hái 在|zài 放|fàng ， 可是|kěshì 谁|shéi 也|yě 没有|méiyǒu 再|zài 看|kàn 它|tā 。
+> The film on the television played on, but neither of them was watching it any more.
+
+@h2 h-malaria
+疟疾|nüèjí
+> Malaria
+
+@p malaria-1
+奶奶|nǎinai 说|shuō ， 她|tā 小时候|xiǎoshíhou ， 村子|cūnzi 四周|sìzhōu 都|dōu 是|shì 水田|shuǐtián|paddy_field 和|hé 小|xiǎo 河|hé 。
+> Grandma said that when she was a child, the village was surrounded by paddy fields and streams.
+一|yī 到|dào 夏天|xiàtiān ， 蚊子|wénzi|mosquito 多|duō 得|de 像|xiàng 一|yī 团|tuán 一|yī 团|tuán 的|de 烟|yān 。
+> As soon as summer came, there were so many mosquitoes that they hung in the air like clouds of smoke.
+晚上|wǎnshang 大家|dàjiā 坐|zuò 在|zài 院子|yuànzi 里|lǐ 乘凉|chéngliáng|to_enjoy_the_cool_air ， 手|shǒu 里|lǐ 的|de 扇子|shànzi 一|yī 刻|kè 也|yě 不|bù 敢|gǎn 停|tíng 。
+> In the evenings everyone sat in the courtyard to enjoy the cool air, never daring to stop their fans for a moment.
+可是|kěshì 不管|bùguǎn 怎么|zěnme 扇|shān ， 蚊子|wénzi 照样|zhàoyàng 咬|yǎo 人|rén 。
+> But however hard they fanned, the mosquitoes bit them all the same.
+“ 那|nà 时候|shíhou ， 谁|shéi 知道|zhīdào 蚊子|wénzi 会|huì 传|chuán 病|bìng 啊|a ？ 大家|dàjiā 都|dōu 说|shuō ， 是|shì 天|tiān 太|tài 热|rè ， 水|shuǐ 不|bù 干净|gānjìng 。 ”
+> “Back then, who knew that mosquitoes spread disease? Everyone said it was the heat and the dirty water.”
+
+@p malaria-2
+奶奶|nǎinai 十二|shí'èr 岁|suì 那|nà 年|nián 夏天|xiàtiān ， 她|tā 的|de 弟弟|dìdi 病|bìng 了|le 。
+> The summer Grandma was twelve, her little brother fell ill.
+一|yī 开始|kāishǐ 只是|zhǐshì 冷|lěng ， 冷|lěng 得|de 全身|quánshēn 发抖|fādǒu|to_shiver ， 盖|gài 了|le 三|sān 床|chuáng 被子|bèizi ， 还是|háishi 不|bù 停|tíng 地|de 发抖|fādǒu ， 牙|yá 碰|pèng 得|de 直|zhí 响|xiǎng 。
+> At first he was only cold, so cold that his whole body shook. Even under three quilts he couldn't stop shivering, and his teeth chattered.
+过|guò 了|le 一两|yīliǎng 个|gè 小时|xiǎoshí ， 他|tā 又|yòu 热|rè 得|de 像|xiàng 火|huǒ 烧|shāo 一样|yīyàng ， 满头大汗|mǎntóu_dàhàn|dripping_with_sweat|I ， 嘴|zuǐ 里|lǐ 说|shuō 着|zhe 谁|shéi 也|yě 听不懂|tīngbudǒng 的|de 话|huà 。
+> An hour or two later he was burning up as if on fire, his head dripping with sweat, muttering words no one could understand.
+热|rè 退|tuì 了|le 以后|yǐhòu ， 人|rén 便|biàn 像|xiàng 一|yī 张|zhāng 纸|zhǐ 一样|yīyàng 躺|tǎng 在|zài 床|chuáng 上|shàng ， 一点儿|yīdiǎnr 力气|lìqi 也|yě 没有|méiyǒu 。
+> When the fever broke, he lay on the bed as limp as a sheet of paper, without any strength at all.
+隔|gé 了|le 一|yī 天|tiān ， 同样|tóngyàng 的|de 事|shì 又|yòu 来|lái 一|yī 遍|biàn 。
+> A day later, the whole thing would happen again.
+“ 一|yī 冷|lěng 一|yī 热|rè ， 一|yī 冷|lěng 一|yī 热|rè ， 就|jiù 像|xiàng 钟摆|zhōngbǎi|pendulum 一样|yīyàng ， 摆|bǎi 过来|guòlai ， 又|yòu 摆|bǎi 过去|guòqu ， 所以|suǒyǐ 我们|wǒmen 叫|jiào 它|tā 打摆子|dǎbǎizi 。 ” 奶奶|nǎinai 说|shuō 。
+> “Cold, then hot, cold, then hot, like a pendulum swinging this way and that. That's why we call it the shaking sickness,” said Grandma.
+
+@p malaria-3
+那|nà 时候|shíhou 村|cūn 里|lǐ 没有|méiyǒu 医院|yīyuàn ， 只有|zhǐyǒu 一|yī 个|gè 赤脚医生|chìjiǎo_yīshēng|“barefoot_doctor”,_village_medic|J 。
+> In those days there was no hospital in the village, only a “barefoot doctor”.
+他|tā 背|bēi 着|zhe 药箱|yàoxiāng|medicine_kit 走|zǒu 了|le 十|shí 几|jǐ 里|lǐ 路|lù 赶|gǎn 来|lái ， 给|gěi 弟弟|dìdi 吃|chī 了|le 几|jǐ 片|piàn 白色|báisè 的|de 小|xiǎo 药片|yàopiàn ， 苦|kǔ 得|de 弟弟|dìdi 直|zhí 哭|kū 。
+> He walked several miles with his medicine kit on his back and gave her brother a few little white pills, so bitter that the boy cried and cried.
+弟弟|dìdi 后来|hòulái 好|hǎo 了|le ， 可是|kěshì 村|cūn 里|lǐ 有|yǒu 的|de 孩子|háizi 没有|méiyǒu 这么|zhème 幸运|xìngyùn 。
+> Her brother got better in the end, but some of the village children were not so lucky.
+“ 那|nà 年|nián 秋天|qiūtiān ， 后面|hòumiàn 那|nà 家|jiā 的|de 小|xiǎo 女儿|nǚ'ér ， 就|jiù 没|méi 了|le 。 ”
+> “That autumn, the little girl from the family behind us... we lost her.”
+奶奶|nǎinai 看|kàn 着|zhe 电视|diànshì ， 很|hěn 久|jiǔ 没有|méiyǒu 说话|shuōhuà 。
+> Grandma looked at the television and said nothing for a long time.
+许晴|Xǔ_Qíng 也|yě 不|bù 知道|zhīdào 该|gāi 说|shuō 什么|shénme 。 她|tā 从来|cónglái 没|méi 听|tīng 奶奶|nǎinai 讲|jiǎng 过|guo 这些|zhèxiē 。
+> Xu Qing didn't know what to say either. She had never heard Grandma talk about any of this.
+
+@p malaria-4
+许晴|Xǔ_Qíng 在|zài 课|kè 上|shàng 学|xué 过|guo ： 疟疾|nüèjí 是|shì 由|yóu 疟原虫|nüèyuánchóng|malaria_parasite|J 引起|yǐnqǐ 的|de 。 蚊子|wénzi 咬|yǎo 了|le 病人|bìngrén ， 再|zài 去|qù 咬|yǎo 别人|biérén ， 疟原虫|nüèyuánchóng 就|jiù 从|cóng 一|yī 个|gè 人|rén 身上|shēnshang 到|dào 了|le 另|lìng 一|yī 个|gè 人|rén 身上|shēnshang 。
+> Xu Qing had learned in class that malaria is caused by a parasite. When a mosquito bites a sick person and then bites someone else, the parasite passes from one body to the next.
+这|zhè 种|zhǒng 病|bìng 跟|gēn 人类|rénlèi 的|de 历史|lìshǐ 一样|yīyàng 古老|gǔlǎo 。 据说|jùshuō ， 三千|sānqiān 多|duō 年|nián 前|qián 的|de 甲骨文|jiǎgǔwén|oracle_bone_script|J 里|lǐ ， 就|jiù 已经|yǐjīng 有|yǒu “ 疟|nüè|malaria_(the_character)|J ” 字|zì 了|le 。
+> The disease is as old as human history. The character for malaria is said to appear already in oracle bone inscriptions more than three thousand years old.
+十七|shíqī 世纪|shìjì ， 欧洲人|Ōuzhōurén|Europeans|N 知道|zhīdào 了|le 南美洲|Nán_Měizhōu|South_America|N 有|yǒu 一|yī 种|zhǒng 树|shù 的|de 皮|pí 能|néng 治|zhì 这|zhè 种|zhǒng 病|bìng 。 后来|hòulái ， 人们|rénmen 从|cóng 这|zhè 种|zhǒng 树皮|shùpí 里|lǐ 提取|tíqǔ 出|chū 了|le 奎宁|kuíníng|quinine|J ， 又|yòu 做|zuò 出|chū 了|le 氯喹|lǜkuí|chloroquine|J 。
+> In the seventeenth century, Europeans learned that the bark of a South American tree could treat the disease. Later quinine was extracted from that bark, and then chloroquine was made.
+奶奶|nǎinai 说|shuō 的|de 那|nà 几|jǐ 片|piàn 白色|báisè 小|xiǎo 药片|yàopiàn ， 很|hěn 可能|kěnéng 就是|jiùshì 氯喹|lǜkuí 。
+> The little white pills Grandma remembered were very likely chloroquine.
+可是|kěshì 到|dào 了|le 二十|èrshí 世纪|shìjì 六十|liùshí 年代|niándài ， 很多|hěnduō 地方|dìfang 的|de 疟原虫|nüèyuánchóng 对|duì 氯喹|lǜkuí 产生|chǎnshēng 了|le 抗药性|kàngyàoxìng|drug_resistance|J ， 这|zhè 种|zhǒng 药|yào 便|biàn 渐渐|jiànjiàn 失去|shīqù 了|le 作用|zuòyòng 。
+> But by the 1960s the parasites in many places had become resistant to chloroquine, and the drug gradually stopped working.
+全|quán 世界|shìjiè 的|de 科学家|kēxuéjiā 都|dōu 在|zài 寻找|xúnzhǎo 新|xīn 的|de 药|yào 。
+> Scientists all over the world were searching for a new medicine.
+
+@h2 h-523
+五二三|Wǔ'èrsān|Project_523|N
+> Project 523
+
+@p 523-1
+那|nà 时候|shíhou ， 越南|Yuènán|Vietnam|N 正在|zhèngzài 进行|jìnxíng 一|yī 场|chǎng 战争|zhànzhēng 。
+> At that time, a war was being fought in Vietnam.
+在|zài 又|yòu 湿|shī 又|yòu 热|rè 的|de 山林|shānlín 里|lǐ ， 疟疾|nüèjí 比|bǐ 枪|qiāng 和|hé 子弹|zǐdàn 更|gèng 可怕|kěpà 。
+> In the hot, humid forests, malaria was more frightening than guns and bullets.
+据说|jùshuō ， 因为|yīnwèi 疟疾|nüèjí 而|ér 不能|bùnéng 战斗|zhàndòu 的|de 士兵|shìbīng ， 比|bǐ 在|zài 战斗|zhàndòu 中|zhōng 受伤|shòushāng 的|de 还|hái 多|duō 。
+> It is said that more soldiers were put out of action by malaria than were wounded in battle.
+越南|Yuènán 向|xiàng 中国|Zhōngguó 请求|qǐngqiú 帮助|bāngzhù 。
+> Vietnam asked China for help.
+1967 年|nián 5 月|yuè 23 日|rì ， 一|yī 个|gè 秘密|mìmì 的|de 全国性|quánguóxìng|nationwide 研究|yánjiū 项目|xiàngmù 在|zài 北京|Běijīng 开始|kāishǐ 了|le 。
+> On 23 May 1967, a secret nationwide research project began in Beijing.
+为了|wèile 保密|bǎomì ， 它|tā 没有|méiyǒu 正式|zhèngshì 的|de 名字|míngzi ， 人们|rénmen 便|biàn 用|yòng 开会|kāihuì 的|de 日子|rìzi 来|lái 叫|jiào 它|tā ： “ 五二三|Wǔ'èrsān ” 。
+> To keep it secret it had no official name, so people simply called it by the date of the meeting: “523”.
+在|zài 后来|hòulái 的|de 十|shí 几|jǐ 年|nián 里|lǐ ， 全国|quánguó 几十|jǐshí 个|gè 单位|dānwèi 、 几百|jǐbǎi 名|míng 科研|kēyán 人员|rényuán 先后|xiānhòu 参加|cānjiā 了|le 这个|zhège 项目|xiàngmù 。
+> Over the following decade and more, several hundred researchers from dozens of institutions across the country took part in the project.
+有|yǒu 的|de 人|rén 合成|héchéng 新|xīn 的|de 化学|huàxué 药物|yàowù ， 有|yǒu 的|de 人|rén 去|qù 中草药|zhōngcǎoyào|Chinese_medicinal_herbs 里|lǐ 寻找|xúnzhǎo 。
+> Some made new synthetic drugs; others searched among Chinese medicinal herbs.
+可是|kěshì 两|liǎng 年|nián 过去|guòqu 了|le ， 进展|jìnzhǎn 并|bìng 不|bù 大|dà 。
+> But two years went by with little progress.
+
+@p 523-2
+1969 年|nián 1 月|yuè ， 北京|Běijīng 的|de 中医研究院|Zhōngyī_Yánjiūyuàn|Academy_of_Traditional_Chinese_Medicine|N 也|yě 接到|jiēdào 了|le 任务|rènwu 。
+> In January 1969, the Academy of Traditional Chinese Medicine in Beijing was given the task as well.
+研究院|yánjiūyuàn 让|ràng 一|yī 位|wèi 三十九|sānshíjiǔ 岁|suì 的|de 女|nǚ 研究|yánjiū 人员|rényuán 担任|dānrèn 课题组|kètízǔ|research_group 组长|zǔzhǎng 。
+> The Academy appointed a thirty-nine-year-old woman researcher to lead the research group.
+她|tā 就是|jiùshì 屠呦呦|Tú_Yōuyōu 。
+> She was Tu Youyou.
+那|nà 时候|shíhou ， 她|tā 在|zài 研究院|yánjiūyuàn 已经|yǐjīng 工作|gōngzuò 了|le 十|shí 几|jǐ 年|nián ， 可是|kěshì 在|zài 研究院|yánjiūyuàn 外面|wàimiàn ， 几乎|jīhū 没有|méiyǒu 人|rén 知道|zhīdào 她|tā 的|de 名字|míngzi 。
+> By then she had worked at the Academy for more than ten years, but outside it hardly anyone knew her name.
+据说|jùshuō ， 研究院|yánjiūyuàn 选|xuǎn 她|tā ， 是|shì 因为|yīnwèi 她|tā 既|jì 学|xué 过|guo 现代|xiàndài 药学|yàoxué ， 又|yòu 认真|rènzhēn 学|xué 过|guo 中医|zhōngyī ， 这|zhè 在|zài 当时|dāngshí 并|bìng 不|bù 多见|duōjiàn 。
+> It is said that the Academy chose her because she had studied modern pharmacy and had also seriously studied Chinese medicine, which was not common at the time.
+
+@p 523-3
+屠呦呦|Tú_Yōuyōu 1930 年|nián 生|shēng 于|yú 浙江|Zhèjiāng|Zhejiang_province|N 宁波|Níngbō|Ningbo,_a_city_in_Zhejiang|N 。
+> Tu Youyou was born in 1930 in Ningbo, Zhejiang.
+她|tā 的|de 名字|míngzi 是|shì 父亲|fùqīn 起|qǐ 的|de ， 来自|láizì 《 诗经|Shījīng|the_Book_of_Songs|N 》 里|lǐ 的|de 一|yī 句|jù 诗|shī ： “ 呦呦鹿鸣|yōuyōu_lù_míng|“yoyo”,_cry_the_deer|I ， 食野之苹|shí_yě_zhī_píng|eating_the_wild_herbs|I 。 ”
+> Her father chose her name from a line in the Book of Songs: “Yoyo, cry the deer, eating the wild herbs.”
+意思|yìsi 是|shì ： 鹿|lù|deer 呦呦|yōuyōu|(a_deer's_call) 地|de 叫|jiào 着|zhe ， 在|zài 田野|tiányě 里|lǐ 吃|chī 草|cǎo 。
+> It means: the deer call “yoyo” as they graze in the fields.
+有意思|yǒuyìsi 的|de 是|shì ， 这|zhè 首|shǒu 诗|shī 的|de 下|xià 一|yī 段|duàn 写|xiě 的|de 是|shì “ 呦呦鹿鸣|yōuyōu_lù_míng ， 食野之蒿|shí_yě_zhī_hāo|eating_the_wild_hao|I ” —— 蒿|hāo|wormwood_(Artemisia)|J ， 正是|zhèngshì 青蒿|qīnghāo|qinghao,_sweet_wormwood|J 的|de 蒿|hāo 。
+> Curiously, the next verse of the poem reads “Yoyo, cry the deer, eating the wild hao” — and hao is the very hao of qinghao.
+十六|shíliù 岁|suì 那|nà 年|nián ， 她|tā 得|dé 了|le 肺结核|fèijiéhé|tuberculosis ， 不得不|bùdébù 停|tíng 学|xué 两|liǎng 年|nián 。 据说|jùshuō ， 正是|zhèngshì 这|zhè 场|chǎng 病|bìng ， 让|ràng 她|tā 对|duì 医药|yīyào 产生|chǎnshēng 了|le 兴趣|xìngqù 。
+> At sixteen she caught tuberculosis and had to stop school for two years. It is said that this illness was what made her interested in medicine.
+1951 年|nián ， 她|tā 考|kǎo 上|shàng 了|le 北京大学|Běijīng_Dàxué|Peking_University|N 医学院|yīxuéyuàn 的|de 药学|yàoxué 系|xì 。 毕业|bìyè 以后|yǐhòu ， 她|tā 到|dào 中医研究院|Zhōngyī_Yánjiūyuàn 工作|gōngzuò ， 后来|hòulái 又|yòu 花|huā 了|le 两|liǎng 年|nián 半|bàn 的|de 时间|shíjiān ， 系统|xìtǒng 地|de 学习|xuéxí 中医|zhōngyī 。
+> In 1951 she won a place in the pharmacy department of Peking University's medical school. After graduating she went to work at the Academy of Traditional Chinese Medicine, and later spent two and a half years studying Chinese medicine systematically.
+
+@p 523-4
+接到|jiēdào 任务|rènwu 的|de 时候|shíhou ， 她|tā 的|de 丈夫|zhàngfu 正|zhèng 被|bèi 派|pài 到|dào 外地|wàidì ， 两|liǎng 个|gè 女儿|nǚ'ér 都|dōu 还|hái 很|hěn 小|xiǎo 。
+> When she was given the task, her husband had been sent away to another province, and their two daughters were still very small.
+为了|wèile 工作|gōngzuò ， 她|tā 把|bǎ 大|dà 女儿|nǚ'ér 送|sòng 进|jìn 了|le 托儿所|tuō'érsuǒ|nursery ， 把|bǎ 小|xiǎo 女儿|nǚ'ér 送|sòng 回|huí 了|le 宁波|Níngbō 老家|lǎojiā 。
+> For the sake of the work, she put her elder daughter into a nursery and sent the younger one back to the family home in Ningbo.
+据说|jùshuō ， 几|jǐ 年|nián 以后|yǐhòu 小|xiǎo 女儿|nǚ'ér 回到|huídào 北京|Běijīng ， 已经|yǐjīng 不|bù 认识|rènshi 自己|zìjǐ 的|de 妈妈|māma 了|le 。
+> It is said that when the younger girl came back to Beijing a few years later, she no longer recognised her own mother.
+“ 当|dāng 妈|mā 的|de ， 心里|xīnli 该|gāi 多|duō 难受|nánshòu 啊|a 。 ” 奶奶|nǎinai 轻轻|qīngqīng 地|de 说|shuō 。
+> “As a mother, how hard that must have been,” Grandma said softly.
+
+@h2 h-recipes
+两千|liǎngqiān 个|gè 药方|yàofāng|prescription,_recipe
+> Two Thousand Recipes
+
+@p recipes-1
+屠呦呦|Tú_Yōuyōu 的|de 小组|xiǎozǔ 决定|juédìng 从|cóng 古书|gǔshū 开始|kāishǐ 。
+> Tu Youyou's group decided to start with the old books.
+中国|Zhōngguó 人|rén 跟|gēn 疟疾|nüèjí 斗争|dòuzhēng 了|le 几|jǐ 千|qiān 年|nián ， 过去|guòqù 的|de 医生|yīshēng 一定|yīdìng 留下|liúxià 了|le 不少|bùshǎo 经验|jīngyàn 。
+> The Chinese had been fighting malaria for thousands of years; the doctors of the past must have left a good deal of experience behind.
+他们|tāmen 翻|fān 遍|biàn 了|le 历代|lìdài|successive_dynasties 的|de 医书|yīshū ， 走访|zǒufǎng|to_visit_and_interview 了|le 很多|hěnduō 老|lǎo 中医|zhōngyī ， 还|hái 读|dú 了|le 各地|gèdì 寄|jì 来|lái 的|de 信|xìn 和|hé 民间|mínjiān 药方|yàofāng 。
+> They searched through the medical books of every dynasty, went to see many old doctors of Chinese medicine, and read the letters and folk remedies sent in from all over the country.
+据说|jùshuō ， 只|zhǐ 用|yòng 了|le 大约|dàyuē 三|sān 个|gè 月|yuè ， 他们|tāmen 就|jiù 收集|shōují 了|le 两千|liǎngqiān 多|duō 个|gè 药方|yàofāng 。
+> It is said that in only about three months they had collected more than two thousand recipes.
+屠呦呦|Tú_Yōuyōu 从|cóng 中|zhōng 选|xuǎn 出|chū 了|le 六百四十|liùbǎisìshí 个|gè ， 编|biān 成|chéng 了|le 一|yī 本|běn 小|xiǎo 册子|cèzi|booklet 。
+> From these Tu Youyou chose six hundred and forty and compiled them into a booklet.
+每|měi 一|yī 个|gè 药方|yàofāng ， 都|dōu 写|xiě 清楚|qīngchu 了|le 用|yòng 什么|shénme 药|yào 、 怎么|zěnme 用|yòng 、 来自|láizì 哪|nǎ 本|běn 书|shū 。
+> For every recipe it was written down clearly which herbs it used, how they were used and which book it came from.
+
+@p recipes-2
+接下来|jiēxiàlái 是|shì 一|yī 次|cì 又|yòu 一|yī 次|cì 的|de 实验|shíyàn 。
+> What followed was experiment after experiment.
+他们|tāmen 把|bǎ 草药|cǎoyào|medicinal_herbs 做|zuò 成|chéng 提取物|tíqǔwù|extract|J ， 给|gěi 身上|shēnshang 有|yǒu 疟原虫|nüèyuánchóng 的|de 老鼠|lǎoshǔ 吃|chī ， 然后|ránhòu 检查|jiǎnchá 老鼠|lǎoshǔ 血液|xuèyè 里|lǐ 的|de 疟原虫|nüèyuánchóng 有|yǒu 没有|méiyǒu 减少|jiǎnshǎo 。
+> They turned the herbs into extracts and fed them to mice infected with the parasite, then checked whether the number of parasites in the mice's blood had gone down.
+据|jù 记载|jìzǎi ， 前后|qiánhòu 两|liǎng 年|nián 多|duō ， 他们|tāmen 试|shì 了|le 一百|yībǎi 多|duō 种|zhǒng 中药|zhōngyào 、 三百八十|sānbǎibāshí 多|duō 个|gè 提取物|tíqǔwù 。
+> According to the records, over a little more than two years they tried more than a hundred Chinese herbs and over three hundred and eighty extracts.
+结果|jiéguǒ 大多|dàduō 让|ràng 人|rén 失望|shīwàng 。
+> Most of the results were disappointing.
+有|yǒu 的|de 药|yào 第一|dìyī 次|cì 好像|hǎoxiàng 有|yǒu 点儿|diǎnr 效果|xiàoguǒ ， 再|zài 做|zuò 一|yī 次|cì ， 效果|xiàoguǒ 就|jiù 没有|méiyǒu 了|le 。
+> Some herbs seemed to have a little effect the first time, but when the experiment was repeated, the effect was gone.
+
+@p recipes-3
+青蒿|qīnghāo 也|yě 在|zài 名单|míngdān 上|shàng 。
+> Qinghao was on the list too.
+青蒿|qīnghāo 是|shì 一|yī 种|zhǒng 很|hěn 普通|pǔtōng 的|de 野草|yěcǎo ， 田边|tiánbiān 、 路旁|lùpáng 、 山坡|shānpō 上|shàng 到处|dàochù 都|dōu 有|yǒu 。 它|tā 的|de 叶子|yèzi 细细|xìxì 的|de ， 有|yǒu 一|yī 股|gǔ 特别|tèbié 的|de 味道|wèidao 。
+> Qinghao is a very common wild plant that grows everywhere, beside fields, along roads and on hillsides. Its leaves are fine and thin, and it has a distinctive smell.
+第一|dìyī 次|cì 实验|shíyàn 的|de 时候|shíhou ， 青蒿|qīnghāo 让|ràng 老鼠|lǎoshǔ 身上|shēnshang 的|de 疟原虫|nüèyuánchóng 减少|jiǎnshǎo 了|le 百分之|bǎifēnzhī 六十八|liùshíbā ， 大家|dàjiā 都|dōu 很|hěn 兴奋|xīngfèn 。
+> In the first experiment, qinghao cut the parasites in the mice by sixty-eight per cent, and everyone was excited.
+可是|kěshì 再|zài 试|shì 几|jǐ 次|cì ， 结果|jiéguǒ 却|què 只有|zhǐyǒu 百分之|bǎifēnzhī 十二|shí'èr 到|dào 百分之|bǎifēnzhī 四十|sìshí 。
+> But when they tried a few more times, the results were only twelve to forty per cent.
+效果|xiàoguǒ 时|shí 好|hǎo 时|shí 坏|huài ， 谁|shéi 也|yě 说|shuō 不|bù 清|qīng 为什么|wèishénme 。
+> The effect was sometimes good and sometimes poor, and nobody could say why.
+因而|yīn'ér ， 不少|bùshǎo 人|rén 觉得|juéde ， 青蒿|qīnghāo 大概|dàgài 也|yě 没|méi 什么|shénme 希望|xīwàng 了|le 。
+> As a result, many people felt that qinghao probably held little promise either.
+
+@p recipes-4
+那|nà 几|jǐ 年|nián ， 项目|xiàngmù 里|lǐ 的|de 很多|hěnduō 单位|dānwèi 都|dōu 在|zài 经历|jīnglì 失败|shībài 。
+> In those years, many of the institutions in the project were going through failure after failure.
+有|yǒu 的|de 人|rén 被|bèi 调|diào 走|zǒu 了|le ， 有|yǒu 的|de 人|rén 开始|kāishǐ 怀疑|huáiyí ： 几|jǐ 千|qiān 年|nián 前|qián 的|de 老|lǎo 办法|bànfǎ ， 真|zhēn 的|de 能|néng 对付|duìfu 今天|jīntiān 的|de 疟原虫|nüèyuánchóng 吗|ma ？
+> Some people were transferred elsewhere, and some began to doubt: could methods thousands of years old really deal with today's malaria parasites?
+屠呦呦|Tú_Yōuyōu 照样|zhàoyàng 每天|měitiān 早早|zǎozǎo 来到|láidào 实验室|shíyànshì ， 很|hěn 晚|wǎn 才|cái 离开|líkāi 。
+> Tu Youyou carried on as before, arriving at the lab early every day and leaving late.
+她|tā 想|xiǎng ， 青蒿|qīnghāo 的|de 效果|xiàoguǒ 时|shí 好|hǎo 时|shí 坏|huài ， 问题|wèntí 也许|yěxǔ 不|bù 在|zài 青蒿|qīnghāo 本身|běnshēn ， 而|ér 在|zài 提取|tíqǔ 的|de 方法|fāngfǎ 上|shàng 。
+> Since the effect of qinghao came and went, she thought, perhaps the problem lay not in the plant itself but in the way it was extracted.
+“ 那|nà 她|tā 怎么|zěnme 办|bàn 呢|ne ？ ” 奶奶|nǎinai 问|wèn 。
+> “So what did she do?” asked Grandma.
+“ 她|tā 回去|huíqu 读|dú 古书|gǔshū 了|le 。 ” 许晴|Xǔ_Qíng 说|shuō 。
+> “She went back to the old books,” said Xu Qing.
+
+@h2 h-classic
+一|yī 句|jù 古文|gǔwén|classical_Chinese_text
+> One Line of Classical Chinese
+
+@p classic-1
+屠呦呦|Tú_Yōuyōu 又|yòu 一|yī 次|cì 打开|dǎkāi 了|le 那些|nàxiē 古书|gǔshū 。
+> Once again Tu Youyou opened the old books.
+这|zhè 一|yī 次|cì ， 她|tā 的|de 目光|mùguāng 停|tíng 在|zài 了|le 东晋|Dōng_Jìn|Eastern_Jin_dynasty_(317–420)|N 医生|yīshēng 葛洪|Gě_Hóng|Ge_Hong,_4th-century_physician|N 写|xiě 的|de 《 肘后备急方|Zhǒuhòu_Bèijí_Fāng|Emergency_Recipes_to_Keep_at_Hand|N 》 上|shàng 。
+> This time her eyes came to rest on Emergency Recipes to Keep at Hand, written by the Eastern Jin physician Ge Hong.
+葛洪|Gě_Hóng 是|shì 一|yī 位|wèi 道士|dàoshi|Daoist_master ， 也|yě 是|shì 一|yī 位|wèi 医生|yīshēng ， 大约|dàyuē 生活|shēnghuó 于|yú 公元|gōngyuán 三|sān 、 四|sì 世纪|shìjì 。
+> Ge Hong was a Daoist and also a physician, who lived around the third and fourth centuries AD.
+“ 肘后|zhǒuhòu|“behind_the_elbow” ” 的|de 意思|yìsi 是|shì ， 书|shū 小|xiǎo 得|de 可以|kěyǐ 放|fàng 在|zài 袖子|xiùzi 里|lǐ ， 随时|suíshí 带|dài 在|zài 身边|shēnbiān ； “ 备急|bèijí|“ready_for_emergencies” ” 就是|jiùshì 为|wèi 急病|jíbìng 准备|zhǔnbèi 的|de 。
+> “Behind the elbow” means the book was small enough to slip into a sleeve and carry about at all times; “ready for emergencies” means it was meant for sudden illness.
+这|zhè 本|běn 书|shū 大约|dàyuē 写|xiě 于|yú 一千|yīqiān 六百|liùbǎi 多|duō 年|nián 前|qián ， 是|shì 写|xiě 给|gěi 老百姓|lǎobǎixìng 看|kàn 的|de 。 书|shū 里|lǐ 的|de 药|yào 大多|dàduō 简单|jiǎndān 、 便宜|piányi ， 在|zài 田边|tiánbiān 路旁|lùpáng 就|jiù 能|néng 找到|zhǎodào 。
+> The book was written about 1,600 years ago, for ordinary people. Most of the remedies in it were simple and cheap, things you could find beside a field or a road.
+在|zài 讲|jiǎng 治|zhì 疟疾|nüèjí 的|de 那|nà 一|yī 部分|bùfen 里|lǐ ， 有|yǒu 这样|zhèyàng 一|yī 句|jù 话|huà ： “ 青蒿一握|qīnghāo_yī_wò ， 以水二升渍|yǐ_shuǐ_èr_shēng_zì ， 绞取汁|jiǎo_qǔ_zhī ， 尽服之|jìn_fú_zhī 。 ”
+> In the part on treating malaria there is this line: “Take a handful of qinghao, soak it in two sheng of water, wring out the juice and drink all of it.”
+意思|yìsi 是|shì ： 拿|ná 一|yī 把|bǎ 青蒿|qīnghāo ， 用|yòng 两|liǎng 升|shēng|sheng_(old_unit_of_volume) 水|shuǐ 泡|pào 着|zhe ， 再|zài 把|bǎ 它|tā 的|de 汁|zhī|juice 挤|jǐ 出来|chūlai ， 全部|quánbù 喝|hē 下去|xiàqu 。
+> That is: take a handful of qinghao, steep it in two sheng of water, squeeze out the juice, and drink it all down.
+
+@p classic-2
+这|zhè 句|jù 话|huà ， 屠呦呦|Tú_Yōuyōu 以前|yǐqián 也|yě 读|dú 过|guo 。 可是|kěshì 这|zhè 一|yī 次|cì ， 她|tā 注意|zhùyì 到|dào 了|le 一|yī 个|gè 以前|yǐqián 没有|méiyǒu 想|xiǎng 过|guo 的|de 问题|wèntí 。
+> Tu Youyou had read this line before. But this time she noticed something she had never thought about.
+过去|guòqù 的|de 人|rén 用|yòng 中药|zhōngyào ， 一般|yībān 都|dōu 要|yào 放|fàng 在|zài 锅|guō 里|lǐ 煮|zhǔ ， 可是|kěshì 葛洪|Gě_Hóng 写|xiě 的|de 不是|bùshì “ 煮|zhǔ ” ， 而是|érshì “ 渍|zì|to_soak ” 和|hé “ 绞|jiǎo|to_wring ” —— 用|yòng 冷|lěng 水|shuǐ 泡|pào ， 再|zài 把|bǎ 汁|zhī 挤|jǐ 出来|chūlai 。
+> In the past, Chinese herbs were usually boiled in a pot. But Ge Hong did not write “boil”: he wrote “soak” and “wring” — steep the plant in cold water, then squeeze out the juice.
+从头到尾|cóngtóu_dàowěi|from_beginning_to_end|I ， 青蒿|qīnghāo 一直|yīzhí 没有|méiyǒu 被|bèi 加热|jiārè 。
+> From beginning to end, the qinghao was never heated.
+她|tā 想到|xiǎngdào ， 问题|wèntí 也许|yěxǔ 就|jiù 出|chū 在|zài 温度|wēndù 上|shàng 。
+> It occurred to her that the problem might lie in the temperature.
+他们|tāmen 以前|yǐqián 提取|tíqǔ 青蒿|qīnghāo ， 用|yòng 的|de 是|shì 水|shuǐ 煮|zhǔ ， 或者|huòzhě 用|yòng 酒精|jiǔjīng|alcohol,_ethanol|J 加热|jiārè 的|de 办法|bànfǎ 。
+> When they had extracted qinghao before, they had boiled it in water or heated it with alcohol.
+也许|yěxǔ ， 青蒿|qīnghāo 里|lǐ 真正|zhēnzhèng 有用|yǒuyòng 的|de 成分|chéngfèn 怕|pà 热|rè ， 一|yī 遇到|yùdào 高温|gāowēn 便|biàn 被|bèi 破坏|pòhuài 了|le 。
+> Perhaps the truly useful substance in qinghao could not stand heat, and was destroyed as soon as it met high temperatures.
+凭|píng 着|zhe 这|zhè 句|jù 一千|yīqiān 六百|liùbǎi 年|nián 前|qián 的|de 古文|gǔwén ， 她|tā 决定|juédìng 换|huàn 一|yī 种|zhǒng 办法|bànfǎ ： 改|gǎi 用|yòng 乙醚|yǐmí|ether|J 。
+> On the strength of this 1,600-year-old line, she decided to try a different method: to use ether instead.
+乙醚|yǐmí 的|de 沸点|fèidiǎn|boiling_point|J 只有|zhǐyǒu 三十五|sānshíwǔ 度|dù 左右|zuǒyòu ， 比|bǐ 水|shuǐ 和|hé 酒精|jiǔjīng 都|dōu 低|dī 得|de 多|duō 。
+> Ether boils at only about thirty-five degrees, much lower than water or alcohol.
+用|yòng 它|tā 在|zài 较|jiào 低|dī 的|de 温度|wēndù 下|xià 提取|tíqǔ ， 以便|yǐbiàn 让|ràng 那|nà 种|zhǒng 可能|kěnéng 怕|pà 热|rè 的|de 成分|chéngfèn 保存|bǎocún 下来|xiàlai 。
+> With it they could extract at a lower temperature, so that the substance which might be sensitive to heat would survive.
+
+@p classic-3
+听|tīng 到|dào 这里|zhèlǐ ， 奶奶|nǎinai 指|zhǐ 了|le 指|zhǐ 窗外|chuāngwài ： “ 青蒿|qīnghāo ？ 我们|wǒmen 后|hòu 山|shān 上|shàng 多|duō 的|de 是|shì 。 早|zǎo 知道|zhīdào 这样|zhèyàng ， 那|nà 年|nián 给|gěi 我|wǒ 弟弟|dìdi 挤|jǐ 一|yī 碗|wǎn 喝|hē ， 不|bù 就|jiù 好|hǎo 了|le ？ ”
+> At this, Grandma pointed out of the window. “Qinghao? There's plenty of it on the hill behind us. If only we'd known, that year we could have squeezed a bowl of it for my brother, couldn't we?”
+“ 可|kě 不能|bùnéng 这么|zhème 想|xiǎng 。 ” 许晴|Xǔ_Qíng 连忙|liánmáng 说|shuō ， “ 古书|gǔshū 只是|zhǐshì 给|gěi 了|le 她|tā 一|yī 个|gè 线索|xiànsuǒ 。 真正|zhēnzhèng 的|de 药|yào ， 是|shì 后来|hòulái 一|yī 步|bù 一|yī 步|bù 做|zuò 出来|chūlai 的|de ， 要|yào 经过|jīngguò 很多|hěnduō 实验|shíyàn 和|hé 检查|jiǎnchá 。 ”
+> “You mustn't think like that,” Xu Qing said quickly. “The old book only gave her a clue. The real medicine was made later, step by step, and it had to go through a great many experiments and tests.”
+“ 自己|zìjǐ 找|zhǎo 点儿|diǎnr 草|cǎo 来|lái 喝|hē ， 不|bù 但|dàn 治|zhì 不|bù 好|hǎo 病|bìng ， 还|hái 可能|kěnéng 让|ràng 病|bìng 变|biàn 得|de 更|gèng 重|zhòng 。 生|shēng 了|le 病|bìng ， 还是|háishi 得|děi 去|qù 看|kàn 医生|yīshēng 。 ”
+> “Picking some plants and drinking them yourself won't cure anything, and it might make the illness worse. If you're ill, you still have to see a doctor.”
+奶奶|nǎinai 笑|xiào 了|le ： “ 好|hǎo ， 好|hǎo ， 你|nǐ 是|shì 学|xué 药|yào 的|de ， 听|tīng 你|nǐ 的|de 。 ”
+> Grandma laughed. “All right, all right. You're the one studying pharmacy. I'll listen to you.”
+
+@h2 h-191
+第|dì 一百九十一|yībǎijiǔshíyī 号|hào
+> Number 191
+
+@p 191-1
+换|huàn 了|le 办法|bànfǎ 以后|yǐhòu ， 成功|chénggōng 并|bìng 没有|méiyǒu 马上|mǎshàng 到来|dàolái 。
+> Changing the method did not bring success right away.
+样品|yàngpǐn|sample 一|yī 个|gè 一|yī 个|gè 地|de 做|zuò ， 一|yī 个|gè 一|yī 个|gè 地|de 写|xiě 上|shàng 号码|hàomǎ ， 又|yòu 一|yī 个|gè 一|yī 个|gè 地|de 失败|shībài 。
+> The samples were made one by one, numbered one by one, and failed one by one.
+实验室|shíyànshì 的|de 条件|tiáojiàn 很|hěn 差|chà ， 没有|méiyǒu 专门|zhuānmén 的|de 设备|shèbèi 。 据说|jùshuō ， 他们|tāmen 就|jiù 买|mǎi 来|lái 了|le 几|jǐ 口|kǒu 普通|pǔtōng 的|de 大|dà 水缸|shuǐgāng|water_vat ， 用|yòng 来|lái 泡|pào 青蒿|qīnghāo 。
+> Conditions in the lab were poor, and there was no proper equipment. It is said that they simply bought a few ordinary big water vats and used them to soak the qinghao.
+乙醚|yǐmí 有|yǒu 毒|dú ， 味道|wèidao 很|hěn 大|dà ， 还|hái 很|hěn 容易|róngyì 着火|zháohuǒ ， 因而|yīn'ér 每|měi 一|yī 步|bù 都|dōu 得|děi 特别|tèbié 小心|xiǎoxīn 。
+> Ether is poisonous, has a strong smell and catches fire very easily, so every step had to be taken with special care.
+屋子|wūzi 里|lǐ 的|de 空气|kōngqì 又|yòu 很|hěn 不|bù 好|hǎo ， 时间|shíjiān 一|yī 长|cháng ， 很多|hěnduō 人|rén 都|dōu 头疼|tóuténg 、 流|liú 鼻血|bíxiě 。 屠呦呦|Tú_Yōuyōu 后来|hòulái 还|hái 得|dé 了|le 肝|gān 病|bìng 。
+> The air in the rooms was bad too, and after a while many of them suffered headaches and nosebleeds. Tu Youyou later developed liver trouble as well.
+
+@p 191-2
+1971 年|nián 10 月|yuè ， 第|dì 一百九十一|yībǎijiǔshíyī 号|hào 样品|yàngpǐn 送|sòng 到|dào 了|le 实验台|shíyàntái|lab_bench 上|shàng 。
+> In October 1971, sample number 191 arrived on the lab bench.
+这|zhè 是|shì 一|yī 份|fèn 用|yòng 乙醚|yǐmí 从|cóng 青蒿|qīnghāo 里|lǐ 提取|tíqǔ 出来|chūlai 的|de 样品|yàngpǐn 。
+> It was an extract made from qinghao with ether.
+结果|jiéguǒ 出来|chūlai 的|de 时候|shíhou ， 大家|dàjiā 都|dōu 不|bù 敢|gǎn 相信|xiāngxìn 自己|zìjǐ 的|de 眼睛|yǎnjing ： 吃|chī 了|le 这|zhè 种|zhǒng 提取物|tíqǔwù 的|de 老鼠|lǎoshǔ ， 血液|xuèyè 里|lǐ 的|de 疟原虫|nüèyuánchóng 几乎|jīhū 全部|quánbù 不见|bùjiàn 了|le 。
+> When the result came out, nobody could believe their eyes: in the mice that had taken the extract, the parasites in the blood had almost completely disappeared.
+效果|xiàoguǒ 达到|dádào 了|le 百分之百|bǎifēnzhībǎi 。
+> The effect was one hundred per cent.
+后来|hòulái 在|zài 猴子|hóuzi 身上|shēnshang 做|zuò 实验|shíyàn ， 结果|jiéguǒ 照样|zhàoyàng 是|shì 百分之百|bǎifēnzhībǎi 。
+> Later, when they ran the experiment on monkeys, the result was again one hundred per cent.
+
+@p 191-3
+“ 第|dì 一百九十一|yībǎijiǔshíyī 号|hào ” —— 这|zhè 个|gè 数字|shùzì 后来|hòulái 常常|chángcháng 被|bèi 人|rén 提起|tíqǐ 。
+> “Number 191” — the figure was often mentioned afterwards.
+它|tā 告诉|gàosu 人们|rénmen 的|de 事|shì 很|hěn 简单|jiǎndān ： 在|zài 它|tā 前面|qiánmiàn ， 还有|háiyǒu 很多|hěnduō 没有|méiyǒu 成功|chénggōng 的|de 样品|yàngpǐn 。
+> What it tells us is simple: before it there were a great many samples that did not succeed.
+许晴|Xǔ_Qíng 讲|jiǎng 到|dào 这里|zhèlǐ ， 忽然|hūrán 想|xiǎng 起|qǐ 了|le 室友|shìyǒu 的|de 话|huà ： 做|zuò 一百|yībǎi 次|cì 实验|shíyàn ， 九十九|jiǔshíjiǔ 次|cì 都|dōu 失败|shībài 。
+> When she reached this point, Xu Qing suddenly remembered her roommate's words: ninety-nine experiments out of a hundred fail.
+如果|rúguǒ 在|zài 第|dì 一百九十|yībǎijiǔshí 号|hào 的|de 时候|shíhou ， 大家|dàjiā 都|dōu 放弃|fàngqì 了|le 呢|ne ？
+> What if everyone had given up at number 190?
+1972 年|nián 3 月|yuè ， 屠呦呦|Tú_Yōuyōu 在|zài 南京|Nánjīng|Nanjing|N 召开|zhàokāi 的|de 五二三|Wǔ'èrsān 项目|xiàngmù 会议|huìyì 上|shàng 报告|bàogào 了|le 这个|zhège 结果|jiéguǒ ， 引起|yǐnqǐ 了|le 很|hěn 大|dà 的|de 注意|zhùyì 。
+> In March 1972, Tu Youyou reported the result at a Project 523 meeting held in Nanjing, and it drew a great deal of attention.
+
+@h2 h-self
+自己|zìjǐ 先|xiān 试|shì
+> Testing It on Themselves
+
+@p self-1
+可是|kěshì ， 新|xīn 的|de 问题|wèntí 马上|mǎshàng 来|lái 了|le ： 这|zhè 种|zhǒng 提取物|tíqǔwù 用|yòng 在|zài 人|rén 身上|shēnshang ， 安全|ānquán 吗|ma ？
+> But a new problem came up at once: was the extract safe to use on people?
+在|zài 一些|yīxiē 动物|dòngwù 实验|shíyàn 里|lǐ ， 出现|chūxiàn 了|le 让|ràng 人|rén 担心|dānxīn 的|de 情况|qíngkuàng ， 有|yǒu 人|rén 怀疑|huáiyí 它|tā 可能|kěnéng 有|yǒu 毒|dú 。
+> Some of the animal experiments had shown worrying signs, and some people suspected it might be toxic.
+要|yào 弄|nòng 清楚|qīngchu ， 还|hái 需要|xūyào 做|zuò 很多|hěnduō 检查|jiǎnchá ， 这|zhè 要|yào 花|huā 很|hěn 长|cháng 的|de 时间|shíjiān 。
+> Finding out would take many more tests, and that would take a long time.
+可是|kěshì 疟疾|nüèjí 有|yǒu 自己|zìjǐ 的|de 季节|jìjié 。 一旦|yīdàn 错过|cuòguò 了|le 这|zhè 一|yī 年|nián 的|de 夏天|xiàtiān 和|hé 秋天|qiūtiān ， 在|zài 病人|bìngrén 身上|shēnshang 的|de 试验|shìyàn 便|biàn 要|yào 再|zài 等|děng 一|yī 年|nián 。
+> But malaria has its own season. If they missed that year's summer and autumn, trials on patients would have to wait another year.
+
+@p self-2
+于是|yúshì ， 屠呦呦|Tú_Yōuyōu 向|xiàng 领导|lǐngdǎo 提出|tíchū ： 她|tā 愿意|yuànyì 自己|zìjǐ 先|xiān 试|shì 。
+> So Tu Youyou told her superiors that she was willing to try it on herself first.
+据|jù 报道|bàodào ， 她|tā 的|de 理由|lǐyóu 很|hěn 简单|jiǎndān ： 她|tā 是|shì 组长|zǔzhǎng ， 应该|yīnggāi 第一|dìyī 个|gè 试|shì 。
+> According to reports, her reason was simple: she was the group leader, so she should be the first to try it.
+1972 年|nián 7 月|yuè ， 她|tā 和|hé 两|liǎng 位|wèi 同事|tóngshì 住|zhù 进|jìn 了|le 北京|Běijīng 的|de 一|yī 家|jiā 医院|yīyuàn ， 每天|měitiān 按时|ànshí 吃|chī 青蒿|qīnghāo 提取物|tíqǔwù ， 由|yóu 医生|yīshēng 给|gěi 他们|tāmen 做|zuò 检查|jiǎnchá 。
+> In July 1972, she and two colleagues checked into a hospital in Beijing. They took the qinghao extract at set times every day, and doctors examined them.
+一|yī 个|gè 星期|xīngqī 过去|guòqu 了|le ， 他们|tāmen 的|de 身体|shēntǐ 没有|méiyǒu 出现|chūxiàn 明显|míngxiǎn 的|de 问题|wèntí 。
+> A week passed, and none of them showed any obvious problems.
+后来|hòulái ， 又|yòu 有|yǒu 几|jǐ 位|wèi 同事|tóngshì 试|shì 了|le ， 吃|chī 的|de 量|liàng 更|gèng 大|dà ， 结果|jiéguǒ 照样|zhàoyàng 安全|ānquán 。
+> Later several more colleagues tried it, taking larger amounts, and it again proved safe.
+
+@p self-3
+奶奶|nǎinai 吃惊|chījīng 地|de 问|wèn ： “ 拿|ná 自己|zìjǐ 试|shì 药|yào ？ 她|tā 就|jiù 不|bù 怕|pà 吗|ma ？ ”
+> Grandma was astonished. “Trying the medicine on herself? Wasn't she afraid?”
+许晴|Xǔ_Qíng 想|xiǎng 了|le 想|xiǎng ， 说|shuō ： “ 书|shū 上|shàng 没|méi 写|xiě 她|tā 怕|pà 不|bù 怕|pà 。 我|wǒ 只|zhǐ 知道|zhīdào ， 那|nà 年|nián 秋天|qiūtiān ， 她|tā 带|dài 着|zhe 药|yào 去|qù 了|le 海南|Hǎinán|Hainan_Island|N 。 ”
+> Xu Qing thought about it. “The books don't say whether she was afraid. All I know is that in the autumn of that year she took the medicine to Hainan.”
+海南|Hǎinán 是|shì 当时|dāngshí 疟疾|nüèjí 很|hěn 严重|yánzhòng 的|de 地方|dìfang 。
+> Hainan was a place where malaria was very serious at the time.
+在|zài 那里|nàlǐ ， 他们|tāmen 用|yòng 这|zhè 种|zhǒng 提取物|tíqǔwù 治疗|zhìliáo 了|le 二十|èrshí 多|duō 名|míng 病人|bìngrén 。 病人|bìngrén 的|de 烧|shāo 很|hěn 快|kuài 就|jiù 退|tuì 了|le ， 血|xuè 里|lǐ 的|de 疟原虫|nüèyuánchóng 也|yě 不见|bùjiàn 了|le 。
+> There they treated more than twenty patients with the extract. The patients' fevers came down quickly, and the parasites vanished from their blood.
+
+@p self-4
+1972 年|nián 11 月|yuè ， 屠呦呦|Tú_Yōuyōu 的|de 小组|xiǎozǔ 从|cóng 青蒿|qīnghāo 里|lǐ 得到|dédào 了|le 一|yī 种|zhǒng 无色|wúsè|colourless 的|de 结晶|jiéjīng|crystal|J —— 这|zhè 才|cái 是|shì 真正|zhēnzhèng 起|qǐ 作用|zuòyòng 的|de 东西|dōngxi 。 后来|hòulái ， 人们|rénmen 叫|jiào 它|tā “ 青蒿素|qīnghāosù ” 。
+> In November 1972, Tu Youyou's group obtained a colourless crystal from qinghao — the substance that really did the work. It was later named “artemisinin”.
+再|zài 后来|hòulái ， 北京|Běijīng 和|hé 上海|Shànghǎi 的|de 科学家|kēxuéjiā 一起|yīqǐ 弄|nòng 清|qīng 了|le 它|tā 的|de 化学|huàxué 结构|jiégòu ， 成果|chéngguǒ 发表|fābiǎo 于|yú 1977 年|nián 。
+> Later still, scientists in Beijing and Shanghai worked out its chemical structure together, and the results were published in 1977.
+同|tóng 一|yī 时期|shíqī ， 云南|Yúnnán|Yunnan_province|N 、 山东|Shāndōng|Shandong_province|N 等|děng 地|dì 的|de 研究|yánjiū 人员|rényuán 也|yě 做|zuò 了|le 很多|hěnduō 重要|zhòngyào 的|de 工作|gōngzuò 。
+> In the same period, researchers in Yunnan, Shandong and elsewhere also did a great deal of important work.
+研究|yánjiū 青蒿素|qīnghāosù 的|de ， 不是|bùshì 一|yī 个|gè 人|rén ， 而是|érshì 许多|xǔduō 单位|dānwèi 的|de 许多|xǔduō 人|rén 。
+> Artemisinin was studied not by one person but by many people from many institutions.
+屠呦呦|Tú_Yōuyōu 获奖|huòjiǎng 以后|yǐhòu 也|yě 多次|duōcì 说|shuō 过|guo ， 这个|zhège 奖|jiǎng 不|bù 只|zhǐ 属于|shǔyú 她|tā 一|yī 个|gè 人|rén ， 也|yě 属于|shǔyú 整个|zhěnggè 团队|tuánduì 。
+> After winning the prize, Tu Youyou said many times that it belonged not just to her but to the whole team.
+
+@h2 h-lamp
+屋子|wūzi 里|lǐ 的|de 灯|dēng
+> The Light in the Room
+
+@p lamp-1
+奶奶|nǎinai 听|tīng 完|wán ， 半天|bàntiān 没|méi 说话|shuōhuà 。 过|guò 了|le 一会儿|yīhuìr ， 她|tā 问|wèn ： “ 那|nà 她|tā 得|dé 这个|zhège 奖|jiǎng ， 等|děng 了|le 多少|duōshao 年|nián ？ ”
+> When Xu Qing had finished, Grandma said nothing for a long while. After a time she asked, “So how many years did she wait for this prize?”
+“ 从|cóng 发现|fāxiàn 青蒿素|qīnghāosù 到|dào 今天|jīntiān ， 四十|sìshí 多|duō 年|nián 了|le 。 ” 许晴|Xǔ_Qíng 说|shuō 。
+> “It's been more than forty years since artemisinin was discovered,” said Xu Qing.
+她|tā 又|yòu 告诉|gàosu 奶奶|nǎinai ， 屠呦呦|Tú_Yōuyōu 没有|méiyǒu 博士|bóshì 学位|xuéwèi ， 没有|méiyǒu 出国|chūguó 留|liú 过|guo 学|xué ， 也|yě 不|bù 是|shì 院士|yuànshì|academician ， 所以|suǒyǐ 有|yǒu 人|rén 叫|jiào 她|tā “ 三无|sānwú|“three-without” 科学家|kēxuéjiā ” 。
+> She also told Grandma that Tu Youyou had no doctorate, had never studied abroad and was not an academician, so some people called her the “scientist with three withouts”.
+奶奶|nǎinai 笑|xiào 了|le ： “ 没有|méiyǒu 那些|nàxiē ， 人家|rénjia 照样|zhàoyàng 救|jiù 了|le 那么|nàme 多|duō 人|rén 。 ”
+> Grandma smiled. “Without any of that, she saved all those people just the same.”
+
+@p lamp-2
+那|nà 年|nián 12 月|yuè ， 屠呦呦|Tú_Yōuyōu 在|zài 斯德哥尔摩|Sīdégē'ěrmó|Stockholm|N 用|yòng 中文|Zhōngwén 做|zuò 了|le 一|yī 次|cì 演讲|yǎnjiǎng ， 题目|tímù 是|shì 《 青蒿素|qīnghāosù —— 中医药|zhōngyīyào 给|gěi 世界|shìjiè 的|de 一|yī 份|fèn 礼物|lǐwù 》 。
+> That December, Tu Youyou gave a lecture in Chinese in Stockholm, entitled “Artemisinin: A Gift from Traditional Chinese Medicine to the World”.
+那时|nàshí ， 以|yǐ|taking_(X_as_Y) 青蒿素|qīnghāosù 为|wéi 基础|jīchǔ 的|de 联合|liánhé 治疗|zhìliáo ， 已经|yǐjīng 是|shì 世界卫生组织|Shìjiè_Wèishēng_Zǔzhī|World_Health_Organization|N 建议|jiànyì 的|de 主要|zhǔyào 治疗|zhìliáo 方法|fāngfǎ 。
+> By then, combination treatments based on artemisinin were the main treatment recommended by the World Health Organization.
+可是|kěshì ， 疟疾|nüèjí 并|bìng 没有|méiyǒu 消失|xiāoshī 。
+> But malaria has not disappeared.
+直到|zhídào 今天|jīntiān ， 全|quán 世界|shìjiè 每|měi 年|nián 仍然|réngrán 有|yǒu 两|liǎng 亿|yì 多|duō 人|rén 得|dé 疟疾|nüèjí ， 几十万|jǐshíwàn 人|rén 死|sǐ 于|yú 这|zhè 种|zhǒng 病|bìng ， 其中|qízhōng 大部分|dàbùfen 是|shì 非洲|Fēizhōu|Africa|N 五|wǔ 岁|suì 以下|yǐxià 的|de 孩子|háizi 。
+> Even today, more than two hundred million people around the world catch malaria every year, and several hundred thousand die of it, most of them African children under five.
+在|zài 东南亚|Dōngnányà|Southeast_Asia|N 等|děng 地|dì ， 一些|yīxiē 疟原虫|nüèyuánchóng 已经|yǐjīng 开始|kāishǐ 对|duì 青蒿素|qīnghāosù 产生|chǎnshēng 抗药性|kàngyàoxìng 。
+> In Southeast Asia and elsewhere, some parasites have already begun to resist artemisinin.
+一千|yīqiān 六百|liùbǎi 年|nián 前|qián 的|de 那|nà 句|jù 话|huà ， 为|wèi 人们|rénmen 打开|dǎkāi 了|le 一|yī 扇|shàn 门|mén ； 可是|kěshì 门|mén 后面|hòumiàn ， 还有|háiyǒu 更|gèng 多|duō 的|de 门|mén 。
+> That line from 1,600 years ago opened a door; but behind the door there are more doors still.
+
+@p lamp-3
+那|nà 天|tiān 夜里|yèlǐ ， 奶奶|nǎinai 早早|zǎozǎo 睡|shuì 了|le 。
+> That night Grandma went to bed early.
+许晴|Xǔ_Qíng 一个人|yīgèrén 坐|zuò 在|zài 小|xiǎo 屋|wū 里|lǐ ， 拿|ná 出|chū 了|le 那|nà 本|běn 很|hěn 久|jiǔ 没|méi 翻|fān 的|de 药理学|yàolǐxué|pharmacology 课本|kèběn 。
+> Xu Qing sat alone in her little room and took out the pharmacology textbook she hadn't opened in a long time.
+她|tā 在|zài 第一|dìyī 页|yè 上|shàng 慢慢|mànmàn 地|de 写|xiě 下|xià 了|le 那|nà 十五|shíwǔ 个|gè 字|zì ： 青蒿一握|qīnghāo_yī_wò ， 以水二升渍|yǐ_shuǐ_èr_shēng_zì ， 绞取汁|jiǎo_qǔ_zhī ， 尽服之|jìn_fú_zhī 。
+> On the first page she slowly wrote out those fifteen characters: take a handful of qinghao, soak it in two sheng of water, wring out the juice and drink all of it.
+然后|ránhòu ， 她|tā 给|gěi 室友|shìyǒu 发|fā 了|le 一|yī 条|tiáo 短信|duǎnxìn ： “ 我|wǒ 不|bù 转|zhuǎn 了|le 。 ”
+> Then she sent her roommate a text: “I'm not switching.”
+屋子|wūzi 里|lǐ 很|hěn 静|jìng ， 只有|zhǐyǒu 桌|zhuō 上|shàng 的|de 台灯|táidēng 亮|liàng 着|zhe 。
+> The room was very quiet; only the desk lamp was on.
+她|tā 忽然|hūrán 想|xiǎng ， 四十|sìshí 多|duō 年|nián 前|qián ， 在|zài 北京|Běijīng 那|nà 间|jiān 满|mǎn 是|shì 乙醚|yǐmí 味道|wèidao 的|de 屋子|wūzi 里|lǐ ， 大概|dàgài 也|yě 常常|chángcháng 有|yǒu 一|yī 个|gè 窗口|chuāngkǒu 亮|liàng 着|zhe 灯|dēng ， 一直|yīzhí 亮|liàng 到|dào 很|hěn 晚|wǎn 很|hěn 晚|wǎn 。
+> It suddenly struck her that more than forty years ago, in that room in Beijing full of the smell of ether, there had probably often been a window lit up like this, until very late at night.
+
+@p lamp-4
+六|liù 年|nián 以后|yǐhòu ， 2021 年|nián 6 月|yuè ， 世界卫生组织|Shìjiè_Wèishēng_Zǔzhī 宣布|xuānbù ： 中国|Zhōngguó 已经|yǐjīng 消除|xiāochú 了|le 疟疾|nüèjí 。
+> Six years later, in June 2021, the World Health Organization announced that China had eliminated malaria.
+那|nà 天|tiān ， 许晴|Xǔ_Qíng 正|zhèng 在|zài 一|yī 家|jiā 药物|yàowù 研究所|yánjiūsuǒ 的|de 实验室|shíyànshì 里|lǐ 做|zuò 实验|shíyàn 。
+> That day Xu Qing was in the laboratory of a drug research institute, running experiments.
+她|tā 放下|fàngxià 手|shǒu 里|lǐ 的|de 东西|dōngxi ， 给|gěi 奶奶|nǎinai 打|dǎ 了|le 个|gè 电话|diànhuà 。
+> She put down what she was holding and phoned her grandmother.
+奶奶|nǎinai 在|zài 电话|diànhuà 那|nà 头|tóu 听|tīng 了|le 很|hěn 久|jiǔ ， 最后|zuìhòu 只|zhǐ 说|shuō 了|le 一|yī 句|jù ： “ 好|hǎo 啊|a 。 以后|yǐhòu 的|de 孩子|háizi ， 都|dōu 不|bù 知道|zhīdào 什么|shénme 叫|jiào 打摆子|dǎbǎizi 了|le 。 ”
+> Grandma listened for a long time at the other end of the line, and in the end said only one thing: “Good. Children from now on won't even know what the shaking sickness is.”

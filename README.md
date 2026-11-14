@@ -9,6 +9,60 @@ Each PDF has Chinese on the left page and English on the right. Word boundaries 
 names, terms and words above the target level are footnoted with pinyin and meaning. Click a PDF to
 read it in the browser, or download a whole level as one zip from the **Releases** page.
 
+### HSK 3.0 level 1
+
+Ten very short texts about everyday life. Every word is at HSK 1, so only names are footnoted
+(see [stories/hsk1](stories/hsk1/)).
+
+| # | 中文 | English | theme | PDF |
+|---|---|---|---|---|
+| 22 | 我的家 | My Family | culture & daily life | [PDF](stories/hsk1/22-my-family/22-my-family.pdf) |
+| 23 | 我的中国朋友 | My Chinese Friend | language, culture & daily life | [PDF](stories/hsk1/23-chinese-friend/23-chinese-friend.pdf) |
+| 24 | 今天早上吃什么？ | What's for Breakfast? | culture & daily life | [PDF](stories/hsk1/24-breakfast/24-breakfast.pdf) |
+| 25 | 一二三 | One, Two, Three | language, tradition & ideas | [PDF](stories/hsk1/25-counting/25-counting.pdf) |
+| 26 | 下雨了 | It's Raining | nature & environment, culture & daily life | [PDF](stories/hsk1/26-rain/26-rain.pdf) |
+| 27 | 我生病了 | I'm Sick | culture & daily life | [PDF](stories/hsk1/27-sick/27-sick.pdf) |
+| 28 | 今天是我的生日 | It's My Birthday | tradition & ideas, culture & daily life | [PDF](stories/hsk1/28-birthday/28-birthday.pdf) |
+| 29 | 在学校 | At School | society | [PDF](stories/hsk1/29-school/29-school.pdf) |
+| 30 | 坐火车去北京 | By Train to Beijing | culture & daily life | [PDF](stories/hsk1/30-train-to-beijing/30-train-to-beijing.pdf) |
+| 31 | 新年好 | Happy New Year | tradition & ideas | [PDF](stories/hsk1/31-new-year/31-new-year.pdf) |
+
+### HSK 3.0 level 2
+
+Ten short stories with a small problem and a little cultural content. Every word is at HSK 1–2, so
+only names are footnoted (see [stories/hsk2](stories/hsk2/)).
+
+| # | 中文 | English | theme | PDF |
+|---|---|---|---|---|
+| 32 | 奶奶的手机 | Grandma's Phone | science & technology, society | [PDF](stories/hsk2/32-grandmas-phone/32-grandmas-phone.pdf) |
+| 33 | 坐火车去西安 | The Fast Train to Xi'an | science & technology, history | [PDF](stories/hsk2/33-train-to-xian/33-train-to-xian.pdf) |
+| 34 | 包饺子 | Making Dumplings | culture & daily life, tradition & ideas | [PDF](stories/hsk2/34-dumplings/34-dumplings.pdf) |
+| 35 | 我的中文名字 | My Chinese Name | language, tradition & ideas | [PDF](stories/hsk2/35-chinese-name/35-chinese-name.pdf) |
+| 36 | 公园里的早上 | Morning in the Park | society, culture & daily life | [PDF](stories/hsk2/36-morning-park/36-morning-park.pdf) |
+| 37 | 长江和黄河 | Two Rivers | nature & environment | [PDF](stories/hsk2/37-two-rivers/37-two-rivers.pdf) |
+| 38 | 楼上的音乐 | Music from Upstairs | society | [PDF](stories/hsk2/38-music-upstairs/38-music-upstairs.pdf) |
+| 39 | 我家的猫 | Our Cat | nature & environment, culture & daily life | [PDF](stories/hsk2/39-our-cat/39-our-cat.pdf) |
+| 40 | 颜色的意思 | What Colours Mean | tradition & ideas | [PDF](stories/hsk2/40-colours/40-colours.pdf) |
+| 41 | 我为什么学中文 | Why I Learn Chinese | language | [PDF](stories/hsk2/41-learning-chinese/41-learning-chinese.pdf) |
+
+### HSK 3.0 level 3
+
+Ten short stories with a plot turn: retold fables and legends, and modern stories
+(see [stories/hsk3](stories/hsk3/) for the grammar of each story).
+
+| # | 中文 | English | theme | PDF |
+|---|---|---|---|---|
+| 42 | 守株待兔和别的故事 | Waiting by the Tree, and Other Fables | tradition & ideas, language | [PDF](stories/hsk3/42-fables/42-fables.pdf) |
+| 43 | 司马光砸缸 | Sima Guang Breaks the Jar | history, tradition & ideas | [PDF](stories/hsk3/43-sima-guang/43-sima-guang.pdf) |
+| 44 | 白蛇传 | The Legend of the White Snake | tradition & ideas | [PDF](stories/hsk3/44-white-snake/44-white-snake.pdf) |
+| 45 | 送错的快递 | The Wrong Parcel | society | [PDF](stories/hsk3/45-wrong-parcel/45-wrong-parcel.pdf) |
+| 46 | 共享单车 | Shared Bikes | science & technology, society | [PDF](stories/hsk3/46-shared-bikes/46-shared-bikes.pdf) |
+| 47 | 长江里的微笑 | The Smile in the Yangtze | nature & environment | [PDF](stories/hsk3/47-finless-porpoise/47-finless-porpoise.pdf) |
+| 48 | 风筝 | The Kite Maker of Weifang | tradition & ideas | [PDF](stories/hsk3/48-kites/48-kites.pdf) |
+| 49 | 去朋友家做客 | Dinner at a Friend's Home | culture & daily life | [PDF](stories/hsk3/49-dinner-guest/49-dinner-guest.pdf) |
+| 50 | 十二生肖 | The Twelve Animals | tradition & ideas | [PDF](stories/hsk3/50-zodiac/50-zodiac.pdf) |
+| 51 | 机器人服务员 | The Robot Waiter | science & technology, society | [PDF](stories/hsk3/51-robot-waiter/51-robot-waiter.pdf) |
+
 ### HSK 3.0 level 4
 
 | # | 中文 | English | theme | PDF |
@@ -42,6 +96,24 @@ Ten narrative short stories with dialogue, each practising four focus grammar po
 | 19 | 沙漠里的驼铃 | Camel Bells in the Desert | history | [PDF](stories/hsk5/19-silk-road/19-silk-road.pdf) |
 | 20 | 外婆的药箱 | Grandma's Medicine Chest | culture & daily life, science & technology | [PDF](stories/hsk5/20-medicine-chest/20-medicine-chest.pdf) |
 | 21 | 月亮上的脚印 | Footprints on the Moon | science & technology, tradition & ideas | [PDF](stories/hsk5/21-moon/21-moon.pdf) |
+
+### HSK 3.0 level 6
+
+Ten longer literary stories and narrative biographies, with some classical lines
+(see [stories/hsk6](stories/hsk6/) for the grammar of each story).
+
+| # | 中文 | English | theme | PDF |
+|---|---|---|---|---|
+| 52 | 苏东坡在黄州 | Su Dongpo in Exile | history, tradition & ideas | [PDF](stories/hsk6/52-su-dongpo/52-su-dongpo.pdf) |
+| 53 | 敦煌的修画人 | The Mural Restorers of Dunhuang | history, science & technology | [PDF](stories/hsk6/53-dunhuang/53-dunhuang.pdf) |
+| 54 | 塞罕坝 | Saihanba | nature & environment, history | [PDF](stories/hsk6/54-saihanba/54-saihanba.pdf) |
+| 55 | 棋馆的最后一局 | The Last Game at the Go Club | science & technology, tradition & ideas | [PDF](stories/hsk6/55-go-club/55-go-club.pdf) |
+| 56 | 三十分钟 | Thirty Minutes | society | [PDF](stories/hsk6/56-delivery-rider/56-delivery-rider.pdf) |
+| 57 | 爷爷的方言 | Grandpa's Dialect | language, society | [PDF](stories/hsk6/57-dialect/57-dialect.pdf) |
+| 58 | 一千六百年前的药方 | A 1,600-Year-Old Recipe | science & technology, history | [PDF](stories/hsk6/58-artemisinin/58-artemisinin.pdf) |
+| 59 | 庄子的梦 | Zhuangzi's Dreams | tradition & ideas | [PDF](stories/hsk6/59-zhuangzi/59-zhuangzi.pdf) |
+| 60 | 运河人家 | The Canal Family | history | [PDF](stories/hsk6/60-grand-canal/60-grand-canal.pdf) |
+| 61 | 陪伴 | Company | society, science & technology | [PDF](stories/hsk6/61-companion/61-companion.pdf) |
 
 The full catalogue of all levels is in [stories/README.md](stories/README.md).
 

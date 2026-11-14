@@ -536,7 +536,13 @@ class BookBuilder:
         if m.get("note"):
             credits.append(tex_text(m["note"]))
         if self.c.annotate_above is not None:
-            credits.append(rf"Footnotes mark names, festival terms and words above HSK~{self.c.annotate_above} "
+            kinds = self.c.annotate_kinds
+            if "N" in kinds and "J" in kinds:
+                marked = "names, festival terms and "
+            else:
+                marked = "".join(f"{w} and " for k, w in (("N", "names"), ("J", "special terms"),
+                                                           ("I", "idioms")) if k in kinds)
+            credits.append(rf"Footnotes mark {marked}words above HSK~{self.c.annotate_above} "
                            r"(HSK 3.0 lists: github.com/ivankra/hsk30, MIT).")
         if self.used_cedict:
             credits.append(r"Some glosses from CC-CEDICT (MDBG), licensed CC BY-SA 4.0.")
